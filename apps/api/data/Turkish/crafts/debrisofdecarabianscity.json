@@ -1,0 +1,16 @@
+{
+	"id": 12001,
+	"name": "Decarabian'ın Yıkık Duvarı",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130000,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114001,
+			"name": "Decarabian'ın Kırık Çinisi",
+			"count": 3
+		}
+	]
+}

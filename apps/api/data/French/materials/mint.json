@@ -1,0 +1,11 @@
+{
+	"id": 100016,
+	"name": "Menthe",
+	"sortRank": 321,
+	"description": "Une plante dont les feuilles rafraîchissent le palais, même lors des étés les plus chauds.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Dans la nature"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81300
+	],
+	"name": "Origine de la divergence",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1287,
+	"stages": 1,
+	"stage1": {
+		"title": "Origine de la divergence",
+		"description": "Découvrez la vérité derrière l'annihilation de l'équipe de recherche érémite à Gurabad.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

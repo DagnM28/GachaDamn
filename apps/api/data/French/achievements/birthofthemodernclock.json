@@ -1,0 +1,21 @@
+{
+	"id": [
+		81350
+	],
+	"name": "La naissance de l'horlogerie moderne",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1336,
+	"stages": 1,
+	"stage1": {
+		"title": "La naissance de l'horlogerie moderne",
+		"description": "Aidez Puca à trouver une « utilité » au minerai.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

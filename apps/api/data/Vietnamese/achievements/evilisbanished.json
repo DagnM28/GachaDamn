@@ -1,0 +1,20 @@
+{
+	"id": [
+		84104
+	],
+	"name": "Tà Ác Rút Lui",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ký Ức Về Trái Tim",
+	"sortOrder": 6100,
+	"stages": 1,
+	"stage1": {
+		"title": "Tà Ác Rút Lui",
+		"description": "Hoàn thành \"Nhật Ký Tìm Kiếm Yêu Tà\", mở khóa toàn bộ kết cục.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

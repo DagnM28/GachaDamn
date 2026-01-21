@@ -1,0 +1,16 @@
+{
+	"id": 12043,
+	"name": "Ly Rượu Của Biển Nguyên Sơ",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130140,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114057,
+			"name": "Ly Vỡ Của Biển Nguyên Sơ",
+			"count": 3
+		}
+	]
+}

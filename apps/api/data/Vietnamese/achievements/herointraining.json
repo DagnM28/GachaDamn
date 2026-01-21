@@ -1,0 +1,42 @@
+{
+	"id": [
+		81029,
+		81030,
+		81031
+	],
+	"name": "Dũng Giả Tập Sự",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"sortOrder": 1030,
+	"stages": 3,
+	"stage1": {
+		"title": "Dũng Giả Tập Sự",
+		"description": "Hoàn thành 3 lần \"Khẩn cầu của cư dân\".",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Dũng Giả Tập Sự",
+		"description": "Hoàn thành 6 lần \"Khẩn cầu của cư dân\".",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Dũng Giả Tập Sự",
+		"description": "Hoàn thành 9 lần \"Khẩn cầu của cư dân\".",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

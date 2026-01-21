@@ -1,0 +1,21 @@
+{
+	"id": [
+		80175
+	],
+	"name": "A Essência da Flora",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Andarilho do Mundo Mortal - Série III",
+	"sortOrder": 175,
+	"stages": 1,
+	"stage1": {
+		"title": "A Essência da Flora",
+		"ps5title": "Dendro: A Essência da Flora",
+		"description": "Obtenha a Energia Elemental Dendro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

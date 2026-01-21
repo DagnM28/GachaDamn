@@ -1,0 +1,21 @@
+{
+	"id": [
+		81332
+	],
+	"name": "Caminho Brilhante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1319,
+	"stages": 1,
+	"stage1": {
+		"title": "Caminho Brilhante",
+		"description": "Complete todos os desafios de Sino das Almas.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

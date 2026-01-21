@@ -1,0 +1,20 @@
+{
+	"id": [
+		82058
+	],
+	"name": "Giardinaggio estremo",
+	"achievementGroupId": 14,
+	"achievementGroupName": "Competitività: Serie II",
+	"sortOrder": 2058,
+	"stages": 1,
+	"stage1": {
+		"title": "Giardinaggio estremo",
+		"description": "Paralizza un Regisreptus di Cryo attaccando la sua corolla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

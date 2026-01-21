@@ -1,0 +1,20 @@
+{
+	"id": [
+		86028
+	],
+	"name": "Sono un flexitariano",
+	"achievementGroupId": 33,
+	"achievementGroupName": "Incontri in un altro mondo: Serie III",
+	"sortOrder": 9027,
+	"stages": 1,
+	"stage1": {
+		"title": "Sono un flexitariano",
+		"description": "Sconfiggi un Fungostro Cresta di giada in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

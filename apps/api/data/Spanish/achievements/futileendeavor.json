@@ -1,0 +1,21 @@
+{
+	"id": [
+		81038
+	],
+	"name": "Expedición infructuosa",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1039,
+	"stages": 1,
+	"stage1": {
+		"title": "Expedición infructuosa",
+		"description": "Encuentra los restos de todos los Guardianes de las Ruinas obsoletos.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

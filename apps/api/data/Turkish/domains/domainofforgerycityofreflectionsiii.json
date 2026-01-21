@@ -1,0 +1,67 @@
+{
+	"id": 4312,
+	"name": "Döküm Zindanı: Yansımalar Şehri III",
+	"regionId": 1,
+	"regionName": "Mondstadt",
+	"entranceId": 37,
+	"entranceName": "Sesilya Bahçesi",
+	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+	"domainText": "Silah Yükseltme Malzemeleri",
+	"description": "Bu nemli kadim sunaktan muazzam seviyelerde Su enerjisi yayılır.\nŞayet imtihanı geçmeyi başarırsan Silah Yükseltme Malzemeleri kazanacaksın.",
+	"recommendedLevel": 59,
+	"recommendedElements": [
+		"Elektrik"
+	],
+	"daysOfWeek": [
+		"Pazartesi",
+		"Perşembe",
+		"Pazar"
+	],
+	"unlockRank": 30,
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "Macera TP",
+			"count": 100
+		},
+		{
+			"id": 202,
+			"name": "Mora",
+			"count": 1850
+		},
+		{
+			"id": 105,
+			"name": "Yoldaşlık TP",
+			"count": 15
+		},
+		{
+			"id": 114003,
+			"name": "Decarabian'ın Destansı Parçası"
+		},
+		{
+			"id": 114002,
+			"name": "Decarabian'ın Yıkık Duvarı"
+		},
+		{
+			"id": 114001,
+			"name": "Decarabian'ın Kırık Çinisi"
+		}
+	],
+	"disorder": [
+		"Gruptaki tüm karakterler %75 Elektrik Hasarı Bonusu kazanır."
+	],
+	"monsterList": [
+		{
+			"id": 20011001,
+			"name": "Su Bodurlopu"
+		},
+		{
+			"id": 20011101,
+			"name": "Büyük Su Bodurlopu"
+		},
+		{
+			"id": 21030101,
+			"name": "Su Dağ Şamanı"
+		}
+	]
+}

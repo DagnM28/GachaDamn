@@ -1,0 +1,16 @@
+{
+	"id": 11021,
+	"name": "Emblema del sergente",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150040,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112032,
+			"name": "Emblema della recluta",
+			"count": 3
+		}
+	]
+}

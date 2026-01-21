@@ -1,0 +1,20 @@
+{
+	"id": [
+		86013
+	],
+	"name": "Patto del lupo",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Incontri in un altro mondo: Serie I",
+	"sortOrder": 9013,
+	"stages": 1,
+	"stage1": {
+		"title": "Patto del lupo",
+		"description": "Sconfiggi il re del Regno dei Lupi in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

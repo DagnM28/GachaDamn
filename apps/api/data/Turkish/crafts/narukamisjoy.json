@@ -1,0 +1,16 @@
+{
+	"id": 12022,
+	"name": "Narukami'nin Neşesi",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130070,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114029,
+			"name": "Narukami'nin Bilgeliği",
+			"count": 3
+		}
+	]
+}

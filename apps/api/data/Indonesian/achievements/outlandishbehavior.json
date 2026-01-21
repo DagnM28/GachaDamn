@@ -1,0 +1,21 @@
+{
+	"id": [
+		84011
+	],
+	"name": "Perilaku Aneh",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 4012,
+	"stages": 1,
+	"stage1": {
+		"title": "Perilaku Aneh",
+		"description": "Diselamatkan oleh orang luar di \"tempat turis yang tidak didatangi oleh orang lokal\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

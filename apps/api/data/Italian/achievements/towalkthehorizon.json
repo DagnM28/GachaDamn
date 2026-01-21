@@ -1,0 +1,21 @@
+{
+	"id": [
+		84565
+	],
+	"name": "Camminare sull'orizzonte...?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 4089,
+	"stages": 1,
+	"stage1": {
+		"title": "Camminare sull'orizzonte...?",
+		"description": "Assisti alla storia di Sun Yu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

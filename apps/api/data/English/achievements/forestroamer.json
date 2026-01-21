@@ -1,0 +1,21 @@
+{
+	"id": [
+		80161
+	],
+	"name": "Forest Roamer",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru: The Rainforest of Lore",
+	"sortOrder": 161,
+	"stages": 1,
+	"stage1": {
+		"title": "Forest Roamer",
+		"ps5title": "Sumeru: Forest Roamer",
+		"description": "Unlock all Teleport Waypoints in the following areas in Sumeru: Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+		"progress": 47,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 15012,
+	"name": "最勝のアメシスト",
+	"filterText": "キャラクター突破素材",
+	"sortOrder": 110028,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 2700,
+	"recipe": [
+		{
+			"id": 104143,
+			"name": "最勝のアメシスト·塊",
+			"count": 3
+		}
+	]
+}

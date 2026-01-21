@@ -1,0 +1,21 @@
+{
+	"id": [
+		82156
+	],
+	"name": "落草の談",
+	"achievementGroupId": 0,
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 2156,
+	"stages": 1,
+	"stage1": {
+		"title": "落草の談",
+		"description": "無相の草が落下攻撃をする時に、そのツル草の殻を燃やす。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

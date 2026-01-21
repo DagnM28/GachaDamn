@@ -1,0 +1,21 @@
+{
+	"id": [
+		84559
+	],
+	"name": "Qual o problema?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4083,
+	"stages": 1,
+	"stage1": {
+		"title": "Qual o problema?",
+		"description": "Deguste três pratos de Jafar",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

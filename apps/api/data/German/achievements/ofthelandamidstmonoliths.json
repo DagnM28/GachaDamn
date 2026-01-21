@@ -1,0 +1,21 @@
+{
+	"id": [
+		84009
+	],
+	"name": "Vom Land inmitten von Monolithen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4010,
+	"stages": 1,
+	"stage1": {
+		"title": "Vom Land inmitten von Monolithen",
+		"description": "Schließ „Vom Land inmitten von Monolithen“ ab.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

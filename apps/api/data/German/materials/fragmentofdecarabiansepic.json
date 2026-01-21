@@ -1,0 +1,19 @@
+{
+	"id": 114003,
+	"name": "Decarabians Palastfragment",
+	"rarity": 4,
+	"sortRank": 15101,
+	"description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nAndrius erklärte Decarabian den Krieg, konnte aber nichts gegen den Palast ausrichten. Hätte das Lied der Freiheit diese Stadt nicht zum Einsturz gebracht, ginge dieser Traum endlos weiter.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zum Aufstieg von Waffen",
+	"dropDomainId": 4312,
+	"dropDomainName": "Sphäre der Kriegskunst: Stadt des glänzenden Wassers",
+	"daysOfWeek": [
+		"Montag",
+		"Donnerstag",
+		"Sonntag"
+	],
+	"sources": [
+		"Platzhalter – Herstellbare Menge: {0}"
+	]
+}

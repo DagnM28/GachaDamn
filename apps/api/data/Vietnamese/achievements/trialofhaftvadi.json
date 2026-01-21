@@ -1,0 +1,21 @@
+{
+	"id": [
+		81323
+	],
+	"name": "Thí Luyện Của Haft-Vádí",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1310,
+	"stages": 1,
+	"stage1": {
+		"title": "Thí Luyện Của Haft-Vádí",
+		"description": "Sức mạnh của Thánh Ca Khvarena đã ở trong lòng bàn tay.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

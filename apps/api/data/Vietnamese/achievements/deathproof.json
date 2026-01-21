@@ -1,0 +1,20 @@
+{
+	"id": [
+		82126
+	],
+	"name": "Kim Cang Bất Hoại",
+	"achievementGroupId": 29,
+	"achievementGroupName": "Kẻ Khiêu Chiến - Phần V",
+	"sortOrder": 2126,
+	"stages": 1,
+	"stage1": {
+		"title": "Kim Cang Bất Hoại",
+		"description": "Trong một lần khiêu chiến Magatsutakemi Narukami no Mikoto, né được tất cả sóng hủy diệt do Vajra Tà Ác thi triển trong một lượt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

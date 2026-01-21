@@ -1,0 +1,21 @@
+{
+	"id": [
+		84575
+	],
+	"name": "Berceau du saurien",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 4099,
+	"stages": 1,
+	"stage1": {
+		"title": "Berceau du saurien",
+		"description": "Liez-vous d'amitié avec un petit yumkasaure.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,2507 @@
+{
+	"mysticenhancementore": {
+		"filename_icon": "UI_ItemIcon_104013"
+	},
+	"fineenhancementore": {
+		"filename_icon": "UI_ItemIcon_104012"
+	},
+	"enhancementore": {
+		"filename_icon": "UI_ItemIcon_104011"
+	},
+	"mora": {
+		"filename_icon": "UI_ItemIcon_202"
+	},
+	"fragrantseasoning": {
+		"filename_icon": "UI_ItemIcon_101714"
+	},
+	"companionshipexp": {
+		"filename_icon": "UI_ItemIcon_105"
+	},
+	"adventureexp": {
+		"filename_icon": "UI_ItemIcon_102"
+	},
+	"primogem": {
+		"filename_icon": "UI_ItemIcon_201"
+	},
+	"festeringdragonmarrow": {
+		"filename_icon": "UI_ItemIcon_200103"
+	},
+	"thevisiblewinds": {
+		"filename_icon": "UI_ItemIcon_200104"
+	},
+	"fragmentsofinnocence": {
+		"filename_icon": "UI_ItemIcon_200105"
+	},
+	"emperorsbalsam": {
+		"filename_icon": "UI_ItemIcon_200106"
+	},
+	"akossakevessel": {
+		"filename_icon": "UI_ItemIcon_200107"
+	},
+	"alkahest": {
+		"filename_icon": "UI_ItemIcon_200108"
+	},
+	"ointmentofsight": {
+		"filename_icon": "UI_ItemIcon_200109"
+	},
+	"glowinggem": {
+		"filename_icon": "UI_ItemIcon_200110"
+	},
+	"originalfishointment": {
+		"filename_icon": "UI_ItemIcon_200111"
+	},
+	"plumeofthechangingwinds": {
+		"filename_icon": "UI_ItemIcon_200112"
+	},
+	"parasoltalcum": {
+		"filename_icon": "UI_ItemIcon_200113"
+	},
+	"unfadingsilkygrace": {
+		"filename_icon": "UI_ItemIcon_200114"
+	},
+	"congealedpupawax": {
+		"filename_icon": "UI_ItemIcon_200115"
+	},
+	"martensomnifix": {
+		"filename_icon": "UI_ItemIcon_200116"
+	},
+	"heroswit": {
+		"filename_icon": "UI_ItemIcon_104003"
+	},
+	"adventurersexperience": {
+		"filename_icon": "UI_ItemIcon_104002"
+	},
+	"lanternfiber": {
+		"filename_icon": "UI_ItemIcon_200001"
+	},
+	"wickmaterial": {
+		"filename_icon": "UI_ItemIcon_200002"
+	},
+	"plaustriteshard": {
+		"filename_icon": "UI_ItemIcon_200003"
+	},
+	"wanderersadvice": {
+		"filename_icon": "UI_ItemIcon_104001"
+	},
+	"strangetooth": {
+		"filename_icon": "UI_ItemIcon_100618"
+	},
+	"vitalizeddragontooth": {
+		"filename_icon": "UI_ItemIcon_100619"
+	},
+	"northlanderswordbillet": {
+		"filename_icon": "UI_ItemIcon_101101"
+	},
+	"northlanderbowbillet": {
+		"filename_icon": "UI_ItemIcon_101102"
+	},
+	"northlanderclaymorebillet": {
+		"filename_icon": "UI_ItemIcon_101103"
+	},
+	"northlandercatalystbillet": {
+		"filename_icon": "UI_ItemIcon_101104"
+	},
+	"northlanderpolearmbillet": {
+		"filename_icon": "UI_ItemIcon_101105"
+	},
+	"midlanderswordbillet": {
+		"filename_icon": "UI_ItemIcon_101111"
+	},
+	"midlanderbowbillet": {
+		"filename_icon": "UI_ItemIcon_101112"
+	},
+	"midlanderclaymorebillet": {
+		"filename_icon": "UI_ItemIcon_101113"
+	},
+	"midlandercatalystbillet": {
+		"filename_icon": "UI_ItemIcon_101114"
+	},
+	"midlanderpolearmbillet": {
+		"filename_icon": "UI_ItemIcon_101115"
+	},
+	"ironchunk": {
+		"filename_icon": "UI_ItemIcon_101001"
+	},
+	"whiteironchunk": {
+		"filename_icon": "UI_ItemIcon_101002"
+	},
+	"crystalchunk": {
+		"filename_icon": "UI_ItemIcon_101003"
+	},
+	"magicalcrystalchunk": {
+		"filename_icon": "UI_ItemIcon_101004"
+	},
+	"starsilver": {
+		"filename_icon": "UI_ItemIcon_101006"
+	},
+	"amethystlump": {
+		"filename_icon": "UI_ItemIcon_101008"
+	},
+	"condessencecrystal": {
+		"filename_icon": "UI_ItemIcon_101009"
+	},
+	"wolfhook": {
+		"filename_icon": "UI_ItemIcon_100021"
+	},
+	"valberry": {
+		"filename_icon": "UI_ItemIcon_100022"
+	},
+	"cecilia": {
+		"filename_icon": "UI_ItemIcon_100023"
+	},
+	"windwheelaster": {
+		"filename_icon": "UI_ItemIcon_100024"
+	},
+	"philanemomushroom": {
+		"filename_icon": "UI_ItemIcon_100025"
+	},
+	"smalllampgrass": {
+		"filename_icon": "UI_ItemIcon_100055"
+	},
+	"callalily": {
+		"filename_icon": "UI_ItemIcon_100056"
+	},
+	"dandelionseed": {
+		"filename_icon": "UI_ItemIcon_100057"
+	},
+	"jueyunchili": {
+		"filename_icon": "UI_ItemIcon_100027"
+	},
+	"noctilucousjade": {
+		"filename_icon": "UI_ItemIcon_100028"
+	},
+	"silkflower": {
+		"filename_icon": "UI_ItemIcon_100029"
+	},
+	"glazelily": {
+		"filename_icon": "UI_ItemIcon_100030"
+	},
+	"qingxin": {
+		"filename_icon": "UI_ItemIcon_100031"
+	},
+	"starconch": {
+		"filename_icon": "UI_ItemIcon_100033"
+	},
+	"violetgrass": {
+		"filename_icon": "UI_ItemIcon_100034"
+	},
+	"corlapis": {
+		"filename_icon": "UI_ItemIcon_100058"
+	},
+	"onikabuto": {
+		"filename_icon": "UI_ItemIcon_101201"
+	},
+	"sakurabloom": {
+		"filename_icon": "UI_ItemIcon_101202"
+	},
+	"crystalmarrow": {
+		"filename_icon": "UI_ItemIcon_101203"
+	},
+	"dendrobium": {
+		"filename_icon": "UI_ItemIcon_101204"
+	},
+	"nakuweed": {
+		"filename_icon": "UI_ItemIcon_101205"
+	},
+	"seaganoderma": {
+		"filename_icon": "UI_ItemIcon_101206"
+	},
+	"sangopearl": {
+		"filename_icon": "UI_ItemIcon_101207"
+	},
+	"amakumofruit": {
+		"filename_icon": "UI_ItemIcon_101208"
+	},
+	"fluorescentfungus": {
+		"filename_icon": "UI_ItemIcon_101209"
+	},
+	"rukkhashavamushrooms": {
+		"filename_icon": "UI_ItemIcon_101213"
+	},
+	"padisarah": {
+		"filename_icon": "UI_ItemIcon_101214"
+	},
+	"nilotpalalotus": {
+		"filename_icon": "UI_ItemIcon_101215"
+	},
+	"kalpalatalotus": {
+		"filename_icon": "UI_ItemIcon_101217"
+	},
+	"hennaberry": {
+		"filename_icon": "UI_ItemIcon_101220"
+	},
+	"sandgreasepupa": {
+		"filename_icon": "UI_ItemIcon_101222"
+	},
+	"mourningflower": {
+		"filename_icon": "UI_ItemIcon_101223"
+	},
+	"trishiraite": {
+		"filename_icon": "UI_ItemIcon_101224"
+	},
+	"scarab": {
+		"filename_icon": "UI_ItemIcon_101225"
+	},
+	"berylconch": {
+		"filename_icon": "UI_ItemIcon_101232"
+	},
+	"romaritimeflower": {
+		"filename_icon": "UI_ItemIcon_101233"
+	},
+	"lumidoucebell": {
+		"filename_icon": "UI_ItemIcon_101235"
+	},
+	"rainbowrose": {
+		"filename_icon": "UI_ItemIcon_101236"
+	},
+	"horsetail": {
+		"filename_icon": "UI_ItemIcon_100032"
+	},
+	"mistflowercorolla": {
+		"filename_icon": "UI_ItemIcon_100052"
+	},
+	"flamingflowerstamen": {
+		"filename_icon": "UI_ItemIcon_100053"
+	},
+	"electrocrystal": {
+		"filename_icon": "UI_ItemIcon_100054"
+	},
+	"butterflywings": {
+		"filename_icon": "UI_ItemIcon_100072"
+	},
+	"frog": {
+		"filename_icon": "UI_ItemIcon_100081"
+	},
+	"luminescentspine": {
+		"filename_icon": "UI_ItemIcon_100082"
+	},
+	"lizardtail": {
+		"filename_icon": "UI_ItemIcon_100083"
+	},
+	"crystalcore": {
+		"filename_icon": "UI_ItemIcon_100085"
+	},
+	"loachpearl": {
+		"filename_icon": "UI_ItemIcon_100090"
+	},
+	"viparyas": {
+		"filename_icon": "UI_ItemIcon_101228"
+	},
+	"pluielotus": {
+		"filename_icon": "UI_ItemIcon_101229"
+	},
+	"mushroom": {
+		"filename_icon": "UI_ItemIcon_100011"
+	},
+	"sweetflower": {
+		"filename_icon": "UI_ItemIcon_100012"
+	},
+	"carrot": {
+		"filename_icon": "UI_ItemIcon_100013"
+	},
+	"radish": {
+		"filename_icon": "UI_ItemIcon_100014"
+	},
+	"snapdragon": {
+		"filename_icon": "UI_ItemIcon_100015"
+	},
+	"mint": {
+		"filename_icon": "UI_ItemIcon_100016"
+	},
+	"wheat": {
+		"filename_icon": "UI_ItemIcon_100017"
+	},
+	"cabbage": {
+		"filename_icon": "UI_ItemIcon_100018"
+	},
+	"silverlotus": {
+		"filename_icon": "UI_ItemIcon_100019"
+	},
+	"pinecone": {
+		"filename_icon": "UI_ItemIcon_100020"
+	},
+	"lotushead": {
+		"filename_icon": "UI_ItemIcon_100026"
+	},
+	"berry": {
+		"filename_icon": "UI_ItemIcon_100051"
+	},
+	"rawmeat": {
+		"filename_icon": "UI_ItemIcon_100061"
+	},
+	"birdegg": {
+		"filename_icon": "UI_ItemIcon_100062"
+	},
+	"matsutake": {
+		"filename_icon": "UI_ItemIcon_100063"
+	},
+	"fowl": {
+		"filename_icon": "UI_ItemIcon_100064"
+	},
+	"crab": {
+		"filename_icon": "UI_ItemIcon_100073"
+	},
+	"salt": {
+		"filename_icon": "UI_ItemIcon_100075"
+	},
+	"onion": {
+		"filename_icon": "UI_ItemIcon_100076"
+	},
+	"pepper": {
+		"filename_icon": "UI_ItemIcon_100077"
+	},
+	"milk": {
+		"filename_icon": "UI_ItemIcon_100078"
+	},
+	"tomato": {
+		"filename_icon": "UI_ItemIcon_100079"
+	},
+	"potato": {
+		"filename_icon": "UI_ItemIcon_100080"
+	},
+	"fish": {
+		"filename_icon": "UI_ItemIcon_100084"
+	},
+	"tofu": {
+		"filename_icon": "UI_ItemIcon_100088"
+	},
+	"almond": {
+		"filename_icon": "UI_ItemIcon_100089"
+	},
+	"bambooshoot": {
+		"filename_icon": "UI_ItemIcon_100091"
+	},
+	"rice": {
+		"filename_icon": "UI_ItemIcon_100092"
+	},
+	"shrimpmeat": {
+		"filename_icon": "UI_ItemIcon_100093"
+	},
+	"chilledmeat": {
+		"filename_icon": "UI_ItemIcon_100094"
+	},
+	"eelmeat": {
+		"filename_icon": "UI_ItemIcon_100095"
+	},
+	"glabrousbeans": {
+		"filename_icon": "UI_ItemIcon_100096"
+	},
+	"mysteriousmeat": {
+		"filename_icon": "UI_ItemIcon_100097"
+	},
+	"coffeebeans": {
+		"filename_icon": "UI_ItemIcon_100098"
+	},
+	"fermentedjuice": {
+		"filename_icon": "UI_ItemIcon_100099"
+	},
+	"seagrass": {
+		"filename_icon": "UI_ItemIcon_101210"
+	},
+	"lavendermelon": {
+		"filename_icon": "UI_ItemIcon_101211"
+	},
+	"harrafruit": {
+		"filename_icon": "UI_ItemIcon_101216"
+	},
+	"zaytunpeach": {
+		"filename_icon": "UI_ItemIcon_101218"
+	},
+	"sumerurose": {
+		"filename_icon": "UI_ItemIcon_101219"
+	},
+	"ajilenakhnut": {
+		"filename_icon": "UI_ItemIcon_101221"
+	},
+	"marcotte": {
+		"filename_icon": "UI_ItemIcon_101231"
+	},
+	"tidalga": {
+		"filename_icon": "UI_ItemIcon_101234"
+	},
+	"crabroe": {
+		"filename_icon": "UI_ItemIcon_110007"
+	},
+	"flour": {
+		"filename_icon": "UI_ItemIcon_110001"
+	},
+	"cream": {
+		"filename_icon": "UI_ItemIcon_110002"
+	},
+	"smokedfowl": {
+		"filename_icon": "UI_ItemIcon_110003"
+	},
+	"butter": {
+		"filename_icon": "UI_ItemIcon_110004"
+	},
+	"ham": {
+		"filename_icon": "UI_ItemIcon_110005"
+	},
+	"sugar": {
+		"filename_icon": "UI_ItemIcon_110006"
+	},
+	"jam": {
+		"filename_icon": "UI_ItemIcon_110008"
+	},
+	"cheese": {
+		"filename_icon": "UI_ItemIcon_110009"
+	},
+	"bacon": {
+		"filename_icon": "UI_ItemIcon_110010"
+	},
+	"sausage": {
+		"filename_icon": "UI_ItemIcon_110011"
+	},
+	"smokedfish": {
+		"filename_icon": "UI_ItemIcon_110012"
+	},
+	"driedfish": {
+		"filename_icon": "UI_ItemIcon_110013"
+	},
+	"spice": {
+		"filename_icon": "UI_ItemIcon_110014"
+	},
+	"birchwood": {
+		"filename_icon": "UI_ItemIcon_101301"
+	},
+	"cuihuawood": {
+		"filename_icon": "UI_ItemIcon_101302"
+	},
+	"pinewood": {
+		"filename_icon": "UI_ItemIcon_101303"
+	},
+	"sandbearerwood": {
+		"filename_icon": "UI_ItemIcon_101304"
+	},
+	"bamboosegment": {
+		"filename_icon": "UI_ItemIcon_101305"
+	},
+	"fragrantcedarwood": {
+		"filename_icon": "UI_ItemIcon_101307"
+	},
+	"firwood": {
+		"filename_icon": "UI_ItemIcon_101308"
+	},
+	"yumemiruwood": {
+		"filename_icon": "UI_ItemIcon_101309"
+	},
+	"maplewood": {
+		"filename_icon": "UI_ItemIcon_101310"
+	},
+	"araliawood": {
+		"filename_icon": "UI_ItemIcon_101311"
+	},
+	"otogiwood": {
+		"filename_icon": "UI_ItemIcon_101312"
+	},
+	"brightwood": {
+		"filename_icon": "UI_ItemIcon_101313"
+	},
+	"karmaphalawood": {
+		"filename_icon": "UI_ItemIcon_101314"
+	},
+	"adhigamawood": {
+		"filename_icon": "UI_ItemIcon_101315"
+	},
+	"mountaindatewood": {
+		"filename_icon": "UI_ItemIcon_101316"
+	},
+	"athelwood": {
+		"filename_icon": "UI_ItemIcon_101317"
+	},
+	"mallowwood": {
+		"filename_icon": "UI_ItemIcon_101318"
+	},
+	"lindenwood": {
+		"filename_icon": "UI_ItemIcon_101319"
+	},
+	"ashwood": {
+		"filename_icon": "UI_ItemIcon_101320"
+	},
+	"cypresswood": {
+		"filename_icon": "UI_ItemIcon_101321"
+	},
+	"torchwood": {
+		"filename_icon": "UI_ItemIcon_101322"
+	},
+	"fabric": {
+		"filename_icon": "UI_ItemIcon_101401"
+	},
+	"reddye": {
+		"filename_icon": "UI_ItemIcon_101402"
+	},
+	"yellowdye": {
+		"filename_icon": "UI_ItemIcon_101403"
+	},
+	"bluedye": {
+		"filename_icon": "UI_ItemIcon_101404"
+	},
+	"fruitpastebait": {
+		"filename_icon": "UI_ItemIcon_111023"
+	},
+	"redrotbait": {
+		"filename_icon": "UI_ItemIcon_111024"
+	},
+	"falsewormbait": {
+		"filename_icon": "UI_ItemIcon_111025"
+	},
+	"fakeflybait": {
+		"filename_icon": "UI_ItemIcon_111026"
+	},
+	"glowgrassbait": {
+		"filename_icon": "UI_ItemIcon_111027"
+	},
+	"sugardewbait": {
+		"filename_icon": "UI_ItemIcon_111028"
+	},
+	"sourbait": {
+		"filename_icon": "UI_ItemIcon_111030"
+	},
+	"flashingmaintenancemekbait": {
+		"filename_icon": "UI_ItemIcon_111031"
+	},
+	"medaka": {
+		"filename_icon": "UI_ItemIcon_131000"
+	},
+	"glazemedaka": {
+		"filename_icon": "UI_ItemIcon_131001"
+	},
+	"sweetflowermedaka": {
+		"filename_icon": "UI_ItemIcon_131002"
+	},
+	"aizenmedaka": {
+		"filename_icon": "UI_ItemIcon_131003"
+	},
+	"dawncatcher": {
+		"filename_icon": "UI_ItemIcon_131004"
+	},
+	"crystalfish": {
+		"filename_icon": "UI_ItemIcon_131005"
+	},
+	"lungedstickleback": {
+		"filename_icon": "UI_ItemIcon_131006"
+	},
+	"betta": {
+		"filename_icon": "UI_ItemIcon_131007"
+	},
+	"venomspinefish": {
+		"filename_icon": "UI_ItemIcon_131008"
+	},
+	"akaimaou": {
+		"filename_icon": "UI_ItemIcon_131009"
+	},
+	"snowstrider": {
+		"filename_icon": "UI_ItemIcon_131010"
+	},
+	"goldenkoi": {
+		"filename_icon": "UI_ItemIcon_131011"
+	},
+	"rustykoi": {
+		"filename_icon": "UI_ItemIcon_131012"
+	},
+	"brownshirakodai": {
+		"filename_icon": "UI_ItemIcon_131013"
+	},
+	"purpleshirakodai": {
+		"filename_icon": "UI_ItemIcon_131014"
+	},
+	"teacoloredshirakodai": {
+		"filename_icon": "UI_ItemIcon_131015"
+	},
+	"abidingangelfish": {
+		"filename_icon": "UI_ItemIcon_131016"
+	},
+	"raimeiangelfish": {
+		"filename_icon": "UI_ItemIcon_131017"
+	},
+	"pufferfish": {
+		"filename_icon": "UI_ItemIcon_131019"
+	},
+	"bitterpufferfish": {
+		"filename_icon": "UI_ItemIcon_131020"
+	},
+	"divdaray": {
+		"filename_icon": "UI_ItemIcon_131021"
+	},
+	"formaloray": {
+		"filename_icon": "UI_ItemIcon_131022"
+	},
+	"truefruitangler": {
+		"filename_icon": "UI_ItemIcon_131023"
+	},
+	"peachofthedeepwaves": {
+		"filename_icon": "UI_ItemIcon_131024"
+	},
+	"sandstormangler": {
+		"filename_icon": "UI_ItemIcon_131025"
+	},
+	"sunsetcloudangler": {
+		"filename_icon": "UI_ItemIcon_131026"
+	},
+	"lazuriteaxemarlin": {
+		"filename_icon": "UI_ItemIcon_131027"
+	},
+	"halcyonjadeaxemarlin": {
+		"filename_icon": "UI_ItemIcon_131028"
+	},
+	"streamingaxemarlin": {
+		"filename_icon": "UI_ItemIcon_131029"
+	},
+	"ripplingheartfeatherbass": {
+		"filename_icon": "UI_ItemIcon_131030"
+	},
+	"blazingheartfeatherbass": {
+		"filename_icon": "UI_ItemIcon_131031"
+	},
+	"maintenancemekinitialconfiguration": {
+		"filename_icon": "UI_ItemIcon_131032"
+	},
+	"maintenancemekwaterbodycleaner": {
+		"filename_icon": "UI_ItemIcon_131033"
+	},
+	"maintenancemeksituationcontroller": {
+		"filename_icon": "UI_ItemIcon_131034"
+	},
+	"maintenancemekplatinumcollection": {
+		"filename_icon": "UI_ItemIcon_131035"
+	},
+	"elementaldust": {
+		"filename_icon": "UI_ItemIcon_107002"
+	},
+	"slimeconcentrate": {
+		"filename_icon": "UI_ItemIcon_112004"
+	},
+	"slimesecretions": {
+		"filename_icon": "UI_ItemIcon_112003"
+	},
+	"slimecondensate": {
+		"filename_icon": "UI_ItemIcon_112002"
+	},
+	"ominousmask": {
+		"filename_icon": "UI_ItemIcon_112007"
+	},
+	"stainedmask": {
+		"filename_icon": "UI_ItemIcon_112006"
+	},
+	"damagedmask": {
+		"filename_icon": "UI_ItemIcon_112005"
+	},
+	"forbiddencursescroll": {
+		"filename_icon": "UI_ItemIcon_112010"
+	},
+	"sealedscroll": {
+		"filename_icon": "UI_ItemIcon_112009"
+	},
+	"diviningscroll": {
+		"filename_icon": "UI_ItemIcon_112008"
+	},
+	"weatheredarrowhead": {
+		"filename_icon": "UI_ItemIcon_112013"
+	},
+	"sharparrowhead": {
+		"filename_icon": "UI_ItemIcon_112012"
+	},
+	"firmarrowhead": {
+		"filename_icon": "UI_ItemIcon_112011"
+	},
+	"blackcrystalhorn": {
+		"filename_icon": "UI_ItemIcon_112016"
+	},
+	"blackbronzehorn": {
+		"filename_icon": "UI_ItemIcon_112015"
+	},
+	"heavyhorn": {
+		"filename_icon": "UI_ItemIcon_112014"
+	},
+	"leylinesprout": {
+		"filename_icon": "UI_ItemIcon_112022"
+	},
+	"deadleylineleaves": {
+		"filename_icon": "UI_ItemIcon_112021"
+	},
+	"deadleylinebranch": {
+		"filename_icon": "UI_ItemIcon_112020"
+	},
+	"chaoscore": {
+		"filename_icon": "UI_ItemIcon_112025"
+	},
+	"chaoscircuit": {
+		"filename_icon": "UI_ItemIcon_112024"
+	},
+	"chaosdevice": {
+		"filename_icon": "UI_ItemIcon_112023"
+	},
+	"mistgrasswick": {
+		"filename_icon": "UI_ItemIcon_112028"
+	},
+	"mistgrass": {
+		"filename_icon": "UI_ItemIcon_112027"
+	},
+	"mistgrasspollen": {
+		"filename_icon": "UI_ItemIcon_112026"
+	},
+	"inspectorssacrificialknife": {
+		"filename_icon": "UI_ItemIcon_112031"
+	},
+	"agentssacrificialknife": {
+		"filename_icon": "UI_ItemIcon_112030"
+	},
+	"hunterssacrificialknife": {
+		"filename_icon": "UI_ItemIcon_112029"
+	},
+	"lieutenantsinsignia": {
+		"filename_icon": "UI_ItemIcon_112034"
+	},
+	"sergeantsinsignia": {
+		"filename_icon": "UI_ItemIcon_112033"
+	},
+	"recruitsinsignia": {
+		"filename_icon": "UI_ItemIcon_112032"
+	},
+	"goldenraveninsignia": {
+		"filename_icon": "UI_ItemIcon_112037"
+	},
+	"silverraveninsignia": {
+		"filename_icon": "UI_ItemIcon_112036"
+	},
+	"treasurehoarderinsignia": {
+		"filename_icon": "UI_ItemIcon_112035"
+	},
+	"energynectar": {
+		"filename_icon": "UI_ItemIcon_112040"
+	},
+	"shimmeringnectar": {
+		"filename_icon": "UI_ItemIcon_112039"
+	},
+	"whopperflowernectar": {
+		"filename_icon": "UI_ItemIcon_112038"
+	},
+	"fossilizedboneshard": {
+		"filename_icon": "UI_ItemIcon_112043"
+	},
+	"sturdyboneshard": {
+		"filename_icon": "UI_ItemIcon_112042"
+	},
+	"fragileboneshard": {
+		"filename_icon": "UI_ItemIcon_112041"
+	},
+	"famedhandguard": {
+		"filename_icon": "UI_ItemIcon_112046"
+	},
+	"kageuchihandguard": {
+		"filename_icon": "UI_ItemIcon_112045"
+	},
+	"oldhandguard": {
+		"filename_icon": "UI_ItemIcon_112044"
+	},
+	"chaosoculus": {
+		"filename_icon": "UI_ItemIcon_112049"
+	},
+	"chaosaxis": {
+		"filename_icon": "UI_ItemIcon_112048"
+	},
+	"chaosgear": {
+		"filename_icon": "UI_ItemIcon_112047"
+	},
+	"polarizingprism": {
+		"filename_icon": "UI_ItemIcon_112052"
+	},
+	"crystalprism": {
+		"filename_icon": "UI_ItemIcon_112051"
+	},
+	"dismalprism": {
+		"filename_icon": "UI_ItemIcon_112050"
+	},
+	"spectralnucleus": {
+		"filename_icon": "UI_ItemIcon_112055"
+	},
+	"spectralheart": {
+		"filename_icon": "UI_ItemIcon_112054"
+	},
+	"spectralhusk": {
+		"filename_icon": "UI_ItemIcon_112053"
+	},
+	"concealedtalon": {
+		"filename_icon": "UI_ItemIcon_112058"
+	},
+	"concealedunguis": {
+		"filename_icon": "UI_ItemIcon_112057"
+	},
+	"concealedclaw": {
+		"filename_icon": "UI_ItemIcon_112056"
+	},
+	"deathlystatuette": {
+		"filename_icon": "UI_ItemIcon_112019"
+	},
+	"darkstatuette": {
+		"filename_icon": "UI_ItemIcon_112018"
+	},
+	"gloomystatuette": {
+		"filename_icon": "UI_ItemIcon_112017"
+	},
+	"crystallinecystdust": {
+		"filename_icon": "UI_ItemIcon_112061"
+	},
+	"luminescentpollen": {
+		"filename_icon": "UI_ItemIcon_112060"
+	},
+	"fungalspores": {
+		"filename_icon": "UI_ItemIcon_112059"
+	},
+	"robustfungalnucleus": {
+		"filename_icon": "UI_ItemIcon_112064"
+	},
+	"dormantfungalnucleus": {
+		"filename_icon": "UI_ItemIcon_112063"
+	},
+	"inactivatedfungalnucleus": {
+		"filename_icon": "UI_ItemIcon_112062"
+	},
+	"richredbrocade": {
+		"filename_icon": "UI_ItemIcon_112067"
+	},
+	"trimmedredsilk": {
+		"filename_icon": "UI_ItemIcon_112066"
+	},
+	"fadedredsatin": {
+		"filename_icon": "UI_ItemIcon_112065"
+	},
+	"chaosbolt": {
+		"filename_icon": "UI_ItemIcon_112070"
+	},
+	"chaosmodule": {
+		"filename_icon": "UI_ItemIcon_112069"
+	},
+	"chaosstorage": {
+		"filename_icon": "UI_ItemIcon_112068"
+	},
+	"radiantprism": {
+		"filename_icon": "UI_ItemIcon_112073"
+	},
+	"turbidprism": {
+		"filename_icon": "UI_ItemIcon_112072"
+	},
+	"damagedprism": {
+		"filename_icon": "UI_ItemIcon_112071"
+	},
+	"markedshell": {
+		"filename_icon": "UI_ItemIcon_112076"
+	},
+	"sturdyshell": {
+		"filename_icon": "UI_ItemIcon_112075"
+	},
+	"desiccatedshell": {
+		"filename_icon": "UI_ItemIcon_112074"
+	},
+	"wanderersbloomingflower": {
+		"filename_icon": "UI_ItemIcon_112079"
+	},
+	"treasuredflower": {
+		"filename_icon": "UI_ItemIcon_112078"
+	},
+	"afloweryettobloom": {
+		"filename_icon": "UI_ItemIcon_112077"
+	},
+	"xenochromaticcrystal": {
+		"filename_icon": "UI_ItemIcon_112082"
+	},
+	"transoceanicchunk": {
+		"filename_icon": "UI_ItemIcon_112081"
+	},
+	"transoceanicpearl": {
+		"filename_icon": "UI_ItemIcon_112080"
+	},
+	"artificeddynamicgear": {
+		"filename_icon": "UI_ItemIcon_112085"
+	},
+	"mechanicalspurgear": {
+		"filename_icon": "UI_ItemIcon_112084"
+	},
+	"meshinggear": {
+		"filename_icon": "UI_ItemIcon_112083"
+	},
+	"newborntaintedhydrophantasm": {
+		"filename_icon": "UI_ItemIcon_112088"
+	},
+	"scoopoftaintedwater": {
+		"filename_icon": "UI_ItemIcon_112087"
+	},
+	"dropoftaintedwater": {
+		"filename_icon": "UI_ItemIcon_112086"
+	},
+	"alienlifecore": {
+		"filename_icon": "UI_ItemIcon_112091"
+	},
+	"foreignsynapse": {
+		"filename_icon": "UI_ItemIcon_112090"
+	},
+	"riftcore": {
+		"filename_icon": "UI_ItemIcon_112089"
+	},
+	"dvalinsplume": {
+		"filename_icon": "UI_ItemIcon_113003"
+	},
+	"dvalinsclaw": {
+		"filename_icon": "UI_ItemIcon_113004"
+	},
+	"dvalinssigh": {
+		"filename_icon": "UI_ItemIcon_113005"
+	},
+	"tailofboreas": {
+		"filename_icon": "UI_ItemIcon_113006"
+	},
+	"ringofboreas": {
+		"filename_icon": "UI_ItemIcon_113007"
+	},
+	"spiritlocketofboreas": {
+		"filename_icon": "UI_ItemIcon_113008"
+	},
+	"tuskofmonoceroscaeli": {
+		"filename_icon": "UI_ItemIcon_113013"
+	},
+	"shardofafoullegacy": {
+		"filename_icon": "UI_ItemIcon_113014"
+	},
+	"shadowofthewarrior": {
+		"filename_icon": "UI_ItemIcon_113015"
+	},
+	"dragonlordscrown": {
+		"filename_icon": "UI_ItemIcon_113017"
+	},
+	"bloodjadebranch": {
+		"filename_icon": "UI_ItemIcon_113018"
+	},
+	"gildedscale": {
+		"filename_icon": "UI_ItemIcon_113019"
+	},
+	"moltenmoment": {
+		"filename_icon": "UI_ItemIcon_113025"
+	},
+	"hellfirebutterfly": {
+		"filename_icon": "UI_ItemIcon_113026"
+	},
+	"ashenheart": {
+		"filename_icon": "UI_ItemIcon_113027"
+	},
+	"mudraofthemaleficgeneral": {
+		"filename_icon": "UI_ItemIcon_113032"
+	},
+	"tearsofthecalamitousgod": {
+		"filename_icon": "UI_ItemIcon_113033"
+	},
+	"themeaningofaeons": {
+		"filename_icon": "UI_ItemIcon_113034"
+	},
+	"puppetstrings": {
+		"filename_icon": "UI_ItemIcon_113041"
+	},
+	"mirrorofmushin": {
+		"filename_icon": "UI_ItemIcon_113042"
+	},
+	"dakasbell": {
+		"filename_icon": "UI_ItemIcon_113043"
+	},
+	"worldspanfern": {
+		"filename_icon": "UI_ItemIcon_113046"
+	},
+	"primordialgreenbloom": {
+		"filename_icon": "UI_ItemIcon_113047"
+	},
+	"everamber": {
+		"filename_icon": "UI_ItemIcon_113048"
+	},
+	"hurricaneseed": {
+		"filename_icon": "UI_ItemIcon_113001"
+	},
+	"lightningprism": {
+		"filename_icon": "UI_ItemIcon_113002"
+	},
+	"basaltpillar": {
+		"filename_icon": "UI_ItemIcon_113009"
+	},
+	"hoarfrostcore": {
+		"filename_icon": "UI_ItemIcon_113010"
+	},
+	"everflameseed": {
+		"filename_icon": "UI_ItemIcon_113011"
+	},
+	"cleansingheart": {
+		"filename_icon": "UI_ItemIcon_113012"
+	},
+	"juvenilejade": {
+		"filename_icon": "UI_ItemIcon_113016"
+	},
+	"crystallinebloom": {
+		"filename_icon": "UI_ItemIcon_113020"
+	},
+	"marionettecore": {
+		"filename_icon": "UI_ItemIcon_113022"
+	},
+	"perpetualheart": {
+		"filename_icon": "UI_ItemIcon_113023"
+	},
+	"smolderingpearl": {
+		"filename_icon": "UI_ItemIcon_113024"
+	},
+	"dewofrepudiation": {
+		"filename_icon": "UI_ItemIcon_113028"
+	},
+	"stormbeads": {
+		"filename_icon": "UI_ItemIcon_113029"
+	},
+	"riftbornregalia": {
+		"filename_icon": "UI_ItemIcon_113030"
+	},
+	"dragonheirsfalsefin": {
+		"filename_icon": "UI_ItemIcon_113031"
+	},
+	"runicfang": {
+		"filename_icon": "UI_ItemIcon_113035"
+	},
+	"majestichookedbeak": {
+		"filename_icon": "UI_ItemIcon_113036"
+	},
+	"thunderclapfruitcore": {
+		"filename_icon": "UI_ItemIcon_113037"
+	},
+	"perpetualcaliber": {
+		"filename_icon": "UI_ItemIcon_113038"
+	},
+	"lightguidingtetrahedron": {
+		"filename_icon": "UI_ItemIcon_113039"
+	},
+	"quelledcreeper": {
+		"filename_icon": "UI_ItemIcon_113040"
+	},
+	"pseudostamens": {
+		"filename_icon": "UI_ItemIcon_113044"
+	},
+	"evergloomring": {
+		"filename_icon": "UI_ItemIcon_113045"
+	},
+	"artificedspareclockworkcomponentcoppelia": {
+		"filename_icon": "UI_ItemIcon_113049"
+	},
+	"artificedspareclockworkcomponentcoppelius": {
+		"filename_icon": "UI_ItemIcon_113050"
+	},
+	"emperorsresolution": {
+		"filename_icon": "UI_ItemIcon_113051"
+	},
+	"brilliantdiamondgemstone": {
+		"filename_icon": "UI_ItemIcon_104104"
+	},
+	"brilliantdiamondchunk": {
+		"filename_icon": "UI_ItemIcon_104103"
+	},
+	"brilliantdiamondfragment": {
+		"filename_icon": "UI_ItemIcon_104102"
+	},
+	"brilliantdiamondsliver": {
+		"filename_icon": "UI_ItemIcon_104101"
+	},
+	"agnidusagategemstone": {
+		"filename_icon": "UI_ItemIcon_104114"
+	},
+	"agnidusagatechunk": {
+		"filename_icon": "UI_ItemIcon_104113"
+	},
+	"agnidusagatefragment": {
+		"filename_icon": "UI_ItemIcon_104112"
+	},
+	"agnidusagatesliver": {
+		"filename_icon": "UI_ItemIcon_104111"
+	},
+	"varunadalazuritegemstone": {
+		"filename_icon": "UI_ItemIcon_104124"
+	},
+	"varunadalazuritechunk": {
+		"filename_icon": "UI_ItemIcon_104123"
+	},
+	"varunadalazuritefragment": {
+		"filename_icon": "UI_ItemIcon_104122"
+	},
+	"varunadalazuritesliver": {
+		"filename_icon": "UI_ItemIcon_104121"
+	},
+	"nagadusemeraldgemstone": {
+		"filename_icon": "UI_ItemIcon_104134"
+	},
+	"nagadusemeraldchunk": {
+		"filename_icon": "UI_ItemIcon_104133"
+	},
+	"nagadusemeraldfragment": {
+		"filename_icon": "UI_ItemIcon_104132"
+	},
+	"nagadusemeraldsliver": {
+		"filename_icon": "UI_ItemIcon_104131"
+	},
+	"vajradaamethystgemstone": {
+		"filename_icon": "UI_ItemIcon_104144"
+	},
+	"vajradaamethystchunk": {
+		"filename_icon": "UI_ItemIcon_104143"
+	},
+	"vajradaamethystfragment": {
+		"filename_icon": "UI_ItemIcon_104142"
+	},
+	"vajradaamethystsliver": {
+		"filename_icon": "UI_ItemIcon_104141"
+	},
+	"vayudaturquoisegemstone": {
+		"filename_icon": "UI_ItemIcon_104154"
+	},
+	"vayudaturquoisechunk": {
+		"filename_icon": "UI_ItemIcon_104153"
+	},
+	"vayudaturquoisefragment": {
+		"filename_icon": "UI_ItemIcon_104152"
+	},
+	"vayudaturquoisesliver": {
+		"filename_icon": "UI_ItemIcon_104151"
+	},
+	"shivadajadegemstone": {
+		"filename_icon": "UI_ItemIcon_104164"
+	},
+	"shivadajadechunk": {
+		"filename_icon": "UI_ItemIcon_104163"
+	},
+	"shivadajadefragment": {
+		"filename_icon": "UI_ItemIcon_104162"
+	},
+	"shivadajadesliver": {
+		"filename_icon": "UI_ItemIcon_104161"
+	},
+	"prithivatopazgemstone": {
+		"filename_icon": "UI_ItemIcon_104174"
+	},
+	"prithivatopazchunk": {
+		"filename_icon": "UI_ItemIcon_104173"
+	},
+	"prithivatopazfragment": {
+		"filename_icon": "UI_ItemIcon_104172"
+	},
+	"prithivatopazsliver": {
+		"filename_icon": "UI_ItemIcon_104171"
+	},
+	"philosophiesoffreedom": {
+		"filename_icon": "UI_ItemIcon_104303"
+	},
+	"guidetofreedom": {
+		"filename_icon": "UI_ItemIcon_104302"
+	},
+	"teachingsoffreedom": {
+		"filename_icon": "UI_ItemIcon_104301"
+	},
+	"philosophiesofresistance": {
+		"filename_icon": "UI_ItemIcon_104306"
+	},
+	"guidetoresistance": {
+		"filename_icon": "UI_ItemIcon_104305"
+	},
+	"teachingsofresistance": {
+		"filename_icon": "UI_ItemIcon_104304"
+	},
+	"philosophiesofballad": {
+		"filename_icon": "UI_ItemIcon_104309"
+	},
+	"guidetoballad": {
+		"filename_icon": "UI_ItemIcon_104308"
+	},
+	"teachingsofballad": {
+		"filename_icon": "UI_ItemIcon_104307"
+	},
+	"philosophiesofprosperity": {
+		"filename_icon": "UI_ItemIcon_104312"
+	},
+	"guidetoprosperity": {
+		"filename_icon": "UI_ItemIcon_104311"
+	},
+	"teachingsofprosperity": {
+		"filename_icon": "UI_ItemIcon_104310"
+	},
+	"philosophiesofdiligence": {
+		"filename_icon": "UI_ItemIcon_104315"
+	},
+	"guidetodiligence": {
+		"filename_icon": "UI_ItemIcon_104314"
+	},
+	"teachingsofdiligence": {
+		"filename_icon": "UI_ItemIcon_104313"
+	},
+	"philosophiesofgold": {
+		"filename_icon": "UI_ItemIcon_104318"
+	},
+	"guidetogold": {
+		"filename_icon": "UI_ItemIcon_104317"
+	},
+	"teachingsofgold": {
+		"filename_icon": "UI_ItemIcon_104316"
+	},
+	"philosophiesoftransience": {
+		"filename_icon": "UI_ItemIcon_104322"
+	},
+	"guidetotransience": {
+		"filename_icon": "UI_ItemIcon_104321"
+	},
+	"teachingsoftransience": {
+		"filename_icon": "UI_ItemIcon_104320"
+	},
+	"philosophiesofelegance": {
+		"filename_icon": "UI_ItemIcon_104325"
+	},
+	"guidetoelegance": {
+		"filename_icon": "UI_ItemIcon_104324"
+	},
+	"teachingsofelegance": {
+		"filename_icon": "UI_ItemIcon_104323"
+	},
+	"philosophiesoflight": {
+		"filename_icon": "UI_ItemIcon_104328"
+	},
+	"guidetolight": {
+		"filename_icon": "UI_ItemIcon_104327"
+	},
+	"teachingsoflight": {
+		"filename_icon": "UI_ItemIcon_104326"
+	},
+	"philosophiesofadmonition": {
+		"filename_icon": "UI_ItemIcon_104331"
+	},
+	"guidetoadmonition": {
+		"filename_icon": "UI_ItemIcon_104330"
+	},
+	"teachingsofadmonition": {
+		"filename_icon": "UI_ItemIcon_104329"
+	},
+	"philosophiesofingenuity": {
+		"filename_icon": "UI_ItemIcon_104334"
+	},
+	"guidetoingenuity": {
+		"filename_icon": "UI_ItemIcon_104333"
+	},
+	"teachingsofingenuity": {
+		"filename_icon": "UI_ItemIcon_104332"
+	},
+	"philosophiesofpraxis": {
+		"filename_icon": "UI_ItemIcon_104337"
+	},
+	"guidetopraxis": {
+		"filename_icon": "UI_ItemIcon_104336"
+	},
+	"teachingsofpraxis": {
+		"filename_icon": "UI_ItemIcon_104335"
+	},
+	"philosophiesofequity": {
+		"filename_icon": "UI_ItemIcon_104340"
+	},
+	"guidetoequity": {
+		"filename_icon": "UI_ItemIcon_104339"
+	},
+	"teachingsofequity": {
+		"filename_icon": "UI_ItemIcon_104338"
+	},
+	"philosophiesofjustice": {
+		"filename_icon": "UI_ItemIcon_104343"
+	},
+	"guidetojustice": {
+		"filename_icon": "UI_ItemIcon_104342"
+	},
+	"teachingsofjustice": {
+		"filename_icon": "UI_ItemIcon_104341"
+	},
+	"philosophiesoforder": {
+		"filename_icon": "UI_ItemIcon_104346"
+	},
+	"guidetoorder": {
+		"filename_icon": "UI_ItemIcon_104345"
+	},
+	"teachingsoforder": {
+		"filename_icon": "UI_ItemIcon_104344"
+	},
+	"crownofinsight": {
+		"filename_icon": "UI_ItemIcon_104319"
+	},
+	"scatteredpieceofdecarabiansdream": {
+		"filename_icon": "UI_ItemIcon_114004"
+	},
+	"fragmentofdecarabiansepic": {
+		"filename_icon": "UI_ItemIcon_114003"
+	},
+	"debrisofdecarabianscity": {
+		"filename_icon": "UI_ItemIcon_114002"
+	},
+	"tileofdecarabianstower": {
+		"filename_icon": "UI_ItemIcon_114001"
+	},
+	"borealwolfsnostalgia": {
+		"filename_icon": "UI_ItemIcon_114008"
+	},
+	"borealwolfsbrokenfang": {
+		"filename_icon": "UI_ItemIcon_114007"
+	},
+	"borealwolfscrackedtooth": {
+		"filename_icon": "UI_ItemIcon_114006"
+	},
+	"borealwolfsmilktooth": {
+		"filename_icon": "UI_ItemIcon_114005"
+	},
+	"dreamofthedandeliongladiator": {
+		"filename_icon": "UI_ItemIcon_114012"
+	},
+	"shacklesofthedandeliongladiator": {
+		"filename_icon": "UI_ItemIcon_114011"
+	},
+	"chainsofthedandeliongladiator": {
+		"filename_icon": "UI_ItemIcon_114010"
+	},
+	"fettersofthedandeliongladiator": {
+		"filename_icon": "UI_ItemIcon_114009"
+	},
+	"divinebodyfromguyun": {
+		"filename_icon": "UI_ItemIcon_114016"
+	},
+	"relicfromguyun": {
+		"filename_icon": "UI_ItemIcon_114015"
+	},
+	"lustrousstonefromguyun": {
+		"filename_icon": "UI_ItemIcon_114014"
+	},
+	"luminoussandsfromguyun": {
+		"filename_icon": "UI_ItemIcon_114013"
+	},
+	"mistveiledprimoelixir": {
+		"filename_icon": "UI_ItemIcon_114020"
+	},
+	"mistveiledgoldelixir": {
+		"filename_icon": "UI_ItemIcon_114019"
+	},
+	"mistveiledmercuryelixir": {
+		"filename_icon": "UI_ItemIcon_114018"
+	},
+	"mistveiledleadelixir": {
+		"filename_icon": "UI_ItemIcon_114017"
+	},
+	"chunkofaerosiderite": {
+		"filename_icon": "UI_ItemIcon_114024"
+	},
+	"bitofaerosiderite": {
+		"filename_icon": "UI_ItemIcon_114023"
+	},
+	"pieceofaerosiderite": {
+		"filename_icon": "UI_ItemIcon_114022"
+	},
+	"grainofaerosiderite": {
+		"filename_icon": "UI_ItemIcon_114021"
+	},
+	"goldenbranchofadistantsea": {
+		"filename_icon": "UI_ItemIcon_114028"
+	},
+	"jadebranchofadistantsea": {
+		"filename_icon": "UI_ItemIcon_114027"
+	},
+	"jeweledbranchofadistantsea": {
+		"filename_icon": "UI_ItemIcon_114026"
+	},
+	"coralbranchofadistantsea": {
+		"filename_icon": "UI_ItemIcon_114025"
+	},
+	"narukamisvalor": {
+		"filename_icon": "UI_ItemIcon_114032"
+	},
+	"narukamisaffection": {
+		"filename_icon": "UI_ItemIcon_114031"
+	},
+	"narukamisjoy": {
+		"filename_icon": "UI_ItemIcon_114030"
+	},
+	"narukamiswisdom": {
+		"filename_icon": "UI_ItemIcon_114029"
+	},
+	"maskofthekijin": {
+		"filename_icon": "UI_ItemIcon_114036"
+	},
+	"maskoftheonehorned": {
+		"filename_icon": "UI_ItemIcon_114035"
+	},
+	"maskofthetigersbite": {
+		"filename_icon": "UI_ItemIcon_114034"
+	},
+	"maskofthewickedlieutenant": {
+		"filename_icon": "UI_ItemIcon_114033"
+	},
+	"goldentalismanoftheforestdew": {
+		"filename_icon": "UI_ItemIcon_114040"
+	},
+	"silvertalismanoftheforestdew": {
+		"filename_icon": "UI_ItemIcon_114039"
+	},
+	"irontalismanoftheforestdew": {
+		"filename_icon": "UI_ItemIcon_114038"
+	},
+	"coppertalismanoftheforestdew": {
+		"filename_icon": "UI_ItemIcon_114037"
+	},
+	"oasisgardenstruth": {
+		"filename_icon": "UI_ItemIcon_114044"
+	},
+	"oasisgardensmourning": {
+		"filename_icon": "UI_ItemIcon_114043"
+	},
+	"oasisgardenskindness": {
+		"filename_icon": "UI_ItemIcon_114042"
+	},
+	"oasisgardensreminiscence": {
+		"filename_icon": "UI_ItemIcon_114041"
+	},
+	"oldendaysofscorchingmight": {
+		"filename_icon": "UI_ItemIcon_114048"
+	},
+	"dreamofscorchingmight": {
+		"filename_icon": "UI_ItemIcon_114047"
+	},
+	"remnantglowofscorchingmight": {
+		"filename_icon": "UI_ItemIcon_114046"
+	},
+	"echoofscorchingmight": {
+		"filename_icon": "UI_ItemIcon_114045"
+	},
+	"echoofanancientchord": {
+		"filename_icon": "UI_ItemIcon_114052"
+	},
+	"movementofanancientchord": {
+		"filename_icon": "UI_ItemIcon_114051"
+	},
+	"chapterofanancientchord": {
+		"filename_icon": "UI_ItemIcon_114050"
+	},
+	"fragmentofanancientchord": {
+		"filename_icon": "UI_ItemIcon_114049"
+	},
+	"essenceofpuresacreddewdrop": {
+		"filename_icon": "UI_ItemIcon_114056"
+	},
+	"springofpuresacreddewdrop": {
+		"filename_icon": "UI_ItemIcon_114055"
+	},
+	"sublimationofpuresacreddewdrop": {
+		"filename_icon": "UI_ItemIcon_114054"
+	},
+	"drossofpuresacreddewdrop": {
+		"filename_icon": "UI_ItemIcon_114053"
+	},
+	"goldengobletofthepristinesea": {
+		"filename_icon": "UI_ItemIcon_114060"
+	},
+	"silvergobletofthepristinesea": {
+		"filename_icon": "UI_ItemIcon_114059"
+	},
+	"winegobletofthepristinesea": {
+		"filename_icon": "UI_ItemIcon_114058"
+	},
+	"brokengobletofthepristinesea": {
+		"filename_icon": "UI_ItemIcon_114057"
+	},
+	"wildernessrod": {
+		"filename_icon": "UI_ItemIcon_200900"
+	},
+	"windtangler": {
+		"filename_icon": "UI_ItemIcon_200901"
+	},
+	"wishmaker": {
+		"filename_icon": "UI_ItemIcon_200902"
+	},
+	"narukawaukai": {
+		"filename_icon": "UI_ItemIcon_200903"
+	},
+	"moonstringer": {
+		"filename_icon": "UI_ItemIcon_200904"
+	},
+	"serendipity": {
+		"filename_icon": "UI_ItemIcon_200905"
+	},
+	"wavepiercer": {
+		"filename_icon": "UI_ItemIcon_200906"
+	},
+	"apple": {
+		"filename_icon": "UI_ItemIcon_100001"
+	},
+	"sunsettia": {
+		"filename_icon": "UI_ItemIcon_100002"
+	},
+	"starshroom": {
+		"filename_icon": "UI_ItemIcon_101212"
+	},
+	"activatedstarshroom": {
+		"filename_icon": "UI_ItemIcon_101226"
+	},
+	"scorchedstarshroom": {
+		"filename_icon": "UI_ItemIcon_101227"
+	},
+	"cakefortraveler": {
+		"filename_icon": "UI_ItemIcon_118001"
+	},
+	"cakefortraveler-01": {
+		"filename_icon": "UI_ItemIcon_118003"
+	},
+	"cakefortraveler-02": {
+		"filename_icon": "UI_ItemIcon_118005"
+	},
+	"cakefortraveler-03": {
+		"filename_icon": "UI_ItemIcon_118007"
+	},
+	"condensedresin": {
+		"filename_icon": "UI_ItemIcon_211"
+	},
+	"maskofmemories": {
+		"filename_icon": "UI_ItemIcon_100865"
+	},
+	"masterlessstarglitter": {
+		"filename_icon": "UI_ItemIcon_221"
+	},
+	"masterlessstardust": {
+		"filename_icon": "UI_ItemIcon_222"
+	},
+	"intertwinedfate": {
+		"filename_icon": "UI_ItemIcon_223"
+	},
+	"acquaintfate": {
+		"filename_icon": "UI_ItemIcon_224"
+	},
+	"dreamsolvent": {
+		"filename_icon": "UI_ItemIcon_113021"
+	},
+	"ultrahotburnerlamptestmodel": {
+		"filename_icon": "UI_ItemIcon_220060"
+	},
+	"silkenprint": {
+		"filename_icon": "UI_ItemIcon_222001"
+	},
+	"naturestruefruit": {
+		"filename_icon": "UI_ItemIcon_222002"
+	},
+	"dustofazoth": {
+		"filename_icon": "UI_ItemIcon_104201"
+	},
+	"vialofadeptalspeed": {
+		"filename_icon": "UI_ItemIcon_107013"
+	},
+	"matchinvitationletter": {
+		"filename_icon": "UI_GcgIcon_Invitation"
+	},
+	"luckycoin": {
+		"filename_icon": "UI_GcgIcon_CardCurrency"
+	},
+	"voucherbox": {
+		"filename_icon": "UI_ItemIcon_107024"
+	},
+	"plumeofpurifyinglight": {
+		"filename_icon": "UI_ItemIcon_107022"
+	},
+	"pyrosigil": {
+		"filename_icon": "UI_ItemIcon_301"
+	},
+	"hydrosigil": {
+		"filename_icon": "UI_ItemIcon_302"
+	},
+	"dendrosigil": {
+		"filename_icon": "UI_ItemIcon_303"
+	},
+	"electrosigil": {
+		"filename_icon": "UI_ItemIcon_304"
+	},
+	"anemosigil": {
+		"filename_icon": "UI_ItemIcon_305"
+	},
+	"cryosigil": {
+		"filename_icon": "UI_ItemIcon_306"
+	},
+	"geosigil": {
+		"filename_icon": "UI_ItemIcon_307"
+	},
+	"gnostichymnoldnotes": {
+		"filename_icon": "UI_ItemIcon_1201"
+	},
+	"blessingofthewelkinmoonnewmoon": {
+		"filename_icon": "UI_ItemIcon_1202"
+	},
+	"huntingtrap": {
+		"filename_icon": "UI_ItemIcon_100225"
+	},
+	"lightrealmcore": {
+		"filename_icon": "UI_ItemIcon_101693"
+	},
+	"lightrealmsigil": {
+		"filename_icon": "UI_ItemIcon_101692"
+	},
+	"keysigil": {
+		"filename_icon": "UI_ItemIcon_100937"
+	},
+	"keysigil-01": {
+		"filename_icon": "UI_ItemIcon_100936"
+	},
+	"keysigil-02": {
+		"filename_icon": "UI_ItemIcon_100935"
+	},
+	"keysigil-03": {
+		"filename_icon": "UI_ItemIcon_100938"
+	},
+	"keysigil-04": {
+		"filename_icon": "UI_ItemIcon_100934"
+	},
+	"smallprettycrystal": {
+		"filename_icon": "UI_ItemIcon_111020"
+	},
+	"mediumprettycrystal": {
+		"filename_icon": "UI_ItemIcon_111021"
+	},
+	"bigprettycrystal": {
+		"filename_icon": "UI_ItemIcon_111022"
+	},
+	"bep": {
+		"filename_icon": "UI_ItemIcon_116001"
+	},
+	"rimewornfragment": {
+		"filename_icon": "UI_ItemIcon_200101"
+	},
+	"rimeworncrystal": {
+		"filename_icon": "UI_ItemIcon_200102"
+	},
+	"dandelionbookmark": {
+		"filename_icon": "UI_ItemIcon_200117"
+	},
+	"lumitoile": {
+		"filename_icon": "UI_ItemIcon_101237"
+	},
+	"subdetectionunit": {
+		"filename_icon": "UI_ItemIcon_101239"
+	},
+	"operativesconstancy": {
+		"filename_icon": "UI_ItemIcon_112094"
+	},
+	"operativesstandardpocketwatch": {
+		"filename_icon": "UI_ItemIcon_112093"
+	},
+	"oldoperativespocketwatch": {
+		"filename_icon": "UI_ItemIcon_112092"
+	},
+	"tourbillondevice": {
+		"filename_icon": "UI_ItemIcon_113052"
+	},
+	"fontemerunihorn": {
+		"filename_icon": "UI_ItemIcon_113053"
+	},
+	"surgingsacredchalice": {
+		"filename_icon": "UI_ItemIcon_200118"
+	},
+	"lakelightlily": {
+		"filename_icon": "UI_ItemIcon_101238"
+	},
+	"springofthefirstdewdrop": {
+		"filename_icon": "UI_ItemIcon_101240"
+	},
+	"maintenancemekgoldleader": {
+		"filename_icon": "UI_ItemIcon_131036"
+	},
+	"lightlesssilkstring": {
+		"filename_icon": "UI_ItemIcon_113054"
+	},
+	"lightlesseyeofthemaelstrom": {
+		"filename_icon": "UI_ItemIcon_113055"
+	},
+	"lightlessmass": {
+		"filename_icon": "UI_ItemIcon_113056"
+	},
+	"waterthatfailedtotranscend": {
+		"filename_icon": "UI_ItemIcon_113057"
+	},
+	"superduperinvincibleshiningsparklymagiccrystal": {
+		"filename_icon": "UI_ItemIcon_200119"
+	},
+	"swirlingsceneinabottle": {
+		"filename_icon": "UI_ItemIcon_222003"
+	},
+	"clearwaterjade": {
+		"filename_icon": "UI_ItemIcon_101241"
+	},
+	"chenyuadeptea": {
+		"filename_icon": "UI_ItemIcon_101242"
+	},
+	"jadeheartfeatherbass": {
+		"filename_icon": "UI_ItemIcon_131037"
+	},
+	"chasmlightfin": {
+		"filename_icon": "UI_ItemIcon_112097"
+	},
+	"lunarfin": {
+		"filename_icon": "UI_ItemIcon_112096"
+	},
+	"featheryfin": {
+		"filename_icon": "UI_ItemIcon_112095"
+	},
+	"cloudseamscale": {
+		"filename_icon": "UI_ItemIcon_113058"
+	},
+	"exaltedearth": {
+		"filename_icon": "UI_ItemIcon_200120"
+	},
+	"cultivationareaexpansioni": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"cultivationareaexpansionii": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"cultivationareaexpansioniii": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"cultivationareaexpansioniv": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"cultivationareaexpansionv": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"cultivationareaexpansionvi": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"improvedalchemycauldroni": {
+		"filename_icon": "UI_ItemIcon_120821"
+	},
+	"improvedalchemycauldronii": {
+		"filename_icon": "UI_ItemIcon_120821"
+	},
+	"improvedalchemycauldroniii": {
+		"filename_icon": "UI_ItemIcon_120821"
+	},
+	"improvedalchemycauldroniv": {
+		"filename_icon": "UI_ItemIcon_120821"
+	},
+	"angleddropbottle": {
+		"filename_icon": "UI_ItemIcon_120825"
+	},
+	"heartstoppingheartbottle": {
+		"filename_icon": "UI_ItemIcon_120826"
+	},
+	"tranquilbaybottle": {
+		"filename_icon": "UI_ItemIcon_120827"
+	},
+	"gorgeousgembottle": {
+		"filename_icon": "UI_ItemIcon_120828"
+	},
+	"chonkycatbottle": {
+		"filename_icon": "UI_ItemIcon_120829"
+	},
+	"windwheelastersaroma": {
+		"filename_icon": "UI_ItemIcon_120830"
+	},
+	"resplendentasacrystalfly": {
+		"filename_icon": "UI_ItemIcon_120831"
+	},
+	"perfectgiftribbon": {
+		"filename_icon": "UI_ItemIcon_120832"
+	},
+	"raspberryredflyingflowerfeather": {
+		"filename_icon": "UI_ItemIcon_120833"
+	},
+	"goldgildandemerald": {
+		"filename_icon": "UI_ItemIcon_120834"
+	},
+	"shopdecorationbloomingmorale": {
+		"filename_icon": "UI_ItemIcon_120835"
+	},
+	"shopdecorationbloomingatmosphere": {
+		"filename_icon": "UI_ItemIcon_120836"
+	},
+	"shopdecorationpotentpotions": {
+		"filename_icon": "UI_ItemIcon_120837"
+	},
+	"shopdecorationportentouspotions": {
+		"filename_icon": "UI_ItemIcon_120838"
+	},
+	"shopdecorationprismaticeffects": {
+		"filename_icon": "UI_ItemIcon_120839"
+	},
+	"salesexpansioncontract": {
+		"filename_icon": "UI_ItemIcon_120840"
+	},
+	"cultivationareaexpansionvii": {
+		"filename_icon": "UI_ItemIcon_120815"
+	},
+	"alchemeter": {
+		"filename_icon": "UI_ItemIcon_120876"
+	},
+	"stillsmolderinghilt": {
+		"filename_icon": "UI_ItemIcon_112100"
+	},
+	"splinteredhilt": {
+		"filename_icon": "UI_ItemIcon_112099"
+	},
+	"ruinedhilt": {
+		"filename_icon": "UI_ItemIcon_112098"
+	},
+	"fadingcandle": {
+		"filename_icon": "UI_ItemIcon_113060"
+	},
+	"silkenfeather": {
+		"filename_icon": "UI_ItemIcon_113061"
+	},
+	"denialandjudgment": {
+		"filename_icon": "UI_ItemIcon_113062"
+	},
+	"fragmentofagoldenmelody": {
+		"filename_icon": "UI_ItemIcon_113059"
+	},
+	"camandcablesoflaw": {
+		"filename_icon": "UI_ItemIcon_200121"
+	},
+	"jubilantfeather": {
+		"filename_icon": ""
+	},
+	"phlogistonenergyorbforgathering": {
+		"filename_icon": "UI_ItemIcon_2020"
+	},
+	"theseassilentshade": {
+		"filename_icon": "UI_ItemIcon_200122"
+	},
+	"borderlandswordbillet": {
+		"filename_icon": "UI_ItemIcon_101116"
+	},
+	"borderlandbowbillet": {
+		"filename_icon": "UI_ItemIcon_101117"
+	},
+	"borderlandclaymorebillet": {
+		"filename_icon": "UI_ItemIcon_101118"
+	},
+	"borderlandcatalystbillet": {
+		"filename_icon": "UI_ItemIcon_101119"
+	},
+	"borderlandpolearmbillet": {
+		"filename_icon": "UI_ItemIcon_101120"
+	},
+	"sprayfeathergill": {
+		"filename_icon": "UI_ItemIcon_101247"
+	},
+	"brilliantchrysanthemum": {
+		"filename_icon": "UI_ItemIcon_101248"
+	},
+	"quenepaberry": {
+		"filename_icon": "UI_ItemIcon_101249"
+	},
+	"saurianclawsucculent": {
+		"filename_icon": "UI_ItemIcon_101250"
+	},
+	"cacahuatl": {
+		"filename_icon": "UI_ItemIcon_101246"
+	},
+	"embercoreflower": {
+		"filename_icon": "UI_ItemIcon_101251"
+	},
+	"grainfruit": {
+		"filename_icon": "UI_ItemIcon_101243"
+	},
+	"spinelfruit": {
+		"filename_icon": "UI_ItemIcon_101245"
+	},
+	"whitechestnutoakwood": {
+		"filename_icon": "UI_ItemIcon_101323"
+	},
+	"ashenaratikuwood": {
+		"filename_icon": "UI_ItemIcon_101324"
+	},
+	"flammabombwood": {
+		"filename_icon": "UI_ItemIcon_101325"
+	},
+	"peachpalmwood": {
+		"filename_icon": "UI_ItemIcon_101326"
+	},
+	"sigilofastridingwill": {
+		"filename_icon": "UI_ItemIcon_112109"
+	},
+	"locusofaclearwill": {
+		"filename_icon": "UI_ItemIcon_112108"
+	},
+	"shardofashatteredwill": {
+		"filename_icon": "UI_ItemIcon_112107"
+	},
+	"ignitedseeingeye": {
+		"filename_icon": "UI_ItemIcon_112112"
+	},
+	"ignitedseedoflife": {
+		"filename_icon": "UI_ItemIcon_112111"
+	},
+	"ignitedstone": {
+		"filename_icon": "UI_ItemIcon_112110"
+	},
+	"heartofthesecretsource": {
+		"filename_icon": "UI_ItemIcon_112115"
+	},
+	"sheathofthesecretsource": {
+		"filename_icon": "UI_ItemIcon_112114"
+	},
+	"axisofthesecretsource": {
+		"filename_icon": "UI_ItemIcon_112113"
+	},
+	"tyrantsfang": {
+		"filename_icon": "UI_ItemIcon_112103"
+	},
+	"seasonedfang": {
+		"filename_icon": "UI_ItemIcon_112102"
+	},
+	"juvenilefang": {
+		"filename_icon": "UI_ItemIcon_112101"
+	},
+	"sauriancrownedwarriorsgoldenwhistle": {
+		"filename_icon": "UI_ItemIcon_112106"
+	},
+	"warriorsmetalwhistle": {
+		"filename_icon": "UI_ItemIcon_112105"
+	},
+	"sentryswoodenwhistle": {
+		"filename_icon": "UI_ItemIcon_112104"
+	},
+	"thecornerstoneofstarsandflames": {
+		"filename_icon": "UI_ItemIcon_113063"
+	},
+	"markofthebindingblessing": {
+		"filename_icon": "UI_ItemIcon_113064"
+	},
+	"overripeflamegranate": {
+		"filename_icon": "UI_ItemIcon_113065"
+	},
+	"philosophiesofcontention": {
+		"filename_icon": "UI_ItemIcon_104349"
+	},
+	"guidetocontention": {
+		"filename_icon": "UI_ItemIcon_104348"
+	},
+	"teachingsofcontention": {
+		"filename_icon": "UI_ItemIcon_104347"
+	},
+	"philosophiesofkindling": {
+		"filename_icon": "UI_ItemIcon_104352"
+	},
+	"guidetokindling": {
+		"filename_icon": "UI_ItemIcon_104351"
+	},
+	"teachingsofkindling": {
+		"filename_icon": "UI_ItemIcon_104350"
+	},
+	"philosophiesofconflict": {
+		"filename_icon": "UI_ItemIcon_104355"
+	},
+	"guidetoconflict": {
+		"filename_icon": "UI_ItemIcon_104354"
+	},
+	"teachingsofconflict": {
+		"filename_icon": "UI_ItemIcon_104353"
+	},
+	"blazingsacrificialheartssplendor": {
+		"filename_icon": "UI_ItemIcon_114064"
+	},
+	"blazingsacrificialheartsresolve": {
+		"filename_icon": "UI_ItemIcon_114063"
+	},
+	"blazingsacrificialheartshesitance": {
+		"filename_icon": "UI_ItemIcon_114062"
+	},
+	"blazingsacrificialheartsterror": {
+		"filename_icon": "UI_ItemIcon_114061"
+	},
+	"deliriousdivinityofthesacredlord": {
+		"filename_icon": "UI_ItemIcon_114068"
+	},
+	"deliriousdemeanorofthesacredlord": {
+		"filename_icon": "UI_ItemIcon_114067"
+	},
+	"deliriousdesolationofthesacredlord": {
+		"filename_icon": "UI_ItemIcon_114066"
+	},
+	"deliriousdecadenceofthesacredlord": {
+		"filename_icon": "UI_ItemIcon_114065"
+	},
+	"nightwindsmysticrevelation": {
+		"filename_icon": "UI_ItemIcon_114072"
+	},
+	"nightwindsmysticaugury": {
+		"filename_icon": "UI_ItemIcon_114071"
+	},
+	"nightwindsmysticpremonition": {
+		"filename_icon": "UI_ItemIcon_114070"
+	},
+	"nightwindsmysticconsideration": {
+		"filename_icon": "UI_ItemIcon_114069"
+	},
+	"cakefortraveler-04": {
+		"filename_icon": "UI_ItemIcon_118009"
+	},
+	"sanctifyingelixir": {
+		"filename_icon": "UI_ItemIcon_105005"
+	},
+	"yellowobsidianring": {
+		"filename_icon": "UI_ItemIcon_120859"
+	},
+	"greenobsidianring": {
+		"filename_icon": "UI_ItemIcon_120913"
+	},
+	"azureobsidianring": {
+		"filename_icon": "UI_ItemIcon_120915"
+	},
+	"yellowobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_120858"
+	},
+	"greenobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_120912"
+	},
+	"azureobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_120914"
+	},
+	"goldinscribedsecretsourcecore": {
+		"filename_icon": "UI_ItemIcon_113066"
+	},
+	"shuttleofodara": {
+		"filename_icon": "UI_ItemIcon_200123"
+	},
+	"glowinghornshroom": {
+		"filename_icon": "UI_ItemIcon_101252"
+	},
+	"witheringpurpurbloom": {
+		"filename_icon": "UI_ItemIcon_101253"
+	},
+	"spinelgrainbait": {
+		"filename_icon": "UI_ItemIcon_111033"
+	},
+	"emberglowbait": {
+		"filename_icon": "UI_ItemIcon_111034"
+	},
+	"floralrapidfightingfish": {
+		"filename_icon": "UI_ItemIcon_131038"
+	},
+	"divingrapidfightingfish": {
+		"filename_icon": "UI_ItemIcon_131039"
+	},
+	"magmarapidfightingfish": {
+		"filename_icon": "UI_ItemIcon_131040"
+	},
+	"greenwavesunfish": {
+		"filename_icon": "UI_ItemIcon_131041"
+	},
+	"dusksunfish": {
+		"filename_icon": "UI_ItemIcon_131042"
+	},
+	"phonyphlogistonunihornfish": {
+		"filename_icon": "UI_ItemIcon_131043"
+	},
+	"pseudosharkunihornfish": {
+		"filename_icon": "UI_ItemIcon_131044"
+	},
+	"illusoryleafcoil": {
+		"filename_icon": "UI_ItemIcon_112118"
+	},
+	"bewilderingbroadleaf": {
+		"filename_icon": "UI_ItemIcon_112117"
+	},
+	"refractivebud": {
+		"filename_icon": "UI_ItemIcon_112116"
+	},
+	"ensnaringgaze": {
+		"filename_icon": "UI_ItemIcon_113067"
+	},
+	"flowhornflounderfinder": {
+		"filename_icon": "UI_ItemIcon_200907"
+	},
+	"purpleobsidianring": {
+		"filename_icon": "UI_ItemIcon_121104"
+	},
+	"crimsonobsidianring": {
+		"filename_icon": "UI_ItemIcon_121106"
+	},
+	"purpleobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_121103"
+	},
+	"crimsonobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_121105"
+	},
+	"erodedhorn": {
+		"filename_icon": "UI_ItemIcon_113068"
+	},
+	"erodedsunfire": {
+		"filename_icon": "UI_ItemIcon_113069"
+	},
+	"erodedscalefeather": {
+		"filename_icon": "UI_ItemIcon_113070"
+	},
+	"talismanoftheenigmaticland": {
+		"filename_icon": "UI_ItemIcon_113071"
+	},
+	"scrollofthefieryfirmament": {
+		"filename_icon": "UI_ItemIcon_222004"
+	},
+	"smolderingphosphorescentflame": {
+		"filename_icon": "UI_ItemIcon_200124"
+	},
+	"skysplitgembloom": {
+		"filename_icon": "UI_ItemIcon_101254"
+	},
+	"dracolite": {
+		"filename_icon": "UI_ItemIcon_101255"
+	},
+	"redberryshroom": {
+		"filename_icon": "UI_ItemIcon_101256"
+	},
+	"secretsourcescoutsweeper": {
+		"filename_icon": "UI_ItemIcon_131045"
+	},
+	"blazingprismshell": {
+		"filename_icon": "UI_ItemIcon_112121"
+	},
+	"warmbackshell": {
+		"filename_icon": "UI_ItemIcon_112120"
+	},
+	"coldcrackedshellshard": {
+		"filename_icon": "UI_ItemIcon_112119"
+	},
+	"sparklessstatuecore": {
+		"filename_icon": "UI_ItemIcon_113072"
+	},
+	"sunsetblueobsidianring": {
+		"filename_icon": "UI_ItemIcon_121108"
+	},
+	"sunsetblueobsidianfragment": {
+		"filename_icon": "UI_ItemIcon_121107"
+	},
+	"compositebowtuningkit": {
+		"filename_icon": "UI_ItemIcon_200125"
+	},
+	"empowereddragontooth": {
+		"filename_icon": "UI_ItemIcon_100619"
+	},
+	"ascendedsampleknight": {
+		"filename_icon": "UI_ItemIcon_113073"
+	},
+	"ascendedsamplerook": {
+		"filename_icon": "UI_ItemIcon_113074"
+	},
+	"ascendedsamplequeen": {
+		"filename_icon": "UI_ItemIcon_113075"
+	},
+	"secretsourceairflowaccumulator": {
+		"filename_icon": "UI_ItemIcon_113076"
+	},
+	"dustofenlightenment": {
+		"filename_icon": "UI_ItemIcon_TrainingIteration"
+	},
+	"drifterscrystalmarrow": {
+		"filename_icon": "UI_ItemIcon_200126"
+	},
+	"mysteriousbolt": {
+		"filename_icon": "UI_ItemIcon_121279"
+	},
+	"goldenstrings": {
+		"filename_icon": "UI_ItemIcon_200127"
+	},
+	"rainbowdropcrystal": {
+		"filename_icon": "UI_ItemIcon_101258"
+	},
+	"portablebearing": {
+		"filename_icon": "UI_ItemIcon_101257"
+	},
+	"frostlampflower": {
+		"filename_icon": "UI_ItemIcon_101261"
+	},
+	"moonfallsilver": {
+		"filename_icon": "UI_ItemIcon_101263"
+	},
+	"icypebble": {
+		"filename_icon": "UI_ItemIcon_101259"
+	},
+	"nocturnalblossom": {
+		"filename_icon": "UI_ItemIcon_101262"
+	},
+	"rye": {
+		"filename_icon": "UI_ItemIcon_101268"
+	},
+	"lakkaberry": {
+		"filename_icon": "UI_ItemIcon_101264"
+	},
+	"midsommarberry": {
+		"filename_icon": "UI_ItemIcon_101265"
+	},
+	"smetana": {
+		"filename_icon": "UI_ItemIcon_110015"
+	},
+	"ryeflour": {
+		"filename_icon": "UI_ItemIcon_110016"
+	},
+	"silverfirwood": {
+		"filename_icon": "UI_ItemIcon_101327"
+	},
+	"hazelnutwood": {
+		"filename_icon": "UI_ItemIcon_101328"
+	},
+	"pedunculateoakwood": {
+		"filename_icon": "UI_ItemIcon_101329"
+	},
+	"alderwood": {
+		"filename_icon": "UI_ItemIcon_101330"
+	},
+	"berrybait": {
+		"filename_icon": "UI_ItemIcon_111035"
+	},
+	"refreshinglakkabait": {
+		"filename_icon": "UI_ItemIcon_111036"
+	},
+	"commonaxeheadfish": {
+		"filename_icon": "UI_ItemIcon_131046"
+	},
+	"frostedaxeheadfish": {
+		"filename_icon": "UI_ItemIcon_131047"
+	},
+	"blazingaxeheadfish": {
+		"filename_icon": "UI_ItemIcon_131048"
+	},
+	"veggiemaulershark": {
+		"filename_icon": "UI_ItemIcon_131049"
+	},
+	"neonmaulershark": {
+		"filename_icon": "UI_ItemIcon_131050"
+	},
+	"azuregazecrystaleye": {
+		"filename_icon": "UI_ItemIcon_131051"
+	},
+	"nightgazecrystaleye": {
+		"filename_icon": "UI_ItemIcon_131052"
+	},
+	"frostnightsglory": {
+		"filename_icon": "UI_ItemIcon_112130"
+	},
+	"frostnightsglow": {
+		"filename_icon": "UI_ItemIcon_112129"
+	},
+	"frostnightsglimmer": {
+		"filename_icon": "UI_ItemIcon_112128"
+	},
+	"radiantexoskeleton": {
+		"filename_icon": "UI_ItemIcon_112133"
+	},
+	"glowingremains": {
+		"filename_icon": "UI_ItemIcon_112132"
+	},
+	"lightlessbone": {
+		"filename_icon": "UI_ItemIcon_112131"
+	},
+	"mistshroudhelmet": {
+		"filename_icon": "UI_ItemIcon_112136"
+	},
+	"mistshroudplate": {
+		"filename_icon": "UI_ItemIcon_112135"
+	},
+	"mistshroudmanifestation": {
+		"filename_icon": "UI_ItemIcon_112134"
+	},
+	"precisiondriveshaft": {
+		"filename_icon": "UI_ItemIcon_112124"
+	},
+	"reinforceddriveshaft": {
+		"filename_icon": "UI_ItemIcon_112123"
+	},
+	"brokendriveshaft": {
+		"filename_icon": "UI_ItemIcon_112122"
+	},
+	"frostetchedwarrant": {
+		"filename_icon": "UI_ItemIcon_112127"
+	},
+	"immaculatewarrant": {
+		"filename_icon": "UI_ItemIcon_112126"
+	},
+	"tatteredwarrant": {
+		"filename_icon": "UI_ItemIcon_112125"
+	},
+	"precisionkuuvahkistampingdie": {
+		"filename_icon": "UI_ItemIcon_113077"
+	},
+	"lightbearingscalefeather": {
+		"filename_icon": "UI_ItemIcon_113078"
+	},
+	"philosophiesofmoonlight": {
+		"filename_icon": "UI_ItemIcon_104358"
+	},
+	"guidetomoonlight": {
+		"filename_icon": "UI_ItemIcon_104357"
+	},
+	"teachingsofmoonlight": {
+		"filename_icon": "UI_ItemIcon_104356"
+	},
+	"philosophiesofelysium": {
+		"filename_icon": "UI_ItemIcon_104361"
+	},
+	"guidetoelysium": {
+		"filename_icon": "UI_ItemIcon_104360"
+	},
+	"teachingsofelysium": {
+		"filename_icon": "UI_ItemIcon_104359"
+	},
+	"philosophiesofvagrancy": {
+		"filename_icon": "UI_ItemIcon_104364"
+	},
+	"guidetovagrancy": {
+		"filename_icon": "UI_ItemIcon_104363"
+	},
+	"teachingsofvagrancy": {
+		"filename_icon": "UI_ItemIcon_104362"
+	},
+	"artfuldevicewish": {
+		"filename_icon": "UI_ItemIcon_114076"
+	},
+	"artfuldeviceinheritance": {
+		"filename_icon": "UI_ItemIcon_114075"
+	},
+	"artfuldevicereplica": {
+		"filename_icon": "UI_ItemIcon_114074"
+	},
+	"artfuldevicefragment": {
+		"filename_icon": "UI_ItemIcon_114073"
+	},
+	"blazeoflongnightflint": {
+		"filename_icon": "UI_ItemIcon_114080"
+	},
+	"flareoflongnightflint": {
+		"filename_icon": "UI_ItemIcon_114079"
+	},
+	"afterglowoflongnightflint": {
+		"filename_icon": "UI_ItemIcon_114078"
+	},
+	"emberoflongnightflint": {
+		"filename_icon": "UI_ItemIcon_114077"
+	},
+	"aureateradianceofthefarnorthscions": {
+		"filename_icon": "UI_ItemIcon_114084"
+	},
+	"oblationofthefarnorthscions": {
+		"filename_icon": "UI_ItemIcon_114083"
+	},
+	"unyieldingdelusionofthefarnorthscions": {
+		"filename_icon": "UI_ItemIcon_114082"
+	},
+	"sunderedgloryofthefarnorthscions": {
+		"filename_icon": "UI_ItemIcon_114081"
+	},
+	"moongleamsapling": {
+		"filename_icon": "UI_ItemIcon_200908"
+	},
+	"cakefortraveler-05": {
+		"filename_icon": "UI_ItemIcon_118011"
+	},
+	"ainostoolboxempty": {
+		"filename_icon": "UI_ItemIcon_121250"
+	},
+	"ineffastoolboxempty": {
+		"filename_icon": "UI_ItemIcon_121252"
+	},
+	"evermoonseal": {
+		"filename_icon": "UI_ItemIcon_121283"
+	},
+	"evermoonseal-01": {
+		"filename_icon": "UI_ItemIcon_121284"
+	},
+	"evermoonseal-02": {
+		"filename_icon": "UI_ItemIcon_121285"
+	},
+	"krumkakebolt": {
+		"filename_icon": "UI_ItemIcon_121279"
+	},
+	"lunasigil": {
+		"filename_icon": "UI_ItemIcon_308"
+	},
+	"radiantantler": {
+		"filename_icon": "UI_ItemIcon_113079"
+	},
+	"recordedintel": {
+		"filename_icon": "UI_ItemIcon_121330"
+	},
+	"anemoculus": {
+		"filename_icon": "UI_ItemIcon_107001"
+	},
+	"geoculus": {
+		"filename_icon": "UI_ItemIcon_107003"
+	},
+	"electroculus": {
+		"filename_icon": "UI_ItemIcon_107014"
+	},
+	"dendroculus": {
+		"filename_icon": "UI_ItemIcon_107017"
+	},
+	"hydroculus": {
+		"filename_icon": "UI_ItemIcon_107023"
+	},
+	"pyroculus": {
+		"filename_icon": "UI_ItemIcon_107028"
+	},
+	"lunoculus": {
+		"filename_icon": "UI_ItemIcon_107030"
+	},
+	"lumenstoneore": {
+		"filename_icon": "UI_ItemIcon_101644"
+	},
+	"crimsonagate": {
+		"filename_icon": "UI_ItemIcon_107010"
+	},
+	"crimsonagatedisplay": {
+		"filename_icon": "UI_ItemIcon_107010"
+	},
+	"moonchasecharm": {
+		"filename_icon": "UI_ItemIcon_107015"
+	},
+	"lumenspar": {
+		"filename_icon": "UI_ItemIcon_107016"
+	},
+	"spiritcarp": {
+		"filename_icon": "UI_ItemIcon_107026"
+	},
+	"chroniclesoftherealms": {
+		"filename_icon": ""
+	},
+	"chronicleexp": {
+		"filename_icon": "UI_ItemIcon_239"
+	},
+	"refinedheart": {
+		"filename_icon": "UI_ItemIcon_200128"
+	},
+	"cyclicmilitarykuuvahkicore": {
+		"filename_icon": "UI_ItemIcon_113080"
+	},
+	"wintericelea": {
+		"filename_icon": "UI_ItemIcon_101266"
+	},
+	"pineamber": {
+		"filename_icon": "UI_ItemIcon_101269"
+	},
+	"hookedbeakofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112139"
+	},
+	"aberrantcoreofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112138"
+	},
+	"fracturedeyeofthedeepshadow": {
+		"filename_icon": "UI_ItemIcon_112137"
+	},
+	"maskofthevirtuousdoctor": {
+		"filename_icon": "UI_ItemIcon_113081"
+	},
+	"madmansrestraint": {
+		"filename_icon": "UI_ItemIcon_113082"
+	},
+	"elixiroftheheretic": {
+		"filename_icon": "UI_ItemIcon_113083"
+	},
+	"remnantofthedreadwing": {
+		"filename_icon": "UI_ItemIcon_113084"
+	},
+	"irismoonseal": {
+		"filename_icon": "UI_ItemIcon_121450"
+	},
+	"irismoonseal-01": {
+		"filename_icon": "UI_ItemIcon_121451"
+	},
+	"irismoonseal-02": {
+		"filename_icon": "UI_ItemIcon_121452"
+	}
+}

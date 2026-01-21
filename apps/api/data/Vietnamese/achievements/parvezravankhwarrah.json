@@ -1,0 +1,21 @@
+{
+	"id": [
+		81312
+	],
+	"name": "Parvezravan Khwarrah",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1299,
+	"stages": 1,
+	"stage1": {
+		"title": "Parvezravan Khwarrah",
+		"description": "Khiến cho tất cả tấm Obelisk Nguyên Thủy của Sa Mạc Hadramaveth vận hành trở lại.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

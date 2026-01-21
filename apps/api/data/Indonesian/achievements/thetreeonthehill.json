@@ -1,0 +1,21 @@
+{
+	"id": [
+		81316
+	],
+	"name": "Pohon di Atas Bukit",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1303,
+	"stages": 1,
+	"stage1": {
+		"title": "Pohon di Atas Bukit",
+		"description": "Bawa Rashnu kembali ke Vourukasha Oasis.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

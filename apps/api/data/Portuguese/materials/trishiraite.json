@@ -1,0 +1,13 @@
+{
+	"id": 101224,
+	"name": "Trishiraita",
+	"sortRank": 314,
+	"description": "Uma pedra esplendorosa que pode ser encontrada nas profundezas de montanhas isoladas, aparentemente formada pela solidificação de energia elemental.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Sumeru",
+	"sources": [
+		"Encontrado no deserto de Sumeru",
+		"Recomendação: Encontrado na Cordilheira Temir",
+		"Ir para coleta"
+	]
+}

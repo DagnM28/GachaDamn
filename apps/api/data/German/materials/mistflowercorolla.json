@@ -1,0 +1,12 @@
+{
+	"id": 100052,
+	"name": "Eisnebelblumenblüte",
+	"sortRank": 320,
+	"description": "Ein in festes Eis gehülltes Staubblatt. Auch nachdem es den Stängel verlassen hat, strömt es unaufhörlich Kälte ab.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"In der freien Natur zu finden",
+		"Empfohlen: Beim Weingut Morgenröte zu finden"
+	]
+}

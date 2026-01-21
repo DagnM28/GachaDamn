@@ -1,0 +1,21 @@
+{
+	"id": [
+		84526
+	],
+	"name": "Yoruma Açık",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "Yoruma Açık",
+		"description": "Olması muhtemel bir aşka dair 4 işareti mahvet.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

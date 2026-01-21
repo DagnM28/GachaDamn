@@ -1,0 +1,20 @@
+{
+	"id": [
+		86018
+	],
+	"name": "Herkes Kendi Yoluna",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Dış Diyarlardaki Karşılaşmalar: II. Seri",
+	"sortOrder": 9018,
+	"stages": 1,
+	"stage1": {
+		"title": "Herkes Kendi Yoluna",
+		"description": "Eşli Modda bir Maguu Kenkiyi yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

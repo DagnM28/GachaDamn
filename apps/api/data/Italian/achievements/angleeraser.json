@@ -1,0 +1,21 @@
+{
+	"id": [
+		81340
+	],
+	"name": "Il cancella angoli",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1326,
+	"stages": 1,
+	"stage1": {
+		"title": "Il cancella angoli",
+		"description": "Sopprimi la Faglia bestiale usando il potere dei cristalli.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

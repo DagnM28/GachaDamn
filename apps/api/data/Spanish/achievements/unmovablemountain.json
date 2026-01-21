@@ -1,0 +1,21 @@
+{
+	"id": [
+		80045
+	],
+	"name": "Montaña inamovible",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: el puerto de la piedra y los contratos",
+	"sortOrder": 45,
+	"stages": 1,
+	"stage1": {
+		"title": "Montaña inamovible",
+		"ps5title": "Liyue: Montaña inamovible",
+		"description": "Mejora las Estatuas de Los Siete en Liyue al nivel máximo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11203,
+	"name": "Ingranaggio cilindrico",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150120,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112083,
+			"name": "Ingranaggio dentato",
+			"count": 3
+		}
+	]
+}

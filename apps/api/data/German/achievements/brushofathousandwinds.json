@@ -1,0 +1,21 @@
+{
+	"id": [
+		80031
+	],
+	"name": "Sausen der Tausend Winde",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt: Die Stadt des Windes und des Hirtengesangs",
+	"sortOrder": 31,
+	"stages": 1,
+	"stage1": {
+		"title": "Sausen der Tausend Winde",
+		"ps5title": "Mondstadt – Sausen der Tausend Winde",
+		"description": "Aktiviere alle Teleportationspunkte in der Region um Mondstadt (außer dem Drachengrat).",
+		"progress": 22,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

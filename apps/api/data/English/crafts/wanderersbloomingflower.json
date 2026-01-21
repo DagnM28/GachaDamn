@@ -1,0 +1,16 @@
+{
+	"id": 11054,
+	"name": "Wanderer's Blooming Flower",
+	"filterText": "Character and Weapon Enhancement Material",
+	"sortOrder": 140149,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112078,
+			"name": "Treasured Flower",
+			"count": 3
+		}
+	]
+}

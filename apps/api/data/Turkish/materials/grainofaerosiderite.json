@@ -1,0 +1,20 @@
+{
+	"id": 114021,
+	"name": "Meteor Demiri Tozu",
+	"rarity": 2,
+	"sortRank": 15106,
+	"description": "Silah Yükseltme Malzemesi.\nBir canavarı yok etmek için düştüğü söylenen siyah meteor, Liyue'deki Bulut Denizi'nin ilerisine düştü. Ancak güçlü lekeli kanla kirlendiği için bu eşyada artık Rex Lapis'in saf gücü yok.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Silah Yükseltme Malzemesi",
+	"dropDomainId": 5222,
+	"dropDomainName": "Döküm Zindanı: Yıldırım İmtihanı Alanı",
+	"daysOfWeek": [
+		"Çarşamba",
+		"Cumartesi",
+		"Pazar"
+	],
+	"sources": [
+		"Liyue'deki Hediyelik Eşya Dükkanından satın alınır.",
+		"Hediye Dükkanında takas edilir."
+	]
+}

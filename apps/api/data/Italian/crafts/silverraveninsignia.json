@@ -1,0 +1,16 @@
+{
+	"id": 11023,
+	"name": "Emblema del corvo argentato",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150050,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112035,
+			"name": "Emblema del Cacciatore di tesori",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81363
+	],
+	"name": "Canção Ancestral",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1348,
+	"stages": 1,
+	"stage1": {
+		"title": "Canção Ancestral",
+		"description": "Ouça a melodia de tempos antigos.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

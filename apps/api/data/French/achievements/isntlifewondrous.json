@@ -1,0 +1,21 @@
+{
+	"id": [
+		81304
+	],
+	"name": "« Ô la belle vie »",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1291,
+	"stages": 1,
+	"stage1": {
+		"title": "« Ô la belle vie »",
+		"description": "Les palais des vers des sables ont beau être complexes, la vie trouve toujours un chemin inattendu...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

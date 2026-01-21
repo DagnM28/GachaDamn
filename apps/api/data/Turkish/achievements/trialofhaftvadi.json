@@ -1,0 +1,21 @@
+{
+	"id": [
+		81323
+	],
+	"name": "Haft-Vádí İmtihanı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1310,
+	"stages": 1,
+	"stage1": {
+		"title": "Haft-Vádí İmtihanı",
+		"description": "Artık Khvarena'nın Ulu Şarkılarının gücünü taşıyorsun.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

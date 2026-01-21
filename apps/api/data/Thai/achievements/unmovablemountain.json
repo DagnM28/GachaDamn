@@ -1,0 +1,21 @@
+{
+	"id": [
+		80045
+	],
+	"name": "หนักแน่นดังขุนเขา",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue - ท่าเรือแห่ง พันธสัญญาและหิน",
+	"sortOrder": 45,
+	"stages": 1,
+	"stage1": {
+		"title": "หนักแน่นดังขุนเขา",
+		"ps5title": "Liyue - หนักแน่นดังขุนเขา",
+		"description": "บูชา Statue of The Seven ของ Liyue ถึงเลเวลสูงสุด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

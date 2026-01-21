@@ -1,0 +1,20 @@
+{
+	"id": [
+		84513
+	],
+	"name": "Subiendo de nivel",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"sortOrder": 4037,
+	"stages": 1,
+	"stage1": {
+		"title": "Subiendo de nivel",
+		"description": "Ayuda a Huai'an a reparar el puente roto de la Posada Wangshu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

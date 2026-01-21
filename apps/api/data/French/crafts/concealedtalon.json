@@ -1,0 +1,16 @@
+{
+	"id": 11038,
+	"name": "Serre dissimulée",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 140089,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112057,
+			"name": "Ongle dissimulé",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"id": 100021,
+	"name": "Gancho do Lobo",
+	"sortRank": 311,
+	"description": "Uma baga com espinhos que frequentemente ficam presos na pele dos lobos. Se olhar de perto, você pode escutar o eco dos gritos dos lobos nos bosques.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Mondstadt",
+	"sources": [
+		"Recomendação: Encontrado no Reino dos Lobos",
+		"Ir para coleta"
+	]
+}

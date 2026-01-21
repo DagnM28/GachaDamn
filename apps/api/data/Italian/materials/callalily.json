@@ -1,0 +1,14 @@
+{
+	"id": 100056,
+	"name": "Giglio di calla",
+	"sortRank": 311,
+	"description": "Un fiore che cresce nei pressi delle fonti d'acqua. Se cucinato, i petali acquistano una consistenza fibrosa ma hanno un sapore agrodolce.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità di Mondstadt",
+	"sources": [
+		"Si trova vicino ai laghi",
+		"Consiglio: si trova al Villaggio Acquachiara",
+		"Coltivato nella Serenteiera",
+		"Vai a raccogliere"
+	]
+}

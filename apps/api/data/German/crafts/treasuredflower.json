@@ -1,0 +1,16 @@
+{
+	"id": 11053,
+	"name": "Jemandes geschätzte Blume",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140150,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112077,
+			"name": "Ungeblühte Blume unbekannter Herkunft",
+			"count": 3
+		}
+	]
+}

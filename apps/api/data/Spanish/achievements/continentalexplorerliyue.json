@@ -1,0 +1,21 @@
+{
+	"id": [
+		80043
+	],
+	"name": "#Explorad{F#ora}{M#or} continental: Liyue",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: el puerto de la piedra y los contratos",
+	"sortOrder": 43,
+	"stages": 1,
+	"stage1": {
+		"title": "#Explorad{F#ora}{M#or} continental: Liyue",
+		"ps5title": "Liyue: Explorador continental",
+		"description": "Descubre el mapa de la Llanura Bishui, el Estuario Chiongji, Minlin, Lisha y el Mar de Nubes.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

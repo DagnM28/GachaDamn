@@ -1,0 +1,20 @@
+{
+	"id": [
+		80269
+	],
+	"name": "Düzenbaz Renart",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Fani Meseleleri: IV. Seri",
+	"sortOrder": 176,
+	"stages": 1,
+	"stage1": {
+		"title": "Düzenbaz Renart",
+		"description": "\"Fontaine Masalları\" serisinin tüm ciltlerini topla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11007,
+	"name": "Scharfe Bolzenspitze",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 150030,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112011,
+			"name": "Stabile Bolzenspitze",
+			"count": 3
+		}
+	]
+}

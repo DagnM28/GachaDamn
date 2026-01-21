@@ -1,0 +1,16 @@
+{
+	"id": 11020,
+	"name": "Grande dague de l'Inspecteur",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 140049,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112030,
+			"name": "Dague rituelle de l'Usurier",
+			"count": 3
+		}
+	]
+}

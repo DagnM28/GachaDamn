@@ -1,0 +1,21 @@
+{
+	"id": [
+		84114
+	],
+	"name": "Но есть одна загвоздка...",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Воспоминания сердца",
+	"isHidden": true,
+	"sortOrder": 6510,
+	"stages": 1,
+	"stage1": {
+		"title": "Но есть одна загвоздка...",
+		"description": "Помогите Дионе найти особую основу для напитка.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

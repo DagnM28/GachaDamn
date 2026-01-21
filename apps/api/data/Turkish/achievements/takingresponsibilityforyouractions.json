@@ -1,0 +1,21 @@
+{
+	"id": [
+		84515
+	],
+	"name": "Büyüklük Sende Kalsın",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4039,
+	"stages": 1,
+	"stage1": {
+		"title": "Büyüklük Sende Kalsın",
+		"description": "Timmie'den özür dile.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81321
+	],
+	"name": "\"Barangsiapa Berani Masuk, Hendaklah Ia Menanggalkan Semua Harapan.\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1308,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Barangsiapa Berani Masuk, Hendaklah Ia Menanggalkan Semua Harapan.\"",
+		"description": "Capai ujung dari dunia permukaan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

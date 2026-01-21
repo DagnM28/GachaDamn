@@ -1,0 +1,20 @@
+{
+	"id": [
+		82004
+	],
+	"name": "Quelle est la matière de ce bouclier ?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Au défi ! - Partie I",
+	"sortOrder": 2004,
+	"stages": 1,
+	"stage1": {
+		"title": "Quelle est la matière de ce bouclier ?",
+		"description": "Brisez l'égide cristalline Géo d'un Géoblob géant.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

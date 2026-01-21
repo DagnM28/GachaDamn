@@ -1,0 +1,20 @@
+{
+	"id": [
+		82005
+	],
+	"name": "Les boules à plasma sont toujours à la mode ?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Au défi ! - Partie I",
+	"sortOrder": 2005,
+	"stages": 1,
+	"stage1": {
+		"title": "Les boules à plasma sont toujours à la mode ?",
+		"description": "Brisez l'égide d'un Mage électroluciole.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100075,
+	"name": "Sal",
+	"sortRank": 321,
+	"description": "Um tempero saboroso. Com a quantidade precisa, pode levar o sabor dos pratos à perfeição.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente",
+	"sources": [
+		"Vendido nas Tendas"
+	]
+}

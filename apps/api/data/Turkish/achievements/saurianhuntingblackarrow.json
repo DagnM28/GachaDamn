@@ -1,0 +1,21 @@
+{
+	"id": [
+		82250
+	],
+	"name": "Sürüngen Avcısı Kara Ok...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2250,
+	"stages": 1,
+	"stage1": {
+		"title": "Sürüngen Avcısı Kara Ok...",
+		"description": "Altın Alevli Gukuzor Tiranın Ateş Tılsımını \"Altın Alev\" durumundayken yok et ve onu gökten düşür.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

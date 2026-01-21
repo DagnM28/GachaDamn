@@ -1,0 +1,16 @@
+{
+	"id": 11027,
+	"name": "结实的骨片",
+	"filterText": "角色与武器培养素材",
+	"sortOrder": 140060,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112041,
+			"name": "脆弱的骨片",
+			"count": 3
+		}
+	]
+}

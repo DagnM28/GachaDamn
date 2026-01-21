@@ -1,0 +1,21 @@
+{
+	"id": [
+		81205
+	],
+	"name": "Lại, Lại, Lại Trúng Thưởng Rồi!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1191,
+	"stages": 1,
+	"stage1": {
+		"title": "Lại, Lại, Lại Trúng Thưởng Rồi!",
+		"description": "Đào được 3 rương, vượt ải trò chơi đào báu vật của Lão Chou.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

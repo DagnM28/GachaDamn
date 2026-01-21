@@ -1,0 +1,22 @@
+{
+	"id": [
+		81252
+	],
+	"name": "Melati Berbisik, Buah Delima Bersukacita",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1238,
+	"stages": 1,
+	"stage1": {
+		"title": "Melati Berbisik, Buah Delima Bersukacita",
+		"ps5title": "Perjalanan: Melati Berbisik, Buah Delima Bersukacita",
+		"description": "Selesaikan \"Agnihotra Sutra\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

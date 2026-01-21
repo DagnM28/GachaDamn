@@ -1,0 +1,21 @@
+{
+	"id": [
+		81503
+	],
+	"name": "Un po' di dignità",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1487,
+	"stages": 1,
+	"stage1": {
+		"title": "Un po' di dignità",
+		"description": "Il pericolo è sempre in agguato.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

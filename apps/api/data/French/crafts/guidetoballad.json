@@ -1,0 +1,16 @@
+{
+	"id": 13005,
+	"name": "Guide de la Poésie",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120020,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104307,
+			"name": "Enseignement de la Poésie",
+			"count": 3
+		}
+	]
+}

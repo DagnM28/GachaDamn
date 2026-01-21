@@ -1,0 +1,21 @@
+{
+	"id": [
+		81366
+	],
+	"name": "Ước Nguyện Hoàn Thành Trách Nhiệm",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1351,
+	"stages": 1,
+	"stage1": {
+		"title": "Ước Nguyện Hoàn Thành Trách Nhiệm",
+		"description": "Vật về cố chủ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

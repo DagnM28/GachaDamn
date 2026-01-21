@@ -1,0 +1,21 @@
+{
+	"id": [
+		81261
+	],
+	"name": "Reencontro Sem Fim",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1247,
+	"stages": 1,
+	"stage1": {
+		"title": "Reencontro Sem Fim",
+		"description": "Siga o Animal de Carga que perdeu seu dono até o fim de sua jornada.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

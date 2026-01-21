@@ -1,0 +1,20 @@
+{
+	"id": [
+		80131
+	],
+	"name": "Kekuatan Tertinggi di Dunia",
+	"achievementGroupId": 28,
+	"achievementGroupName": "Cahaya Siang",
+	"sortOrder": 131,
+	"stages": 1,
+	"stage1": {
+		"title": "Kekuatan Tertinggi di Dunia",
+		"description": "Buka semua Teleport Waypoint di Enkanomiya.",
+		"progress": 24,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

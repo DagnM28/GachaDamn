@@ -1,0 +1,21 @@
+{
+	"id": [
+		81333
+	],
+	"name": "Danza dei sette piatti",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1320,
+	"stages": 1,
+	"stage1": {
+		"title": "Danza dei sette piatti",
+		"description": "Completa tutte le sfide di Funghi tamburelli salterini.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

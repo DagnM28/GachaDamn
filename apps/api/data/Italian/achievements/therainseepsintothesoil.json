@@ -1,0 +1,22 @@
+{
+	"id": [
+		81256
+	],
+	"name": "La pioggia penetra nel suolo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1242,
+	"stages": 1,
+	"stage1": {
+		"title": "La pioggia penetra nel suolo",
+		"ps5title": "Viaggio: La pioggia penetra nel suolo",
+		"description": "Completa Varuna Gatha.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

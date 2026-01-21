@@ -1,0 +1,16 @@
+{
+	"id": 11035,
+	"name": "Cuore spettrale",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150080,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112053,
+			"name": "Guscio spettrale",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100002,
+	"name": "Tramontino",
+	"sortRank": 90000,
+	"description": "Un frutto carnoso, bello come il tramonto, che abbonda in tutta Teyvat. Dal sapore dolciastro e dall'elevato contenuto energetico.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Cibo",
+	"sources": [
+		"Presente in natura"
+	]
+}

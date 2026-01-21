@@ -1,0 +1,20 @@
+{
+	"id": [
+		82117
+	],
+	"name": "Yok Olma Anı",
+	"achievementGroupId": 29,
+	"achievementGroupName": "Mücadeleci: V. Seri",
+	"sortOrder": 2117,
+	"stages": 1,
+	"stage1": {
+		"title": "Yok Olma Anı",
+		"description": "Kızıl Nilüfer Güvesi kullanmadan Sinyora'yı yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

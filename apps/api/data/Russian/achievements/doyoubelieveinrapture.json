@@ -1,0 +1,21 @@
+{
+	"id": [
+		81357
+	],
+	"name": "Веришь ли ты в восторг?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1343,
+	"stages": 1,
+	"stage1": {
+		"title": "Веришь ли ты в восторг?",
+		"description": "Помогите построить рай для пухленей.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

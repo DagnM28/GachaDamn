@@ -1,0 +1,16 @@
+{
+	"id": 12035,
+	"name": "Грёзы пылающей мощи",
+	"filterText": "Возвышение оружия",
+	"sortOrder": 130109,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114046,
+			"name": "Отсветы пылающей мощи",
+			"count": 3
+		}
+	]
+}

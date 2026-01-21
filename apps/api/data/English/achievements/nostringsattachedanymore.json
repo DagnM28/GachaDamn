@@ -1,0 +1,20 @@
+{
+	"id": [
+		86018
+	],
+	"name": "No Strings Attached, Anymore",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Meetings in Outrealm: Series II",
+	"sortOrder": 9018,
+	"stages": 1,
+	"stage1": {
+		"title": "No Strings Attached, Anymore",
+		"description": "Defeat a Maguu Kenki in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

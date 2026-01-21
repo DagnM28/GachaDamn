@@ -1,0 +1,16 @@
+{
+	"id": 13003,
+	"name": "Direniş Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120010,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104304,
+			"name": "Direniş Öğretisi",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84582
+	],
+	"name": "เส้นทางแห่งแรงบันดาลใจ",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 4106,
+	"stages": 1,
+	"stage1": {
+		"title": "เส้นทางแห่งแรงบันดาลใจ",
+		"description": "ช่วย Zicheng ตามหาแรงบันดาลใจในการแต่งบทกวี...?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

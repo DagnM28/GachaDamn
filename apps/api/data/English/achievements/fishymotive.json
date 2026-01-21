@@ -1,0 +1,20 @@
+{
+	"id": [
+		81138
+	],
+	"name": "Fishy Motive",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Teyvat Fishing Guide: Series I",
+	"sortOrder": 1130,
+	"stages": 1,
+	"stage1": {
+		"title": "Fishy Motive",
+		"description": "Buy a fishing rod from the Fishing Association.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

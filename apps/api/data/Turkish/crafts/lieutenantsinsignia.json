@@ -1,0 +1,16 @@
+{
+	"id": 11022,
+	"name": "Subay Nişanı",
+	"filterText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sortOrder": 150039,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112033,
+			"name": "Çavuş Nişanı",
+			"count": 3
+		}
+	]
+}

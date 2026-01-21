@@ -1,0 +1,11 @@
+{
+	"id": 100064,
+	"name": "Carne de Ave",
+	"sortRank": 321,
+	"description": "Carne de ave fresca. Se feita corretamente pode fazer um prato saudável.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente",
+	"sources": [
+		"Dropado pelos animais"
+	]
+}

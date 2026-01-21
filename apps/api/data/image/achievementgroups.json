@@ -1,0 +1,204 @@
+{
+	"wondersoftheworld": {
+		"filename_icon": "UI_AchievementIcon_O001"
+	},
+	"memoriesoftheheart": {
+		"filename_icon": "UI_AchievementIcon_E001"
+	},
+	"mortaltravailsseriesi": {
+		"filename_icon": "UI_AchievementIcon_A001"
+	},
+	"mortaltravailsseriesii": {
+		"filename_icon": "UI_AchievementIcon_A001_Part2"
+	},
+	"theartofadventure": {
+		"filename_icon": "UI_AchievementIcon_A002"
+	},
+	"theherosjourney": {
+		"filename_icon": "UI_AchievementIcon_A003"
+	},
+	"mondstadtthecityofwindandsong": {
+		"filename_icon": "UI_AchievementIcon_A004"
+	},
+	"liyuetheharborofstoneandcontracts": {
+		"filename_icon": "UI_AchievementIcon_A005"
+	},
+	"elementalspecialist": {},
+	"marksmanship": {
+		"filename_icon": "UI_AchievementIcon_B002"
+	},
+	"challengerseriesi": {
+		"filename_icon": "UI_AchievementIcon_B004"
+	},
+	"challengerseriesii": {
+		"filename_icon": "UI_AchievementIcon_B004_Part2"
+	},
+	"challengerseriesiii": {
+		"filename_icon": "UI_AchievementIcon_B004_Part3"
+	},
+	"challengerseriesiv": {
+		"filename_icon": "UI_AchievementIcon_B004_Part4"
+	},
+	"domainsandspiralabyssseriesi": {
+		"filename_icon": "UI_AchievementIcon_B005"
+	},
+	"olahseriesi": {
+		"filename_icon": "UI_AchievementIcon_C001"
+	},
+	"snezhnayadoesnotbelieveintearsseriesi": {
+		"filename_icon": "UI_AchievementIcon_C002"
+	},
+	"stoneharborsnostalgiaseriesi": {
+		"filename_icon": "UI_AchievementIcon_C003"
+	},
+	"meetingsinoutrealmseriesi": {
+		"filename_icon": "UI_AchievementIcon_D001"
+	},
+	"meetingsinoutrealmseriesii": {
+		"filename_icon": "UI_AchievementIcon_D001_Part2"
+	},
+	"visitorsontheicymountain": {
+		"filename_icon": "UI_AchievementIcon_A006"
+	},
+	"arealmbeyondseriesi": {
+		"filename_icon": "UI_AchievementIcon_A007"
+	},
+	"arealmbeyondseriesii": {
+		"filename_icon": "UI_AchievementIcon_A007_Part2"
+	},
+	"arealmbeyondseriesiii": {
+		"filename_icon": "UI_AchievementIcon_A007_Part3"
+	},
+	"inazumatheislandsofthunderandeternityseriesi": {
+		"filename_icon": "UI_AchievementIcon_A008"
+	},
+	"inazumatheislandsofthunderandeternityseriesii": {
+		"filename_icon": "UI_AchievementIcon_A008_Part2"
+	},
+	"thechroniclesoftheseaoffog": {
+		"filename_icon": "UI_AchievementIcon_A008_Part3"
+	},
+	"teyvatfishingguideseriesi": {
+		"filename_icon": "UI_AchievementIcon_A009"
+	},
+	"thelightofday": {
+		"filename_icon": "UI_AchievementIcon_A010"
+	},
+	"challengerseriesv": {
+		"filename_icon": "UI_AchievementIcon_B004_Part5"
+	},
+	"chasmlighter": {
+		"filename_icon": "UI_AchievementIcon_A011"
+	},
+	"mortaltravailsseriesiii": {
+		"filename_icon": "UI_AchievementIcon_A001_Part3"
+	},
+	"meetingsinoutrealmseriesiii": {
+		"filename_icon": "UI_AchievementIcon_D001_Part3"
+	},
+	"sumerutherainforestoflore": {
+		"filename_icon": "UI_AchievementIcon_A012"
+	},
+	"elementalspecialistseriesi": {
+		"filename_icon": "UI_AchievementIcon_B001"
+	},
+	"elementalspecialistseriesii": {
+		"filename_icon": "UI_AchievementIcon_B001_Part2"
+	},
+	"challengerseriesvi": {
+		"filename_icon": "UI_AchievementIcon_B004_Part6"
+	},
+	"sumeruthegildeddesertseriesi": {
+		"filename_icon": "UI_AchievementIcon_A013"
+	},
+	"geniusinvokationtcg": {
+		"filename_icon": "UI_AchievementIcon_A014"
+	},
+	"sumeruthegildeddesertseriesii": {
+		"filename_icon": "UI_AchievementIcon_A013_Part2"
+	},
+	"challengerseriesvii": {
+		"filename_icon": "UI_AchievementIcon_B004_Part7"
+	},
+	"blessedhamada": {
+		"filename_icon": "UI_AchievementIcon_A015"
+	},
+	"mortaltravailsseriesiv": {
+		"filename_icon": "UI_AchievementIcon_A001_Part4"
+	},
+	"meetingsinoutrealmseriesiv": {
+		"filename_icon": "UI_AchievementIcon_D001_Part4"
+	},
+	"fontainedanceofthedewwhitespringsi": {
+		"filename_icon": "UI_AchievementIcon_A016"
+	},
+	"challengerseriesviii": {
+		"filename_icon": "UI_AchievementIcon_B004_Part8"
+	},
+	"fontainedanceofthedewwhitespringsii": {
+		"filename_icon": "UI_AchievementIcon_A016_Part2"
+	},
+	"fontainedanceofthedewwhitespringsiii": {
+		"filename_icon": "UI_AchievementIcon_A016_Part3"
+	},
+	"chenyussplendor": {
+		"filename_icon": "UI_AchievementIcon_A017"
+	},
+	"challengerseriesix": {
+		"filename_icon": "UI_AchievementIcon_B004_Part9"
+	},
+	"rhapsodiaintheancientsea": {
+		"filename_icon": "UI_AchievementIcon_A018"
+	},
+	"imaginariumtheaterthefirstfolio": {
+		"filename_icon": "UI_AchievementIcon_B006"
+	},
+	"meetingsinoutrealmseriesv": {
+		"filename_icon": "UI_AchievementIcon_D001_Part5"
+	},
+	"imaginariumtheaterthesecondfolio": {
+		"filename_icon": "UI_AchievementIcon_B006_Part2"
+	},
+	"natlanthelandoffireandcompetitioni": {
+		"filename_icon": "UI_AchievementIcon_A019"
+	},
+	"duelistseriesi": {
+		"filename_icon": "UI_AchievementIcon_B007"
+	},
+	"natlanthelandoffireandcompetitionii": {
+		"filename_icon": "UI_AchievementIcon_A019_Part2"
+	},
+	"duelistseriesii": {
+		"filename_icon": "UI_AchievementIcon_B007_Part2"
+	},
+	"mortaltravailsseriesv": {
+		"filename_icon": "UI_AchievementIcon_A001_Part5"
+	},
+	"challengerseriesx": {
+		"filename_icon": "UI_AchievementIcon_B004_Part10"
+	},
+	"repertoireofmyriadmelodies": {
+		"filename_icon": "UI_AchievementIcon_A020"
+	},
+	"duelistseriesiii": {
+		"filename_icon": "UI_AchievementIcon_B007_Part3"
+	},
+	"sacredmountainsfadingglow": {
+		"filename_icon": "UI_AchievementIcon_A021"
+	},
+	"asummerofashandpricklypears": {
+		"filename_icon": "UI_AchievementIcon_A022"
+	},
+	"meetingsinoutrealmseriesvi": {
+		"filename_icon": "UI_AchievementIcon_D001_Part6"
+	},
+	"nodkraianelysiumofmoonlightandwanderingsi": {
+		"filename_icon": "UI_AchievementIcon_A023"
+	},
+	"mortaltravailsseriesvi": {
+		"filename_icon": "UI_AchievementIcon_A001_Part6"
+	},
+	"nodkraianelysiumofmoonlightandwanderingsii": {
+		"filename_icon": "UI_AchievementIcon_A023_Part2"
+	}
+}

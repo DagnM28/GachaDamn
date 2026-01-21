@@ -1,0 +1,21 @@
+{
+	"id": [
+		84570
+	],
+	"name": "Uma Tempestade",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4094,
+	"stages": 1,
+	"stage1": {
+		"title": "Uma Tempestade",
+		"description": "Veja a história do trabalho de Iaune.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

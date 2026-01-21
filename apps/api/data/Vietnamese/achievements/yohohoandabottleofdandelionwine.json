@@ -1,0 +1,21 @@
+{
+	"id": [
+		81074
+	],
+	"name": "Ô hô hô, thêm một chai rượu bồ công anh nữa",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1075,
+	"stages": 1,
+	"stage1": {
+		"title": "Ô hô hô, thêm một chai rượu bồ công anh nữa",
+		"description": "Lên \"Thuyền Gió\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81281
+	],
+	"name": "Wüste und Rotes Sandmeer im Zeitalter von König Deshret",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1267,
+	"stages": 1,
+	"stage1": {
+		"title": "Wüste und Rotes Sandmeer im Zeitalter von König Deshret",
+		"description": "Erkunde die drei riesigen Obelisken in der Wüste.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"id": 104152,
+	"name": "Frammento di turchese Vayuda",
+	"rarity": 3,
+	"sortRank": 12106,
+	"description": "Materiale d'ascensione dei personaggi.\n\"Eppure, la direzione dei venti è mutevole.\"",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
+		"Controlla la scheda Nemici nel Manuale dell'avventuriere",
+		"Si ottiene dalla Scheda di conversione del Banco della creazione",
+		"Segnaposto - Quantità realizzabile: {0}"
+	]
+}

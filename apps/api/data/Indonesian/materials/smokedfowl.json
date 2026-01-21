@@ -1,0 +1,11 @@
+{
+	"id": 110003,
+	"name": "Smoked Fowl",
+	"sortRank": 322,
+	"description": "Daging unggas yang diasapi. Teksturnya yang keras memberikan rasa baru pada hidangan.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Didapatkan saat proses cooking"
+	]
+}

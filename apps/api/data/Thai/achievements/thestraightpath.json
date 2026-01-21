@@ -1,0 +1,21 @@
+{
+	"id": [
+		81271
+	],
+	"name": "เส้นทางที่ตรงดิ่ง",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1257,
+	"stages": 1,
+	"stage1": {
+		"title": "เส้นทางที่ตรงดิ่ง",
+		"description": "ไปถึงพื้นที่ลับที่ด้านบนสุดของสุสานราชา Deshret",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81363
+	],
+	"name": "Lagu Masa Lampau",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1348,
+	"stages": 1,
+	"stage1": {
+		"title": "Lagu Masa Lampau",
+		"description": "Dengarkan lagu-lagu dari zaman kuno.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

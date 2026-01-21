@@ -1,0 +1,16 @@
+{
+	"id": 13013,
+	"name": "Anleitung zur „Vergänglichkeit“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120060,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104320,
+			"name": "Lehren der „Vergänglichkeit“",
+			"count": 3
+		}
+	]
+}

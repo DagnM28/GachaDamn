@@ -1,0 +1,11 @@
+{
+	"id": 110008,
+	"name": "Reçel",
+	"sortRank": 322,
+	"description": "Meyve ve şekerden üretilen, jelatine benzer madde. Bir kaşığı bile yorgun düşmüş tat algını hemen kendine getirir.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"İşlenerek elde edilir."
+	]
+}

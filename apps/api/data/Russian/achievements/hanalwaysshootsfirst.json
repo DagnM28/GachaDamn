@@ -1,0 +1,21 @@
+{
+	"id": [
+		82129
+	],
+	"name": "Хан стреляет первым",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2129,
+	"stages": 1,
+	"stage1": {
+		"title": "Хан стреляет первым",
+		"description": "...поэтому не стоит идти с мечом против ружья.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

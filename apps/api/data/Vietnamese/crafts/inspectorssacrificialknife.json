@@ -1,0 +1,16 @@
+{
+	"id": 11020,
+	"name": "Dao Đô Thám Trưởng",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 140049,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112030,
+			"name": "Dao Đặc Công",
+			"count": 3
+		}
+	]
+}

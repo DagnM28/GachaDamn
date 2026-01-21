@@ -1,0 +1,11 @@
+{
+	"id": 100072,
+	"name": "Kelebek Kanatları",
+	"sortRank": 320,
+	"description": "Parlak renkli kanatlar. Kanatlardan saçılan tozlar hafifçe parlar, belki de kelebeğin uçmasına izin veren şey budur.",
+	"category": "EXCHANGE",
+	"typeText": "Malzeme",
+	"sources": [
+		"Doğada bulunur."
+	]
+}

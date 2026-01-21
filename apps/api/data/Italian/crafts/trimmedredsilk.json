@@ -1,0 +1,16 @@
+{
+	"id": 11045,
+	"name": "Seta rossa ritagliata",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150100,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112065,
+			"name": "Seta rossa sbiadita",
+			"count": 3
+		}
+	]
+}

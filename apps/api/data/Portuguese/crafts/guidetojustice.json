@@ -1,0 +1,16 @@
+{
+	"id": 13027,
+	"name": "Guia da Justiça",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120130,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104341,
+			"name": "Ensinamentos da Justiça",
+			"count": 3
+		}
+	]
+}

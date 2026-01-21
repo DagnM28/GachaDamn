@@ -1,0 +1,21 @@
+{
+	"id": [
+		81224
+	],
+	"name": "Thù Lao Của Đức Hạnh",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1210,
+	"stages": 1,
+	"stage1": {
+		"title": "Thù Lao Của Đức Hạnh",
+		"description": "Giúp đỡ nhiều Aranara ở rừng sâu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

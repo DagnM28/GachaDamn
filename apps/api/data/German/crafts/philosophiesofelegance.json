@@ -1,0 +1,16 @@
+{
+	"id": 13016,
+	"name": "Philosophie der „Eleganz“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120069,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104324,
+			"name": "Anleitung zur „Eleganz“",
+			"count": 3
+		}
+	]
+}

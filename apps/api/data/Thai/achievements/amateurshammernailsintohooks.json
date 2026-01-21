@@ -1,0 +1,20 @@
+{
+	"id": [
+		81131
+	],
+	"name": "รังสรรค์ทำเบ็ดตกปลา",
+	"achievementGroupId": 25,
+	"achievementGroupName": "คำแนะนำการตกปลาแห่ง Teyvat - ชุดที่ 1",
+	"sortOrder": 1123,
+	"stages": 1,
+	"stage1": {
+		"title": "รังสรรค์ทำเบ็ดตกปลา",
+		"description": "ตกปลาได้สำเร็จเป็นครั้งแรก",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

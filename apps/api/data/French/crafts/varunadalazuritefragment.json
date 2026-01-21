@@ -1,0 +1,16 @@
+{
+	"id": 15004,
+	"name": "Fragment de lazurite varunada",
+	"filterText": "Matériau d'élévation de personnage",
+	"sortOrder": 110010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 300,
+	"recipe": [
+		{
+			"id": 104121,
+			"name": "Éclat de lazurite varunada",
+			"count": 3
+		}
+	]
+}

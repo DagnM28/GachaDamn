@@ -1,0 +1,21 @@
+{
+	"id": [
+		81314
+	],
+	"name": "Işıkların Ulaştığı Yerde",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1301,
+	"stages": 1,
+	"stage1": {
+		"title": "Işıkların Ulaştığı Yerde",
+		"description": "Vourukasha Vahası'na ulaş.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

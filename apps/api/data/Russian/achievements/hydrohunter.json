@@ -1,0 +1,20 @@
+{
+	"id": [
+		82053
+	],
+	"name": "Гидро-охотник",
+	"achievementGroupId": 14,
+	"achievementGroupName": "Победитель II",
+	"sortOrder": 2053,
+	"stages": 1,
+	"stage1": {
+		"title": "Гидро-охотник",
+		"description": "Одолейте каждый вид Гидро мимика, которого может призвать океанид.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

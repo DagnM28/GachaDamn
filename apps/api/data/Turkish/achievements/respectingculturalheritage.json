@@ -1,0 +1,21 @@
+{
+	"id": [
+		84016
+	],
+	"name": "Kültürel Mirasa Saygı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4017,
+	"stages": 1,
+	"stage1": {
+		"title": "Kültürel Mirasa Saygı",
+		"description": "Hindistankeçisini bulamasan da bir mekanizmayı onarmayı başardın.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		86016
+	],
+	"name": "Tuffo nel passato",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Incontri in un altro mondo: Serie II",
+	"sortOrder": 9016,
+	"stages": 1,
+	"stage1": {
+		"title": "Tuffo nel passato",
+		"description": "Sconfiggi Azhdaha in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

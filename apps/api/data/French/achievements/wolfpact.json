@@ -1,0 +1,20 @@
+{
+	"id": [
+		86013
+	],
+	"name": "Pacte des loups",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Rencontres dans un autre monde - Partie I",
+	"sortOrder": 9013,
+	"stages": 1,
+	"stage1": {
+		"title": "Pacte des loups",
+		"description": "Battez le roi du Territoire des Loups en mode multijoueur.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13003,
+	"name": "Anleitung zum „Widerstand“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120010,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104304,
+			"name": "Lehren des „Widerstands“",
+			"count": 3
+		}
+	]
+}

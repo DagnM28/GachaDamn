@@ -1,0 +1,21 @@
+{
+	"id": [
+		81174
+	],
+	"name": "Sisi Aydınlat",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1160,
+	"stages": 1,
+	"stage1": {
+		"title": "Sisi Aydınlat",
+		"description": "Autake Ovası'ndaki tüm Fırtına Taşlarını aydınlat.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81223
+	],
+	"name": "Sage à Sumeru",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"sortOrder": 1209,
+	"stages": 1,
+	"stage1": {
+		"title": "Sage à Sumeru",
+		"ps5title": "Sumeru - Sage à Sumeru",
+		"description": "Atteignez un Niv. de réputation 10 à Sumeru.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 20
+		}
+	}
+}

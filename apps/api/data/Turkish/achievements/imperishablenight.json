@@ -1,0 +1,21 @@
+{
+	"id": [
+		81524
+	],
+	"name": "Ölümsüz Gece",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1508,
+	"stages": 1,
+	"stage1": {
+		"title": "Ölümsüz Gece",
+		"description": "Gece Ruhunun Lütfu durumuna gir ve 18sn boyunca o durumda kal.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

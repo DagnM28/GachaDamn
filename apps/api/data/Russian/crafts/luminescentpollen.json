@@ -1,0 +1,16 @@
+{
+	"id": 11041,
+	"name": "Светящаяся пыльца",
+	"filterText": "Улучшение персонажей/оружия",
+	"sortOrder": 150090,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112059,
+			"name": "Споры плесенника",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"id": 104324,
+	"name": "Anleitung zur „Eleganz“",
+	"rarity": 3,
+	"sortRank": 13108,
+	"description": "Material zur Verbesserung von Talenten.\nEleganz ist die Form des Reichs des Blitzes.\nEleganz meidet Arroganz. Die Eleganten sind immer bescheiden und nur wenn man Eitelkeit und Trägheit ablegt, kann man klar sehen. Und gibt es nicht Schönheit und Liebenswürdigkeit selbst in den niedersten Äußerlichkeiten?",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material für Figurentalente",
+	"dropDomainId": 4411,
+	"dropDomainName": "Sphäre des Verständnisses: Tal der Blitze",
+	"daysOfWeek": [
+		"Dienstag",
+		"Freitag",
+		"Sonntag"
+	],
+	"sources": [
+		"Platzhalter – Herstellbare Menge: {0}"
+	]
+}

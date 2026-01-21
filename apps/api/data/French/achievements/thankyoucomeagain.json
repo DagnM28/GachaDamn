@@ -1,0 +1,21 @@
+{
+	"id": [
+		81122
+	],
+	"name": "Merci et à la prochaine",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1118,
+	"stages": 1,
+	"stage1": {
+		"title": "Merci et à la prochaine",
+		"description": "Obtenez la meilleure récompense du coffre de Takashi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

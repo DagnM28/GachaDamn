@@ -1,0 +1,21 @@
+{
+	"id": [
+		81167
+	],
+	"name": "Attraverso la porta della nebbia",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1153,
+	"stages": 1,
+	"stage1": {
+		"title": "Attraverso la porta della nebbia",
+		"description": "Abituati al clima particolare dell'isola di Tsurumi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		84102
+	],
+	"name": "Bazı Sınırlar Aşılabilir",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"sortOrder": 6200,
+	"stages": 1,
+	"stage1": {
+		"title": "Bazı Sınırlar Aşılabilir",
+		"description": "\"Şifa Kaynağı\" görevini tamamlayıp bütün sonların kilidini aç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 20
+		}
+	}
+}

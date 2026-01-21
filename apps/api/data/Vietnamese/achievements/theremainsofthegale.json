@@ -1,0 +1,21 @@
+{
+	"id": [
+		81001
+	],
+	"name": "Bộ xương cốt trải qua nhiều năm tháng",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1001,
+	"stages": 1,
+	"stage1": {
+		"title": "Bộ xương cốt trải qua nhiều năm tháng",
+		"description": "Leo lên đỉnh của toà tháp trong Phế Tích Phong Long.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

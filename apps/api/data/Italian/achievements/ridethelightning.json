@@ -1,0 +1,21 @@
+{
+	"id": [
+		82107
+	],
+	"name": "Cavalca il fulmine",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 2108,
+	"stages": 1,
+	"stage1": {
+		"title": "Cavalca il fulmine",
+		"description": "Sconfiggi un Kairagi Tuono danzante mentre la sua arma è infusa di Electro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

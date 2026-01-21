@@ -1,0 +1,20 @@
+{
+	"id": [
+		86023
+	],
+	"name": "Acqua, praticamente",
+	"achievementGroupId": 33,
+	"achievementGroupName": "Incontri in un altro mondo: Serie III",
+	"sortOrder": 9022,
+	"stages": 1,
+	"stage1": {
+		"title": "Acqua, praticamente",
+		"description": "Sconfiggi un'Ipostasi di Hydro in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

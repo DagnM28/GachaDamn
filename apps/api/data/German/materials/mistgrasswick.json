@@ -1,0 +1,14 @@
+{
+	"id": 112028,
+	"name": "Nebelgrasdocht",
+	"rarity": 4,
+	"sortRank": 10109,
+	"description": "Ein Bündel dieser allein schon so seltenen Pflanze, das ein unscheinbares Licht abgibt, das sowohl Cicine als auch Unglück anzieht.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Cicin-Zauberinnen der Fatui ab Stufe 60",
+		"Mit Sternenstaub kaufen: Herstellbar nach Erhalt",
+		"Platzhalter – Herstellbare Menge: {0}"
+	]
+}

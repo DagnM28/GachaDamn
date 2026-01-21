@@ -1,0 +1,21 @@
+{
+	"id": [
+		81542
+	],
+	"name": "Kalbim Nihayet Tamamlandı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1526,
+	"stages": 1,
+	"stage1": {
+		"title": "Kalbim Nihayet Tamamlandı",
+		"description": "Kabilelerden gelen iki aşığın, kalp şeklinde dizilen taşların köşelerini hizalamasına yardımcı ol.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

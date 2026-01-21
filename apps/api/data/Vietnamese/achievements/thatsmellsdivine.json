@@ -1,0 +1,21 @@
+{
+	"id": [
+		84013
+	],
+	"name": "\"Nghề tay trái\" của Xuân Hương Diêu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4014,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Nghề tay trái\" của Xuân Hương Diêu",
+		"description": "Tìm hiểu loại sáp thơm mà Nham Vương Đế Quân yêu thích.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

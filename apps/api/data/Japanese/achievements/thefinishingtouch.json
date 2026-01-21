@@ -1,0 +1,21 @@
+{
+	"id": [
+		80363
+	],
+	"name": "画龍点睛？",
+	"dupealias": "画龍点睛？ 0",
+	"achievementGroupId": 55,
+	"achievementGroupName": "ナタ・炎と角逐の地・2",
+	"sortOrder": 337,
+	"stages": 1,
+	"stage1": {
+		"title": "画龍点睛？",
+		"description": "テスカテペトン山脈にある巨大なラクガキの力を復活させる。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 10
+		}
+	}
+}

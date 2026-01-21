@@ -1,0 +1,21 @@
+{
+	"id": [
+		80163
+	],
+	"name": "Fragrant comme les plantes",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru : Selve de connaissances",
+	"sortOrder": 163,
+	"stages": 1,
+	"stage1": {
+		"title": "Fragrant comme les plantes",
+		"ps5title": "Sumeru - Fragrant comme les plantes",
+		"description": "Montez les Statues des Sept de Sumeru au niveau maximum.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 20
+		}
+	}
+}

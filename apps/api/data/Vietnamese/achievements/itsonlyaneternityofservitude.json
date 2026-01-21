@@ -1,0 +1,21 @@
+{
+	"id": [
+		81292
+	],
+	"name": "\"Đó Chỉ Là Sự Nô Dịch Vĩnh Hằng!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1278,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Đó Chỉ Là Sự Nô Dịch Vĩnh Hằng!\"",
+		"description": "Trấn Linh Liloupar ngủ say ngàn năm đã cùng bạn lập nên khế ước.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

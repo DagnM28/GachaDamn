@@ -1,0 +1,21 @@
+{
+	"id": [
+		81350
+	],
+	"name": "Sự Ra Đời Của Đồng Hồ Hiện Đại",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1336,
+	"stages": 1,
+	"stage1": {
+		"title": "Sự Ra Đời Của Đồng Hồ Hiện Đại",
+		"description": "Giúp Puca tìm được \"công dụng\" của khoáng thạch.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

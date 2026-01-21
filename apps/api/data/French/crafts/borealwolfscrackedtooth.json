@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Croc brisé du Loup boréal",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Dent de lait du Loup boréal",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12003,
+	"name": "Scattered Piece of Decarabian's Dream",
+	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
+	"sortOrder": 129998,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114003,
+			"name": "Fragment of Decarabian's Epic",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82090
+	],
+	"name": "\"Đóng Băng Ba Thước...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2090,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Đóng Băng Ba Thước...\"",
+		"description": "Đánh bại một Băng Nguyên Bản đã hồi sinh 3 lần.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81225
+	],
+	"name": "Cánh Cổng Diệu Kỳ",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1211,
+	"stages": 1,
+	"stage1": {
+		"title": "Cánh Cổng Diệu Kỳ",
+		"description": "Thực sự bước vào \"thế giới của Aranara\"...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

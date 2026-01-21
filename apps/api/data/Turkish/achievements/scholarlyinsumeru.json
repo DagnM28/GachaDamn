@@ -1,0 +1,21 @@
+{
+	"id": [
+		84560
+	],
+	"name": "Sumeru'da Alimlik",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4084,
+	"stages": 1,
+	"stage1": {
+		"title": "Sumeru'da Alimlik",
+		"description": "6 farklı soruya doğru cevabı ver.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

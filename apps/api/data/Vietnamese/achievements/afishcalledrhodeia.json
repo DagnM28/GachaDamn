@@ -1,0 +1,20 @@
+{
+	"id": [
+		86012
+	],
+	"name": "Một con cá có tên Rhodeia",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần I",
+	"sortOrder": 9012,
+	"stages": 1,
+	"stage1": {
+		"title": "Một con cá có tên Rhodeia",
+		"description": "Cùng người chơi khác đánh bại Tinh Linh Nước Trong.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

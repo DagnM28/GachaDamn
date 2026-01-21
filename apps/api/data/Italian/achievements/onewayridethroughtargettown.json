@@ -1,0 +1,21 @@
+{
+	"id": [
+		81535
+	],
+	"name": "Irreversibile come il tempo...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1519,
+	"stages": 1,
+	"stage1": {
+		"title": "Irreversibile come il tempo...",
+		"description": "Distruggi tutti i Palloni nella modalità Palloni Bersaglio Volanti.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

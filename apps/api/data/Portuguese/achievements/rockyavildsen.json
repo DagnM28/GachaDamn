@@ -1,0 +1,21 @@
+{
+	"id": [
+		81434
+	],
+	"name": "Roger Averson",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1418,
+	"stages": 1,
+	"stage1": {
+		"title": "Roger Averson",
+		"description": "Derrote a Lenda Local: Roger Averson",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

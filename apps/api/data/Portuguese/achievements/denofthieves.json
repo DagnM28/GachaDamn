@@ -1,0 +1,21 @@
+{
+	"id": [
+		81204
+	],
+	"name": "Covil de Ladrões",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1190,
+	"stages": 1,
+	"stage1": {
+		"title": "Covil de Ladrões",
+		"description": "Encontre o tesouro dos Ladrões de Tesouro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84044
+	],
+	"name": "Да здравствует революция",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5023,
+	"stages": 1,
+	"stage1": {
+		"title": "Да здравствует революция",
+		"description": "Вступите в сопротивление.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100001,
+	"name": "Pomme",
+	"sortRank": 90000,
+	"description": "Fruit croquant et acidulé. Il peut être consommé tel quel ou transformé en cidre.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Nourriture",
+	"sources": [
+		"Dans la nature"
+	]
+}

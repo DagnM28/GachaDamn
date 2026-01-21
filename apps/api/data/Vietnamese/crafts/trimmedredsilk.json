@@ -1,0 +1,16 @@
+{
+	"id": 11045,
+	"name": "Băng Đỏ Viền Vàng",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 150100,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112065,
+			"name": "Băng Đỏ Phai Màu",
+			"count": 3
+		}
+	]
+}

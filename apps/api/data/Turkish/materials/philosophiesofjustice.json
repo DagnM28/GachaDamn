@@ -1,0 +1,19 @@
+{
+	"id": 104343,
+	"name": "Adalet Felsefesi",
+	"rarity": 4,
+	"sortRank": 13114,
+	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nSu Ülkesinin kılıcı adalettir.\nFontaine'in kanunu adaletin kılıcını elinde taşır. Adalet, yargılama ve uzlaşı anlamına gelir. Adaletin kılıcı kötü eylemleri cezalandırırken uzlaşı da düzeni tesis eder.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter Yeteneği Malzemesi",
+	"dropDomainId": 4493,
+	"dropDomainName": "Ustalık Zindanı: Uyarı Yazıtı",
+	"daysOfWeek": [
+		"Salı",
+		"Cuma",
+		"Pazar"
+	],
+	"sources": [
+		"Yer Tutucu - Üretilebilir Miktar: {0}"
+	]
+}

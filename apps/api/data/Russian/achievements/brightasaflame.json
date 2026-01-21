@@ -1,0 +1,20 @@
+{
+	"id": [
+		80177
+	],
+	"name": "Как яркое пламя",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Скитания по миру III",
+	"sortOrder": 177,
+	"stages": 1,
+	"stage1": {
+		"title": "Как яркое пламя",
+		"description": "Соберите полную коллекцию «Учения листвы».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

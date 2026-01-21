@@ -1,0 +1,21 @@
+{
+	"id": [
+		81104
+	],
+	"name": "Il palazzo sotterraneo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1102,
+	"stages": 1,
+	"stage1": {
+		"title": "Il palazzo sotterraneo",
+		"description": "A volte, il vero tesoro è tutto quello che impari lungo la strada.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

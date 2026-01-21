@@ -1,0 +1,42 @@
+{
+	"id": [
+		80188,
+		80189,
+		80190
+	],
+	"name": "Abenteurer im Treibsand I",
+	"achievementGroupId": 35,
+	"achievementGroupName": "Sumeru – Die goldene Wüste I",
+	"sortOrder": 190,
+	"stages": 3,
+	"stage1": {
+		"title": "Abenteurer im Treibsand I",
+		"description": "Schließ 10 Zeitherausforderungen mit Vorrichtungen in den Gebieten Hypostylwüste, Obere Setekh-Region und Niedere Setekh-Region ab.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Abenteurer im Treibsand I",
+		"description": "Schließ 20 Zeitherausforderungen mit Vorrichtungen in den Gebieten Hypostylwüste, Obere Setekh-Region und Niedere Setekh-Region ab.",
+		"progress": 20,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Abenteurer im Treibsand I",
+		"description": "Schließ 40 Zeitherausforderungen mit Vorrichtungen in den Gebieten Hypostylwüste, Obere Setekh-Region und Niedere Setekh-Region ab.",
+		"progress": 40,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

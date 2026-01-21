@@ -1,0 +1,20 @@
+{
+	"id": [
+		86038
+	],
+	"name": "Một Lần Săn Bắt Thành Công",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần IV",
+	"sortOrder": 9037,
+	"stages": 1,
+	"stage1": {
+		"title": "Một Lần Săn Bắt Thành Công",
+		"description": "Cùng người chơi khác chiến thắng Hoàng Đế Thép Lửa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

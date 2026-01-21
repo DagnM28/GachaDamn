@@ -1,0 +1,21 @@
+{
+	"id": [
+		82129
+	],
+	"name": "\"Han Luôn Bắn Trước...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2129,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Han Luôn Bắn Trước...\"",
+		"description": "...Cho nên không cần đem theo dao vào cuộc đấu súng.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

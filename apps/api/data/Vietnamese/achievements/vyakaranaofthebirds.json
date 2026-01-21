@@ -1,0 +1,21 @@
+{
+	"id": [
+		81319
+	],
+	"name": "Vyakarana Của Đàn Chim",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1306,
+	"stages": 1,
+	"stage1": {
+		"title": "Vyakarana Của Đàn Chim",
+		"description": "Dưới sự chứng kiến của Zurvan, Sorush đã nhận được Vòng Hoa Hai Sừng...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

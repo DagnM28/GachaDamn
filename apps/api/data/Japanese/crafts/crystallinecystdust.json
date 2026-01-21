@@ -1,0 +1,16 @@
+{
+	"id": 11042,
+	"name": "キノコンの晶胞子",
+	"filterText": "キャラと武器育成素材",
+	"sortOrder": 150089,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112060,
+			"name": "キノコンの蛍胞子",
+			"count": 3
+		}
+	]
+}

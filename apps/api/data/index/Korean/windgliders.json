@@ -1,0 +1,70 @@
+{
+	"namemap": {
+		"wingsofazurewind": "창천 청풍의 날개",
+		"wingsofcompanionship": "수호의 날개",
+		"wingsofconcealingsnow": "설은의 날개",
+		"wingsofdelicacies": "냠냠 날개",
+		"wingsofdescension": "강림의 날개",
+		"wingsoffatescourseintertwined": "엇갈린 운명의 날개",
+		"wingsoffeasting": "향연의 날개",
+		"wingsoffirstflight": "최초의 날개",
+		"wingsofgoldenflight": "금종천행의 날개",
+		"wingsofleisurelymoments": "여유로운 만찬의 날개",
+		"wingsofmercifulwrathfulwaters": "자애로운 물과 성난 파도의 날개",
+		"wingsofshimmeringgalaxy": "찬란한 은하의 날개",
+		"wingsofsoaringflame": "치솟는 불길의 날개",
+		"wingsoftheforest": "울창한 숲의 날개",
+		"wingsofthesilentmoon": "달이 머무는 밤의 날개",
+		"wingsofthestarlitfeast": "별빛 축제의 날개",
+		"wingsofthestormstrider": "날쌘 뇌운의 날개",
+		"wingsoftransientdreams": "꿈에서 탄생한 찰나의 날개"
+	},
+	"names": {
+		"창천 청풍의 날개": "wingsofazurewind",
+		"수호의 날개": "wingsofcompanionship",
+		"설은의 날개": "wingsofconcealingsnow",
+		"냠냠 날개": "wingsofdelicacies",
+		"강림의 날개": "wingsofdescension",
+		"엇갈린 운명의 날개": "wingsoffatescourseintertwined",
+		"향연의 날개": "wingsoffeasting",
+		"최초의 날개": "wingsoffirstflight",
+		"금종천행의 날개": "wingsofgoldenflight",
+		"여유로운 만찬의 날개": "wingsofleisurelymoments",
+		"자애로운 물과 성난 파도의 날개": "wingsofmercifulwrathfulwaters",
+		"찬란한 은하의 날개": "wingsofshimmeringgalaxy",
+		"치솟는 불길의 날개": "wingsofsoaringflame",
+		"울창한 숲의 날개": "wingsoftheforest",
+		"달이 머무는 밤의 날개": "wingsofthesilentmoon",
+		"별빛 축제의 날개": "wingsofthestarlitfeast",
+		"날쌘 뇌운의 날개": "wingsofthestormstrider",
+		"꿈에서 탄생한 찰나의 날개": "wingsoftransientdreams"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"wingsofazurewind",
+			"wingsofcompanionship",
+			"wingsofconcealingsnow",
+			"wingsofdelicacies",
+			"wingsofdescension",
+			"wingsoffatescourseintertwined",
+			"wingsoffeasting",
+			"wingsoffirstflight",
+			"wingsofgoldenflight",
+			"wingsofleisurelymoments",
+			"wingsofmercifulwrathfulwaters",
+			"wingsofshimmeringgalaxy",
+			"wingsofsoaringflame",
+			"wingsoftheforest",
+			"wingsofthesilentmoon",
+			"wingsofthestarlitfeast",
+			"wingsofthestormstrider",
+			"wingsoftransientdreams"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

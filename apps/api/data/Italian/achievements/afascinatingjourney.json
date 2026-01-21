@@ -1,0 +1,21 @@
+{
+	"id": [
+		81327
+	],
+	"name": "Un viaggio affascinante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1314,
+	"stages": 1,
+	"stage1": {
+		"title": "Un viaggio affascinante",
+		"description": "Completa Un artista alla deriva.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11015,
+	"name": "Chaos-Schaltkreis",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140030,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112023,
+			"name": "Chaos-Apparat",
+			"count": 3
+		}
+	]
+}

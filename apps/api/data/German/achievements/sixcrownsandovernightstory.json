@@ -1,0 +1,20 @@
+{
+	"id": [
+		81522
+	],
+	"name": "Sechs Kronen der Ehre und die Legende der Nacht",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"sortOrder": 1506,
+	"stages": 1,
+	"stage1": {
+		"title": "Sechs Kronen der Ehre und die Legende der Nacht",
+		"description": "Erreiche bei allen Stämmen in Natlan die Ansehensstufe 4.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

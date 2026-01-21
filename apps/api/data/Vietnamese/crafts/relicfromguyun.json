@@ -1,0 +1,16 @@
+{
+	"id": 12011,
+	"name": "Thánh Cốt Rừng Băng Giá",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130029,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114014,
+			"name": "Nham Thạch Rừng Băng Giá",
+			"count": 3
+		}
+	]
+}

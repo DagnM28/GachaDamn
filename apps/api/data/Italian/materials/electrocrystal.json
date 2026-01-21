@@ -1,0 +1,12 @@
+{
+	"id": 100054,
+	"name": "Cristallo di Electro",
+	"sortRank": 320,
+	"description": "Un cristallo dal grande potere che assorbe elettricità dall'aria circostante. Tenerlo in mano trasmette una sensazione di torpore.",
+	"category": "EXCHANGE",
+	"typeText": "Materiale",
+	"sources": [
+		"Si trova sotto i dirupi montani",
+		"Consiglio: si trova a Capo Promessa"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84534
+	],
+	"name": "Cơm Samurai",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4058,
+	"stages": 1,
+	"stage1": {
+		"title": "Cơm Samurai",
+		"description": "Giúp đỡ Kamei Munehisa thu thập tất cả nguyên liệu nấu nướng từ doanh trại hai bên.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

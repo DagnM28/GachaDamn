@@ -1,0 +1,1343 @@
+{
+	"genshinimpactanewworld": {
+		"filename_icon": "UI_NameCardIcon_0",
+		"filename_background": "UI_NameCardPic_0_P"
+	},
+	"travelnotescatchthewind": {
+		"filename_icon": "UI_NameCardIcon_Bp1",
+		"filename_banner": "UI_NameCardPic_Bp1_Alpha",
+		"filename_background": "UI_NameCardPic_Bp1_P"
+	},
+	"amberbunny": {
+		"filename_icon": "UI_NameCardIcon_Ambor",
+		"filename_banner": "UI_NameCardPic_Ambor_Alpha",
+		"filename_background": "UI_NameCardPic_Ambor_P"
+	},
+	"kleeexplosive": {
+		"filename_icon": "UI_NameCardIcon_Klee",
+		"filename_banner": "UI_NameCardPic_Klee_Alpha",
+		"filename_background": "UI_NameCardPic_Klee_P"
+	},
+	"dilucflames": {
+		"filename_icon": "UI_NameCardIcon_Diluc",
+		"filename_banner": "UI_NameCardPic_Diluc_Alpha",
+		"filename_background": "UI_NameCardPic_Diluc_P"
+	},
+	"razorwolvensprint": {
+		"filename_icon": "UI_NameCardIcon_Razor",
+		"filename_banner": "UI_NameCardPic_Razor_Alpha",
+		"filename_background": "UI_NameCardPic_Razor_P"
+	},
+	"ventiazuresky": {
+		"filename_icon": "UI_NameCardIcon_Venti",
+		"filename_banner": "UI_NameCardPic_Venti_Alpha",
+		"filename_background": "UI_NameCardPic_Venti_P"
+	},
+	"jeanthewindscourse": {
+		"filename_icon": "UI_NameCardIcon_Qin",
+		"filename_banner": "UI_NameCardPic_Qin_Alpha",
+		"filename_background": "UI_NameCardPic_Qin_P"
+	},
+	"barbaraflow": {
+		"filename_icon": "UI_NameCardIcon_Barbara",
+		"filename_banner": "UI_NameCardPic_Barbara_Alpha",
+		"filename_background": "UI_NameCardPic_Barbara_P"
+	},
+	"kaeyapavoocellus": {
+		"filename_icon": "UI_NameCardIcon_Kaeya",
+		"filename_banner": "UI_NameCardPic_Kaeya_Alpha",
+		"filename_background": "UI_NameCardPic_Kaeya_P"
+	},
+	"lisatempusfugit": {
+		"filename_icon": "UI_NameCardIcon_Lisa",
+		"filename_banner": "UI_NameCardPic_Lisa_Alpha",
+		"filename_background": "UI_NameCardPic_Lisa_P"
+	},
+	"sucrosebioalchemy": {
+		"filename_icon": "UI_NameCardIcon_Sucrose",
+		"filename_banner": "UI_NameCardPic_Sucrose_Alpha",
+		"filename_background": "UI_NameCardPic_Sucrose_P"
+	},
+	"fischlnightraven": {
+		"filename_icon": "UI_NameCardIcon_Fischl",
+		"filename_banner": "UI_NameCardPic_Fischl_Alpha",
+		"filename_background": "UI_NameCardPic_Fischl_P"
+	},
+	"noelleprotector": {
+		"filename_icon": "UI_NameCardIcon_Noel",
+		"filename_banner": "UI_NameCardPic_Noel_Alpha",
+		"filename_background": "UI_NameCardPic_Noel_P"
+	},
+	"monastarrysky": {
+		"filename_icon": "UI_NameCardIcon_Mona",
+		"filename_banner": "UI_NameCardPic_Mona_Alpha",
+		"filename_background": "UI_NameCardPic_Mona_P"
+	},
+	"bennettrecognition": {
+		"filename_icon": "UI_NameCardIcon_Bennett",
+		"filename_banner": "UI_NameCardPic_Bennett_Alpha",
+		"filename_background": "UI_NameCardPic_Bennett_P"
+	},
+	"xianglingfreshfromthepan": {
+		"filename_icon": "UI_NameCardIcon_Xiangling",
+		"filename_banner": "UI_NameCardPic_Xiangling_Alpha",
+		"filename_background": "UI_NameCardPic_Xiangling_P"
+	},
+	"xingqiurainbow": {
+		"filename_icon": "UI_NameCardIcon_Xingqiu",
+		"filename_banner": "UI_NameCardPic_Xingqiu_Alpha",
+		"filename_background": "UI_NameCardPic_Xingqiu_P"
+	},
+	"qiqicoldstorage": {
+		"filename_icon": "UI_NameCardIcon_Qiqi",
+		"filename_banner": "UI_NameCardPic_Qiqi_Alpha",
+		"filename_background": "UI_NameCardPic_Qiqi_P"
+	},
+	"keqinglightningstiletto": {
+		"filename_icon": "UI_NameCardIcon_Keqing",
+		"filename_banner": "UI_NameCardPic_Keqing_Alpha",
+		"filename_background": "UI_NameCardPic_Keqing_P"
+	},
+	"achievementexplorer": {
+		"filename_icon": "UI_NameCardIcon_Csxy1",
+		"filename_banner": "UI_NameCardPic_Csxy1_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy1_P"
+	},
+	"achievementvirtuoso": {
+		"filename_icon": "UI_NameCardIcon_Mxsy",
+		"filename_banner": "UI_NameCardPic_Mxsy_Alpha",
+		"filename_background": "UI_NameCardPic_Mxsy_P"
+	},
+	"achievementhero": {
+		"filename_icon": "UI_NameCardIcon_Yxzl",
+		"filename_banner": "UI_NameCardPic_Yxzl_Alpha",
+		"filename_background": "UI_NameCardPic_Yxzl_P"
+	},
+	"mondstadtwhistlingwind": {
+		"filename_icon": "UI_NameCardIcon_Md",
+		"filename_banner": "UI_NameCardPic_Md_Alpha",
+		"filename_background": "UI_NameCardPic_Md_P"
+	},
+	"liyuestillnessofstone": {
+		"filename_icon": "UI_NameCardIcon_Ly",
+		"filename_banner": "UI_NameCardPic_Ly_Alpha",
+		"filename_background": "UI_NameCardPic_Ly_P"
+	},
+	"achievementcolorsoftherainbow": {
+		"filename_icon": "UI_NameCardIcon_Yszj",
+		"filename_banner": "UI_NameCardPic_Yszj_Alpha",
+		"filename_background": "UI_NameCardPic_Yszj_P"
+	},
+	"achievementbowmaster": {
+		"filename_icon": "UI_NameCardIcon_Sss",
+		"filename_banner": "UI_NameCardPic_Sss_Alpha",
+		"filename_background": "UI_NameCardPic_Sss_P"
+	},
+	"achievementchallenger": {
+		"filename_icon": "UI_NameCardIcon_Tzz1",
+		"filename_banner": "UI_NameCardPic_Tzz1_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz1_P"
+	},
+	"achievementdeepdark": {
+		"filename_icon": "UI_NameCardIcon_Sj1",
+		"filename_banner": "UI_NameCardPic_Sj1_Alpha",
+		"filename_background": "UI_NameCardPic_Sj1_P"
+	},
+	"achievementhilldwellers": {
+		"filename_icon": "UI_NameCardIcon_Olah1",
+		"filename_banner": "UI_NameCardPic_Olah1_Alpha",
+		"filename_background": "UI_NameCardPic_Olah1_P"
+	},
+	"achievementsnowyland": {
+		"filename_icon": "UI_NameCardIcon_Zdg1",
+		"filename_banner": "UI_NameCardPic_Zdg1_Alpha",
+		"filename_background": "UI_NameCardPic_Zdg1_P"
+	},
+	"achievementcliffhanger": {
+		"filename_icon": "UI_NameCardIcon_Lyws1",
+		"filename_banner": "UI_NameCardPic_Lyws1_Alpha",
+		"filename_background": "UI_NameCardPic_Lyws1_P"
+	},
+	"achievementreunion": {
+		"filename_icon": "UI_NameCardIcon_Ysxf1",
+		"filename_banner": "UI_NameCardPic_Ysxf1_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf1_P"
+	},
+	"ningguangphoenix": {
+		"filename_icon": "UI_NameCardIcon_Ningguang",
+		"filename_banner": "UI_NameCardPic_Ningguang_Alpha",
+		"filename_background": "UI_NameCardPic_Ningguang_P"
+	},
+	"beidouweighinganchor": {
+		"filename_icon": "UI_NameCardIcon_Beidou",
+		"filename_banner": "UI_NameCardPic_Beidou_Alpha",
+		"filename_background": "UI_NameCardPic_Beidou_P"
+	},
+	"chongyunspiritblade": {
+		"filename_icon": "UI_NameCardIcon_Chongyun",
+		"filename_banner": "UI_NameCardPic_Chongyun_Alpha",
+		"filename_background": "UI_NameCardPic_Chongyun_P"
+	},
+	"achievementchallengerii": {
+		"filename_icon": "UI_NameCardIcon_Tzz2",
+		"filename_banner": "UI_NameCardPic_Tzz2_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz2_P"
+	},
+	"travelnotesfadingstar": {
+		"filename_icon": "UI_NameCardIcon_Bp2",
+		"filename_banner": "UI_NameCardPic_Bp2_Alpha",
+		"filename_background": "UI_NameCardPic_Bp2_P"
+	},
+	"dionameow": {
+		"filename_icon": "UI_NameCardIcon_Diona",
+		"filename_banner": "UI_NameCardPic_Diona_Alpha",
+		"filename_background": "UI_NameCardPic_Diona_P"
+	},
+	"zhongliplanetbefall": {
+		"filename_icon": "UI_NameCardIcon_Zhongli",
+		"filename_banner": "UI_NameCardPic_Zhongli_Alpha",
+		"filename_background": "UI_NameCardPic_Zhongli_P"
+	},
+	"xinyansongsend": {
+		"filename_icon": "UI_NameCardPic_Xinyan",
+		"filename_banner": "UI_NameCardPic_Xinyan_Alpha",
+		"filename_background": "UI_NameCardPic_Xinyan_P"
+	},
+	"childefoullegacy": {
+		"filename_icon": "UI_NameCardIcon_Tartaglia",
+		"filename_banner": "UI_NameCardPic_Tartaglia_Alpha",
+		"filename_background": "UI_NameCardPic_Tartaglia_P"
+	},
+	"mondstadtherosfame": {
+		"filename_icon": "UI_NameCardPic_Md2",
+		"filename_banner": "UI_NameCardPic_Md2_Alpha",
+		"filename_background": "UI_NameCardPic_Md2_P"
+	},
+	"mondstadtblessing": {
+		"filename_icon": "UI_NameCardPic_Md1",
+		"filename_banner": "UI_NameCardPic_Md1_Alpha",
+		"filename_background": "UI_NameCardPic_Md1_P"
+	},
+	"liyueathousandships": {
+		"filename_icon": "UI_NameCardPic_Ly1",
+		"filename_banner": "UI_NameCardPic_Ly1_Alpha",
+		"filename_background": "UI_NameCardPic_Ly1_P"
+	},
+	"liyueintheclouds": {
+		"filename_icon": "UI_NameCardPic_Ly2",
+		"filename_banner": "UI_NameCardPic_Ly2_Alpha",
+		"filename_background": "UI_NameCardPic_Ly2_P"
+	},
+	"achievementchallengeriii": {
+		"filename_icon": "UI_NameCardIcon_Tzz3",
+		"filename_banner": "UI_NameCardPic_Tzz3_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz3_P"
+	},
+	"achievementsnowysummit": {
+		"filename_icon": "UI_NameCardIcon_Xssdlk",
+		"filename_banner": "UI_NameCardPic_Xssdlk_P_Alpha",
+		"filename_background": "UI_NameCardPic_Xssdlk_P"
+	},
+	"ganyuqilin": {
+		"filename_icon": "UI_NameCardIcon_Ganyu",
+		"filename_banner": "UI_NameCardPic_Ganyu_Alpha",
+		"filename_background": "UI_NameCardPic_Ganyu_P"
+	},
+	"albedosunblossom": {
+		"filename_icon": "UI_NameCardIcon_Albedo",
+		"filename_banner": "UI_NameCardPic_Albedo_Alpha",
+		"filename_background": "UI_NameCardPic_Albedo_P"
+	},
+	"travelnoteschalk": {
+		"filename_icon": "UI_NameCardIcon_Bp3",
+		"filename_banner": "UI_NameCardPic_Bp3_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp3_P"
+	},
+	"frostbearingancienttree": {
+		"filename_icon": "UI_NameCardIcon_ElderTree",
+		"filename_banner": "UI_NameCardPic_ElderTree_Alpha",
+		"filename_background": "UI_NameCardPic_ElderTree_P"
+	},
+	"celebrationhypostasis": {
+		"filename_icon": "UI_NameCardIcon_EffigyChallenge",
+		"filename_banner": "UI_NameCardPic_EffigyChallenge_Alpha",
+		"filename_background": "UI_NameCardPic_EffigyChallenge_P"
+	},
+	"xiaomask": {
+		"filename_icon": "UI_NameCardIcon_Xiao",
+		"filename_banner": "UI_NameCardPic_Xiao_Alpha",
+		"filename_background": "UI_NameCardPic_Xiao_P"
+	},
+	"hutaospiritsoother": {
+		"filename_icon": "UI_NameCardIcon_Hutao",
+		"filename_banner": "UI_NameCardPic_Hutao_Alpha",
+		"filename_background": "UI_NameCardPic_Hutao_P"
+	},
+	"travelnotesmingxiao": {
+		"filename_icon": "UI_NameCardIcon_Bp4",
+		"filename_banner": "UI_NameCardPic_Bp4_Alpha",
+		"filename_background": "UI_NameCardPic_Bp4_P"
+	},
+	"celebrationlanternlight": {
+		"filename_icon": "UI_NameCardIcon_LanternRite",
+		"filename_banner": "UI_NameCardPic_LanternRite_Alpha",
+		"filename_background": "UI_NameCardPic_LanternRite_P"
+	},
+	"celebrationmechanicus": {
+		"filename_icon": "UI_NameCardIcon_TheatreMechanicus",
+		"filename_banner": "UI_NameCardPic_TheatreMechanicus_Alpha",
+		"filename_background": "UI_NameCardPic_TheatreMechanicus_P"
+	},
+	"rosariaindenture": {
+		"filename_icon": "UI_NameCardIcon_Rosaria",
+		"filename_banner": "UI_NameCardPic_Rosaria_Alpha",
+		"filename_background": "UI_NameCardPic_Rosaria_P"
+	},
+	"travelnoteswindblume": {
+		"filename_icon": "UI_NameCardIcon_Bp5",
+		"filename_banner": "UI_NameCardPic_Bp5_Alpha",
+		"filename_background": "UI_NameCardPic_Bp5_P"
+	},
+	"celebrationfeast": {
+		"filename_icon": "UI_NameCardIcon_RedandWhite",
+		"filename_banner": "UI_NameCardPic_RedandWhite_Alpha",
+		"filename_background": "UI_NameCardPic_RedandWhite_P"
+	},
+	"celebrationshiningscale": {
+		"filename_icon": "UI_NameCardIcon_Razer",
+		"filename_banner": "UI_NameCardPic_Razer_Alpha",
+		"filename_background": "UI_NameCardPic_Razer_P"
+	},
+	"celebrationfruitofwisdom": {
+		"filename_icon": "UI_NameCardIcon_ChannellerSlab",
+		"filename_banner": "UI_NameCardPic_ChannellerSlab_Alpha",
+		"filename_background": "UI_NameCardPic_ChannellerSlab_P"
+	},
+	"celebrationpeekaboo": {
+		"filename_icon": "UI_NameCardIcon_HideandSeek",
+		"filename_banner": "UI_NameCardPic_HideandSeek_Alpha",
+		"filename_background": "UI_NameCardPic_HideandSeek_P"
+	},
+	"yanfeiimpartial": {
+		"filename_icon": "UI_NameCardIcon_Feiyan",
+		"filename_banner": "UI_NameCardPic_Feiyan_Alpha",
+		"filename_background": "UI_NameCardPic_Feiyan_P"
+	},
+	"eulaicesealed": {
+		"filename_icon": "UI_NameCardIcon_Eula",
+		"filename_banner": "UI_NameCardPic_Eula_Alpha",
+		"filename_background": "UI_NameCardPic_Eula_P"
+	},
+	"travelnotessubspacerecreation": {
+		"filename_icon": "UI_NameCardIcon_Bp6",
+		"filename_banner": "UI_NameCardPic_Bp6_Alpha",
+		"filename_background": "UI_NameCardPic_Bp6_P"
+	},
+	"achievementteatime": {
+		"filename_icon": "UI_NameCardIcon_Homeworld",
+		"filename_banner": "UI_NameCardPic_Homeworld_Alpha",
+		"filename_background": "UI_NameCardPic_Homeworld_P"
+	},
+	"kaedeharakazuhaautumnmapleviewing": {
+		"filename_icon": "UI_NameCardIcon_Kazuha",
+		"filename_banner": "UI_NameCardPic_Kazuha_Alpha",
+		"filename_background": "UI_NameCardPic_Kazuha_P"
+	},
+	"travelnotesmidsummer": {
+		"filename_icon": "UI_NameCardIcon_Bp7",
+		"filename_banner": "UI_NameCardPic_Bp7_Alpha",
+		"filename_background": "UI_NameCardPic_Bp7_P"
+	},
+	"achievementvacationhome": {
+		"filename_icon": "UI_NameCardIcon_Homeworld1",
+		"filename_banner": "UI_NameCardPic_Homeworld1_Alpha",
+		"filename_background": "UI_NameCardPic_Homeworld1_P"
+	},
+	"celebrationvastness": {
+		"filename_icon": "UI_NameCardIcon_Google",
+		"filename_banner": "UI_NameCardPic_Google_Alpha",
+		"filename_background": "UI_NameCardPic_Google_P"
+	},
+	"celebrationkaboomball": {
+		"filename_icon": "UI_NameCardIcon_BounceConjuringChallenge",
+		"filename_banner": "UI_NameCardPic_BounceConjuringChallenge_Alpha",
+		"filename_background": "UI_NameCardPic_BounceConjuringChallenge_P"
+	},
+	"celebrationbattlesong": {
+		"filename_icon": "UI_NameCardIcon_EffigyChallenge02",
+		"filename_banner": "UI_NameCardPic_EffigyChallenge02_Alpha",
+		"filename_background": "UI_NameCardPic_EffigyChallenge02_P"
+	},
+	"inazumasacredsakura": {
+		"filename_icon": "UI_NameCardIcon_Oraionokami",
+		"filename_banner": "UI_NameCardPic_Oraionokami_Alpha",
+		"filename_background": "UI_NameCardPic_Oraionokami_P"
+	},
+	"travelnotesgrandnarukamishrine": {
+		"filename_icon": "UI_NameCardIcon_Bp8",
+		"filename_banner": "UI_NameCardPic_Bp8_Alpha",
+		"filename_background": "UI_NameCardPic_Bp8_P"
+	},
+	"kamisatoayakafoldingfan": {
+		"filename_icon": "UI_NameCardIcon_Ayaka",
+		"filename_banner": "UI_NameCardPic_Ayaka_Alpha",
+		"filename_background": "UI_NameCardPic_Ayaka_P"
+	},
+	"yoimiyaauratusspark": {
+		"filename_icon": "UI_NameCardIcon_Yoimiya",
+		"filename_banner": "UI_NameCardPic_Yoimiya_Alpha",
+		"filename_background": "UI_NameCardPic_Yoimiya_P"
+	},
+	"sayumujimujidaruma": {
+		"filename_icon": "UI_NameCardIcon_Sayu",
+		"filename_banner": "UI_NameCardPic_Sayu_Alpha",
+		"filename_background": "UI_NameCardPic_Sayu_P"
+	},
+	"inazumaraidenemblem": {
+		"filename_icon": "UI_NameCardIcon_Dq1",
+		"filename_banner": "UI_NameCardPic_Dq1_Alpha",
+		"filename_background": "UI_NameCardPic_Dq1_P"
+	},
+	"inazumakamisatocrest": {
+		"filename_icon": "UI_NameCardIcon_Dq2",
+		"filename_banner": "UI_NameCardPic_Dq2_Alpha",
+		"filename_background": "UI_NameCardPic_Dq2_P"
+	},
+	"achievementgate": {
+		"filename_icon": "UI_NameCardIcon_Ysxf2",
+		"filename_banner": "UI_NameCardPic_Ysxf2_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf2_P"
+	},
+	"achievementtraversal": {
+		"filename_icon": "UI_NameCardIcon_Csxy2",
+		"filename_banner": "UI_NameCardPic_Csxy2_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy2_P"
+	},
+	"achievementstonedragon": {
+		"filename_icon": "UI_NameCardIcon_Tzz4",
+		"filename_banner": "UI_NameCardPic_Tzz4_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz4_P"
+	},
+	"achievementfullbloom": {
+		"filename_icon": "UI_NameCardIcon_Homeworld2",
+		"filename_banner": "UI_NameCardPic_Homeworld2_Alpha",
+		"filename_background": "UI_NameCardPic_Homeworld2_P"
+	},
+	"inazumakujouinsignia": {
+		"filename_icon": "UI_NameCardIcon_Daoqi1",
+		"filename_banner": "UI_NameCardPic_Daoqi1_Alpha",
+		"filename_background": "UI_NameCardPic_Daoqi1_P"
+	},
+	"celebrationwondrouscalculation": {
+		"filename_icon": "UI_NameCardIcon_TheatreMechanicus2",
+		"filename_banner": "UI_NameCardPic_TheatreMechanicus2_Alpha",
+		"filename_background": "UI_NameCardPic_TheatreMechanicus2_P"
+	},
+	"raidenshogunenlightenment": {
+		"filename_icon": "UI_NameCardIcon_Shougun",
+		"filename_banner": "UI_NameCardPic_Shougun_Alpha",
+		"filename_background": "UI_NameCardPic_Shougun_P"
+	},
+	"sangonomiyakokomithedeep": {
+		"filename_icon": "UI_NameCardIcon_Kokomi",
+		"filename_banner": "UI_NameCardPic_Kokomi_Alpha",
+		"filename_background": "UI_NameCardPic_Kokomi_P"
+	},
+	"kujousaratengu": {
+		"filename_icon": "UI_NameCardIcon_Sara",
+		"filename_banner": "UI_NameCardPic_Sara_Alpha",
+		"filename_background": "UI_NameCardPic_Sara_P"
+	},
+	"aloydawn": {
+		"filename_icon": "UI_NameCardIcon_Aloy",
+		"filename_banner": "UI_NameCardPic_Aloy_Alpha",
+		"filename_background": "UI_NameCardPic_Aloy_P"
+	},
+	"travelnotesmoonchaser": {
+		"filename_icon": "UI_NameCardIcon_Bp9",
+		"filename_banner": "UI_NameCardPic_Bp9_Alpha",
+		"filename_background": "UI_NameCardPic_Bp9_P"
+	},
+	"inazumasangonomiyacrest": {
+		"filename_icon": "UI_NameCardIcon_Daoqi2",
+		"filename_banner": "UI_NameCardPic_Daoqi2_Alpha",
+		"filename_background": "UI_NameCardPic_Daoqi2_P"
+	},
+	"achievementnails": {
+		"filename_icon": "UI_NameCardIcon_Fishing",
+		"filename_banner": "UI_NameCardPic_Fishing_Alpha",
+		"filename_background": "UI_NameCardPic_Fishing_P"
+	},
+	"celebrationtunefuldelight": {
+		"filename_icon": "UI_NameCardIcon_Concert",
+		"filename_banner": "UI_NameCardPic_Concert_Alpha",
+		"filename_background": "UI_NameCardPic_Concert_P"
+	},
+	"celebrationikki": {
+		"filename_icon": "UI_NameCardIcon_Sumo",
+		"filename_banner": "UI_NameCardPic_Sumo_Alpha",
+		"filename_background": "UI_NameCardPic_Sumo_P"
+	},
+	"thomablazingguard": {
+		"filename_icon": "UI_NameCardIcon_Tohma",
+		"filename_banner": "UI_NameCardPic_Tohma_Alpha",
+		"filename_background": "UI_NameCardPic_Tohma_P"
+	},
+	"travelnotesheavenlygeneral": {
+		"filename_icon": "UI_NameCardIcon_Bp10",
+		"filename_banner": "UI_NameCardPic_Bp10_Alpha",
+		"filename_background": "UI_NameCardPic_Bp10_P"
+	},
+	"inazumaeagleplume": {
+		"filename_icon": "UI_NameCardIcon_Daoqi3",
+		"filename_banner": "UI_NameCardPic_Daoqi3_Alpha",
+		"filename_background": "UI_NameCardPic_Daoqi3_P"
+	},
+	"gorouleisurelyhound": {
+		"filename_icon": "UI_NameCardIcon_Gorou",
+		"filename_banner": "UI_NameCardPic_Gorou_Alpha",
+		"filename_background": "UI_NameCardPic_Gorou_P"
+	},
+	"ittooniface": {
+		"filename_icon": "UI_NameCardIcon_Itto",
+		"filename_banner": "UI_NameCardPic_Itto_Alpha",
+		"filename_background": "UI_NameCardPic_Itto_P"
+	},
+	"travelnoteslyratum": {
+		"filename_icon": "UI_NameCardIcon_Bp11",
+		"filename_banner": "UI_NameCardPic_Bp11_Alpha",
+		"filename_background": "UI_NameCardPic_Bp11_P"
+	},
+	"shenhecomb": {
+		"filename_icon": "UI_NameCardIcon_Shenhe",
+		"filename_banner": "UI_NameCardPic_Shenhe_Alpha",
+		"filename_background": "UI_NameCardPic_Shenhe_P"
+	},
+	"yunjinrhyme": {
+		"filename_icon": "UI_NameCardIcon_Yunjin",
+		"filename_banner": "UI_NameCardPic_Yunjin_Alpha",
+		"filename_background": "UI_NameCardPic_Yunjin_P"
+	},
+	"inazumatokoyo": {
+		"filename_icon": "UI_NameCardIcon_Daoqi4",
+		"filename_banner": "UI_NameCardPic_Daoqi4_Alpha",
+		"filename_background": "UI_NameCardPic_Daoqi4_P"
+	},
+	"travelnotesflowinghues": {
+		"filename_icon": "UI_NameCardIcon_Bp12",
+		"filename_banner": "UI_NameCardPic_Bp12_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp12_P"
+	},
+	"celebrationbingevessel": {
+		"filename_icon": "UI_NameCardIcon_Bartender",
+		"filename_banner": "UI_NameCardPic_Bartender_Alpha",
+		"filename_background": "UI_NameCardPic_Bartender_P"
+	},
+	"yaemikokitsunedreaming": {
+		"filename_icon": "UI_NameCardIcon_Yae1",
+		"filename_banner": "UI_NameCardPic_Yae1_Alpha",
+		"filename_background": "UI_NameCardPic_Yae1_P"
+	},
+	"travelnotesawakening": {
+		"filename_icon": "UI_NameCardIcon_Bp13",
+		"filename_banner": "UI_NameCardPic_Bp13_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp13_P"
+	},
+	"kamisatoayatoripple": {
+		"filename_icon": "UI_NameCardIcon_Ayato",
+		"filename_banner": "UI_NameCardPic_Ayato_Alpha",
+		"filename_background": "UI_NameCardPic_Ayato_P"
+	},
+	"lumensstoneoflight": {
+		"filename_icon": "UI_NameCardIcon_LuminanceStone",
+		"filename_banner": "UI_NameCardPic_LuminanceStone_Alpha",
+		"filename_background": "UI_NameCardPic_LuminanceStone_P"
+	},
+	"achievementthunderclap": {
+		"filename_icon": "UI_NameCardIcon_Tzz5",
+		"filename_banner": "UI_NameCardPic_Tzz5_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz5_P"
+	},
+	"achievementchasm": {
+		"filename_icon": "UI_NameCardIcon_Cenyan1",
+		"filename_banner": "UI_NameCardPic_Cenyan1_Alpha",
+		"filename_background": "UI_NameCardPic_Cenyan1_P"
+	},
+	"travelnotesirodori": {
+		"filename_icon": "UI_NameCardIcon_Bp14",
+		"filename_banner": "UI_NameCardPic_Bp14_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp14_P"
+	},
+	"yelanthrow": {
+		"filename_icon": "UI_NameCardIcon_Yelan",
+		"filename_banner": "UI_NameCardPic_Yelan_Alpha",
+		"filename_background": "UI_NameCardPic_Yelan_P"
+	},
+	"kukishinobunet": {
+		"filename_icon": "UI_NameCardIcon_Shinobu",
+		"filename_banner": "UI_NameCardPic_Shinobu_Alpha",
+		"filename_background": "UI_NameCardPic_Shinobu_P"
+	},
+	"travelnotesdivinewill": {
+		"filename_icon": "UI_NameCardIcon_Bp15",
+		"filename_banner": "UI_NameCardPic_Bp15_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp15_P"
+	},
+	"shikanoinheizoutemari": {
+		"filename_icon": "UI_NameCardIcon_Heizo",
+		"filename_banner": "UI_NameCardPic_Heizo_Alpha",
+		"filename_background": "UI_NameCardPic_Heizo_P"
+	},
+	"travelnotesazuremain": {
+		"filename_icon": "UI_NameCardIcon_Bp16",
+		"filename_banner": "UI_NameCardPic_Bp16_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp16_P"
+	},
+	"tighnaridewkissed": {
+		"filename_icon": "UI_NameCardIcon_Tighnari",
+		"filename_banner": "UI_NameCardPic_Tighnari_Alpha",
+		"filename_background": "UI_NameCardPic_Tighnari_P"
+	},
+	"colleigoodvirtue": {
+		"filename_icon": "UI_NameCardIcon_Collei",
+		"filename_banner": "UI_NameCardPic_Collei_Alpha",
+		"filename_background": "UI_NameCardPic_Collei_P"
+	},
+	"dorijinni": {
+		"filename_icon": "UI_NameCardIcon_Dori",
+		"filename_banner": "UI_NameCardPic_Dori_Alpha",
+		"filename_background": "UI_NameCardPic_Dori_P"
+	},
+	"travelnoteswoodlands": {
+		"filename_icon": "UI_NameCardIcon_Bp17",
+		"filename_banner": "UI_NameCardPic_Bp17_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp17_P"
+	},
+	"achievementroaming": {
+		"filename_icon": "UI_NameCardIcon_Csxy3",
+		"filename_banner": "UI_NameCardPic_Csxy3_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy3_P"
+	},
+	"achievementfatedencounter": {
+		"filename_icon": "UI_NameCardIcon_Ysxf3",
+		"filename_banner": "UI_NameCardPic_Ysxf3_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf3_P"
+	},
+	"sumerushimmeringwoods": {
+		"filename_icon": "UI_NameCardIcon_Xm1",
+		"filename_banner": "UI_NameCardPic_Xm1_Alpha",
+		"filename_background": "UI_NameCardPic_Xm1_P"
+	},
+	"sumeruobservance": {
+		"filename_icon": "UI_NameCardIcon_Xumi1",
+		"filename_banner": "UI_NameCardPic_Xumi1_Alpha",
+		"filename_background": "UI_NameCardPic_Xumi1_P"
+	},
+	"sumeruunsullied": {
+		"filename_icon": "UI_NameCardIcon_Xumi2",
+		"filename_banner": "UI_NameCardPic_Xumi2_Alpha",
+		"filename_background": "UI_NameCardPic_Xumi2_P"
+	},
+	"travelnotesreturningwinds": {
+		"filename_icon": "UI_NameCardIcon_Bp18",
+		"filename_banner": "UI_NameCardPic_Bp18_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp18_P"
+	},
+	"cynosilence": {
+		"filename_icon": "UI_NameCardIcon_Cyno",
+		"filename_banner": "UI_NameCardPic_Cyno_Alpha",
+		"filename_background": "UI_NameCardPic_Cyno_P"
+	},
+	"candacegreyheron": {},
+	"niloulotusdance": {
+		"filename_icon": "UI_NameCardIcon_Nilou",
+		"filename_banner": "UI_NameCardPic_Nilou_Alpha",
+		"filename_background": "UI_NameCardPic_Nilou_P"
+	},
+	"achievementsevenlights": {
+		"filename_icon": "UI_NameCardIcon_Yszj2",
+		"filename_banner": "UI_NameCardPic_Yszj2_Alpha",
+		"filename_background": "UI_NameCardPic_Yszj2_P"
+	},
+	"sumerusandtreader": {
+		"filename_icon": "UI_NameCardIcon_Xm2",
+		"filename_banner": "UI_NameCardPic_Xm2_Alpha",
+		"filename_background": "UI_NameCardPic_Xm2_P"
+	},
+	"achievementmirroreddreams": {
+		"filename_icon": "UI_NameCardIcon_Tzz6",
+		"filename_banner": "UI_NameCardPic_Tzz6_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz6_P"
+	},
+	"nahidacrescent": {
+		"filename_icon": "UI_NameCardIcon_Nahida",
+		"filename_banner": "UI_NameCardPic_Nahida_Alpha",
+		"filename_background": "UI_NameCardPic_Nahida_P"
+	},
+	"layladaydream": {
+		"filename_icon": "UI_NameCardIcon_Layla",
+		"filename_banner": "UI_NameCardPic_Layla_Alpha",
+		"filename_background": "UI_NameCardPic_Layla_P"
+	},
+	"travelnotesfungusland": {
+		"filename_icon": "UI_NameCardIcon_Bp19",
+		"filename_banner": "UI_NameCardPic_Bp19_Alpha",
+		"filename_background": "UI_NameCardPic_Bp19_P"
+	},
+	"wandererdriftersballad": {
+		"filename_icon": "UI_NameCardIcon_Wanderer",
+		"filename_banner": "UI_NameCardPic_Wanderer_Alpha",
+		"filename_background": "UI_NameCardPic_Wanderer_P"
+	},
+	"faruzansealedsecret": {
+		"filename_icon": "UI_NameCardIcon_Faruzan",
+		"filename_banner": "UI_NameCardPic_Faruzan_Alpha",
+		"filename_background": "UI_NameCardPic_Faruzan_P"
+	},
+	"achievementinvoker": {
+		"filename_icon": "UI_NameCardIcon_Gcg1",
+		"filename_banner": "UI_NameCardPic_Gcg1_Alpha",
+		"filename_background": "UI_NameCardPic_Gcg1_P"
+	},
+	"travelnotesstellarrivers": {
+		"filename_icon": "UI_NameCardIcon_Bp20",
+		"filename_banner": "UI_NameCardPic_Bp20_Alpha",
+		"filename_background": "UI_NameCardPic_Bp20_P"
+	},
+	"alhaithamenlightenment": {
+		"filename_icon": "UI_NameCardIcon_Alhatham",
+		"filename_banner": "UI_NameCardPic_Alhatham_Alpha",
+		"filename_background": "UI_NameCardPic_Alhatham_P"
+	},
+	"yaoyaoyuegui": {
+		"filename_icon": "UI_NameCardIcon_Yaoyao",
+		"filename_banner": "UI_NameCardPic_Yaoyao_Alpha",
+		"filename_background": "UI_NameCardPic_Yaoyao_P"
+	},
+	"celebrationlenticularclouds": {
+		"filename_icon": "UI_NameCardIcon_Cadillac",
+		"filename_banner": "UI_NameCardPic_Cadillac_Alpha",
+		"filename_background": "UI_NameCardPic_Cadillac_P"
+	},
+	"travelnotesrhythmandrhyme": {
+		"filename_icon": "UI_NameCardIcon_Bp21",
+		"filename_banner": "UI_NameCardPic_Bp21_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp21_P"
+	},
+	"achievementsandstorm": {},
+	"sumerusandstorm": {
+		"filename_icon": "UI_NameCardIcon_Xm3",
+		"filename_banner": "UI_NameCardPic_Xm3_Alpha",
+		"filename_background": "UI_NameCardPic_Xm3_P"
+	},
+	"dehyapurifyingflame": {
+		"filename_icon": "UI_NameCardIcon_Dehya",
+		"filename_banner": "UI_NameCardPic_Dehya_Alpha",
+		"filename_background": "UI_NameCardPic_Dehya_P"
+	},
+	"mikaindex": {
+		"filename_icon": "UI_NameCardIcon_Mika",
+		"filename_banner": "UI_NameCardPic_Mika_Alpha",
+		"filename_background": "UI_NameCardPic_Mika_P"
+	},
+	"travelnotesartfulintent": {
+		"filename_icon": "UI_NameCardIcon_Bp22",
+		"filename_banner": "UI_NameCardPic_Bp22_P_Alpha",
+		"filename_background": "UI_NameCardPic_Bp22_P"
+	},
+	"baizhurelief": {
+		"filename_icon": "UI_NameCardIcon_Baizhuer",
+		"filename_banner": "UI_NameCardPic_Baizhuer_Alpha",
+		"filename_background": "UI_NameCardPic_Baizhuer_P"
+	},
+	"kavehdomedcourt": {
+		"filename_icon": "UI_NameCardIcon_Kaveh",
+		"filename_banner": "UI_NameCardPic_Kaveh_Alpha",
+		"filename_background": "UI_NameCardPic_Kaveh_P"
+	},
+	"achievementinfinitum": {
+		"filename_icon": "UI_NameCardIcon_Xm4",
+		"filename_banner": "UI_NameCardPic_Xm4_Alpha",
+		"filename_background": "UI_NameCardPic_Xm4_P"
+	},
+	"achievementtransienttwilight": {
+		"filename_icon": "UI_NameCardIcon_Tzz7",
+		"filename_banner": "UI_NameCardPic_Tzz7_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz7_P"
+	},
+	"sumeruthegreatdream": {
+		"filename_icon": "UI_NameCardIcon_Vasara",
+		"filename_banner": "UI_NameCardPic_Vasara_Alpha",
+		"filename_background": "UI_NameCardPic_Vasara_P"
+	},
+	"sumeruamrita": {
+		"filename_icon": "UI_NameCardIcon_OfferingPari",
+		"filename_banner": "UI_NameCardPic_OfferingPari_Alpha",
+		"filename_background": "UI_NameCardPic_OfferingPari_P"
+	},
+	"travelnotescrownofglory": {
+		"filename_icon": "UI_NameCardIcon_Bp23",
+		"filename_banner": "UI_NameCardPic_Bp23_Alpha",
+		"filename_background": "UI_NameCardPic_Bp23_P"
+	},
+	"candacegrayheron": {
+		"filename_icon": "UI_NameCardIcon_Candace",
+		"filename_banner": "UI_NameCardPic_Candace_Alpha",
+		"filename_background": "UI_NameCardPic_Candace_P"
+	},
+	"kiraranekobox": {
+		"filename_icon": "UI_NameCardIcon_Kirara",
+		"filename_banner": "UI_NameCardPic_Kirara_Alpha",
+		"filename_background": "UI_NameCardPic_Kirara_P"
+	},
+	"travelnotessecrets": {
+		"filename_icon": "UI_NameCardIcon_Bp24",
+		"filename_banner": "UI_NameCardPic_Bp24_Alpha",
+		"filename_background": "UI_NameCardPic_Bp24_P"
+	},
+	"travelnotesvividillumination": {
+		"filename_icon": "UI_NameCardIcon_Bp25",
+		"filename_banner": "UI_NameCardPic_Bp25_Alpha",
+		"filename_background": "UI_NameCardPic_Bp25_P"
+	},
+	"lyneypretense": {
+		"filename_icon": "UI_NameCardIcon_Liney",
+		"filename_banner": "UI_NameCardPic_Liney_Alpha",
+		"filename_background": "UI_NameCardPic_Liney_P"
+	},
+	"lynetteearnestness": {
+		"filename_icon": "UI_NameCardIcon_Linette",
+		"filename_banner": "UI_NameCardPic_Linette_Alpha",
+		"filename_background": "UI_NameCardPic_Linette_P"
+	},
+	"freminetprogress": {
+		"filename_icon": "UI_NameCardIcon_Freminet",
+		"filename_banner": "UI_NameCardPic_Freminet_Alpha",
+		"filename_background": "UI_NameCardPic_Freminet_P"
+	},
+	"fontainejudgment": {
+		"filename_icon": "UI_NameCardIcon_FD1",
+		"filename_banner": "UI_NameCardPic_FD1_Alpha",
+		"filename_background": "UI_NameCardPic_FD1_P"
+	},
+	"achievementorbits": {
+		"filename_icon": "UI_NameCardIcon_Ysxf4",
+		"filename_banner": "UI_NameCardPic_Ysxf4_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf4_P"
+	},
+	"achievementmariner": {
+		"filename_icon": "UI_NameCardIcon_Csxy4",
+		"filename_banner": "UI_NameCardPic_Csxy4_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy4_P"
+	},
+	"fontainewondrousmachine": {
+		"filename_icon": "UI_NameCardIcon_Fontaine1",
+		"filename_banner": "UI_NameCardPic_Fontaine1_Alpha",
+		"filename_background": "UI_NameCardPic_Fontaine1_P"
+	},
+	"fontainebignews": {
+		"filename_icon": "UI_NameCardIcon_Fontaine2",
+		"filename_banner": "UI_NameCardPic_Fontaine2_Alpha",
+		"filename_background": "UI_NameCardPic_Fontaine2_P"
+	},
+	"travelnotesprimordialwaters": {
+		"filename_icon": "UI_NameCardIcon_Bp26",
+		"filename_banner": "UI_NameCardPic_Bp26_Alpha",
+		"filename_background": "UI_NameCardPic_Bp26_P"
+	},
+	"neuvillettesurge": {
+		"filename_icon": "UI_NameCardIcon_Neuvillette",
+		"filename_banner": "UI_NameCardPic_Neuvillette_Alpha",
+		"filename_background": "UI_NameCardPic_Neuvillette_P"
+	},
+	"wriothesleydetention": {
+		"filename_icon": "UI_NameCardIcon_Wriothesley",
+		"filename_banner": "UI_NameCardPic_Wriothesley_Alpha",
+		"filename_background": "UI_NameCardPic_Wriothesley_P"
+	},
+	"travelnotesfallingstar": {
+		"filename_icon": "UI_NameCardIcon_Bp27",
+		"filename_banner": "UI_NameCardPic_Bp27_Alpha",
+		"filename_background": "UI_NameCardPic_Bp27_P"
+	},
+	"celebrationeuphonia": {
+		"filename_icon": "UI_NameCardIcon_Guqin",
+		"filename_banner": "UI_NameCardPic_Guqin_Alpha",
+		"filename_background": "UI_NameCardPic_Guqin_P"
+	},
+	"achievementperpetual": {
+		"filename_icon": "UI_NameCardIcon_Tzz8",
+		"filename_banner": "UI_NameCardPic_Tzz8_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz8_P"
+	},
+	"fontaineredemption": {
+		"filename_icon": "UI_NameCardIcon_FD2",
+		"filename_banner": "UI_NameCardPic_FD2_Alpha",
+		"filename_background": "UI_NameCardPic_FD2_P"
+	},
+	"furinabanquet": {
+		"filename_icon": "UI_NameCardIcon_Furina",
+		"filename_banner": "UI_NameCardPic_Furina_Alpha",
+		"filename_background": "UI_NameCardPic_Furina_P"
+	},
+	"charlotteexclusive": {
+		"filename_icon": "UI_NameCardIcon_Charlotte",
+		"filename_banner": "UI_NameCardPic_Charlotte_Alpha",
+		"filename_background": "UI_NameCardPic_Charlotte_P"
+	},
+	"fontainecompleteness": {
+		"filename_icon": "UI_NameCardIcon_FD3",
+		"filename_banner": "UI_NameCardPic_FD3_Alpha",
+		"filename_background": "UI_NameCardPic_FD3_P"
+	},
+	"travelnoteswhirlingwaltz": {
+		"filename_icon": "UI_NameCardIcon_Bp28",
+		"filename_banner": "UI_NameCardPic_Bp28_Alpha",
+		"filename_background": "UI_NameCardPic_Bp28_P"
+	},
+	"naviarosula": {
+		"filename_icon": "UI_NameCardIcon_Navia",
+		"filename_banner": "UI_NameCardPic_Navia_Alpha",
+		"filename_background": "UI_NameCardPic_Navia_P"
+	},
+	"chevreusetypeii": {
+		"filename_icon": "UI_NameCardIcon_Chevreuse",
+		"filename_banner": "UI_NameCardPic_Chevreuse_Alpha",
+		"filename_background": "UI_NameCardPic_Chevreuse_P"
+	},
+	"travelnotestimeinscribed": {
+		"filename_icon": "UI_NameCardIcon_Bp29",
+		"filename_banner": "UI_NameCardPic_Bp29_Alpha",
+		"filename_background": "UI_NameCardPic_Bp29_P"
+	},
+	"xianyunwhiteclouds": {
+		"filename_icon": "UI_NameCardIcon_Liuyun",
+		"filename_banner": "UI_NameCardPic_Liuyun_Alpha",
+		"filename_background": "UI_NameCardPic_Liuyun_P"
+	},
+	"gamingmanchai": {
+		"filename_icon": "UI_NameCardIcon_Gaming",
+		"filename_banner": "UI_NameCardPic_Gaming_Alpha",
+		"filename_background": "UI_NameCardPic_Gaming_P"
+	},
+	"achievementadeptalvalley": {
+		"filename_icon": "UI_NameCardIcon_Chenyu1",
+		"filename_banner": "UI_NameCardPic_Chenyu1_Alpha",
+		"filename_background": "UI_NameCardPic_Chenyu1_P"
+	},
+	"chenyurainjaderite": {
+		"filename_icon": "UI_NameCardIcon_OfferingSilong",
+		"filename_banner": "UI_NameCardPic_OfferingSilong_Alpha",
+		"filename_background": "UI_NameCardPic_OfferingSilong_P"
+	},
+	"travelnotesvibrantharriers": {
+		"filename_icon": "UI_NameCardIcon_Bp30",
+		"filename_banner": "UI_NameCardPic_Bp30_Alpha",
+		"filename_background": "UI_NameCardPic_Bp30_P"
+	},
+	"albumthestellarmoments": {
+		"filename_icon": "UI_NameCardIcon_OST4",
+		"filename_banner": "UI_NameCardPic_OST4_Alpha",
+		"filename_background": "UI_NameCardPic_OST4_P"
+	},
+	"chiorispectacularsleeves": {
+		"filename_icon": "UI_NameCardIcon_Chiori",
+		"filename_banner": "UI_NameCardPic_Chiori_Alpha",
+		"filename_background": "UI_NameCardPic_Chiori_P"
+	},
+	"travelnotesarcaneamassing": {
+		"filename_icon": "UI_NameCardIcon_Bp31",
+		"filename_banner": "UI_NameCardPic_Bp31_Alpha",
+		"filename_background": "UI_NameCardPic_Bp31_P"
+	},
+	"arlecchinoedict": {
+		"filename_icon": "UI_NameCardIcon_Arlecchino",
+		"filename_banner": "UI_NameCardPic_Arlecchino_Alpha",
+		"filename_background": "UI_NameCardPic_Arlecchino_P"
+	},
+	"fontaineattunement": {
+		"filename_icon": "UI_NameCardIcon_Deep",
+		"filename_banner": "UI_NameCardPic_Deep_Alpha",
+		"filename_background": "UI_NameCardPic_Deep_P"
+	},
+	"achievementwhalewrangler": {
+		"filename_icon": "UI_NameCardIcon_Tzz9",
+		"filename_banner": "UI_NameCardPic_Tzz9_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz9_P"
+	},
+	"fontainelucine": {
+		"filename_icon": "UI_NameCardIcon_WishingPond",
+		"filename_banner": "UI_NameCardPic_WishingPond_Alpha",
+		"filename_background": "UI_NameCardPic_WishingPond_P"
+	},
+	"travelnotestherealmsrocked": {
+		"filename_icon": "UI_NameCardIcon_GreatFestivalV2",
+		"filename_banner": "UI_NameCardPic_GreatFestivalV2_Alpha",
+		"filename_background": "UI_NameCardPic_GreatFestivalV2_P"
+	},
+	"clorinderoleplay": {
+		"filename_icon": "UI_NameCardIcon_Clorinde",
+		"filename_banner": "UI_NameCardPic_Clorinde_Alpha",
+		"filename_background": "UI_NameCardPic_Clorinde_P"
+	},
+	"sigewinnetreatment": {
+		"filename_icon": "UI_NameCardIcon_Sigewinne",
+		"filename_banner": "UI_NameCardPic_Sigewinne_Alpha",
+		"filename_background": "UI_NameCardPic_Sigewinne_P"
+	},
+	"sethosbafragment": {
+		"filename_icon": "UI_NameCardIcon_Sethos",
+		"filename_banner": "UI_NameCardPic_Sethos_Alpha",
+		"filename_background": "UI_NameCardPic_Sethos_P"
+	},
+	"achievementpoeticpages": {
+		"filename_icon": "UI_NameCardIcon_RoleCombat",
+		"filename_banner": "UI_NameCardPic_RoleCombat_Alpha",
+		"filename_background": "UI_NameCardPic_RoleCombat_P"
+	},
+	"travelnotessimulnation": {
+		"filename_icon": "UI_NameCardIcon_Bp33",
+		"filename_banner": "UI_NameCardPic_Bp33_Alpha",
+		"filename_background": "UI_NameCardPic_Bp33_P"
+	},
+	"emiliebasenote": {
+		"filename_icon": "UI_NameCardIcon_Emilie",
+		"filename_banner": "UI_NameCardPic_Emilie_Alpha",
+		"filename_background": "UI_NameCardPic_Emilie_P"
+	},
+	"travelnotesfancifulfabrication": {
+		"filename_icon": "UI_NameCardIcon_Bp34",
+		"filename_banner": "UI_NameCardPic_Bp34_Alpha",
+		"filename_background": "UI_NameCardPic_Bp34_P"
+	},
+	"celebrationfeastii": {
+		"filename_icon": "UI_NameCardIcon_RedandWhite2",
+		"filename_banner": "UI_NameCardPic_RedandWhite2_Alpha",
+		"filename_background": "UI_NameCardPic_RedandWhite2_P"
+	},
+	"kinichajaw": {
+		"filename_icon": "UI_NameCardIcon_Kinich",
+		"filename_banner": "UI_NameCardPic_Kinich_Alpha",
+		"filename_background": "UI_NameCardPic_Kinich_P"
+	},
+	"mualanisharky": {
+		"filename_icon": "UI_NameCardIcon_Mualani",
+		"filename_banner": "UI_NameCardPic_Mualani_Alpha",
+		"filename_background": "UI_NameCardPic_Mualani_P"
+	},
+	"kachinatwirly": {
+		"filename_icon": "UI_NameCardIcon_Kachina",
+		"filename_banner": "UI_NameCardPic_Kachina_Alpha",
+		"filename_background": "UI_NameCardPic_Kachina_P"
+	},
+	"natlandivinearmy": {
+		"filename_icon": "UI_NameCardIcon_NatlanSW1",
+		"filename_banner": "UI_NameCardPic_NatlanSW1_Alpha",
+		"filename_background": "UI_NameCardPic_NatlanSW1_P"
+	},
+	"natlanfierydragon": {
+		"filename_icon": "UI_NameCardIcon_NatlanSW2",
+		"filename_banner": "UI_NameCardPic_NatlanSW2_Alpha",
+		"filename_background": "UI_NameCardPic_NatlanSW2_P"
+	},
+	"achievementendpoint": {
+		"filename_icon": "UI_NameCardIcon_Ysxf5",
+		"filename_banner": "UI_NameCardPic_Ysxf5_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf5_P"
+	},
+	"achievementfelinefortune": {
+		"filename_icon": "UI_NameCardIcon_RoleCombat2",
+		"filename_banner": "UI_NameCardPic_RoleCombat2_Alpha",
+		"filename_background": "UI_NameCardPic_RoleCombat2_P"
+	},
+	"natlanreturnoftheflame": {
+		"filename_icon": "UI_NameCardIcon_Natlan1",
+		"filename_banner": "UI_NameCardPic_Natlan1_Alpha",
+		"filename_background": "UI_NameCardPic_Natlan1_P"
+	},
+	"achievementlordofthenight": {
+		"filename_icon": "UI_NameCardIcon_Dfcq1",
+		"filename_banner": "UI_NameCardPic_Dfcq1_Alpha",
+		"filename_background": "UI_NameCardPic_Dfcq1_P"
+	},
+	"travelnotesprimalfire": {
+		"filename_icon": "UI_NameCardIcon_Bp35",
+		"filename_banner": "UI_NameCardPic_Bp35_Alpha",
+		"filename_background": "UI_NameCardPic_Bp35_P"
+	},
+	"celebrationcrispyandsweet": {
+		"filename_icon": "UI_NameCardIcon_Yellow",
+		"filename_banner": "UI_NameCardPic_Yellow_Alpha",
+		"filename_background": "UI_NameCardPic_Yellow_P"
+	},
+	"xilonencuepoint": {
+		"filename_icon": "UI_NameCardIcon_Xilonen",
+		"filename_banner": "UI_NameCardPic_Xilonen_Alpha",
+		"filename_background": "UI_NameCardPic_Xilonen_P"
+	},
+	"travelnotessabzeruz": {
+		"filename_icon": "UI_NameCardIcon_Bp36",
+		"filename_banner": "UI_NameCardPic_Bp36_Alpha",
+		"filename_background": "UI_NameCardPic_Bp36_P"
+	},
+	"chascafullyloaded": {
+		"filename_icon": "UI_NameCardIcon_Chasca",
+		"filename_banner": "UI_NameCardPic_Chasca_Alpha",
+		"filename_background": "UI_NameCardPic_Chasca_P"
+	},
+	"ororonnightshade": {
+		"filename_icon": "UI_NameCardIcon_Olorun",
+		"filename_banner": "UI_NameCardPic_Olorun_Alpha",
+		"filename_background": "UI_NameCardPic_Olorun_P"
+	},
+	"natlanfleetingdreams": {
+		"filename_icon": "UI_NameCardIcon_Natlan2",
+		"filename_banner": "UI_NameCardPic_Natlan2_Alpha",
+		"filename_background": "UI_NameCardPic_Natlan2_P"
+	},
+	"achievementfightingspirit": {
+		"filename_icon": "UI_NameCardIcon_Dfcq2",
+		"filename_banner": "UI_NameCardPic_Dfcq2_Alpha",
+		"filename_background": "UI_NameCardPic_Dfcq2_P"
+	},
+	"travelnotesspiritweaver": {
+		"filename_icon": "UI_NameCardIcon_Bp37",
+		"filename_banner": "UI_NameCardPic_Bp37_Alpha",
+		"filename_background": "UI_NameCardPic_Bp37_P"
+	},
+	"mavuikasuncrowned": {
+		"filename_icon": "UI_NameCardIcon_Mavuika",
+		"filename_banner": "UI_NameCardPic_Mavuika_Alpha",
+		"filename_background": "UI_NameCardPic_Mavuika_P"
+	},
+	"citlaliopalstar": {
+		"filename_icon": "UI_NameCardIcon_Citlali",
+		"filename_banner": "UI_NameCardPic_Citlali_Alpha",
+		"filename_background": "UI_NameCardPic_Citlali_P"
+	},
+	"lanyansilverswallow": {
+		"filename_icon": "UI_NameCardIcon_Lanyan",
+		"filename_banner": "UI_NameCardPic_Lanyan_Alpha",
+		"filename_background": "UI_NameCardPic_Lanyan_P"
+	},
+	"achievementallseeing": {
+		"filename_icon": "UI_NameCardIcon_Csxy5",
+		"filename_banner": "UI_NameCardPic_Csxy5_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy5_P"
+	},
+	"achievementblaze": {
+		"filename_icon": "UI_NameCardIcon_Tzz10",
+		"filename_banner": "UI_NameCardPic_Tzz10_Alpha",
+		"filename_background": "UI_NameCardPic_Tzz10_P"
+	},
+	"achievementrepertoire": {
+		"filename_icon": "UI_NameCardIcon_MusicGame01",
+		"filename_banner": "UI_NameCardPic_MusicGame01_Alpha",
+		"filename_background": "UI_NameCardPic_MusicGame01_P"
+	},
+	"travelnotestheflamerenewed": {
+		"filename_icon": "UI_NameCardIcon_Bp38",
+		"filename_banner": "UI_NameCardPic_Bp38_Alpha",
+		"filename_background": "UI_NameCardPic_Bp38_P"
+	},
+	"yumemizukimizukinightmaredevourer": {
+		"filename_icon": "UI_NameCardIcon_Mizuki",
+		"filename_banner": "UI_NameCardPic_Mizuki_Alpha",
+		"filename_background": "UI_NameCardPic_Mizuki_P"
+	},
+	"celebrationscorch": {
+		"filename_icon": "UI_NameCardIcon_TowerChallenge",
+		"filename_banner": "UI_NameCardPic_TowerChallenge_Alpha",
+		"filename_background": "UI_NameCardPic_TowerChallenge_P"
+	},
+	"travelnoteswondrousreverie": {
+		"filename_icon": "UI_NameCardIcon_Bp39",
+		"filename_banner": "UI_NameCardPic_Bp39_Alpha",
+		"filename_background": "UI_NameCardPic_Bp39_P"
+	},
+	"varesapowerhouse": {
+		"filename_icon": "UI_NameCardIcon_Varesa",
+		"filename_banner": "UI_NameCardPic_Varesa_Alpha",
+		"filename_background": "UI_NameCardPic_Varesa_P"
+	},
+	"iansanunyielding": {
+		"filename_icon": "UI_NameCardIcon_Iansan",
+		"filename_banner": "UI_NameCardPic_Iansan_Alpha",
+		"filename_background": "UI_NameCardPic_Iansan_P"
+	},
+	"natlandraconicgaze": {
+		"filename_icon": "UI_NameCardIcon_Natlan3",
+		"filename_banner": "UI_NameCardPic_Natlan3_Alpha",
+		"filename_background": "UI_NameCardPic_Natlan3_P"
+	},
+	"achievementtranquilpeace": {
+		"filename_icon": "UI_NameCardIcon_Dfcq3",
+		"filename_banner": "UI_NameCardPic_Dfcq3_Alpha",
+		"filename_background": "UI_NameCardPic_Dfcq3_P"
+	},
+	"travelnotesbloomingglory": {
+		"filename_icon": "UI_NameCardIcon_Bp40",
+		"filename_banner": "UI_NameCardPic_Bp40_Alpha",
+		"filename_background": "UI_NameCardPic_Bp40_P"
+	},
+	"escoffiercharm": {
+		"filename_icon": "UI_NameCardIcon_Escoffier",
+		"filename_banner": "UI_NameCardPic_Escoffier_Alpha",
+		"filename_background": "UI_NameCardPic_Escoffier_P"
+	},
+	"ifabro": {
+		"filename_icon": "UI_NameCardIcon_Ifa",
+		"filename_banner": "UI_NameCardPic_Ifa_Alpha",
+		"filename_background": "UI_NameCardPic_Ifa_P"
+	},
+	"travelnotesballetica": {
+		"filename_icon": "UI_NameCardIcon_Bp41",
+		"filename_banner": "UI_NameCardPic_Bp41_Alpha",
+		"filename_background": "UI_NameCardPic_Bp41_P"
+	},
+	"skirkloneshadow": {
+		"filename_icon": "UI_NameCardIcon_SkirkNew",
+		"filename_banner": "UI_NameCardPic_SkirkNew_Alpha",
+		"filename_background": "UI_NameCardPic_SkirkNew_P"
+	},
+	"dahliasacredduty": {
+		"filename_icon": "UI_NameCardIcon_Dahlia",
+		"filename_banner": "UI_NameCardPic_Dahlia_Alpha",
+		"filename_background": "UI_NameCardPic_Dahlia_P"
+	},
+	"celebrationlavishgala": {
+		"filename_icon": "UI_NameCardIcon_RedandWhite3",
+		"filename_banner": "UI_NameCardPic_RedandWhite3_Alpha",
+		"filename_background": "UI_NameCardPic_RedandWhite3_P"
+	},
+	"travelnotesspeculation": {
+		"filename_icon": "UI_NameCardIcon_Bp42",
+		"filename_banner": "UI_NameCardPic_Bp42_Alpha",
+		"filename_background": "UI_NameCardPic_Bp42_P"
+	},
+	"ineffacommand": {
+		"filename_icon": "UI_NameCardIcon_Ineffa",
+		"filename_banner": "UI_NameCardPic_Ineffa_Alpha",
+		"filename_background": "UI_NameCardPic_Ineffa_P"
+	},
+	"natlanwheelofflame": {
+		"filename_icon": "UI_NameCardIcon_NatlanOffering",
+		"filename_banner": "UI_NameCardPic_NatlanOffering_Alpha",
+		"filename_background": "UI_NameCardPic_NatlanOffering_P"
+	},
+	"natlanchasingthewind": {
+		"filename_icon": "UI_NameCardIcon_Natlan4",
+		"filename_banner": "UI_NameCardPic_Natlan4_Alpha",
+		"filename_background": "UI_NameCardPic_Natlan4_P"
+	},
+	"travelnoteseasybreezy": {
+		"filename_icon": "UI_NameCardIcon_Bp43",
+		"filename_banner": "UI_NameCardPic_Bp43_Alpha",
+		"filename_background": "UI_NameCardPic_Bp43_P"
+	},
+	"celebrationtunaonrice": {
+		"filename_icon": "UI_NameCardIcon_Event58",
+		"filename_banner": "UI_NameCardPic_Event58_Alpha",
+		"filename_background": "UI_NameCardPic_Event58_P"
+	},
+	"laumabranchedantlers": {
+		"filename_icon": "UI_NameCardIcon_Lauma",
+		"filename_banner": "UI_NameCardPic_Lauma_Alpha",
+		"filename_background": "UI_NameCardPic_Lauma_P"
+	},
+	"flinsoathkeeperslantern": {
+		"filename_icon": "UI_NameCardIcon_Flins",
+		"filename_banner": "UI_NameCardPic_Flins_Alpha",
+		"filename_background": "UI_NameCardPic_Flins_P"
+	},
+	"ainowhoopsieducksie": {
+		"filename_icon": "UI_NameCardIcon_Aino",
+		"filename_banner": "UI_NameCardPic_Aino_Alpha",
+		"filename_background": "UI_NameCardPic_Aino_P"
+	},
+	"nodkraimoonlight": {
+		"filename_icon": "UI_NameCardIcon_NodKraiOffering1",
+		"filename_banner": "UI_NameCardPic_NodKraiOffering1_Alpha",
+		"filename_background": "UI_NameCardPic_NodKraiOffering1_P"
+	},
+	"nodkraisacredrealm": {
+		"filename_icon": "UI_NameCardIcon_NodKrai1",
+		"filename_banner": "UI_NameCardPic_NodKrai1_Alpha",
+		"filename_background": "UI_NameCardPic_NodKrai1_P"
+	},
+	"achievementtimeapart": {
+		"filename_icon": "UI_NameCardIcon_Ysxf6",
+		"filename_banner": "UI_NameCardPic_Ysxf6_Alpha",
+		"filename_background": "UI_NameCardPic_Ysxf6_P"
+	},
+	"travelnotesglacialmoon": {
+		"filename_icon": "UI_NameCardIcon_Bp44",
+		"filename_banner": "UI_NameCardPic_Bp44_Alpha",
+		"filename_background": "UI_NameCardPic_Bp44_P"
+	},
+	"celebrationsublimeflavors": {
+		"filename_icon": "UI_NameCardIcon_YellowV2",
+		"filename_banner": "UI_NameCardPic_YellowV2_Alpha",
+		"filename_background": "UI_NameCardPic_YellowV2_P"
+	},
+	"nefersecrets": {
+		"filename_icon": "UI_NameCardIcon_Nefer",
+		"filename_banner": "UI_NameCardPic_Nefer_Alpha",
+		"filename_background": "UI_NameCardPic_Nefer_P"
+	},
+	"travelnotesbygoneruins": {
+		"filename_icon": "UI_NameCardIcon_Bp45",
+		"filename_banner": "UI_NameCardPic_Bp45_Alpha",
+		"filename_background": "UI_NameCardPic_Bp45_P"
+	},
+	"durinradiantheart": {
+		"filename_icon": "UI_NameCardIcon_Durin",
+		"filename_banner": "UI_NameCardPic_Durin_Alpha",
+		"filename_background": "UI_NameCardPic_Durin_P"
+	},
+	"jahodahelpinghand": {
+		"filename_icon": "UI_NameCardIcon_Jahoda",
+		"filename_banner": "UI_NameCardPic_Jahoda_Alpha",
+		"filename_background": "UI_NameCardPic_Jahoda_P"
+	},
+	"travelnotesblazingsnow": {
+		"filename_icon": "UI_NameCardIcon_Bp46",
+		"filename_banner": "UI_NameCardPic_Bp46_Alpha",
+		"filename_background": "UI_NameCardPic_Bp46_P"
+	},
+	"celebrationdreamreader": {
+		"filename_icon": "UI_NameCardIcon_Green",
+		"filename_banner": "UI_NameCardPic_Green_Alpha",
+		"filename_background": "UI_NameCardPic_Green_P"
+	},
+	"columbinasomeday": {
+		"filename_icon": "UI_NameCardIcon_Columbina",
+		"filename_banner": "UI_NameCardPic_Columbina_Alpha",
+		"filename_background": "UI_NameCardPic_Columbina_P"
+	},
+	"zibaiveiledvista": {
+		"filename_icon": "UI_NameCardIcon_Zibai",
+		"filename_banner": "UI_NameCardPic_Zibai_Alpha",
+		"filename_background": "UI_NameCardPic_Zibai_P"
+	},
+	"illuganightmaresongbird": {
+		"filename_icon": "UI_NameCardIcon_Illuga",
+		"filename_banner": "UI_NameCardPic_Illuga_Alpha",
+		"filename_background": "UI_NameCardPic_Illuga_P"
+	},
+	"achievementfarsighted": {
+		"filename_icon": "UI_NameCardIcon_Csxy6",
+		"filename_banner": "UI_NameCardPic_Csxy6_Alpha",
+		"filename_background": "UI_NameCardPic_Csxy6_P"
+	},
+	"nodkrailanternoflongestnight": {
+		"filename_icon": "UI_NameCardIcon_NodKrai2",
+		"filename_banner": "UI_NameCardPic_NodKrai2_Alpha",
+		"filename_background": "UI_NameCardPic_NodKrai2_P"
+	},
+	"travelnoteslanternlitode": {
+		"filename_icon": "UI_NameCardIcon_Bp47",
+		"filename_banner": "UI_NameCardPic_Bp47_Alpha",
+		"filename_background": "UI_NameCardPic_Bp47_P"
+	}
+}

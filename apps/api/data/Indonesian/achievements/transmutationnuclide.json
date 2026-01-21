@@ -1,0 +1,20 @@
+{
+	"id": [
+		81047
+	],
+	"name": "Transformasi Kimia",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"sortOrder": 1048,
+	"stages": 1,
+	"stage1": {
+		"title": "Transformasi Kimia",
+		"description": "Gunakan Parametric Transformer untuk menyelesaikan satu transmutasi material.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81317
+	],
+	"name": "Под пеленой тумана",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1304,
+	"stages": 1,
+	"stage1": {
+		"title": "Под пеленой тумана",
+		"description": "Разгоните фиолетовую дымку, заполнившую болото Асипаттравана.",
+		"progress": 4,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

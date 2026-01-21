@@ -1,0 +1,20 @@
+{
+	"id": [
+		80270
+	],
+	"name": "Бандиты и сыщики",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Скитания по миру IV",
+	"sortOrder": 177,
+	"stages": 1,
+	"stage1": {
+		"title": "Бандиты и сыщики",
+		"description": "Соберите полную коллекцию серии «Бандиты и сыщики: Радужная брошь».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

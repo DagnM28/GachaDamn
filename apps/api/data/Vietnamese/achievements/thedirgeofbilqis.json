@@ -1,0 +1,20 @@
+{
+	"id": [
+		80227
+	],
+	"name": "Khúc Bi Ca Của Bilqis",
+	"achievementGroupId": 38,
+	"achievementGroupName": "Sumeru - Sa Mạc Dát Vàng (II)",
+	"sortOrder": 217,
+	"stages": 1,
+	"stage1": {
+		"title": "Khúc Bi Ca Của Bilqis",
+		"description": "Hoàn thành \"Khúc Bi Ca Của Bilqis\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

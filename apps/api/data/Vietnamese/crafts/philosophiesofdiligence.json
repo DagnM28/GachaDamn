@@ -1,0 +1,16 @@
+{
+	"id": 13010,
+	"name": "Triết Học Của \"Chăm Chỉ\"",
+	"filterText": "Nguyên Liệu Thiên Phú Nhân Vật",
+	"sortOrder": 120039,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104314,
+			"name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100016,
+	"name": "ミント",
+	"sortRank": 321,
+	"description": "清涼成分を含んだ植物の葉。爽やかでヒンヤリした味わいが暑さを取り除いてくれる。",
+	"category": "EXCHANGE",
+	"typeText": "食材",
+	"sources": [
+		"野外で採集"
+	]
+}

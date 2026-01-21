@@ -1,0 +1,16 @@
+{
+	"id": 12028,
+	"name": "Iron Talisman of the Forest Dew",
+	"filterText": "Weapon Ascension Material",
+	"sortOrder": 130090,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114037,
+			"name": "Copper Talisman of the Forest Dew",
+			"count": 3
+		}
+	]
+}

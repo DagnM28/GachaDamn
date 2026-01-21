@@ -1,0 +1,16 @@
+{
+	"id": 11003,
+	"name": "汚れた仮面",
+	"filterText": "キャラと武器育成素材",
+	"sortOrder": 150010,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112005,
+			"name": "破損した仮面",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81382
+	],
+	"name": "No tan estrecha como parece",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"sortOrder": 1366,
+	"stages": 1,
+	"stage1": {
+		"title": "No tan estrecha como parece",
+		"description": "Abre la puerta que da acceso a cierta biblioteca.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": 22041,
+	"name": "Esca Scintillambra",
+	"filterText": "Esca",
+	"sortOrder": 160080,
+	"unlockRank": 28,
+	"resultCount": 10,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 101251,
+			"name": "Fiore Cuordambra",
+			"count": 1
+		},
+		{
+			"id": 100017,
+			"name": "Frumento",
+			"count": 1
+		}
+	]
+}

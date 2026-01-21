@@ -1,0 +1,16 @@
+{
+	"id": 12035,
+	"name": "Kavurucu Kuvvetin Rüyası",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130109,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114046,
+			"name": "Kavurucu Kuvvetin Kalan Parıltısı",
+			"count": 3
+		}
+	]
+}

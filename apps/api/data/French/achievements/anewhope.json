@@ -1,0 +1,21 @@
+{
+	"id": [
+		81508
+	],
+	"name": "Un nouvel espoir",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1492,
+	"stages": 1,
+	"stage1": {
+		"title": "Un nouvel espoir",
+		"description": "Comme une graine qui pousse...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

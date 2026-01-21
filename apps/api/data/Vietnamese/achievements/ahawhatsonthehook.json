@@ -1,0 +1,21 @@
+{
+	"id": [
+		84543
+	],
+	"name": "A Ha... Cái Gì Mắc Câu Đây?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4067,
+	"stages": 1,
+	"stage1": {
+		"title": "A Ha... Cái Gì Mắc Câu Đây?",
+		"description": "Cùng với Kayvan câu những thứ kỳ lạ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

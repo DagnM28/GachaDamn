@@ -1,0 +1,16 @@
+{
+	"id": 12010,
+	"name": "Roche lustrée de Guyun",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130030,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114013,
+			"name": "Sable lumineux de Guyun",
+			"count": 3
+		}
+	]
+}

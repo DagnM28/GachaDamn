@@ -1,0 +1,16 @@
+{
+	"id": 11021,
+	"name": "Çavuş Nişanı",
+	"filterText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sortOrder": 150040,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112032,
+			"name": "Acemi Asker Nişanı",
+			"count": 3
+		}
+	]
+}

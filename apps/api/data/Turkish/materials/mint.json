@@ -1,0 +1,11 @@
+{
+	"id": 100016,
+	"name": "Nane",
+	"sortRank": 321,
+	"description": "En sıcak zamanlarda bile ağızda ferahlık hissi uyandıran bir bitki.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"Doğada bulunur."
+	]
+}

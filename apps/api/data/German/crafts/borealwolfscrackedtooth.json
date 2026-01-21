@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Zersplitterter Zahn des borealischen Wolfs",
+	"filterText": "Material zum Aufstieg von Waffen",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Milchzahn des borealischen Wolfs",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13007,
+	"name": "Refah Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120030,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104310,
+			"name": "Refah Öğretisi",
+			"count": 3
+		}
+	]
+}

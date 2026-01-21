@@ -1,0 +1,21 @@
+{
+	"id": [
+		81245
+	],
+	"name": "Sustento Eterno",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1231,
+	"stages": 1,
+	"stage1": {
+		"title": "Sustento Eterno",
+		"description": "Vá visitar a sementeira Aranara com Varsha na vida real.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

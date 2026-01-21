@@ -1,0 +1,21 @@
+{
+	"id": [
+		81357
+	],
+	"name": "Você Acredita em Utopias?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1343,
+	"stages": 1,
+	"stage1": {
+		"title": "Você Acredita em Utopias?",
+		"description": "Ajude a construir um paraíso para as Foquinhas Rotundas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

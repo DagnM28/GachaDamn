@@ -1,0 +1,21 @@
+{
+	"id": [
+		82145
+	],
+	"name": "Tangan Tak Kasat Mata",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2145,
+	"stages": 1,
+	"stage1": {
+		"title": "Tangan Tak Kasat Mata",
+		"description": "Kalahkan Primal Construct tanpa menonaktifkan mode menghilangnya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

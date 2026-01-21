@@ -1,0 +1,21 @@
+{
+	"id": [
+		84004
+	],
+	"name": "Nghe theo hướng gió",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4005,
+	"stages": 1,
+	"stage1": {
+		"title": "Nghe theo hướng gió",
+		"description": "Nắm rõ sức mạnh nguyên tố \"Phong\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

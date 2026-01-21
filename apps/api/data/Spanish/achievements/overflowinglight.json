@@ -1,0 +1,21 @@
+{
+	"id": [
+		82127
+	],
+	"name": "Luz desbordante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 2127,
+	"stages": 1,
+	"stage1": {
+		"title": "Luz desbordante",
+		"description": "En un combate contra la Serpiente de las Ruinas, utiliza el Canalizador lumínico para destruir dos protuberancias fangosas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

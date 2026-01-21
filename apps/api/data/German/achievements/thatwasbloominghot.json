@@ -1,0 +1,21 @@
+{
+	"id": [
+		82064
+	],
+	"name": "„Heißer als heiß“",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2064,
+	"stages": 1,
+	"stage1": {
+		"title": "„Heißer als heiß“",
+		"description": "Besiege einen Fluxfeuerbaum, ohne seinen Schwachpunkt an der Blütenkrone zu zerstören.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

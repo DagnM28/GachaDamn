@@ -1,0 +1,21 @@
+{
+	"id": [
+		84094
+	],
+	"name": "Outro lado do destino",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5073,
+	"stages": 1,
+	"stage1": {
+		"title": "Outro lado do destino",
+		"description": "Testemunhe o milagre do Pecador.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

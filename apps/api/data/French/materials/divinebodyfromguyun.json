@@ -1,0 +1,19 @@
+{
+	"id": 114016,
+	"name": "Corps divin de Guyun",
+	"rarity": 5,
+	"sortRank": 15104,
+	"description": "Matériau d'élévation d'arme.\nLes esprits de divinités oubliées animent cette relique. Ils incarnent des idéaux pour l'humanité qui ne virent jamais le jour, et reposent maintenant dans la pierre et les mers, sans jamais pouvoir disparaître vraiment.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'élévation d'arme",
+	"dropDomainId": 5217,
+	"dropDomainName": "Donjon d'entraînement : Autel du nuage d'orage",
+	"daysOfWeek": [
+		"Lundi",
+		"Jeudi",
+		"Dimanche"
+	],
+	"sources": [
+		"Emplacement réservé - Quantité synthétisable : {0}"
+	]
+}

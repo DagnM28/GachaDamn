@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Boreal Wolf's Cracked Tooth",
+	"filterText": "Weapon Ascension Material",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Boreal Wolf's Milk Tooth",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84006
+	],
+	"name": "Дух рыцарства",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4007,
+	"stages": 1,
+	"stage1": {
+		"title": "Дух рыцарства",
+		"description": "Станьте почётным рыцарем Ордо Фавониус.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

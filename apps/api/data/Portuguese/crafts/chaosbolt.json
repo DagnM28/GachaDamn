@@ -1,0 +1,16 @@
+{
+	"id": 11048,
+	"name": "Parafuso do Caos",
+	"filterText": "Material de Fortalecimento de Arma e Personagem",
+	"sortOrder": 140119,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112069,
+			"name": "Módulo do Caos",
+			"count": 3
+		}
+	]
+}

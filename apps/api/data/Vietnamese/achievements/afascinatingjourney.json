@@ -1,0 +1,21 @@
+{
+	"id": [
+		81327
+	],
+	"name": "Hành Trình Kỳ Diệu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1314,
+	"stages": 1,
+	"stage1": {
+		"title": "Hành Trình Kỳ Diệu",
+		"description": "Hoàn thành \"Họa Sĩ Phiêu Lưu Ký\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

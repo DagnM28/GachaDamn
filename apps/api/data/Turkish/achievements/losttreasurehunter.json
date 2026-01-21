@@ -1,0 +1,42 @@
+{
+	"id": [
+		80120,
+		80121,
+		80122
+	],
+	"name": "Kayıp Hazine Avcısı",
+	"achievementGroupId": 27,
+	"achievementGroupName": "Sis Denizi Günlükleri",
+	"sortOrder": 120,
+	"stages": 3,
+	"stage1": {
+		"title": "Kayıp Hazine Avcısı",
+		"description": "Tsurumi Adası'nda 30 sandık aç.",
+		"progress": 30,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Kayıp Hazine Avcısı",
+		"description": "Tsurumi Adası'nda 60 sandık aç.",
+		"progress": 60,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Kayıp Hazine Avcısı",
+		"description": "Tsurumi Adası'nda 120 sandık aç.",
+		"progress": 120,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 20
+		}
+	}
+}

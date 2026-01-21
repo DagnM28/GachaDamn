@@ -1,0 +1,21 @@
+{
+	"id": [
+		81551
+	],
+	"name": "#{F#La hambrienta, hambrienta pintora}{M#El hambriento, hambriento pintor}",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1535,
+	"stages": 1,
+	"stage1": {
+		"title": "#{F#La hambrienta, hambrienta pintora}{M#El hambriento, hambriento pintor}",
+		"description": "Pinta el peñasco con los colores de tu corazón.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

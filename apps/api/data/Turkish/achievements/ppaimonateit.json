@@ -1,0 +1,21 @@
+{
+	"id": [
+		81175
+	],
+	"name": "\"Paimon onu yedi...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1161,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Paimon onu yedi...\"",
+		"description": "Elindeki Maushiroyu kaybet.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

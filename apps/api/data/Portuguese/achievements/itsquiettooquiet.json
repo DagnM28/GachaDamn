@@ -1,0 +1,20 @@
+{
+	"id": [
+		82097
+	],
+	"name": "Está Quieto... Muito Quieto...",
+	"achievementGroupId": 20,
+	"achievementGroupName": "Desafiante - Série IV",
+	"sortOrder": 2097,
+	"stages": 1,
+	"stage1": {
+		"title": "Está Quieto... Muito Quieto...",
+		"description": "Derrote o Hypostasis Pyro depois que ele deixar seu estado extinto apenas uma vez.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

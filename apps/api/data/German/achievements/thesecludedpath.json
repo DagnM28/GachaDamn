@@ -1,0 +1,21 @@
+{
+	"id": [
+		81470
+	],
+	"name": "Ein einsamer Pfad",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1454,
+	"stages": 1,
+	"stage1": {
+		"title": "Ein einsamer Pfad",
+		"description": "Kehre zum Hof des gefallenen Brokats zurück.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

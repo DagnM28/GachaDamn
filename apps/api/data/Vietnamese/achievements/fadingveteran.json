@@ -1,0 +1,21 @@
+{
+	"id": [
+		81372
+	],
+	"name": "Cựu Binh Mờ Nhạt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1356,
+	"stages": 1,
+	"stage1": {
+		"title": "Cựu Binh Mờ Nhạt",
+		"description": "Chiến thắng huyền thoại địa phương Cựu Binh Mờ Nhạt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

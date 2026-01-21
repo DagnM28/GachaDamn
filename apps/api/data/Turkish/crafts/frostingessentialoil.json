@@ -1,0 +1,21 @@
+{
+	"id": 14010,
+	"name": "Ayaz Özütü",
+	"filterText": "İksir",
+	"sortOrder": 210020,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100083,
+			"name": "Kertenkele Kuyruğu",
+			"count": 1
+		},
+		{
+			"id": 100052,
+			"name": "Sis Çiçeği Tepeciği",
+			"count": 1
+		}
+	]
+}

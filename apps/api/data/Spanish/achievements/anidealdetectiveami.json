@@ -1,0 +1,21 @@
+{
+	"id": [
+		84138
+	],
+	"name": "#¡Soy {F#una}{M#un} detective genial!",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"isHidden": true,
+	"sortOrder": 7310,
+	"stages": 1,
+	"stage1": {
+		"title": "#¡Soy {F#una}{M#un} detective genial!",
+		"description": "Averigua a la primera el móvil y los hechos del crimen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

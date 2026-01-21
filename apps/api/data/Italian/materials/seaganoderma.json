@@ -1,0 +1,13 @@
+{
+	"id": 101206,
+	"name": "Ganoderma marino",
+	"sortRank": 313,
+	"description": "Una specie di pianta che cresce solo in alcune regioni e isole oceaniche. Sebbene ricordi un fungo di qualche tipo, deriva da una sostanza secreta da certi organismi invertebrati.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità d'Inazuma",
+	"sources": [
+		"Si trova nell'acqua marina di Inazuma",
+		"Coltivato nella Serenteiera",
+		"Vai a raccogliere"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11018,
+	"name": "Mist Grass Wick",
+	"filterText": "Character and Weapon Enhancement Material",
+	"sortOrder": 140039,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112027,
+			"name": "Mist Grass",
+			"count": 3
+		}
+	]
+}

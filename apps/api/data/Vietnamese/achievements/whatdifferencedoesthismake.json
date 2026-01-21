@@ -1,0 +1,21 @@
+{
+	"id": [
+		81193
+	],
+	"name": "\"Có Gì Khác Nhau Sao...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1179,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Có Gì Khác Nhau Sao...\"",
+		"description": "Ngồi trên tất cả vị trí đặc biệt qua.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

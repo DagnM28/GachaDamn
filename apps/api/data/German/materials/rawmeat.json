@@ -1,0 +1,11 @@
+{
+	"id": 100061,
+	"name": "Rohes Fleisch",
+	"sortRank": 321,
+	"description": "Ein frisches Stück rohes Fleisch, das mit der richtigen Zubereitung zu einer nahrhaften Mahlzeit wird.",
+	"category": "EXCHANGE",
+	"typeText": "Zutat",
+	"sources": [
+		"Beute von Tieren"
+	]
+}

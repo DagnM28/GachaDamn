@@ -1,0 +1,16 @@
+{
+	"id": 13019,
+	"name": "Guia da Admoestação",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120090,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104329,
+			"name": "Ensinamentos de Admoestações",
+			"count": 3
+		}
+	]
+}

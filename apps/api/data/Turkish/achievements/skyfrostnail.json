@@ -1,0 +1,21 @@
+{
+	"id": [
+		80067
+	],
+	"name": "Soğuk Göklerin Çivisi",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Buzlu Dağın Ziyaretçileri",
+	"sortOrder": 67,
+	"stages": 1,
+	"stage1": {
+		"title": "Soğuk Göklerin Çivisi",
+		"ps5title": "Ejdersırtı: Soğuk Göklerin Pençesi",
+		"description": "Tuhaf sütunu yükselt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

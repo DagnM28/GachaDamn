@@ -1,0 +1,42 @@
+{
+	"id": [
+		81029,
+		81030,
+		81031
+	],
+	"name": "Hero-in-Training",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"sortOrder": 1030,
+	"stages": 3,
+	"stage1": {
+		"title": "Hero-in-Training",
+		"description": "Complete 3 Requests.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Hero-in-Training",
+		"description": "Complete 6 Requests.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Hero-in-Training",
+		"description": "Complete 9 Requests.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

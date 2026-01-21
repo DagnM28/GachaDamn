@@ -1,0 +1,16 @@
+{
+	"id": 12025,
+	"name": "Máscara da Mordida do Tigre",
+	"filterText": "Material de Ascensão de Armas",
+	"sortOrder": 130080,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114033,
+			"name": "Máscara do Tenente Perverso",
+			"count": 3
+		}
+	]
+}

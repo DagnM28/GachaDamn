@@ -1,0 +1,21 @@
+{
+	"id": [
+		82074
+	],
+	"name": "Strafstoß",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2074,
+	"stages": 1,
+	"stage1": {
+		"title": "Strafstoß",
+		"description": "An manchen Orten kann man graben, so viel man will, und findet trotzdem keine Pyro-Schleime ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

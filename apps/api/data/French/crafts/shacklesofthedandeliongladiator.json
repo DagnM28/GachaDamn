@@ -1,0 +1,16 @@
+{
+	"id": 12008,
+	"name": "Menottes du Chevalier du Croc de Lion",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130019,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114010,
+			"name": "Chaînes du Chevalier du Croc de Lion",
+			"count": 3
+		}
+	]
+}

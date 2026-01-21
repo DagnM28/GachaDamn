@@ -1,0 +1,16 @@
+{
+	"id": 11053,
+	"name": "何人所珍藏之花",
+	"filterText": "角色与武器培养素材",
+	"sortOrder": 140150,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112077,
+			"name": "来自何处的待放之花",
+			"count": 3
+		}
+	]
+}

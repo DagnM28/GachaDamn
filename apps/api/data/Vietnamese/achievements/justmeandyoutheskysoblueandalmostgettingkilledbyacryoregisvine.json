@@ -1,0 +1,20 @@
+{
+	"id": [
+		86010
+	],
+	"name": "\"Cây Cấp Đông, trời xanh, nam phong\"",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần I",
+	"sortOrder": 9010,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Cây Cấp Đông, trời xanh, nam phong\"",
+		"description": "Cùng người chơi khác đánh bại Cây Cấp Đông.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

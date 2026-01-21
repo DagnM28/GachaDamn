@@ -1,0 +1,20 @@
+{
+	"id": [
+		80046
+	],
+	"name": "Pellegrinaggio al santuario: Liyue",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: il porto della pietra e dei contratti",
+	"sortOrder": 46,
+	"stages": 1,
+	"stage1": {
+		"title": "Pellegrinaggio al santuario: Liyue",
+		"description": "Sblocca tutti i Santuari delle Profondità a Liyue.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

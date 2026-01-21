@@ -1,0 +1,21 @@
+{
+	"id": 14011,
+	"name": "Штормовое масло",
+	"filterText": "Зелье",
+	"sortOrder": 210030,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100083,
+			"name": "Хвост ящерицы",
+			"count": 1
+		},
+		{
+			"id": 100057,
+			"name": "Семена одуванчика",
+			"count": 1
+		}
+	]
+}

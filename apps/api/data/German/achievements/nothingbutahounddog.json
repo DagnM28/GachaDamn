@@ -1,0 +1,21 @@
+{
+	"id": [
+		81346
+	],
+	"name": "Nur ein Jagdhund ...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1332,
+	"stages": 1,
+	"stage1": {
+		"title": "Nur ein Jagdhund ...",
+		"description": "Hilf Mamère, Seymour zu reparieren.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

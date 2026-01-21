@@ -1,0 +1,21 @@
+{
+	"id": [
+		84120
+	],
+	"name": "Ninja ala Mujina",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ingatan Hati",
+	"isHidden": true,
+	"sortOrder": 6710,
+	"stages": 1,
+	"stage1": {
+		"title": "Ninja ala Mujina",
+		"description": "Mendapatkan pujian tertinggi dari Sayu di Latihan Kelincahan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

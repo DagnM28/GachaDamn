@@ -1,0 +1,16 @@
+{
+	"id": 11010,
+	"name": "Corne à cristal noir",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 139999,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112015,
+			"name": "Corne en bronze noir",
+			"count": 3
+		}
+	]
+}

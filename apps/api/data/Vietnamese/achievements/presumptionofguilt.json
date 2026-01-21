@@ -1,0 +1,20 @@
+{
+	"id": [
+		86035
+	],
+	"name": "Giả Thuyết Có Tội",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần IV",
+	"sortOrder": 9034,
+	"stages": 1,
+	"stage1": {
+		"title": "Giả Thuyết Có Tội",
+		"description": "Cùng người chơi khác chiến thắng Kẻ Rửa Tội Tàn Ác.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

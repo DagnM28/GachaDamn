@@ -1,0 +1,16 @@
+{
+	"id": 11008,
+	"name": "Ponta de Flecha Usada",
+	"filterText": "Material de Fortalecimento de Arma e Personagem",
+	"sortOrder": 150029,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112012,
+			"name": "Ponta de Flecha Afiada",
+			"count": 3
+		}
+	]
+}

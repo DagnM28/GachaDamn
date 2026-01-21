@@ -1,0 +1,21 @@
+{
+	"id": [
+		81198
+	],
+	"name": "Chìa Nào Mở Khóa Nấy",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1184,
+	"stages": 1,
+	"stage1": {
+		"title": "Chìa Nào Mở Khóa Nấy",
+		"description": "Tìm thấy tất cả Ấn Khóa.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

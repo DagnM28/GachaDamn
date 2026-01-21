@@ -1,0 +1,21 @@
+{
+	"id": [
+		82064
+	],
+	"name": "Boğucu Sıcak",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2064,
+	"stages": 1,
+	"stage1": {
+		"title": "Boğucu Sıcak",
+		"description": "Bir Yalancı Ateş Ağacını tepeciğindeki zayıf noktayı yok etmeden yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80108
+	],
+	"name": "Chuyến Săn Sấm Seirai",
+	"achievementGroupId": 26,
+	"achievementGroupName": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (II)",
+	"sortOrder": 111,
+	"stages": 1,
+	"stage1": {
+		"title": "Chuyến Săn Sấm Seirai",
+		"description": "Hoàn thành Chuyến Săn Sấm Seirai.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 110006,
+	"name": "Sugar",
+	"sortRank": 322,
+	"description": "Bumbu yang berasal dari ekstrak Sweet Flower. Mempunyai kekuatan untuk memberikan energi dan kebahagiaan.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Didapatkan saat proses cooking"
+	]
+}

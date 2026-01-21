@@ -1,0 +1,21 @@
+{
+	"id": [
+		80031
+	],
+	"name": "Arbustos de Ventos Milenares",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt: A Cidade do Vento e da Poesia",
+	"sortOrder": 31,
+	"stages": 1,
+	"stage1": {
+		"title": "Arbustos de Ventos Milenares",
+		"ps5title": "Mondstadt: Arbustos de Ventos Milenares",
+		"description": "Desbloqueie todos os Pontos de Teleporte de Mondstadt (Exceto na Espinha do Dragão)",
+		"progress": 22,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

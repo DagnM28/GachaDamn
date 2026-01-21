@@ -1,0 +1,12 @@
+{
+	"id": 101003,
+	"name": "Morceau de cristal",
+	"sortRank": 301,
+	"description": "Cristal brut. Seul un professionnel pourra faire ressortir sa vraie valeur.",
+	"category": "EXCHANGE",
+	"typeText": "Minerai de forge",
+	"sources": [
+		"Dans la nature",
+		"Zone conseillée : Antre de Stormterror"
+	]
+}

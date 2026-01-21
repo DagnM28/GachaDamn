@@ -1,0 +1,12 @@
+{
+	"id": 104104,
+	"name": "Gemma di diamante brillante",
+	"rarity": 5,
+	"sortRank": 12101,
+	"description": "Materiale d'ascensione dei personaggi.\n\"Questo mondo ti dà il benvenuto\".",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
+		"Ricompensa grado avventura"
+	]
+}

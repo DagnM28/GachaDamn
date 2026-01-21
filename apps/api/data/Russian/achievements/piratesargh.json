@@ -1,0 +1,20 @@
+{
+	"id": [
+		84508
+	],
+	"name": "Карамба, пираты!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"sortOrder": 4033,
+	"stages": 1,
+	"stage1": {
+		"title": "Карамба, пираты!",
+		"description": "Сыграйте в пиратов с малышами Лулу, Фэем и Мэном.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

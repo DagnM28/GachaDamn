@@ -1,0 +1,2231 @@
+{
+	"noproblem": {
+		"filename_icon": "UI_EmotionIcon1"
+	},
+	"shipout": {
+		"filename_icon": "UI_EmotionIcon2"
+	},
+	"hehe": {
+		"filename_icon": "UI_EmotionIcon3"
+	},
+	"timetoeat": {
+		"filename_icon": "UI_EmotionIcon4"
+	},
+	"surprised": {
+		"filename_icon": "UI_EmotionIcon5"
+	},
+	"tooeasy": {
+		"filename_icon": "UI_EmotionIcon6"
+	},
+	"noooo": {
+		"filename_icon": "UI_EmotionIcon7"
+	},
+	"oh": {
+		"filename_icon": "UI_EmotionIcon8"
+	},
+	"welldone": {
+		"filename_icon": "UI_EmotionIcon9"
+	},
+	"saveme": {
+		"filename_icon": "UI_EmotionIcon10"
+	},
+	"thatsfunny": {
+		"filename_icon": "UI_EmotionIcon11"
+	},
+	"outtamyway": {
+		"filename_icon": "UI_EmotionIcon12"
+	},
+	"fallasleep": {
+		"filename_icon": "UI_EmotionIcon13"
+	},
+	"please": {
+		"filename_icon": "UI_EmotionIcon14"
+	},
+	"alert": {
+		"filename_icon": "UI_EmotionIcon15"
+	},
+	"will1morado": {
+		"filename_icon": "UI_EmotionIcon16"
+	},
+	"ok": {
+		"filename_icon": "UI_EmotionIcon17"
+	},
+	"illbegood": {
+		"filename_icon": "UI_EmotionIcon18"
+	},
+	"doubt": {
+		"filename_icon": "UI_EmotionIcon19"
+	},
+	"shame": {
+		"filename_icon": "UI_EmotionIcon20"
+	},
+	"love": {
+		"filename_icon": "UI_EmotionIcon21"
+	},
+	"hehe-01": {
+		"filename_icon": "UI_EmotionIcon22"
+	},
+	"like": {
+		"filename_icon": "UI_EmotionIcon23"
+	},
+	"goodnight": {
+		"filename_icon": "UI_EmotionIcon24"
+	},
+	"fallen": {
+		"filename_icon": "UI_EmotionIcon25"
+	},
+	"secretlyobserving": {
+		"filename_icon": "UI_EmotionIcon26"
+	},
+	"oh-01": {
+		"filename_icon": "UI_EmotionIcon27"
+	},
+	"expectant": {
+		"filename_icon": "UI_EmotionIcon28"
+	},
+	"shocked": {
+		"filename_icon": "UI_EmotionIcon29"
+	},
+	"ihaveanidea": {
+		"filename_icon": "UI_EmotionIcon30"
+	},
+	"fallingpetals": {
+		"filename_icon": "UI_EmotionIcon31"
+	},
+	"applause": {
+		"filename_icon": "UI_EmotionIcon32"
+	},
+	"sippingtea": {
+		"filename_icon": "UI_EmotionIcon33"
+	},
+	"illtakethemall": {
+		"filename_icon": "UI_EmotionIcon34"
+	},
+	"thinking": {
+		"filename_icon": "UI_EmotionIcon35"
+	},
+	"spreadhands": {
+		"filename_icon": "UI_EmotionIcon36"
+	},
+	"sigh": {
+		"filename_icon": "UI_EmotionIcon37"
+	},
+	"pleased": {
+		"filename_icon": "UI_EmotionIcon38"
+	},
+	"irritable": {
+		"filename_icon": "UI_EmotionIcon39"
+	},
+	"bored": {
+		"filename_icon": "UI_EmotionIcon40"
+	},
+	"fearsome": {
+		"filename_icon": "UI_EmotionIcon41"
+	},
+	"proud": {
+		"filename_icon": "UI_EmotionIcon42"
+	},
+	"imheatingup": {
+		"filename_icon": "UI_EmotionIcon43"
+	},
+	"soannoying": {
+		"filename_icon": "UI_EmotionIcon44"
+	},
+	"mad": {
+		"filename_icon": "UI_EmotionIcon45"
+	},
+	"irefuse": {
+		"filename_icon": "UI_EmotionIcon46"
+	},
+	"sohungry": {
+		"filename_icon": "UI_EmotionIcon47"
+	},
+	"mora": {
+		"filename_icon": "UI_EmotionIcon48"
+	},
+	"havesomeflowers": {
+		"filename_icon": "UI_EmotionIcon49"
+	},
+	"itwasnothing": {
+		"filename_icon": "UI_EmotionIcon50"
+	},
+	"whathappened": {
+		"filename_icon": "UI_EmotionIcon51"
+	},
+	"cold": {
+		"filename_icon": "UI_EmotionIcon52"
+	},
+	"snoozing": {
+		"filename_icon": "UI_EmotionIcon53"
+	},
+	"notouching": {
+		"filename_icon": "UI_EmotionIcon54"
+	},
+	"upset": {
+		"filename_icon": "UI_EmotionIcon55"
+	},
+	"notbad": {
+		"filename_icon": "UI_EmotionIcon56"
+	},
+	"pray": {
+		"filename_icon": "UI_EmotionIcon57"
+	},
+	"goodmorning": {
+		"filename_icon": "UI_EmotionIcon58"
+	},
+	"youcandoit": {
+		"filename_icon": "UI_EmotionIcon59"
+	},
+	"recording": {
+		"filename_icon": "UI_EmotionIcon60"
+	},
+	"shocked-01": {
+		"filename_icon": "UI_EmotionIcon61"
+	},
+	"thelightfades": {
+		"filename_icon": "UI_EmotionIcon62"
+	},
+	"notatall": {
+		"filename_icon": "UI_EmotionIcon63"
+	},
+	"hahaha": {
+		"filename_icon": "UI_EmotionIcon64"
+	},
+	"evillaugh": {
+		"filename_icon": "UI_EmotionIcon65"
+	},
+	"recitingpoetry": {
+		"filename_icon": "UI_EmotionIcon66"
+	},
+	"messedup": {
+		"filename_icon": "UI_EmotionIcon67"
+	},
+	"adorable": {
+		"filename_icon": "UI_EmotionIcon68"
+	},
+	"frighten": {
+		"filename_icon": "UI_EmotionIcon69"
+	},
+	"ivegotthis": {
+		"filename_icon": "UI_EmotionIcon70"
+	},
+	"yawn": {
+		"filename_icon": "UI_EmotionIcon71"
+	},
+	"pardonme": {
+		"filename_icon": "UI_EmotionIcon72"
+	},
+	"eating": {
+		"filename_icon": "UI_EmotionIcon73"
+	},
+	"rubseyes": {
+		"filename_icon": "UI_EmotionIcon74"
+	},
+	"haveaseat": {
+		"filename_icon": "UI_EmotionIcon75"
+	},
+	"bringit": {
+		"filename_icon": "UI_EmotionIcon76"
+	},
+	"doubt-01": {
+		"filename_icon": "UI_EmotionIcon77"
+	},
+	"dazed": {
+		"filename_icon": "UI_EmotionIcon78"
+	},
+	"indifferent": {
+		"filename_icon": "UI_EmotionIcon79"
+	},
+	"frown": {
+		"filename_icon": "UI_EmotionIcon80"
+	},
+	"praise": {
+		"filename_icon": "UI_EmotionIcon81"
+	},
+	"letmesee": {
+		"filename_icon": "UI_EmotionIcon82"
+	},
+	"cheers": {
+		"filename_icon": "UI_EmotionIcon83"
+	},
+	"timetoeat-01": {
+		"filename_icon": "UI_EmotionIcon84"
+	},
+	"noproblem-01": {
+		"filename_icon": "UI_EmotionIcon85"
+	},
+	"icantsleep": {
+		"filename_icon": "UI_EmotionIcon86"
+	},
+	"whattodo": {
+		"filename_icon": "UI_EmotionIcon87"
+	},
+	"pleased-01": {
+		"filename_icon": "UI_EmotionIcon88"
+	},
+	"perplexed": {
+		"filename_icon": "UI_EmotionIcon89"
+	},
+	"rawr": {
+		"filename_icon": "UI_EmotionIcon90"
+	},
+	"confused": {
+		"filename_icon": "UI_EmotionIcon91"
+	},
+	"resting": {
+		"filename_icon": "UI_EmotionIcon92"
+	},
+	"dislike": {
+		"filename_icon": "UI_EmotionIcon93"
+	},
+	"sweating": {
+		"filename_icon": "UI_EmotionIcon94"
+	},
+	"stare": {
+		"filename_icon": "UI_EmotionIcon95"
+	},
+	"clockingout": {
+		"filename_icon": "UI_EmotionIcon96"
+	},
+	"playwithme": {
+		"filename_icon": "UI_EmotionIcon97"
+	},
+	"pleeeease": {
+		"filename_icon": "UI_EmotionIcon98"
+	},
+	"nice": {
+		"filename_icon": "UI_EmotionIcon99"
+	},
+	"shame-01": {
+		"filename_icon": "UI_EmotionIcon100"
+	},
+	"hi": {
+		"filename_icon": "UI_EmotionIcon101"
+	},
+	"shock": {
+		"filename_icon": "UI_EmotionIcon102"
+	},
+	"sweating-01": {
+		"filename_icon": "UI_EmotionIcon103"
+	},
+	"smallsmile": {
+		"filename_icon": "UI_EmotionIcon104"
+	},
+	"areyoualright": {
+		"filename_icon": "UI_EmotionIcon105"
+	},
+	"shy": {
+		"filename_icon": "UI_EmotionIcon106"
+	},
+	"shh": {
+		"filename_icon": "UI_EmotionIcon107"
+	},
+	"panicked": {
+		"filename_icon": "UI_EmotionIcon108"
+	},
+	"praise-01": {
+		"filename_icon": "UI_EmotionIcon109"
+	},
+	"angry": {
+		"filename_icon": "UI_EmotionIcon110"
+	},
+	"wrysmile": {
+		"filename_icon": "UI_EmotionIcon111"
+	},
+	"pensive": {
+		"filename_icon": "UI_EmotionIcon112"
+	},
+	"smallsmile-01": {
+		"filename_icon": "UI_EmotionIcon113"
+	},
+	"sippingtea-01": {
+		"filename_icon": "UI_EmotionIcon114"
+	},
+	"bow": {
+		"filename_icon": "UI_EmotionIcon115"
+	},
+	"goodmorning-01": {
+		"filename_icon": "UI_EmotionIcon116"
+	},
+	"noproblem-02": {
+		"filename_icon": "UI_EmotionIcon117"
+	},
+	"pleased-02": {
+		"filename_icon": "UI_EmotionIcon118"
+	},
+	"sorry": {
+		"filename_icon": "UI_EmotionIcon119"
+	},
+	"hey": {
+		"filename_icon": "UI_EmotionIcon120"
+	},
+	"sleepy": {
+		"filename_icon": "UI_EmotionIcon121"
+	},
+	"angry-01": {
+		"filename_icon": "UI_EmotionIcon122"
+	},
+	"watchthis": {
+		"filename_icon": "UI_EmotionIcon123"
+	},
+	"alert-01": {
+		"filename_icon": "UI_EmotionIcon124"
+	},
+	"countingonyou": {
+		"filename_icon": "UI_EmotionIcon125"
+	},
+	"awesome": {
+		"filename_icon": "UI_EmotionIcon126"
+	},
+	"heartylaughter": {
+		"filename_icon": "UI_EmotionIcon127"
+	},
+	"bye": {
+		"filename_icon": "UI_EmotionIcon128"
+	},
+	"lightsmile": {
+		"filename_icon": "UI_EmotionIcon129"
+	},
+	"surprise": {
+		"filename_icon": "UI_EmotionIcon130"
+	},
+	"tasty": {
+		"filename_icon": "UI_EmotionIcon131"
+	},
+	"threatening": {
+		"filename_icon": "UI_EmotionIcon132"
+	},
+	"sotired": {
+		"filename_icon": "UI_EmotionIcon133"
+	},
+	"laidback": {
+		"filename_icon": "UI_EmotionIcon134"
+	},
+	"fishing": {
+		"filename_icon": "UI_EmotionIcon135"
+	},
+	"pray-01": {
+		"filename_icon": "UI_EmotionIcon136"
+	},
+	"tryingtorun": {
+		"filename_icon": "UI_EmotionIcon137"
+	},
+	"happy": {
+		"filename_icon": "UI_EmotionIcon138"
+	},
+	"irefuse-01": {
+		"filename_icon": "UI_EmotionIcon139"
+	},
+	"forward": {
+		"filename_icon": "UI_EmotionIcon140"
+	},
+	"doubt-02": {
+		"filename_icon": "UI_EmotionIcon141"
+	},
+	"congrats": {
+		"filename_icon": "UI_EmotionIcon142"
+	},
+	"starryeyed": {
+		"filename_icon": "UI_EmotionIcon143"
+	},
+	"ehehe": {
+		"filename_icon": "UI_EmotionIcon144"
+	},
+	"peek": {
+		"filename_icon": "UI_EmotionIcon145"
+	},
+	"darn": {
+		"filename_icon": "UI_EmotionIcon146"
+	},
+	"surfing": {
+		"filename_icon": "UI_EmotionIcon147"
+	},
+	"perplexed-01": {
+		"filename_icon": "UI_EmotionIcon148"
+	},
+	"shocked-02": {
+		"filename_icon": "UI_EmotionIcon149"
+	},
+	"greetings": {
+		"filename_icon": "UI_EmotionIcon150"
+	},
+	"love-01": {
+		"filename_icon": "UI_EmotionIcon151"
+	},
+	"stomachache": {
+		"filename_icon": "UI_EmotionIcon152"
+	},
+	"frightened": {
+		"filename_icon": "UI_EmotionIcon153"
+	},
+	"holduphigh": {
+		"filename_icon": "UI_EmotionIcon154"
+	},
+	"eyesonme": {
+		"filename_icon": "UI_EmotionIcon155"
+	},
+	"charge": {
+		"filename_icon": "UI_EmotionIcon156"
+	},
+	"reluctant": {
+		"filename_icon": "UI_EmotionIcon157"
+	},
+	"highfive": {
+		"filename_icon": "UI_EmotionIcon158"
+	},
+	"lyingflat": {
+		"filename_icon": "UI_EmotionIcon159"
+	},
+	"thinking-01": {
+		"filename_icon": "UI_EmotionIcon160"
+	},
+	"taunt": {
+		"filename_icon": "UI_EmotionIcon161"
+	},
+	"heartylaughter-01": {
+		"filename_icon": "UI_EmotionIcon162"
+	},
+	"perplexed-02": {
+		"filename_icon": "UI_EmotionIcon163"
+	},
+	"eatingsweets": {
+		"filename_icon": "UI_EmotionIcon164"
+	},
+	"grin": {
+		"filename_icon": "UI_EmotionIcon165"
+	},
+	"cry": {
+		"filename_icon": "UI_EmotionIcon166"
+	},
+	"happy-01": {
+		"filename_icon": "UI_EmotionIcon167"
+	},
+	"starryeyed-01": {
+		"filename_icon": "UI_EmotionIcon168"
+	},
+	"evillaugh-01": {
+		"filename_icon": "UI_EmotionIcon169"
+	},
+	"pensive-01": {
+		"filename_icon": "UI_EmotionIcon170"
+	},
+	"leaveittome": {
+		"filename_icon": "UI_EmotionIcon171"
+	},
+	"invite": {
+		"filename_icon": "UI_EmotionIcon172"
+	},
+	"sneeze": {
+		"filename_icon": "UI_EmotionIcon173"
+	},
+	"dislike-01": {
+		"filename_icon": "UI_EmotionIcon174"
+	},
+	"splendorous": {
+		"filename_icon": "UI_EmotionIcon175"
+	},
+	"examining": {
+		"filename_icon": "UI_EmotionIcon176"
+	},
+	"doubtful": {
+		"filename_icon": "UI_EmotionIcon177"
+	},
+	"speechless": {
+		"filename_icon": "UI_EmotionIcon178"
+	},
+	"sippingtea-02": {
+		"filename_icon": "UI_EmotionIcon179"
+	},
+	"stare-01": {
+		"filename_icon": "UI_EmotionIcon180"
+	},
+	"wink": {
+		"filename_icon": "UI_EmotionIcon181"
+	},
+	"smallsmile-02": {
+		"filename_icon": "UI_EmotionIcon182"
+	},
+	"shock-01": {
+		"filename_icon": "UI_EmotionIcon183"
+	},
+	"expectant-01": {
+		"filename_icon": "UI_EmotionIcon184"
+	},
+	"impregnable": {
+		"filename_icon": "UI_EmotionIcon185"
+	},
+	"consternation": {
+		"filename_icon": "UI_EmotionIcon186"
+	},
+	"atoast": {
+		"filename_icon": "UI_EmotionIcon187"
+	},
+	"confident": {
+		"filename_icon": "UI_EmotionIcon188"
+	},
+	"disbelieving": {
+		"filename_icon": "UI_EmotionIcon189"
+	},
+	"eatsnow": {
+		"filename_icon": "UI_EmotionIcon190"
+	},
+	"rolling": {
+		"filename_icon": "UI_EmotionIcon191"
+	},
+	"youcandoit-01": {
+		"filename_icon": "UI_EmotionIcon192"
+	},
+	"hahaha-01": {
+		"filename_icon": "UI_EmotionIcon193"
+	},
+	"chilling": {
+		"filename_icon": "UI_EmotionIcon194"
+	},
+	"fruitjuice": {
+		"filename_icon": "UI_EmotionIcon195"
+	},
+	"approval": {
+		"filename_icon": "UI_EmotionIcon196"
+	},
+	"drinkstea": {
+		"filename_icon": "UI_EmotionIcon197"
+	},
+	"givethatback": {
+		"filename_icon": "UI_EmotionIcon198"
+	},
+	"chargingup": {
+		"filename_icon": "UI_EmotionIcon199"
+	},
+	"lowcharge": {
+		"filename_icon": "UI_EmotionIcon200"
+	},
+	"mockingsmile": {
+		"filename_icon": "UI_EmotionIcon201"
+	},
+	"obfuscating": {
+		"filename_icon": "UI_EmotionIcon202"
+	},
+	"workinprogress": {
+		"filename_icon": "UI_EmotionIcon203"
+	},
+	"evilsmile": {
+		"filename_icon": "UI_EmotionIcon204"
+	},
+	"mythanks": {
+		"filename_icon": "UI_EmotionIcon205"
+	},
+	"prepareyourself": {
+		"filename_icon": "UI_EmotionIcon206"
+	},
+	"mullingitover": {
+		"filename_icon": "UI_EmotionIcon207"
+	},
+	"shutin": {
+		"filename_icon": "UI_EmotionIcon208"
+	},
+	"drinkingmilktea": {
+		"filename_icon": "UI_EmotionIcon209"
+	},
+	"thinking-02": {
+		"filename_icon": "UI_EmotionIcon210"
+	},
+	"nowworking": {
+		"filename_icon": "UI_EmotionIcon211"
+	},
+	"suspicious": {
+		"filename_icon": "UI_EmotionIcon212"
+	},
+	"training": {
+		"filename_icon": "UI_EmotionIcon213"
+	},
+	"greed": {
+		"filename_icon": "UI_EmotionIcon214"
+	},
+	"dazed-01": {
+		"filename_icon": "UI_EmotionIcon215"
+	},
+	"bashful": {
+		"filename_icon": "UI_EmotionIcon216"
+	},
+	"sleepytime": {
+		"filename_icon": "UI_EmotionIcon217"
+	},
+	"sighing": {
+		"filename_icon": "UI_EmotionIcon218"
+	},
+	"relaxed": {
+		"filename_icon": "UI_EmotionIcon219"
+	},
+	"ehe": {
+		"filename_icon": "UI_EmotionIcon220"
+	},
+	"ivegotanidea": {
+		"filename_icon": "UI_EmotionIcon221"
+	},
+	"toomuchstress": {
+		"filename_icon": "UI_EmotionIcon222"
+	},
+	"focused": {
+		"filename_icon": "UI_EmotionIcon223"
+	},
+	"makingsure": {
+		"filename_icon": "UI_EmotionIcon224"
+	},
+	"coldlaugh": {
+		"filename_icon": "UI_EmotionIcon225"
+	},
+	"drinkstea-01": {
+		"filename_icon": "UI_EmotionIcon226"
+	},
+	"threatening-01": {
+		"filename_icon": "UI_EmotionIcon227"
+	},
+	"naptime": {
+		"filename_icon": "UI_EmotionIcon228"
+	},
+	"pleased-03": {
+		"filename_icon": "UI_EmotionIcon229"
+	},
+	"challenge": {
+		"filename_icon": "UI_EmotionIcon230"
+	},
+	"lendahand": {
+		"filename_icon": "UI_EmotionIcon231"
+	},
+	"agh": {
+		"filename_icon": "UI_EmotionIcon232"
+	},
+	"panic": {
+		"filename_icon": "UI_EmotionIcon233"
+	},
+	"rage": {
+		"filename_icon": "UI_EmotionIcon234"
+	},
+	"surepass": {
+		"filename_icon": "UI_EmotionIcon235"
+	},
+	"readyforbattle": {
+		"filename_icon": "UI_EmotionIcon236"
+	},
+	"showup": {
+		"filename_icon": "UI_EmotionIcon237"
+	},
+	"doubt-03": {
+		"filename_icon": "UI_EmotionIcon238"
+	},
+	"warning": {
+		"filename_icon": "UI_EmotionIcon239"
+	},
+	"objection": {
+		"filename_icon": "UI_EmotionIcon240"
+	},
+	"imthebest": {
+		"filename_icon": "UI_EmotionIcon241"
+	},
+	"sigh-01": {
+		"filename_icon": "UI_EmotionIcon242"
+	},
+	"noticed": {
+		"filename_icon": "UI_EmotionIcon243"
+	},
+	"punch": {
+		"filename_icon": "UI_EmotionIcon244"
+	},
+	"youcandoit-02": {
+		"filename_icon": "UI_EmotionIcon245"
+	},
+	"crystalsplease": {
+		"filename_icon": "UI_EmotionIcon246"
+	},
+	"satisfaction": {
+		"filename_icon": "UI_EmotionIcon247"
+	},
+	"allowme": {
+		"filename_icon": "UI_EmotionIcon248"
+	},
+	"strokeschin": {
+		"filename_icon": "UI_EmotionIcon249"
+	},
+	"stretch": {
+		"filename_icon": "UI_EmotionIcon250"
+	},
+	"sohot": {
+		"filename_icon": "UI_EmotionIcon251"
+	},
+	"letstry": {
+		"filename_icon": "UI_EmotionIcon252"
+	},
+	"dazed-02": {
+		"filename_icon": "UI_EmotionIcon253"
+	},
+	"disappointment": {
+		"filename_icon": "UI_EmotionIcon254"
+	},
+	"staycalm": {
+		"filename_icon": "UI_EmotionIcon255"
+	},
+	"onvacation": {
+		"filename_icon": "UI_EmotionIcon256"
+	},
+	"tapsblackboard": {
+		"filename_icon": "UI_EmotionIcon257"
+	},
+	"pats": {
+		"filename_icon": "UI_EmotionIcon258"
+	},
+	"shock-02": {
+		"filename_icon": "UI_EmotionIcon259"
+	},
+	"observing": {
+		"filename_icon": "UI_EmotionIcon260"
+	},
+	"yearning": {
+		"filename_icon": "UI_EmotionIcon261"
+	},
+	"embarrassed": {
+		"filename_icon": "UI_EmotionIcon262"
+	},
+	"lessontime": {
+		"filename_icon": "UI_EmotionIcon263"
+	},
+	"alert-02": {
+		"filename_icon": "UI_EmotionIcon264"
+	},
+	"salespitch": {
+		"filename_icon": "UI_EmotionIcon265"
+	},
+	"evilgrin": {
+		"filename_icon": "UI_EmotionIcon266"
+	},
+	"search": {
+		"filename_icon": "UI_EmotionIcon267"
+	},
+	"dreamingofmora": {
+		"filename_icon": "UI_EmotionIcon268"
+	},
+	"helpme": {
+		"filename_icon": "UI_EmotionIcon269"
+	},
+	"letsscoot": {
+		"filename_icon": "UI_EmotionIcon270"
+	},
+	"dreaming": {
+		"filename_icon": "UI_EmotionIcon271"
+	},
+	"disguised": {
+		"filename_icon": "UI_EmotionIcon272"
+	},
+	"duel": {
+		"filename_icon": "UI_EmotionIcon273"
+	},
+	"judgment": {
+		"filename_icon": "UI_EmotionIcon274"
+	},
+	"imhere": {
+		"filename_icon": "UI_EmotionIcon275"
+	},
+	"sweating-02": {
+		"filename_icon": "UI_EmotionIcon276"
+	},
+	"awkward": {
+		"filename_icon": "UI_EmotionIcon277"
+	},
+	"nowthinking": {
+		"filename_icon": "UI_EmotionIcon278"
+	},
+	"emerge": {
+		"filename_icon": "UI_EmotionIcon279"
+	},
+	"thatsallfolks": {
+		"filename_icon": "UI_EmotionIcon280"
+	},
+	"illprotectyou": {
+		"filename_icon": "UI_EmotionIcon281"
+	},
+	"happybirthday": {
+		"filename_icon": "UI_EmotionIcon282"
+	},
+	"thanks": {
+		"filename_icon": "UI_EmotionIcon283"
+	},
+	"praying": {
+		"filename_icon": "UI_EmotionIcon284"
+	},
+	"sillygrin": {
+		"filename_icon": "UI_EmotionIcon285"
+	},
+	"awoo": {
+		"filename_icon": "UI_EmotionIcon286"
+	},
+	"hunting": {
+		"filename_icon": "UI_EmotionIcon287"
+	},
+	"overwhelmed": {
+		"filename_icon": "UI_EmotionIcon288"
+	},
+	"curious": {
+		"filename_icon": "UI_EmotionIcon289"
+	},
+	"happy-02": {
+		"filename_icon": "UI_EmotionIcon290"
+	},
+	"deepthought": {
+		"filename_icon": "UI_EmotionIcon291"
+	},
+	"great": {
+		"filename_icon": "UI_EmotionIcon292"
+	},
+	"excited": {
+		"filename_icon": "UI_EmotionIcon293"
+	},
+	"lunchbreak": {
+		"filename_icon": "UI_EmotionIcon294"
+	},
+	"criesinpoverty": {
+		"filename_icon": "UI_EmotionIcon295"
+	},
+	"sleepwalk": {
+		"filename_icon": "UI_EmotionIcon296"
+	},
+	"zeroprogress": {
+		"filename_icon": "UI_EmotionIcon297"
+	},
+	"mozzieswat": {
+		"filename_icon": "UI_EmotionIcon298"
+	},
+	"cry-01": {
+		"filename_icon": "UI_EmotionIcon299"
+	},
+	"fly": {
+		"filename_icon": "UI_EmotionIcon300"
+	},
+	"therethere": {
+		"filename_icon": "UI_EmotionIcon301"
+	},
+	"scared": {
+		"filename_icon": "UI_EmotionIcon302"
+	},
+	"dazed-03": {
+		"filename_icon": "UI_EmotionIcon303"
+	},
+	"gogo": {
+		"filename_icon": "UI_EmotionIcon304"
+	},
+	"greetings-01": {
+		"filename_icon": "UI_EmotionIcon305"
+	},
+	"sobs": {
+		"filename_icon": "UI_EmotionIcon306"
+	},
+	"funnyface": {
+		"filename_icon": "UI_EmotionIcon307"
+	},
+	"collapsed": {
+		"filename_icon": "UI_EmotionIcon308"
+	},
+	"thinking-03": {
+		"filename_icon": "UI_EmotionIcon309"
+	},
+	"blush": {
+		"filename_icon": "UI_EmotionIcon310"
+	},
+	"welcome": {
+		"filename_icon": "UI_EmotionIcon311"
+	},
+	"comeagain": {
+		"filename_icon": "UI_EmotionIcon312"
+	},
+	"invite-01": {
+		"filename_icon": "UI_EmotionIcon313"
+	},
+	"victory": {
+		"filename_icon": "UI_EmotionIcon314"
+	},
+	"notbad-01": {
+		"filename_icon": "UI_EmotionIcon315"
+	},
+	"anotherround": {
+		"filename_icon": "UI_EmotionIcon316"
+	},
+	"confident-01": {
+		"filename_icon": "UI_EmotionIcon317"
+	},
+	"howdidthathappen": {
+		"filename_icon": "UI_EmotionIcon318"
+	},
+	"ivelearnedalot": {
+		"filename_icon": "UI_EmotionIcon319"
+	},
+	"lucky": {
+		"filename_icon": "UI_EmotionIcon320"
+	},
+	"happyholidays": {
+		"filename_icon": "UI_EmotionIcon321"
+	},
+	"goodjob": {
+		"filename_icon": "UI_EmotionIcon322"
+	},
+	"imdone": {
+		"filename_icon": "UI_EmotionIcon323"
+	},
+	"greed-01": {
+		"filename_icon": "UI_EmotionIcon324"
+	},
+	"bonvoyage": {
+		"filename_icon": "UI_EmotionIcon325"
+	},
+	"doublehappiness": {
+		"filename_icon": "UI_EmotionIcon326"
+	},
+	"joyfulreunion": {
+		"filename_icon": "UI_EmotionIcon327"
+	},
+	"goodfortune": {
+		"filename_icon": "UI_EmotionIcon328"
+	},
+	"thanksboss": {
+		"filename_icon": "UI_EmotionIcon329"
+	},
+	"plentifulmora": {
+		"filename_icon": "UI_EmotionIcon330"
+	},
+	"greatfortune": {
+		"filename_icon": "UI_EmotionIcon331"
+	},
+	"alwayshappy": {
+		"filename_icon": "UI_EmotionIcon332"
+	},
+	"useyourbrain": {
+		"filename_icon": "UI_EmotionIcon333"
+	},
+	"clockout": {
+		"filename_icon": "UI_EmotionIcon334"
+	},
+	"sonoisy": {
+		"filename_icon": "UI_EmotionIcon335"
+	},
+	"undisturbed": {
+		"filename_icon": "UI_EmotionIcon336"
+	},
+	"gotit": {
+		"filename_icon": "UI_EmotionIcon337"
+	},
+	"nervous": {
+		"filename_icon": "UI_EmotionIcon338"
+	},
+	"takethis": {
+		"filename_icon": "UI_EmotionIcon339"
+	},
+	"havesomeflowers-01": {
+		"filename_icon": "UI_EmotionIcon340"
+	},
+	"sigh-02": {
+		"filename_icon": "UI_EmotionIcon341"
+	},
+	"soscary": {
+		"filename_icon": "UI_EmotionIcon342"
+	},
+	"imhere-01": {
+		"filename_icon": "UI_EmotionIcon343"
+	},
+	"yay": {
+		"filename_icon": "UI_EmotionIcon344"
+	},
+	"nonotfunny": {
+		"filename_icon": "UI_EmotionIcon345"
+	},
+	"inspection": {
+		"filename_icon": "UI_EmotionIcon346"
+	},
+	"hopeless": {
+		"filename_icon": "UI_EmotionIcon347"
+	},
+	"flop": {
+		"filename_icon": "UI_EmotionIcon348"
+	},
+	"noresponse": {
+		"filename_icon": "UI_EmotionIcon349"
+	},
+	"stretch-01": {
+		"filename_icon": "UI_EmotionIcon350"
+	},
+	"sorrytodisturb": {
+		"filename_icon": "UI_EmotionIcon351"
+	},
+	"envious": {
+		"filename_icon": "UI_EmotionIcon352"
+	},
+	"concerned": {
+		"filename_icon": "UI_EmotionIcon353"
+	},
+	"gloom": {
+		"filename_icon": "UI_EmotionIcon354"
+	},
+	"vomitingblood": {
+		"filename_icon": "UI_EmotionIcon355"
+	},
+	"takingmedicine": {
+		"filename_icon": "UI_EmotionIcon356"
+	},
+	"nowimangry": {
+		"filename_icon": "UI_EmotionIcon357"
+	},
+	"helpme-01": {
+		"filename_icon": "UI_EmotionIcon358"
+	},
+	"timeforwork": {
+		"filename_icon": "UI_EmotionIcon359"
+	},
+	"acceptingorders": {
+		"filename_icon": "UI_EmotionIcon360"
+	},
+	"winkwink": {
+		"filename_icon": "UI_EmotionIcon361"
+	},
+	"givingcomments": {
+		"filename_icon": "UI_EmotionIcon362"
+	},
+	"illtakeitfromhere": {
+		"filename_icon": "UI_EmotionIcon363"
+	},
+	"youcandothis": {
+		"filename_icon": "UI_EmotionIcon364"
+	},
+	"zonedout": {
+		"filename_icon": "UI_EmotionIcon365"
+	},
+	"watchme": {
+		"filename_icon": "UI_EmotionIcon366"
+	},
+	"haveatyou": {
+		"filename_icon": "UI_EmotionIcon367"
+	},
+	"youreinvited": {
+		"filename_icon": "UI_EmotionIcon368"
+	},
+	"fivestarratingpurrease": {
+		"filename_icon": "UI_EmotionIcon369"
+	},
+	"pleasetakeit": {
+		"filename_icon": "UI_EmotionIcon370"
+	},
+	"rightaway": {
+		"filename_icon": "UI_EmotionIcon371"
+	},
+	"imserious": {
+		"filename_icon": "UI_EmotionIcon372"
+	},
+	"perplexed-03": {
+		"filename_icon": "UI_EmotionIcon373"
+	},
+	"workingonit": {
+		"filename_icon": "UI_EmotionIcon374"
+	},
+	"goodnara": {
+		"filename_icon": "UI_EmotionIcon375"
+	},
+	"badnara": {
+		"filename_icon": "UI_EmotionIcon376"
+	},
+	"dogoon": {
+		"filename_icon": "UI_EmotionIcon377"
+	},
+	"amazing": {
+		"filename_icon": "UI_EmotionIcon378"
+	},
+	"friendshipcomesfirst": {
+		"filename_icon": "UI_EmotionIcon379"
+	},
+	"amazing-01": {
+		"filename_icon": "UI_EmotionIcon380"
+	},
+	"dontholdback": {
+		"filename_icon": "UI_EmotionIcon381"
+	},
+	"art": {
+		"filename_icon": "UI_EmotionIcon382"
+	},
+	"youscared": {
+		"filename_icon": "UI_EmotionIcon383"
+	},
+	"yourescared": {
+		"filename_icon": "UI_EmotionIcon384"
+	},
+	"refuse": {
+		"filename_icon": "UI_EmotionIcon385"
+	},
+	"shy-01": {
+		"filename_icon": "UI_EmotionIcon386"
+	},
+	"carsick": {
+		"filename_icon": "UI_EmotionIcon387"
+	},
+	"thinking-04": {
+		"filename_icon": "UI_EmotionIcon388"
+	},
+	"icandoit": {
+		"filename_icon": "UI_EmotionIcon389"
+	},
+	"mimic": {
+		"filename_icon": "UI_EmotionIcon390"
+	},
+	"itsyou": {
+		"filename_icon": "UI_EmotionIcon391"
+	},
+	"go": {
+		"filename_icon": "UI_EmotionIcon392"
+	},
+	"littlemage": {
+		"filename_icon": "UI_EmotionIcon393"
+	},
+	"frustrated": {
+		"filename_icon": "UI_EmotionIcon394"
+	},
+	"coolingdown": {
+		"filename_icon": "UI_EmotionIcon395"
+	},
+	"heartstealer": {
+		"filename_icon": "UI_EmotionIcon396"
+	},
+	"zonedout-01": {
+		"filename_icon": "UI_EmotionIcon397"
+	},
+	"threatening-02": {
+		"filename_icon": "UI_EmotionIcon398"
+	},
+	"imuseless": {
+		"filename_icon": "UI_EmotionIcon399"
+	},
+	"passthebuck": {
+		"filename_icon": "UI_EmotionIcon400"
+	},
+	"salute": {
+		"filename_icon": "UI_EmotionIcon401"
+	},
+	"debut": {
+		"filename_icon": "UI_EmotionIcon402"
+	},
+	"nervous-01": {
+		"filename_icon": "UI_EmotionIcon403"
+	},
+	"surprise-01": {
+		"filename_icon": "UI_EmotionIcon404"
+	},
+	"watchthefun": {
+		"filename_icon": "UI_EmotionIcon405"
+	},
+	"standbymode": {
+		"filename_icon": "UI_EmotionIcon406"
+	},
+	"gotcha": {
+		"filename_icon": "UI_EmotionIcon407"
+	},
+	"cheer": {
+		"filename_icon": "UI_EmotionIcon408"
+	},
+	"lurking": {
+		"filename_icon": "UI_EmotionIcon409"
+	},
+	"poppingin": {
+		"filename_icon": "UI_EmotionIcon410"
+	},
+	"alert-03": {
+		"filename_icon": "UI_EmotionIcon411"
+	},
+	"hobby": {
+		"filename_icon": "UI_EmotionIcon412"
+	},
+	"happy-03": {
+		"filename_icon": "UI_EmotionIcon413"
+	},
+	"refined": {
+		"filename_icon": "UI_EmotionIcon414"
+	},
+	"checkplease": {
+		"filename_icon": "UI_EmotionIcon415"
+	},
+	"bringiton": {
+		"filename_icon": "UI_EmotionIcon416"
+	},
+	"maintaindistance": {
+		"filename_icon": "UI_EmotionIcon417"
+	},
+	"headpat": {
+		"filename_icon": "UI_EmotionIcon418"
+	},
+	"guilty": {
+		"filename_icon": "UI_EmotionIcon419"
+	},
+	"itsraining": {
+		"filename_icon": "UI_EmotionIcon420"
+	},
+	"youreright": {
+		"filename_icon": "UI_EmotionIcon421"
+	},
+	"thatstough": {
+		"filename_icon": "UI_EmotionIcon422"
+	},
+	"comewithme": {
+		"filename_icon": "UI_EmotionIcon423"
+	},
+	"immad": {
+		"filename_icon": "UI_EmotionIcon424"
+	},
+	"ehno": {
+		"filename_icon": "UI_EmotionIcon425"
+	},
+	"suresuresure": {
+		"filename_icon": "UI_EmotionIcon426"
+	},
+	"unacceptable": {
+		"filename_icon": "UI_EmotionIcon427"
+	},
+	"recitepoetry": {
+		"filename_icon": "UI_EmotionIcon428"
+	},
+	"sospicy": {
+		"filename_icon": "UI_EmotionIcon429"
+	},
+	"shy-02": {
+		"filename_icon": "UI_EmotionIcon430"
+	},
+	"doubtingme": {
+		"filename_icon": "UI_EmotionIcon431"
+	},
+	"learnedsomething": {
+		"filename_icon": "UI_EmotionIcon432"
+	},
+	"howshocking": {
+		"filename_icon": "UI_EmotionIcon433"
+	},
+	"thisishard": {
+		"filename_icon": "UI_EmotionIcon434"
+	},
+	"hilarious": {
+		"filename_icon": "UI_EmotionIcon435"
+	},
+	"soboring": {
+		"filename_icon": "UI_EmotionIcon436"
+	},
+	"explosivenews": {
+		"filename_icon": "UI_EmotionIcon437"
+	},
+	"professionalsquad": {
+		"filename_icon": "UI_EmotionIcon438"
+	},
+	"inarush": {
+		"filename_icon": "UI_EmotionIcon439"
+	},
+	"watchyourwords": {
+		"filename_icon": "UI_EmotionIcon440"
+	},
+	"howawkward": {
+		"filename_icon": "UI_EmotionIcon441"
+	},
+	"dontlook": {
+		"filename_icon": "UI_EmotionIcon442"
+	},
+	"havealook": {
+		"filename_icon": "UI_EmotionIcon443"
+	},
+	"havealook-01": {
+		"filename_icon": "UI_EmotionIcon444"
+	},
+	"rollout": {
+		"filename_icon": "UI_EmotionIcon445"
+	},
+	"tooweak": {
+		"filename_icon": "UI_EmotionIcon446"
+	},
+	"arrest": {
+		"filename_icon": "UI_EmotionIcon447"
+	},
+	"roundofapplause": {
+		"filename_icon": "UI_EmotionIcon448"
+	},
+	"bosssshock": {
+		"filename_icon": "UI_EmotionIcon449"
+	},
+	"bosssorders": {
+		"filename_icon": "UI_EmotionIcon450"
+	},
+	"bosssstyle": {
+		"filename_icon": "UI_EmotionIcon451"
+	},
+	"bosssbombasticsideeye": {
+		"filename_icon": "UI_EmotionIcon452"
+	},
+	"lockedandloaded": {
+		"filename_icon": "UI_EmotionIcon453"
+	},
+	"supervisedspecialtraining": {
+		"filename_icon": "UI_EmotionIcon454"
+	},
+	"personaltraining": {
+		"filename_icon": "UI_EmotionIcon455"
+	},
+	"replenishenergy": {
+		"filename_icon": "UI_EmotionIcon456"
+	},
+	"bingingdramas": {
+		"filename_icon": "UI_EmotionIcon457"
+	},
+	"enjoy": {
+		"filename_icon": "UI_EmotionIcon458"
+	},
+	"feelingluckypunk": {
+		"filename_icon": "UI_EmotionIcon459"
+	},
+	"keepitasecret": {
+		"filename_icon": "UI_EmotionIcon460"
+	},
+	"speechless-01": {
+		"filename_icon": "UI_EmotionIcon461"
+	},
+	"goodtake": {
+		"filename_icon": "UI_EmotionIcon462"
+	},
+	"watchit": {
+		"filename_icon": "UI_EmotionIcon463"
+	},
+	"maximumresolve": {
+		"filename_icon": "UI_EmotionIcon464"
+	},
+	"adeptalgreeting": {
+		"filename_icon": "UI_EmotionIcon465"
+	},
+	"confidentbird": {
+		"filename_icon": "UI_EmotionIcon466"
+	},
+	"staycalm-01": {
+		"filename_icon": "UI_EmotionIcon467"
+	},
+	"forme": {
+		"filename_icon": "UI_EmotionIcon468"
+	},
+	"thanks-01": {
+		"filename_icon": "UI_EmotionIcon469"
+	},
+	"qilinsauspiciousnewyear": {
+		"filename_icon": "UI_EmotionIcon470"
+	},
+	"ahealthylovingfamily": {
+		"filename_icon": "UI_EmotionIcon471"
+	},
+	"cranesluckygift": {
+		"filename_icon": "UI_EmotionIcon472"
+	},
+	"happynewyear": {
+		"filename_icon": "UI_EmotionIcon473"
+	},
+	"wassup": {
+		"filename_icon": "UI_EmotionIcon474"
+	},
+	"highfive-01": {
+		"filename_icon": "UI_EmotionIcon475"
+	},
+	"wushoudance": {
+		"filename_icon": "UI_EmotionIcon476"
+	},
+	"chorusofwellwishes": {
+		"filename_icon": "UI_EmotionIcon477"
+	},
+	"shopping": {
+		"filename_icon": "UI_EmotionIcon478"
+	},
+	"politerefusal": {
+		"filename_icon": "UI_EmotionIcon479"
+	},
+	"itsforyou": {
+		"filename_icon": "UI_EmotionIcon480"
+	},
+	"donotdisturb": {
+		"filename_icon": "UI_EmotionIcon481"
+	},
+	"ooh": {
+		"filename_icon": "UI_EmotionIcon482"
+	},
+	"playdumb": {
+		"filename_icon": "UI_EmotionIcon483"
+	},
+	"knowthyself": {
+		"filename_icon": "UI_EmotionIcon484"
+	},
+	"protecc": {
+		"filename_icon": "UI_EmotionIcon485"
+	},
+	"keeptrying": {
+		"filename_icon": "UI_EmotionIcon486"
+	},
+	"awful": {
+		"filename_icon": "UI_EmotionIcon487"
+	},
+	"dontdothatagain": {
+		"filename_icon": "UI_EmotionIcon488"
+	},
+	"smalljoys": {
+		"filename_icon": "UI_EmotionIcon489"
+	},
+	"behave": {
+		"filename_icon": "UI_EmotionIcon490"
+	},
+	"resignation": {
+		"filename_icon": "UI_EmotionIcon491"
+	},
+	"codetalk": {
+		"filename_icon": "UI_EmotionIcon492"
+	},
+	"timetorest": {
+		"filename_icon": "UI_EmotionIcon493"
+	},
+	"timeforwork-01": {
+		"filename_icon": "UI_EmotionIcon494"
+	},
+	"mixing": {
+		"filename_icon": "UI_EmotionIcon495"
+	},
+	"ordering": {
+		"filename_icon": "UI_EmotionIcon496"
+	},
+	"shh-01": {
+		"filename_icon": "UI_EmotionIcon497"
+	},
+	"notearsnow": {
+		"filename_icon": "UI_EmotionIcon498"
+	},
+	"pleasuredoingbusiness": {
+		"filename_icon": "UI_EmotionIcon499"
+	},
+	"scorn": {
+		"filename_icon": "UI_EmotionIcon500"
+	},
+	"unworthy": {
+		"filename_icon": "UI_EmotionIcon501"
+	},
+	"notokayhearme": {
+		"filename_icon": "UI_EmotionIcon502"
+	},
+	"holdingbacktears": {
+		"filename_icon": "UI_EmotionIcon503"
+	},
+	"stare-02": {
+		"filename_icon": "UI_EmotionIcon504"
+	},
+	"fessup": {
+		"filename_icon": "UI_EmotionIcon505"
+	},
+	"awkward-01": {
+		"filename_icon": "UI_EmotionIcon506"
+	},
+	"waitingforyou": {
+		"filename_icon": "UI_EmotionIcon507"
+	},
+	"stumped": {
+		"filename_icon": "UI_EmotionIcon508"
+	},
+	"lalala": {
+		"filename_icon": "UI_EmotionIcon509"
+	},
+	"ohhhyeahhh": {
+		"filename_icon": "UI_EmotionIcon510"
+	},
+	"toilingaway": {
+		"filename_icon": "UI_EmotionIcon511"
+	},
+	"bigstretch": {
+		"filename_icon": "UI_EmotionIcon512"
+	},
+	"duelistssalute": {
+		"filename_icon": "UI_EmotionIcon513"
+	},
+	"letsmove": {
+		"filename_icon": "UI_EmotionIcon514"
+	},
+	"relaxed-01": {
+		"filename_icon": "UI_EmotionIcon515"
+	},
+	"gamemaster": {
+		"filename_icon": "UI_EmotionIcon516"
+	},
+	"injection": {
+		"filename_icon": "UI_EmotionIcon517"
+	},
+	"restwell": {
+		"filename_icon": "UI_EmotionIcon518"
+	},
+	"skincare": {
+		"filename_icon": "UI_EmotionIcon519"
+	},
+	"greetings-02": {
+		"filename_icon": "UI_EmotionIcon520"
+	},
+	"wave": {
+		"filename_icon": "UI_EmotionIcon521"
+	},
+	"goingout": {
+		"filename_icon": "UI_EmotionIcon522"
+	},
+	"takeaim": {
+		"filename_icon": "UI_EmotionIcon523"
+	},
+	"learning": {
+		"filename_icon": "UI_EmotionIcon524"
+	},
+	"absentminded": {
+		"filename_icon": "UI_EmotionIcon525"
+	},
+	"waiting": {
+		"filename_icon": "UI_EmotionIcon526"
+	},
+	"napping": {
+		"filename_icon": "UI_EmotionIcon527"
+	},
+	"investigating": {
+		"filename_icon": "UI_EmotionIcon528"
+	},
+	"scent": {
+		"filename_icon": "UI_EmotionIcon529"
+	},
+	"compare": {
+		"filename_icon": "UI_EmotionIcon530"
+	},
+	"noted": {
+		"filename_icon": "UI_EmotionIcon531"
+	},
+	"conclusive": {
+		"filename_icon": "UI_EmotionIcon532"
+	},
+	"blessings": {
+		"filename_icon": "UI_EmotionIcon533"
+	},
+	"farewell": {
+		"filename_icon": "UI_EmotionIcon534"
+	},
+	"sweetdreams": {
+		"filename_icon": "UI_EmotionIcon535"
+	},
+	"confident-02": {
+		"filename_icon": "UI_EmotionIcon536"
+	},
+	"bossakaking": {
+		"filename_icon": "UI_EmotionIcon537"
+	},
+	"trustypartner": {
+		"filename_icon": "UI_EmotionIcon538"
+	},
+	"defaultyes": {
+		"filename_icon": "UI_EmotionIcon539"
+	},
+	"icare": {
+		"filename_icon": "UI_EmotionIcon540"
+	},
+	"cheers-01": {
+		"filename_icon": "UI_EmotionIcon541"
+	},
+	"working": {
+		"filename_icon": "UI_EmotionIcon542"
+	},
+	"surprised-01": {
+		"filename_icon": "UI_EmotionIcon543"
+	},
+	"friendship": {
+		"filename_icon": "UI_EmotionIcon544"
+	},
+	"victory-01": {
+		"filename_icon": "UI_EmotionIcon545"
+	},
+	"lemmesee": {
+		"filename_icon": "UI_EmotionIcon546"
+	},
+	"cheersquad": {
+		"filename_icon": "UI_EmotionIcon547"
+	},
+	"panic-01": {
+		"filename_icon": "UI_EmotionIcon548"
+	},
+	"gotit-01": {
+		"filename_icon": "UI_EmotionIcon549"
+	},
+	"hoard": {
+		"filename_icon": "UI_EmotionIcon550"
+	},
+	"nervous-02": {
+		"filename_icon": "UI_EmotionIcon551"
+	},
+	"touched": {
+		"filename_icon": "UI_EmotionIcon552"
+	},
+	"appraising": {
+		"filename_icon": "UI_EmotionIcon553"
+	},
+	"disguised-01": {
+		"filename_icon": "UI_EmotionIcon554"
+	},
+	"rejected": {
+		"filename_icon": "UI_EmotionIcon555"
+	},
+	"gogogo": {
+		"filename_icon": "UI_EmotionIcon556"
+	},
+	"suddenlyhostile": {
+		"filename_icon": "UI_EmotionIcon557"
+	},
+	"crucialpose": {
+		"filename_icon": "UI_EmotionIcon558"
+	},
+	"mediation": {
+		"filename_icon": "UI_EmotionIcon559"
+	},
+	"eathealthy": {
+		"filename_icon": "UI_EmotionIcon560"
+	},
+	"yawn-01": {
+		"filename_icon": "UI_EmotionIcon561"
+	},
+	"laidback-01": {
+		"filename_icon": "UI_EmotionIcon562"
+	},
+	"grooving": {
+		"filename_icon": "UI_EmotionIcon563"
+	},
+	"openup": {
+		"filename_icon": "UI_EmotionIcon564"
+	},
+	"itsnothing": {
+		"filename_icon": "UI_EmotionIcon565"
+	},
+	"angery": {
+		"filename_icon": "UI_EmotionIcon566"
+	},
+	"sorry-01": {
+		"filename_icon": "UI_EmotionIcon567"
+	},
+	"pause": {
+		"filename_icon": "UI_EmotionIcon568"
+	},
+	"approval-01": {
+		"filename_icon": "UI_EmotionIcon569"
+	},
+	"blaze": {
+		"filename_icon": "UI_EmotionIcon570"
+	},
+	"keepitasecret-01": {
+		"filename_icon": "UI_EmotionIcon571"
+	},
+	"me": {
+		"filename_icon": "UI_EmotionIcon572"
+	},
+	"shooketh": {
+		"filename_icon": "UI_EmotionIcon573"
+	},
+	"nice-01": {
+		"filename_icon": "UI_EmotionIcon574"
+	},
+	"blissful": {
+		"filename_icon": "UI_EmotionIcon575"
+	},
+	"makefriends": {
+		"filename_icon": "UI_EmotionIcon576"
+	},
+	"dontfret": {
+		"filename_icon": "UI_EmotionIcon577"
+	},
+	"lowerbrim": {
+		"filename_icon": "UI_EmotionIcon578"
+	},
+	"itsyou-01": {
+		"filename_icon": "UI_EmotionIcon579"
+	},
+	"holdingbacktears-01": {
+		"filename_icon": "UI_EmotionIcon580"
+	},
+	"imoff": {
+		"filename_icon": "UI_EmotionIcon581"
+	},
+	"yougotthis": {
+		"filename_icon": "UI_EmotionIcon582"
+	},
+	"cantsleep": {
+		"filename_icon": "UI_EmotionIcon583"
+	},
+	"veggiebuddies": {
+		"filename_icon": "UI_EmotionIcon584"
+	},
+	"coming": {
+		"filename_icon": "UI_EmotionIcon585"
+	},
+	"wink-01": {
+		"filename_icon": "UI_EmotionIcon586"
+	},
+	"help": {
+		"filename_icon": "UI_EmotionIcon587"
+	},
+	"flowingthoughts": {
+		"filename_icon": "UI_EmotionIcon588"
+	},
+	"curious-01": {
+		"filename_icon": "UI_EmotionIcon589"
+	},
+	"leavemealone": {
+		"filename_icon": "UI_EmotionIcon590"
+	},
+	"secretlyobserving-01": {
+		"filename_icon": "UI_EmotionIcon591"
+	},
+	"nervous-03": {
+		"filename_icon": "UI_EmotionIcon592"
+	},
+	"comequick": {
+		"filename_icon": "UI_EmotionIcon593"
+	},
+	"fullthrottle": {
+		"filename_icon": "UI_EmotionIcon594"
+	},
+	"headtohead": {
+		"filename_icon": "UI_EmotionIcon595"
+	},
+	"cheers-02": {
+		"filename_icon": "UI_EmotionIcon596"
+	},
+	"refusetoface": {
+		"filename_icon": "UI_EmotionIcon597"
+	},
+	"blearyeyed": {
+		"filename_icon": "UI_EmotionIcon598"
+	},
+	"blush-01": {
+		"filename_icon": "UI_EmotionIcon599"
+	},
+	"annoyed": {
+		"filename_icon": "UI_EmotionIcon600"
+	},
+	"greetings-03": {
+		"filename_icon": "UI_EmotionIcon601"
+	},
+	"timetorelax": {
+		"filename_icon": "UI_EmotionIcon602"
+	},
+	"yummy": {
+		"filename_icon": "UI_EmotionIcon603"
+	},
+	"shakehands": {
+		"filename_icon": "UI_EmotionIcon604"
+	},
+	"wassup-01": {
+		"filename_icon": "UI_EmotionIcon605"
+	},
+	"fortunesfavor": {
+		"filename_icon": "UI_EmotionIcon606"
+	},
+	"luckystreak": {
+		"filename_icon": "UI_EmotionIcon607"
+	},
+	"promise": {
+		"filename_icon": "UI_EmotionIcon608"
+	},
+	"happy-04": {
+		"filename_icon": "UI_EmotionIcon609"
+	},
+	"sad": {
+		"filename_icon": "UI_EmotionIcon610"
+	},
+	"comehere": {
+		"filename_icon": "UI_EmotionIcon611"
+	},
+	"surprised-02": {
+		"filename_icon": "UI_EmotionIcon612"
+	},
+	"enjoy-01": {
+		"filename_icon": "UI_EmotionIcon613"
+	},
+	"helpless": {
+		"filename_icon": "UI_EmotionIcon614"
+	},
+	"satisfied": {
+		"filename_icon": "UI_EmotionIcon615"
+	},
+	"drinkstea-02": {
+		"filename_icon": "UI_EmotionIcon616"
+	},
+	"threatening-03": {
+		"filename_icon": "UI_EmotionIcon617"
+	},
+	"eureka": {
+		"filename_icon": "UI_EmotionIcon618"
+	},
+	"whispering": {
+		"filename_icon": "UI_EmotionIcon619"
+	},
+	"isee": {
+		"filename_icon": "UI_EmotionIcon620"
+	},
+	"busted": {
+		"filename_icon": "UI_EmotionIcon621"
+	},
+	"aperfectanswer": {
+		"filename_icon": "UI_EmotionIcon622"
+	},
+	"locating": {
+		"filename_icon": "UI_EmotionIcon623"
+	},
+	"achancemeeting": {
+		"filename_icon": "UI_EmotionIcon624"
+	},
+	"allchargedup": {
+		"filename_icon": "UI_EmotionIcon625"
+	},
+	"faint": {
+		"filename_icon": "UI_EmotionIcon626"
+	},
+	"runrun": {
+		"filename_icon": "UI_EmotionIcon627"
+	},
+	"itstime": {
+		"filename_icon": "UI_EmotionIcon628"
+	},
+	"irefuse-02": {
+		"filename_icon": "UI_EmotionIcon629"
+	},
+	"excellent": {
+		"filename_icon": "UI_EmotionIcon630"
+	},
+	"onemoreset": {
+		"filename_icon": "UI_EmotionIcon631"
+	},
+	"onemorebite": {
+		"filename_icon": "UI_EmotionIcon632"
+	},
+	"areyouthere": {
+		"filename_icon": "UI_EmotionIcon633"
+	},
+	"nopenotin": {
+		"filename_icon": "UI_EmotionIcon634"
+	},
+	"soothing": {
+		"filename_icon": "UI_EmotionIcon635"
+	},
+	"ivolunteer": {
+		"filename_icon": "UI_EmotionIcon636"
+	},
+	"rogerthat": {
+		"filename_icon": "UI_EmotionIcon637"
+	},
+	"eagertotakepart": {
+		"filename_icon": "UI_EmotionIcon638"
+	},
+	"woohoo": {
+		"filename_icon": "UI_EmotionIcon639"
+	},
+	"mosthappy": {
+		"filename_icon": "UI_EmotionIcon640"
+	},
+	"reallygood": {
+		"filename_icon": "UI_EmotionIcon641"
+	},
+	"thatswrongright": {
+		"filename_icon": "UI_EmotionIcon642"
+	},
+	"thecheffromhell": {
+		"filename_icon": "UI_EmotionIcon643"
+	},
+	"enjoy-02": {
+		"filename_icon": "UI_EmotionIcon644"
+	},
+	"frustrated-01": {
+		"filename_icon": "UI_EmotionIcon645"
+	},
+	"surprise-02": {
+		"filename_icon": "UI_EmotionIcon646"
+	},
+	"worried": {
+		"filename_icon": "UI_EmotionIcon647"
+	},
+	"relaxed-02": {
+		"filename_icon": "UI_EmotionIcon648"
+	},
+	"openup-01": {
+		"filename_icon": "UI_EmotionIcon649"
+	},
+	"asking": {
+		"filename_icon": "UI_EmotionIcon650"
+	},
+	"blush-02": {
+		"filename_icon": "UI_EmotionIcon651"
+	},
+	"selfpraise": {
+		"filename_icon": "UI_EmotionIcon652"
+	},
+	"goon": {
+		"filename_icon": "UI_EmotionIcon653"
+	},
+	"deepinthought": {
+		"filename_icon": "UI_EmotionIcon654"
+	},
+	"frightened-01": {
+		"filename_icon": "UI_EmotionIcon655"
+	},
+	"suddenappearance": {
+		"filename_icon": "UI_EmotionIcon656"
+	},
+	"observing-01": {
+		"filename_icon": "UI_EmotionIcon657"
+	},
+	"performing": {
+		"filename_icon": "UI_EmotionIcon658"
+	},
+	"farewell-01": {
+		"filename_icon": "UI_EmotionIcon659"
+	},
+	"settlement": {
+		"filename_icon": "UI_EmotionIcon660"
+	},
+	"grabthepopcorn": {
+		"filename_icon": "UI_EmotionIcon661"
+	},
+	"hahaha-02": {
+		"filename_icon": "UI_EmotionIcon662"
+	},
+	"ahem": {
+		"filename_icon": "UI_EmotionIcon663"
+	},
+	"blessings-01": {
+		"filename_icon": "UI_EmotionIcon664"
+	},
+	"annoyed-01": {
+		"filename_icon": "UI_EmotionIcon665"
+	},
+	"stare-03": {
+		"filename_icon": "UI_EmotionIcon666"
+	},
+	"surprised-03": {
+		"filename_icon": "UI_EmotionIcon667"
+	},
+	"surprised-04": {
+		"filename_icon": "UI_EmotionIcon668"
+	},
+	"gathering": {
+		"filename_icon": "UI_EmotionIcon669"
+	},
+	"iswear": {
+		"filename_icon": "UI_EmotionIcon670"
+	},
+	"confident-03": {
+		"filename_icon": "UI_EmotionIcon671"
+	},
+	"sad-01": {
+		"filename_icon": "UI_EmotionIcon672"
+	},
+	"received": {
+		"filename_icon": "UI_EmotionIcon673"
+	},
+	"cleanup": {
+		"filename_icon": "UI_EmotionIcon674"
+	},
+	"blank": {
+		"filename_icon": "UI_EmotionIcon675"
+	},
+	"targetlocked": {
+		"filename_icon": "UI_EmotionIcon676"
+	},
+	"awayonbusiness": {
+		"filename_icon": "UI_EmotionIcon677"
+	},
+	"chill": {
+		"filename_icon": "UI_EmotionIcon678"
+	},
+	"goodluck": {
+		"filename_icon": "UI_EmotionIcon679"
+	},
+	"touched-01": {
+		"filename_icon": "UI_EmotionIcon680"
+	},
+	"checkedin": {
+		"filename_icon": "UI_EmotionIcon681"
+	},
+	"phew": {
+		"filename_icon": "UI_EmotionIcon682"
+	},
+	"keepitasecret-02": {
+		"filename_icon": "UI_EmotionIcon683"
+	},
+	"skeptical": {
+		"filename_icon": "UI_EmotionIcon684"
+	},
+	"happybirthday-01": {
+		"filename_icon": "UI_EmotionIcon685"
+	},
+	"justyouwait": {
+		"filename_icon": "UI_EmotionIcon686"
+	},
+	"hello": {
+		"filename_icon": "UI_EmotionIcon687"
+	},
+	"runrun-01": {
+		"filename_icon": "UI_EmotionIcon688"
+	},
+	"nice-02": {
+		"filename_icon": "UI_EmotionIcon689"
+	},
+	"poweroff": {
+		"filename_icon": "UI_EmotionIcon690"
+	},
+	"watchthis-01": {
+		"filename_icon": "UI_EmotionIcon691"
+	},
+	"blessings-02": {
+		"filename_icon": "UI_EmotionIcon692"
+	},
+	"expectant-02": {
+		"filename_icon": "UI_EmotionIcon693"
+	},
+	"thinking-05": {
+		"filename_icon": "UI_EmotionIcon694"
+	},
+	"yougotthis-01": {
+		"filename_icon": "UI_EmotionIcon695"
+	},
+	"praise-02": {
+		"filename_icon": "UI_EmotionIcon696"
+	},
+	"awkward-02": {
+		"filename_icon": "UI_EmotionIcon697"
+	},
+	"meeting": {
+		"filename_icon": "UI_EmotionIcon698"
+	},
+	"protect": {
+		"filename_icon": "UI_EmotionIcon699"
+	},
+	"bow-01": {
+		"filename_icon": "UI_EmotionIcon700"
+	},
+	"goahead": {
+		"filename_icon": "UI_EmotionIcon701"
+	},
+	"begone": {
+		"filename_icon": "UI_EmotionIcon702"
+	},
+	"illuminate": {
+		"filename_icon": "UI_EmotionIcon703"
+	},
+	"sneakysnacking": {
+		"filename_icon": "UI_EmotionIcon704"
+	},
+	"angry-02": {
+		"filename_icon": "UI_EmotionIcon705"
+	},
+	"coverup": {
+		"filename_icon": "UI_EmotionIcon706"
+	},
+	"repair": {
+		"filename_icon": "UI_EmotionIcon707"
+	},
+	"comfort": {
+		"filename_icon": "UI_EmotionIcon708"
+	},
+	"warning-01": {
+		"filename_icon": "UI_EmotionIcon709"
+	},
+	"gotcha-01": {
+		"filename_icon": "UI_EmotionIcon710"
+	},
+	"thankyou": {
+		"filename_icon": "UI_EmotionIcon711"
+	},
+	"interesting": {
+		"filename_icon": "UI_EmotionIcon712"
+	},
+	"boring": {
+		"filename_icon": "UI_EmotionIcon713"
+	},
+	"tired": {
+		"filename_icon": "UI_EmotionIcon714"
+	},
+	"cattease": {
+		"filename_icon": "UI_EmotionIcon715"
+	},
+	"powerless": {
+		"filename_icon": "UI_EmotionIcon716"
+	},
+	"scream": {
+		"filename_icon": "UI_EmotionIcon717"
+	},
+	"support": {
+		"filename_icon": "UI_EmotionIcon718"
+	},
+	"peek-01": {
+		"filename_icon": "UI_EmotionIcon719"
+	},
+	"angry-03": {
+		"filename_icon": "UI_EmotionIcon720"
+	},
+	"calm": {
+		"filename_icon": "UI_EmotionIcon721"
+	},
+	"invite-02": {
+		"filename_icon": "UI_EmotionIcon722"
+	},
+	"afternoontea": {
+		"filename_icon": "UI_EmotionIcon723"
+	},
+	"faint-01": {
+		"filename_icon": "UI_EmotionIcon724"
+	},
+	"checking": {
+		"filename_icon": "UI_EmotionIcon725"
+	},
+	"satisfied-01": {
+		"filename_icon": "UI_EmotionIcon726"
+	},
+	"guidance": {
+		"filename_icon": "UI_EmotionIcon727"
+	},
+	"recording-01": {
+		"filename_icon": "UI_EmotionIcon728"
+	},
+	"silent": {
+		"filename_icon": "UI_EmotionIcon729"
+	},
+	"frightened-02": {
+		"filename_icon": "UI_EmotionIcon730"
+	},
+	"goodnight-01": {
+		"filename_icon": "UI_EmotionIcon731"
+	},
+	"haha": {
+		"filename_icon": "UI_EmotionIcon732"
+	},
+	"searching": {
+		"filename_icon": "UI_EmotionIcon733"
+	},
+	"speechless-02": {
+		"filename_icon": "UI_EmotionIcon734"
+	},
+	"shy-03": {
+		"filename_icon": "UI_EmotionIcon735"
+	},
+	"goodbye": {
+		"filename_icon": "UI_EmotionIcon736"
+	},
+	"venting": {
+		"filename_icon": "UI_EmotionIcon737"
+	},
+	"holdingback": {
+		"filename_icon": "UI_EmotionIcon738"
+	},
+	"showingoff": {
+		"filename_icon": "UI_EmotionIcon739"
+	},
+	"noticed-01": {
+		"filename_icon": "UI_EmotionIcon740"
+	},
+	"takeaseat": {
+		"filename_icon": "UI_EmotionIcon741"
+	},
+	"impatient": {
+		"filename_icon": "UI_EmotionIcon742"
+	},
+	"letsgo": {
+		"filename_icon": "UI_EmotionIcon743"
+	}
+}

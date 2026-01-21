@@ -1,0 +1,21 @@
+{
+	"id": [
+		81301
+	],
+	"name": "Wer braucht schon ein Handbuch ...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1288,
+	"stages": 1,
+	"stage1": {
+		"title": "Wer braucht schon ein Handbuch ...",
+		"description": "Stell Benbens alte Lebenskraft wieder her.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

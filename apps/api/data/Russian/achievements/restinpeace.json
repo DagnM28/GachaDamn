@@ -1,0 +1,21 @@
+{
+	"id": [
+		81130
+	],
+	"name": "Круг жизни и смерти",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1122,
+	"stages": 1,
+	"stage1": {
+		"title": "Круг жизни и смерти",
+		"description": "Упокойте души 10 погибших самураев.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

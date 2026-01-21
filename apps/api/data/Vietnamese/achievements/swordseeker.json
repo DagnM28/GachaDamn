@@ -1,0 +1,21 @@
+{
+	"id": [
+		84564
+	],
+	"name": "Tìm \"Kiếm\" Bốn Phương",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4088,
+	"stages": 1,
+	"stage1": {
+		"title": "Tìm \"Kiếm\" Bốn Phương",
+		"description": "Chứng kiến câu chuyện của Lan và \"Tàng Phong\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

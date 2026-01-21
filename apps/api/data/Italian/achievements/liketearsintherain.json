@@ -1,0 +1,21 @@
+{
+	"id": [
+		81353
+	],
+	"name": "Come lacrime sotto la pioggia",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1339,
+	"stages": 1,
+	"stage1": {
+		"title": "Come lacrime sotto la pioggia",
+		"description": "Trova l'impostore tra le Razze cacciatrici.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81259
+	],
+	"name": "Dias de Glória!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1245,
+	"stages": 1,
+	"stage1": {
+		"title": "Dias de Glória!",
+		"description": "Encontre o tesouro secreto seguindo as dicas nos baús.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12016,
+	"name": "Éclat d'aérosidérite noire",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114021,
+			"name": "Grain d'aérosidérite noire",
+			"count": 3
+		}
+	]
+}

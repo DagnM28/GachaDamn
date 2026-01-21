@@ -1,0 +1,16 @@
+{
+	"id": 13011,
+	"name": "Указания о «Золоте»",
+	"filterText": "Таланты персонажей",
+	"sortOrder": 120050,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104316,
+			"name": "Учения о «Золоте»",
+			"count": 3
+		}
+	]
+}

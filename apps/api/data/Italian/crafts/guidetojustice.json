@@ -1,0 +1,16 @@
+{
+	"id": 13027,
+	"name": "Guida alla giustizia",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120130,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104341,
+			"name": "Insegnamenti della giustizia",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"id": 101207,
+	"name": "Perla di corallo",
+	"sortRank": 313,
+	"description": "Una perla preziosa che cresce tra i coralli di Watatsumi. Emette un bagliore simile a quello della luna.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità d'Inazuma",
+	"sources": [
+		"Consiglio: si trova sull'Isola di Watatsumi",
+		"Vai a raccogliere"
+	]
+}

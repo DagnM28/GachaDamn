@@ -1,0 +1,21 @@
+{
+	"id": [
+		81163
+	],
+	"name": "Chiếc Rương Của Davy Jones",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1149,
+	"stages": 1,
+	"stage1": {
+		"title": "Chiếc Rương Của Davy Jones",
+		"description": "Mở tất cả cơ quan trong \"Seiraimaru\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

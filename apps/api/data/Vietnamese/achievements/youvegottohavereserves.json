@@ -1,0 +1,21 @@
+{
+	"id": [
+		84129
+	],
+	"name": "Cẩn Tắc Vô Ưu",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ký Ức Về Trái Tim",
+	"isHidden": true,
+	"sortOrder": 7010,
+	"stages": 1,
+	"stage1": {
+		"title": "Cẩn Tắc Vô Ưu",
+		"description": "Thịt Cá, đương nhiên càng nhiều càng tốt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12002,
+	"name": "Fragment of Decarabian's Epic",
+	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
+	"sortOrder": 129999,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114002,
+			"name": "Debris of Decarabian's City",
+			"count": 3
+		}
+	]
+}

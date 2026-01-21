@@ -1,0 +1,20 @@
+{
+	"id": [
+		80070
+	],
+	"name": "Karahindiba Diyarı",
+	"achievementGroupId": 22,
+	"achievementGroupName": "Fani Meseleleri: II. Seri",
+	"sortOrder": 70,
+	"stages": 1,
+	"stage1": {
+		"title": "Karahindiba Diyarı",
+		"description": "\"Karahindiba Denizindeki Tilki\" serisinin tüm ciltlerini topla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

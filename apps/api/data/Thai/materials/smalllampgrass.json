@@ -1,0 +1,14 @@
+{
+	"id": 100055,
+	"name": "Small Lamp Grass",
+	"sortRank": 311,
+	"description": "หญ้าป่าที่ให้แสงไฟในตอนกลางคืน ใช้ประกอบอาหารเพื่อเพิ่มรสชาติ",
+	"category": "EXCHANGE",
+	"typeText": "ของพิเศษเฉพาะใน Mondstadt",
+	"sources": [
+		"คำแนะนำ: หาได้ที่ Wolvendom",
+		"คำแนะนำ: หาได้ที่ Whispering Woods",
+		"ปลูกใน Serenitea Pot",
+		"ไปเก็บ"
+	]
+}

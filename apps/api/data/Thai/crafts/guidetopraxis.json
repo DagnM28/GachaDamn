@@ -1,0 +1,16 @@
+{
+	"id": 13023,
+	"name": "Guide to Praxis",
+	"filterText": "วัสดุพรสวรรค์ของตัวละคร",
+	"sortOrder": 120110,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104335,
+			"name": "Teachings of Praxis",
+			"count": 3
+		}
+	]
+}

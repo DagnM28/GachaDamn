@@ -1,0 +1,21 @@
+{
+	"id": [
+		84147
+	],
+	"name": "School Days",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Memories of the Heart",
+	"isHidden": true,
+	"sortOrder": 7610,
+	"stages": 1,
+	"stage1": {
+		"title": "School Days",
+		"description": "Find the annotated books in the House of Daena.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81077
+	],
+	"name": "...E seu nome era Mary Celeste",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1078,
+	"stages": 1,
+	"stage1": {
+		"title": "...E seu nome era Mary Celeste",
+		"description": "O Quebra-mar foi destruído...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

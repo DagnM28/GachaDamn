@@ -1,0 +1,21 @@
+{
+	"id": [
+		81114
+	],
+	"name": "Tapınak Sevdalısı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1110,
+	"stages": 1,
+	"stage1": {
+		"title": "Tapınak Sevdalısı",
+		"description": "Yashiori Adası'ndaki tüm tapınakları bul.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

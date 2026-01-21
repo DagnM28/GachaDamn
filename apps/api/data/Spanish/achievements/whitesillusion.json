@@ -1,0 +1,21 @@
+{
+	"id": [
+		81170
+	],
+	"name": "La ilusión blanquecina",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1156,
+	"stages": 1,
+	"stage1": {
+		"title": "La ilusión blanquecina",
+		"description": "Encuéntrate con una ilusión del pasado.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

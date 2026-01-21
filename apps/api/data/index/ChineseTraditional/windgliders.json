@@ -1,0 +1,70 @@
+{
+	"namemap": {
+		"wingsofazurewind": "蒼天清風之翼",
+		"wingsofcompanionship": "守候之翼",
+		"wingsofconcealingsnow": "雪隱之翼",
+		"wingsofdelicacies": "餚饌之翼",
+		"wingsofdescension": "降臨之翼",
+		"wingsoffatescourseintertwined": "命軌爻錯之翼",
+		"wingsoffeasting": "饗宴之翼",
+		"wingsoffirstflight": "初始之翼",
+		"wingsofgoldenflight": "金琮天行之翼",
+		"wingsofleisurelymoments": "暇生一聚之翼",
+		"wingsofmercifulwrathfulwaters": "慈水怒濤之翼",
+		"wingsofshimmeringgalaxy": "星漢燦爛之翼",
+		"wingsofsoaringflame": "烈火騰燎之翼",
+		"wingsoftheforest": "森鬱花繁之翼",
+		"wingsofthesilentmoon": "夜駐月停之翼",
+		"wingsofthestarlitfeast": "星筵之翼",
+		"wingsofthestormstrider": "雷騰雲奔之翼",
+		"wingsoftransientdreams": "夢生須臾之翼"
+	},
+	"names": {
+		"蒼天清風之翼": "wingsofazurewind",
+		"守候之翼": "wingsofcompanionship",
+		"雪隱之翼": "wingsofconcealingsnow",
+		"餚饌之翼": "wingsofdelicacies",
+		"降臨之翼": "wingsofdescension",
+		"命軌爻錯之翼": "wingsoffatescourseintertwined",
+		"饗宴之翼": "wingsoffeasting",
+		"初始之翼": "wingsoffirstflight",
+		"金琮天行之翼": "wingsofgoldenflight",
+		"暇生一聚之翼": "wingsofleisurelymoments",
+		"慈水怒濤之翼": "wingsofmercifulwrathfulwaters",
+		"星漢燦爛之翼": "wingsofshimmeringgalaxy",
+		"烈火騰燎之翼": "wingsofsoaringflame",
+		"森鬱花繁之翼": "wingsoftheforest",
+		"夜駐月停之翼": "wingsofthesilentmoon",
+		"星筵之翼": "wingsofthestarlitfeast",
+		"雷騰雲奔之翼": "wingsofthestormstrider",
+		"夢生須臾之翼": "wingsoftransientdreams"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"wingsofazurewind",
+			"wingsofcompanionship",
+			"wingsofconcealingsnow",
+			"wingsofdelicacies",
+			"wingsofdescension",
+			"wingsoffatescourseintertwined",
+			"wingsoffeasting",
+			"wingsoffirstflight",
+			"wingsofgoldenflight",
+			"wingsofleisurelymoments",
+			"wingsofmercifulwrathfulwaters",
+			"wingsofshimmeringgalaxy",
+			"wingsofsoaringflame",
+			"wingsoftheforest",
+			"wingsofthesilentmoon",
+			"wingsofthestarlitfeast",
+			"wingsofthestormstrider",
+			"wingsoftransientdreams"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

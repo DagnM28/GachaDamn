@@ -1,0 +1,67 @@
+{
+	"id": 4323,
+	"name": "Döküm Zindanı: Batık Vadi IV",
+	"regionId": 1,
+	"regionName": "Mondstadt",
+	"entranceId": 37,
+	"entranceName": "Sesilya Bahçesi",
+	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+	"domainText": "Silah Yükseltme Malzemeleri",
+	"description": "Bu nemli kadim sunaktan muazzam seviyelerde Su enerjisi yayılır.\nŞayet imtihanı geçmeyi başarırsan Silah Yükseltme Malzemeleri kazanacaksın.",
+	"recommendedLevel": 80,
+	"recommendedElements": [
+		"Elektrik"
+	],
+	"daysOfWeek": [
+		"Salı",
+		"Cuma",
+		"Pazar"
+	],
+	"unlockRank": 40,
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "Macera TP",
+			"count": 100
+		},
+		{
+			"id": 202,
+			"name": "Mora",
+			"count": 2200
+		},
+		{
+			"id": 105,
+			"name": "Yoldaşlık TP",
+			"count": 20
+		},
+		{
+			"id": 114008,
+			"name": "Kutup Kurdunun Özlemi"
+		},
+		{
+			"id": 114007,
+			"name": "Kutup Kurdunun Kırık Dişi"
+		},
+		{
+			"id": 114006,
+			"name": "Kutup Kurdunun Çatlak Dişi"
+		},
+		{
+			"id": 114005,
+			"name": "Kutup Kurdunun Süt Dişi"
+		}
+	],
+	"disorder": [
+		"Gruptaki tüm karakterler %75 Elektrik Hasarı Bonusu kazanır."
+	],
+	"monsterList": [
+		{
+			"id": 20011101,
+			"name": "Büyük Su Bodurlopu"
+		},
+		{
+			"id": 23020101,
+			"name": "Fatui Ateş Tetikçisi"
+		}
+	]
+}

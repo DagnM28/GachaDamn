@@ -1,0 +1,21 @@
+{
+	"id": [
+		81247
+	],
+	"name": "Bahçedeki Ceviz Ağacı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1233,
+	"stages": 1,
+	"stage1": {
+		"title": "Bahçedeki Ceviz Ağacı",
+		"description": "Khayyam'a kayıp anıları sor.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84540
+	],
+	"name": "Rate, wer da ist!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4064,
+	"stages": 1,
+	"stage1": {
+		"title": "Rate, wer da ist!",
+		"description": "Finde heraus, wer Zhenyu wirklich ist.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12001,
+	"name": "Debris of Decarabian's City",
+	"filterText": "Weapon Ascension Material",
+	"sortOrder": 130000,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114001,
+			"name": "Tile of Decarabian's Tower",
+			"count": 3
+		}
+	]
+}

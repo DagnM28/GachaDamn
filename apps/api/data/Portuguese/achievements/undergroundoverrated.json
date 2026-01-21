@@ -1,0 +1,21 @@
+{
+	"id": [
+		81104
+	],
+	"name": "A Lenda do Palácio Subterrâneo... hum?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1102,
+	"stages": 1,
+	"stage1": {
+		"title": "A Lenda do Palácio Subterrâneo... hum?",
+		"description": "Ao invés de tesouros, você obtém... memórias perdidas?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

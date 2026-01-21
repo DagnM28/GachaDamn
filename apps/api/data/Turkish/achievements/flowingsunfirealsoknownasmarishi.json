@@ -1,0 +1,21 @@
+{
+	"id": [
+		81185
+	],
+	"name": "Akıcı Güneş Alevi, Namıdiğer Marishi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1171,
+	"stages": 1,
+	"stage1": {
+		"title": "Akıcı Güneş Alevi, Namıdiğer Marishi",
+		"description": "Güneş Alevi Geçidi'ndeki sırrın kilidini aç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

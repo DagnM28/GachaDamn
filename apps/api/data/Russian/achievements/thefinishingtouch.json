@@ -1,0 +1,21 @@
+{
+	"id": [
+		80363
+	],
+	"name": "Последний штрих?",
+	"dupealias": "Последний штрих? 0",
+	"achievementGroupId": 55,
+	"achievementGroupName": "Натлан: Земля огней и состязаний II",
+	"sortOrder": 337,
+	"stages": 1,
+	"stage1": {
+		"title": "Последний штрих?",
+		"description": "Верните силу огромному граффити на кряже Тецкатепетонко.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84520
+	],
+	"name": "Em Nome de Favonius",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4044,
+	"stages": 1,
+	"stage1": {
+		"title": "Em Nome de Favonius",
+		"description": "Testemunhe o conto da Jilliana.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

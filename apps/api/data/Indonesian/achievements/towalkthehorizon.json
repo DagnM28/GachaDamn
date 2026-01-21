@@ -1,0 +1,21 @@
+{
+	"id": [
+		84565
+	],
+	"name": "Berjalan Menuju Cakrawala ...?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 4089,
+	"stages": 1,
+	"stage1": {
+		"title": "Berjalan Menuju Cakrawala ...?",
+		"description": "Saksikan kisah Sun yu",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81284
+	],
+	"name": "Die illusorische Stadt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1270,
+	"stages": 1,
+	"stage1": {
+		"title": "Die illusorische Stadt",
+		"description": "Begegne Luftspiegelungen zum ersten Mal in der Wüste.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

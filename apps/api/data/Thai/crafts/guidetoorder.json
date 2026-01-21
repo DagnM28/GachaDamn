@@ -1,0 +1,16 @@
+{
+	"id": 13029,
+	"name": "Guide to Order",
+	"filterText": "วัสดุพรสวรรค์ของตัวละคร",
+	"sortOrder": 120140,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104344,
+			"name": "Teachings of Order",
+			"count": 3
+		}
+	]
+}

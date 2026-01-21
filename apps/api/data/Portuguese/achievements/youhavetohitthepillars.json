@@ -1,0 +1,20 @@
+{
+	"id": [
+		86009
+	],
+	"name": "Golpeie os Pilares",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Encontros Fora Deste Mundo - Série I",
+	"sortOrder": 9009,
+	"stages": 1,
+	"stage1": {
+		"title": "Golpeie os Pilares",
+		"description": "Derrote um Hypostasis Geo no modo multijogador.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

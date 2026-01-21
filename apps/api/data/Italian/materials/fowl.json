@@ -1,0 +1,11 @@
+{
+	"id": 100064,
+	"name": "Pollame",
+	"sortRank": 321,
+	"description": "Un pezzo di pollame fresco. Se trattato in modo appropriato, può diventare un piatto saporito.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente culinario",
+	"sources": [
+		"Ottenibile dagli animali"
+	]
+}

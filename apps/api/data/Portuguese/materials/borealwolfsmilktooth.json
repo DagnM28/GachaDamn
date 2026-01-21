@@ -1,0 +1,20 @@
+{
+	"id": 114005,
+	"name": "Dente de Leite do Lobo Boreal",
+	"rarity": 2,
+	"sortRank": 15102,
+	"description": "Material de Ascensão de Armas.\nA alcateia de lobos é abençoada pelos guardas e os dentes de leite de um lobo possui grande potencial.\nNo passado, os Arcontes tinham a responsabilidade de amar as pessoas, então Andrius se destacou por ser diferente por apenas adotar bebês abandonados e Andrius.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Ascensão de Armas",
+	"dropDomainId": 4320,
+	"dropDomainName": "Domínio da Forja: Vale Submerso",
+	"daysOfWeek": [
+		"Terça-feira",
+		"Sexta-feira",
+		"Domingo"
+	],
+	"sources": [
+		"Comprado na Loja de Lembranças de Mondstadt",
+		"Obtido na Loja de Presentes"
+	]
+}

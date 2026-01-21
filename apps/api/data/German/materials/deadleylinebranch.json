@@ -1,0 +1,13 @@
+{
+	"id": 112020,
+	"name": "Alte Rute des Flusses der Elemente",
+	"rarity": 2,
+	"sortRank": 10107,
+	"description": "Ein Zweig aus den Tiefen der Erde. Obwohl er schon uralt und vermodert ist, hat er seine Kraft nicht vollständig verloren.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Abgrundmagiern",
+		"Mit Sternenstaub kaufen"
+	]
+}

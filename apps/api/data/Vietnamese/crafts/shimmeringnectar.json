@@ -1,0 +1,16 @@
+{
+	"id": 11025,
+	"name": "Mật Hoa Lấp Lánh",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 150060,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112038,
+			"name": "Mật Hoa Lừa Dối",
+			"count": 3
+		}
+	]
+}

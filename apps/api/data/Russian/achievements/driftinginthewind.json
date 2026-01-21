@@ -1,0 +1,21 @@
+{
+	"id": [
+		81286
+	],
+	"name": "По воле ветра",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1272,
+	"stages": 1,
+	"stage1": {
+		"title": "По воле ветра",
+		"description": "Разрушьте перекати-поле, что носит по пустыне ветер.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

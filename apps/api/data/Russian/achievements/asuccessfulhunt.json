@@ -1,0 +1,20 @@
+{
+	"id": [
+		86038
+	],
+	"name": "Удачная охота",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Встреча в другом мире IV",
+	"sortOrder": 9037,
+	"stages": 1,
+	"stage1": {
+		"title": "Удачная охота",
+		"description": "Одолейте Императора огня и железа в совместном режиме.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

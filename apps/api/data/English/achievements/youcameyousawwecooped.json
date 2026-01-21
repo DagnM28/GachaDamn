@@ -1,0 +1,42 @@
+{
+	"id": [
+		86001,
+		86002,
+		86003
+	],
+	"name": "You Came, You Saw, We Co-Oped",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Meetings in Outrealm: Series I",
+	"sortOrder": 9001,
+	"stages": 3,
+	"stage1": {
+		"title": "You Came, You Saw, We Co-Oped",
+		"description": "Complete Domains together with other players 5 times.",
+		"progress": 5,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "You Came, You Saw, We Co-Oped",
+		"description": "Complete Domains together with other players 20 times.",
+		"progress": 20,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "You Came, You Saw, We Co-Oped",
+		"description": "Complete Domains together with other players 100 times.",
+		"progress": 100,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

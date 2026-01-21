@@ -1,0 +1,16 @@
+{
+	"id": 13006,
+	"name": "Triết Học Của \"Thơ Văn\"",
+	"filterText": "Nguyên Liệu Thiên Phú Nhân Vật",
+	"sortOrder": 120019,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104308,
+			"name": "Hướng Dẫn Của \"Thơ Văn\"",
+			"count": 3
+		}
+	]
+}

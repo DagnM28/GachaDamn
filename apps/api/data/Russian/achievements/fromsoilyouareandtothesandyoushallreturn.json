@@ -1,0 +1,21 @@
+{
+	"id": [
+		81309
+	],
+	"name": "Ибо ты - песок, и в песок возвратишься.",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1296,
+	"stages": 1,
+	"stage1": {
+		"title": "Ибо ты - песок, и в песок возвратишься.",
+		"description": "Как и все, живущие в пустыне...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

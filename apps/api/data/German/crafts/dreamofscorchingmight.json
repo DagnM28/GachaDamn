@@ -1,0 +1,16 @@
+{
+	"id": 12035,
+	"name": "Traum der sengenden Macht",
+	"filterText": "Material zum Aufstieg von Waffen",
+	"sortOrder": 130109,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114046,
+			"name": "Nachglimmen der sengenden Macht",
+			"count": 3
+		}
+	]
+}

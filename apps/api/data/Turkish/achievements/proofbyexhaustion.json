@@ -1,0 +1,20 @@
+{
+	"id": [
+		82167
+	],
+	"name": "Tükenmişlik İspatı",
+	"achievementGroupId": 39,
+	"achievementGroupName": "Mücadeleci: VII. Seri",
+	"sortOrder": 2167,
+	"stages": 1,
+	"stage1": {
+		"title": "Tükenmişlik İspatı",
+		"description": "Tüm olası element kombinasyonlarıyla Günahkar Arındıranı yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

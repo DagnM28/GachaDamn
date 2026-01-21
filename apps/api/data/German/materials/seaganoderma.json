@@ -1,0 +1,13 @@
+{
+	"id": 101206,
+	"name": "Meereslackporling",
+	"sortRank": 313,
+	"description": "Eine Spezies, die nur in ganz bestimmten Regionen des Ozeans und auf einigen Inseln wächst. Es sieht wie eine Art Pilz aus, tatsächlich handelt es sich aber um die Absonderungen und Wachstum von bestimmten Weichkörperorganismen.",
+	"category": "EXCHANGE",
+	"typeText": "Regionale Besonderheit aus Inazuma",
+	"sources": [
+		"An Gewässern in Inazuma zu finden",
+		"In der Kanne der Vergänglichkeit anzupflanzen",
+		"Zum Sammeln"
+	]
+}

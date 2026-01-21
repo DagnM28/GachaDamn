@@ -1,0 +1,21 @@
+{
+	"id": [
+		81099
+	],
+	"name": "Ngày may mắn của Paimon!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1100,
+	"stages": 1,
+	"stage1": {
+		"title": "Ngày may mắn của Paimon!",
+		"description": "Rút quẻ \"Đại Cát\" trong Đền Narukami.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

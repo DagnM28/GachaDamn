@@ -1,0 +1,21 @@
+{
+	"id": [
+		84523
+	],
+	"name": "Bánh mì và hoa hồng",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4047,
+	"stages": 1,
+	"stage1": {
+		"title": "Bánh mì và hoa hồng",
+		"description": "Hoàn thành \"Thứ Gọi Là Công Việc\" và nhận lấy tuyển tập thơ của Linling.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

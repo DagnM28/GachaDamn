@@ -1,0 +1,21 @@
+{
+	"id": [
+		81492
+	],
+	"name": "Comme de la soie dans l'air...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1476,
+	"stages": 1,
+	"stage1": {
+		"title": "Comme de la soie dans l'air...",
+		"description": "Ouvrez la voie spirituelle menant au Sanctuaire supérieur.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100064,
+	"name": "Rohes Geflügel",
+	"sortRank": 321,
+	"description": "Ein frisches Stück rohes Geflügel, das seinen Geschmack mit der richtigen Zubereitung besonders entfaltet.",
+	"category": "EXCHANGE",
+	"typeText": "Zutat",
+	"sources": [
+		"Beute von Tieren"
+	]
+}

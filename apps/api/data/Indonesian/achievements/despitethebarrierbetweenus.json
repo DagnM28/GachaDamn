@@ -1,0 +1,20 @@
+{
+	"id": [
+		82166
+	],
+	"name": "Meski Ada Penghalang di Antara Kita ....",
+	"achievementGroupId": 39,
+	"achievementGroupName": "Penantang: Seri VII",
+	"sortOrder": 2166,
+	"stages": 1,
+	"stage1": {
+		"title": "Meski Ada Penghalang di Antara Kita ....",
+		"description": "Mengalahkan Iniquitous Baptist tanpa menghancurkan Pelindung elemennya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

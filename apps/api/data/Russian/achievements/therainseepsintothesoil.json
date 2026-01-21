@@ -1,0 +1,22 @@
+{
+	"id": [
+		81256
+	],
+	"name": "Дождь уходит в землю",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1242,
+	"stages": 1,
+	"stage1": {
+		"title": "Дождь уходит в землю",
+		"ps5title": "Путешествие: Дождь уходит в землю",
+		"description": "Завершите «Варуна-гату».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

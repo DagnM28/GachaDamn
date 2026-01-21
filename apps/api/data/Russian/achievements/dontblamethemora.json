@@ -1,0 +1,21 @@
+{
+	"id": [
+		84552
+	],
+	"name": "Мора не виновата",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4076,
+	"stages": 1,
+	"stage1": {
+		"title": "Мора не виновата",
+		"description": "Станьте свидетелем приключений Всеядных гурманов в Сумеру.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

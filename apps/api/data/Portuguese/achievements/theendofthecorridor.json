@@ -1,0 +1,21 @@
+{
+	"id": [
+		81278
+	],
+	"name": "O Final do Corredor",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1264,
+	"stages": 1,
+	"stage1": {
+		"title": "O Final do Corredor",
+		"description": "Entre na câmara secreta no fundo do Mausoléu do Rei Deshret.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

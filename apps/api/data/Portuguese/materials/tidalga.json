@@ -1,0 +1,11 @@
+{
+	"id": 101234,
+	"name": "Maralga",
+	"sortRank": 321,
+	"description": "Uma alga que boia na água e se alimenta de substâncias produzidas por outras plantas. Embora frequentemente confundida com zooplâncton, Maralga cai na categoria de fitoplâncton por natureza.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente",
+	"sources": [
+		"Encontrado debaixo d'água em Fontaine"
+	]
+}

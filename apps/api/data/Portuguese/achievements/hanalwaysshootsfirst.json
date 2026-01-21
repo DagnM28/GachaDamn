@@ -1,0 +1,21 @@
+{
+	"id": [
+		82129
+	],
+	"name": "\"Han Atirou Primeiro...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2129,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Han Atirou Primeiro...\"",
+		"description": "... Não traga uma faca para um tiroteio.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

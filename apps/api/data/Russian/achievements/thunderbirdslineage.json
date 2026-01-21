@@ -1,0 +1,21 @@
+{
+	"id": [
+		81177
+	],
+	"name": "Родословная Громовой птицы",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1163,
+	"stages": 1,
+	"stage1": {
+		"title": "Родословная Громовой птицы",
+		"description": "Завершите все испытания статуй.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": 14001,
+	"name": "Thuốc Chịu Nhiệt",
+	"filterText": "Thuốc",
+	"sortOrder": 200000,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100072,
+			"name": "Cánh Bướm",
+			"count": 1
+		},
+		{
+			"id": 100053,
+			"name": "Nhụy Hoa Liệt Hỏa",
+			"count": 1
+		}
+	]
+}

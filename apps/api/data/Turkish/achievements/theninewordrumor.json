@@ -1,0 +1,21 @@
+{
+	"id": [
+		81203
+	],
+	"name": "Dokuz Kelimelik Söylenti",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1189,
+	"stages": 1,
+	"stage1": {
+		"title": "Dokuz Kelimelik Söylenti",
+		"description": "Tüm gizli mesajları bul.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

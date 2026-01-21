@@ -1,0 +1,19 @@
+{
+	"id": 104333,
+	"name": "Guide de l'Ingénuité",
+	"rarity": 3,
+	"sortRank": 13111,
+	"description": "Matériau d'amélioration d'aptitude.\nL'ingénuité est la nervure de la nation de la sagesse.\nElle guide les paroles honnêtes. Réfléchir avec intelligence, attention et bonté permet de rester dans le droit chemin. Seuls ceux dont l'âme est emplie de dédain et de méchanceté sont capables de paroles abjectes.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'aptitude de personnage",
+	"dropDomainId": 4441,
+	"dropDomainName": "Donjon de la maîtrise : Trait d'esprit",
+	"daysOfWeek": [
+		"Mardi",
+		"Vendredi",
+		"Dimanche"
+	],
+	"sources": [
+		"Emplacement réservé - Quantité synthétisable : {0}"
+	]
+}

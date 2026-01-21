@@ -1,0 +1,20 @@
+{
+	"id": [
+		86009
+	],
+	"name": "Sütunlara Vurmalısın",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Dış Diyarlardaki Karşılaşmalar: I. Seri",
+	"sortOrder": 9009,
+	"stages": 1,
+	"stage1": {
+		"title": "Sütunlara Vurmalısın",
+		"description": "Eşli Modda bir Toprak Hipostazını yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

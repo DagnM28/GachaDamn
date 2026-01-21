@@ -1,0 +1,20 @@
+{
+	"id": [
+		86013
+	],
+	"name": "Liên minh của sói",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần I",
+	"sortOrder": 9013,
+	"stages": 1,
+	"stage1": {
+		"title": "Liên minh của sói",
+		"description": "Cùng người chơi khác đánh bại Vua của Lang Lãnh.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

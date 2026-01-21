@@ -1,0 +1,20 @@
+{
+	"id": [
+		80159
+	],
+	"name": "Penjelajahan Setengah Jalan",
+	"achievementGroupId": 30,
+	"achievementGroupName": "Pelita Chasm",
+	"sortOrder": 159,
+	"stages": 1,
+	"stage1": {
+		"title": "Penjelajahan Setengah Jalan",
+		"description": "Selesaikan misi eksplorasi Bagian Urusan Sipil.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

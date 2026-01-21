@@ -1,0 +1,16 @@
+{
+	"id": 12032,
+	"name": "オアシスガーデンの哀思",
+	"filterText": "武器突破素材",
+	"sortOrder": 130099,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114042,
+			"name": "オアシスガーデンの恩恵",
+			"count": 3
+		}
+	]
+}

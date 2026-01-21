@@ -1,0 +1,22 @@
+{
+	"id": [
+		81043
+	],
+	"name": "Остынь!",
+	"dupealias": "Остынь! 0",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1044,
+	"stages": 1,
+	"stage1": {
+		"title": "Остынь!",
+		"description": "Победите Короля снежных кабанов, пока тот в ярости.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

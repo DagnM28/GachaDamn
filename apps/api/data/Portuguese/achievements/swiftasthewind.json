@@ -1,0 +1,21 @@
+{
+	"id": [
+		81253
+	],
+	"name": "Veloz como o Vento",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1239,
+	"stages": 1,
+	"stage1": {
+		"title": "Veloz como o Vento",
+		"description": "Ative três correntes de vento na Floresta Mawtiyima.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

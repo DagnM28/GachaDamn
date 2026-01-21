@@ -1,0 +1,20 @@
+{
+	"id": [
+		82059
+	],
+	"name": "Jardinagem Extraordinária",
+	"achievementGroupId": 14,
+	"achievementGroupName": "Desafiante - Série II",
+	"sortOrder": 2059,
+	"stages": 1,
+	"stage1": {
+		"title": "Jardinagem Extraordinária",
+		"description": "Paralise o Regisvine Pyro atacando a sua corola.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		80191
+	],
+	"name": "Slumber, the Brother Of...",
+	"achievementGroupId": 35,
+	"achievementGroupName": "Sumeru: The Gilded Desert - Series I",
+	"sortOrder": 193,
+	"stages": 1,
+	"stage1": {
+		"title": "Slumber, the Brother Of...",
+		"ps5title": "Journey: Slumber, the Brother Of...",
+		"description": "Complete \"Golden Slumber.\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

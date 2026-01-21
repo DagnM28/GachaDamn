@@ -1,0 +1,16 @@
+{
+	"id": 11021,
+	"name": "Sergeant's Insignia",
+	"filterText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sortOrder": 150040,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112032,
+			"name": "Recruit's Insignia",
+			"count": 3
+		}
+	]
+}

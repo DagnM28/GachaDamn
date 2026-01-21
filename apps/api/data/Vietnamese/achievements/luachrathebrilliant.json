@@ -1,0 +1,21 @@
+{
+	"id": [
+		81393
+	],
+	"name": "\"Luachra Muôn Màu\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1377,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Luachra Muôn Màu\"",
+		"description": "Chiến thắng Huyền Thoại Địa Phương: Luachra Muôn Màu",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

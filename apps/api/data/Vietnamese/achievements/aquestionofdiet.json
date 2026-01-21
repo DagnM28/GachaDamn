@@ -1,0 +1,21 @@
+{
+	"id": [
+		84533
+	],
+	"name": "Vấn đề ẩm thực",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4057,
+	"stages": 1,
+	"stage1": {
+		"title": "Vấn đề ẩm thực",
+		"description": "Giúp đỡ Parvaneh chỉnh sửa tất cả công thức.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

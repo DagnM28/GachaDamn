@@ -1,0 +1,14 @@
+{
+	"id": 104121,
+	"name": "Scheggia di lazurite Varunada",
+	"rarity": 2,
+	"sortRank": 12103,
+	"description": "Materiale d'ascensione personaggi.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
+		"Si acquista nel negozio di souvenir",
+		"Controlla la scheda Nemici nel Manuale dell'avventuriere",
+		"Si ottiene dalla Scheda di conversione del Banco della creazione"
+	]
+}

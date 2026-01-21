@@ -1,0 +1,21 @@
+{
+	"id": [
+		84126
+	],
+	"name": "Tempi che cambiano",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ricordi del cuore",
+	"isHidden": true,
+	"sortOrder": 6810,
+	"stages": 1,
+	"stage1": {
+		"title": "Tempi che cambiano",
+		"description": "Estrai tutti gli omikuji nel Gran Santuario di Narukami.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

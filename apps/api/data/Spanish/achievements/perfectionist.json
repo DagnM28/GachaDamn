@@ -1,0 +1,20 @@
+{
+	"id": [
+		84503
+	],
+	"name": "Perfeccionista",
+	"achievementGroupId": 11,
+	"achievementGroupName": "Snezhnaya no cree en las lágrimas: Parte 1",
+	"sortOrder": 4028,
+	"stages": 1,
+	"stage1": {
+		"title": "Perfeccionista",
+		"description": "Completa todos los encargos de Tsarevich en «¡Lo prometido es deuda!».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82014
+	],
+	"name": "Vurkaç",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2014,
+	"stages": 1,
+	"stage1": {
+		"title": "Vurkaç",
+		"description": "Bir Bombacı Dağ Yabanisinin elindeki Ateş Bodurlopunu düşür.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

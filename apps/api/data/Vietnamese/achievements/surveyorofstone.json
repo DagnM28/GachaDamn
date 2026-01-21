@@ -1,0 +1,21 @@
+{
+	"id": [
+		80044
+	],
+	"name": "Ngắm nhìn muôn ngàn núi đá",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue - Bến Cảng Của Đá Và Khế Ước",
+	"sortOrder": 44,
+	"stages": 1,
+	"stage1": {
+		"title": "Ngắm nhìn muôn ngàn núi đá",
+		"ps5title": "Liyue - Ngắm Nhìn Muôn Ngàn Núi Đá",
+		"description": "Mở khóa tất cả điểm truyền tống ở Liyue (Vực Đá Sâu và Trầm Ngọc Cốc tính riêng).",
+		"progress": 40,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

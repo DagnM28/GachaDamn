@@ -1,0 +1,12 @@
+{
+	"id": 100091,
+	"name": "Pousse de bambou",
+	"sortRank": 321,
+	"description": "Une pousse de bambou qui vient tout juste de naître. Elle dégage un parfum particulier et ne peut qu'être trouvée dans les forêts de bambou.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Dans la nature",
+		"Zone conseillée : Forêt de bambou du Village de Qingce"
+	]
+}

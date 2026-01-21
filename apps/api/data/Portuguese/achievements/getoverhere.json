@@ -1,0 +1,21 @@
+{
+	"id": [
+		82131
+	],
+	"name": "\"Venha Aqui\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2131,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Venha Aqui\"",
+		"description": "Derrube um Cogumelo alado que está voando",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

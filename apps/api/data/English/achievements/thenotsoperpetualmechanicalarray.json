@@ -1,0 +1,20 @@
+{
+	"id": [
+		86020
+	],
+	"name": "The Not-So-Perpetual Mechanical Array",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Meetings in Outrealm: Series II",
+	"sortOrder": 9020,
+	"stages": 1,
+	"stage1": {
+		"title": "The Not-So-Perpetual Mechanical Array",
+		"description": "Defeat a Perpetual Mechanical Array in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

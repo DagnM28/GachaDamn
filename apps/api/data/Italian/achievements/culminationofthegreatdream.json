@@ -1,0 +1,21 @@
+{
+	"id": [
+		80164
+	],
+	"name": "Culminazione onirica",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru: Miti della foresta pluviale",
+	"sortOrder": 164,
+	"stages": 1,
+	"stage1": {
+		"title": "Culminazione onirica",
+		"ps5title": "Sumeru: Culminazione onirica",
+		"description": "Raggiungi il livello massimo dell'Albero dei sogni nel Vanarana.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 20
+		}
+	}
+}

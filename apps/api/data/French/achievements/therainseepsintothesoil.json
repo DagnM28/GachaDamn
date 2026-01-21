@@ -1,0 +1,22 @@
+{
+	"id": [
+		81256
+	],
+	"name": "Dans la terre, la pluie s'infiltre",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1242,
+	"stages": 1,
+	"stage1": {
+		"title": "Dans la terre, la pluie s'infiltre",
+		"ps5title": "Voyage - Dans la terre, la pluie s'infiltre",
+		"description": "Terminez « Varuna Gatha ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

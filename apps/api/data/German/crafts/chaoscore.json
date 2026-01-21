@@ -1,0 +1,16 @@
+{
+	"id": 11016,
+	"name": "Chaos-Getriebe",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140029,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112024,
+			"name": "Chaos-Schaltkreis",
+			"count": 3
+		}
+	]
+}

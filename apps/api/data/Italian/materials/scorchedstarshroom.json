@@ -1,0 +1,11 @@
+{
+	"id": 101227,
+	"name": "Astrofungo (Scottatura)",
+	"sortRank": 90000,
+	"description": "Un fungo dal cappello simile a una stella a cinque punte. Sembra che si sia bruciacchiato.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Cibo",
+	"sources": [
+		"Presente in natura"
+	]
+}

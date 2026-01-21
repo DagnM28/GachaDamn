@@ -1,0 +1,21 @@
+{
+	"id": [
+		82010
+	],
+	"name": "\"Phong Tinh Điệp này to thật\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2010,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Phong Tinh Điệp này to thật\"",
+		"description": "Hấp thu toàn bộ phong tinh cầu trước khi Phong Nguyên Bản hồi sinh.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

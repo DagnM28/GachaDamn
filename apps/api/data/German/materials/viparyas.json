@@ -1,0 +1,12 @@
+{
+	"id": 101228,
+	"name": "Viparyas",
+	"sortRank": 320,
+	"description": "Eine Blume ohne Samen.\nSobald das Land seine Erinnerung zurückgewinnt, wird Viparyas blühen.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"In der freien Natur zu finden",
+		"Empfohlen: Im Vanarana zu finden"
+	]
+}

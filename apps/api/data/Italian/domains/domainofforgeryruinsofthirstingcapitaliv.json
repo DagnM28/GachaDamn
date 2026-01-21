@@ -1,0 +1,67 @@
+{
+	"id": 4333,
+	"name": "Dominio della forgiatura: Rovine dell'avidità IV",
+	"regionId": 1,
+	"regionName": "Mondstadt",
+	"entranceId": 37,
+	"entranceName": "Giardino di Cecilie",
+	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+	"domainText": "Materiali d'ascensione armi",
+	"description": "Un'enorme quantità di energia di Hydro scorre in questo umido e antico altare sacrificale.\nSe, e solo se, riuscirai a superare la prova otterrai materiali d'ascensione delle armi.",
+	"recommendedLevel": 80,
+	"recommendedElements": [
+		"Electro"
+	],
+	"daysOfWeek": [
+		"Mercoledì",
+		"Sabato",
+		"Domenica"
+	],
+	"unlockRank": 40,
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "ESP avventura",
+			"count": 100
+		},
+		{
+			"id": 202,
+			"name": "Mora",
+			"count": 2200
+		},
+		{
+			"id": 105,
+			"name": "ESP affinità",
+			"count": 20
+		},
+		{
+			"id": 114012,
+			"name": "Aspirazione del Gladiatore dei denti di leone"
+		},
+		{
+			"id": 114011,
+			"name": "Manette del Gladiatore dei denti di leone"
+		},
+		{
+			"id": 114010,
+			"name": "Catene del Gladiatore dei denti di leone"
+		},
+		{
+			"id": 114009,
+			"name": "Ferri del Gladiatore dei denti di leone"
+		}
+	],
+	"disorder": [
+		"Tutti i membri del gruppo ricevono un 75% di bonus DAN da Electro."
+	],
+	"monsterList": [
+		{
+			"id": 20011101,
+			"name": "Melmoso di Hydro gigante"
+		},
+		{
+			"id": 23020101,
+			"name": "Agente dei Fatui di Pyro"
+		}
+	]
+}

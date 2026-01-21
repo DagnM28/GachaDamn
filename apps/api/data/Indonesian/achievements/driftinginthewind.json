@@ -1,0 +1,21 @@
+{
+	"id": [
+		81286
+	],
+	"name": "Terbawa Angin",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1272,
+	"stages": 1,
+	"stage1": {
+		"title": "Terbawa Angin",
+		"description": "Pecahkan gumpalan rumput di padang pasir.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

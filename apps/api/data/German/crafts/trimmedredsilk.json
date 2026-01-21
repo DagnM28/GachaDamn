@@ -1,0 +1,16 @@
+{
+	"id": 11045,
+	"name": "Geränderte rote Seide",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 150100,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112065,
+			"name": "Verblasste rote Seide",
+			"count": 3
+		}
+	]
+}

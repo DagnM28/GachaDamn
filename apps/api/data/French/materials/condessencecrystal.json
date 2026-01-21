@@ -1,0 +1,12 @@
+{
+	"id": 101009,
+	"name": "Cristal de condensat",
+	"sortRank": 301,
+	"description": "Un cristal brillant et clair, dont le noyau est à la fois dur et malléable.",
+	"category": "EXCHANGE",
+	"typeText": "Minerai de forge",
+	"sources": [
+		"Dans la nature",
+		"Zone conseillée : À la surface d'Elynas"
+	]
+}

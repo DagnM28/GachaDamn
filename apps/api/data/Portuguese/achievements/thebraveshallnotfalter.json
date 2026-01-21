@@ -1,0 +1,21 @@
+{
+	"id": [
+		81331
+	],
+	"name": "Os Corajosos Não Fogem",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1318,
+	"stages": 1,
+	"stage1": {
+		"title": "Os Corajosos Não Fogem",
+		"description": "Complete todos os Julgamentos de Jarjar.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

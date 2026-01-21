@@ -1,0 +1,21 @@
+{
+	"id": [
+		82079
+	],
+	"name": "Rüzgarla Bir",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2079,
+	"stages": 1,
+	"stage1": {
+		"title": "Rüzgarla Bir",
+		"description": "Bir savaşta Rüzgar Hipostazının oluşturduğu en az 10 Element Küresini al.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

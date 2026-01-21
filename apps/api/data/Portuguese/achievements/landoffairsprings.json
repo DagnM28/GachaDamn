@@ -1,0 +1,21 @@
+{
+	"id": [
+		80268
+	],
+	"name": "Terra das Belas Fontes",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Andarilho do Mundo Mortal - Série IV",
+	"sortOrder": 175,
+	"stages": 1,
+	"stage1": {
+		"title": "Terra das Belas Fontes",
+		"ps5title": "Hydro: Terra Belas Fontes",
+		"description": "Obtenha o poder de Hydro",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

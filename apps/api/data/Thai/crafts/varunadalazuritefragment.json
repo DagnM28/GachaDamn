@@ -1,0 +1,16 @@
+{
+	"id": 15004,
+	"name": "Varunada Lazurite Fragment",
+	"filterText": "วัสดุเลื่อนขั้นตัวละคร",
+	"sortOrder": 110010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 300,
+	"recipe": [
+		{
+			"id": 104121,
+			"name": "Varunada Lazurite Sliver",
+			"count": 3
+		}
+	]
+}

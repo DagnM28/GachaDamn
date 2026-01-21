@@ -1,0 +1,11 @@
+{
+	"id": 100076,
+	"name": "Cebola",
+	"sortRank": 321,
+	"description": "Um vegetal esférico. Ao cortá-la, ele fará você chorar como vingança, não importa o quão forte você seja.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente",
+	"sources": [
+		"Vendido nas Tendas"
+	]
+}

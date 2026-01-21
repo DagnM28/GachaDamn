@@ -1,0 +1,20 @@
+{
+	"id": [
+		82073
+	],
+	"name": "Давид и Голиаф",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Победитель III",
+	"sortOrder": 2073,
+	"stages": 1,
+	"stage1": {
+		"title": "Давид и Голиаф",
+		"description": "Парализуйте руинного молотильщика атаками по его уязвимым местам.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

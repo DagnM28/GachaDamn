@@ -1,0 +1,21 @@
+{
+	"id": [
+		81099
+	],
+	"name": "Счастливый день Паймон!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1100,
+	"stages": 1,
+	"stage1": {
+		"title": "Счастливый день Паймон!",
+		"description": "Вытяните счастливую палочку в Великом храме Наруками.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

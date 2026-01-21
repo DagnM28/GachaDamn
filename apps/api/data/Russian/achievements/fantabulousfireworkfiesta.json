@@ -1,0 +1,21 @@
+{
+	"id": [
+		84049
+	],
+	"name": "Большой фейерверк",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5028,
+	"stages": 1,
+	"stage1": {
+		"title": "Большой фейерверк",
+		"description": "Запустите фейерверк, чтобы отвлечь охрану.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

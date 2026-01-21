@@ -1,0 +1,46 @@
+{
+	"id": 30007,
+	"name": "青色の染料",
+	"filterText": "調度品製作材料",
+	"sortOrder": 170060,
+	"unlockRank": 28,
+	"resultCount": 1,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 100016,
+			"name": "ミント",
+			"count": 1
+		}
+	],
+	"altrecipes": [
+		[
+			{
+				"id": 100021,
+				"name": "ググプラム",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101209,
+				"name": "ユウトウタケ",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101234,
+				"name": "タイダルガ",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101249,
+				"name": "ケネパベリー",
+				"count": 1
+			}
+		]
+	]
+}

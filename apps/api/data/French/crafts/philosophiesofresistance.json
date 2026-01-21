@@ -1,0 +1,16 @@
+{
+	"id": 13004,
+	"name": "Philosophie de la Résistance",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120009,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104305,
+			"name": "Guide de la Résistance",
+			"count": 3
+		}
+	]
+}

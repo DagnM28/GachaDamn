@@ -1,0 +1,767 @@
+{
+	"namemap": {
+		"100outrider": "Скаут на все сто",
+		"5staroutrider": "Лучший скаут",
+		"adventuresinblazinghue": "Пылающие приключения",
+		"agiftfromthestars": "Подарок звёзд",
+		"aguestsaugustomen": "Счастливое знамение гостьи",
+		"allisovertthroughmylens": "«Мой объектив ничего не упустит»",
+		"ambrosialverdance": "Благоухание зелени",
+		"anewleaf": "Листок новой жизни",
+		"aratakisdemonicdeputy": "Демоническая помощница Аратаки",
+		"ardentsoul": "Пламенная душа",
+		"argentchimes": "Серебряный звон",
+		"armoredrose": "Железная роза",
+		"asheavenandeartharemadeanewaether": "И заново сотворены небо и земля",
+		"asheavenandeartharemadeanewlumine": "И заново сотворены небо и земля",
+		"asobriquetundershade": "Инкогнито в тени листвы",
+		"awrathfulvoid": "Безмолвие гневной пустоты",
+		"azuresilk": "Лазурные шелка",
+		"bamboorain": "Бамбуковый дождь",
+		"batwingiris": "Глаз нетопыря",
+		"bladesofglory": "Клинок славы",
+		"blossomingstarlight": "Цветущий свет звёзд",
+		"breezeofsabaa": "Дыхание Сабаа",
+		"breezyode": "Поэма ветра",
+		"cherriessnowladen": "Вишни под снегом",
+		"cherubicosmanthus": "Каштан и османтус",
+		"clearadjudication": "Чистое суждение",
+		"coronatedprimadonna": "Коронованная примадонна",
+		"darknightblaze": "Огонь во тьме",
+		"dawnbreathdreambelle": "Чаровница рассветных снов",
+		"dawnseer": "Пророчица рассвета",
+		"desertandnight": "Пустыня и ночь",
+		"dreamingstar": "Дремлющая звезда",
+		"dunkelnachtsakrament": "Таинство ночи",
+		"eccentriconi": "Эксцентричный óни",
+		"eightbitartistry": "Восьмибитное искусство",
+		"einimmernachtstraum": "Сон вечной ночи",
+		"emeraldcipher": "Изумрудный шифр",
+		"endurerofeons": "Тысячелетняя схватка",
+		"executorsthorns": "Шипы наказания",
+		"fallingleaves": "Листопад",
+		"fantasticat": "Фантастикот",
+		"favoniandevotion": "Покровительство ветра",
+		"flawlessradiance": "Сияющий цветок",
+		"flowingfate": "Круговорот звёзд",
+		"fluffypuffywhizkidworkwear": "Пушистая спецодежда гения",
+		"flyingfishheatwavesandmoonscallop": "Летучие рыбы, большие волны и лунные раковины",
+		"forallknowledgeaverse": "Во имя знаний",
+		"fortunesfavor": "Обход злоключений",
+		"frostdewtrail": "Инеевая тропа",
+		"frostflowerdew": "Росы морозных цветов",
+		"germinatingwind": "Ветер зарождения",
+		"golddrapedgorge": "Золочёное ущелье",
+		"goldenrule": "Золотой закон",
+		"goldensandstrider": "Путник золотого песка",
+		"goldfishfirecracker": "Фейерверк золотой рыбки",
+		"goldleafandpearlyjade": "Золотой нефрит",
+		"goldpinionsinflamesbathed": "Умытые огнём крылья",
+		"guardiansgun": "Оружие защитника",
+		"gunnhildrslegacy": "Наследие Гуннхильдр",
+		"heartofthescales": "Неподкупность",
+		"hermitofmortallife": "Смертная жизнь",
+		"icyfeatherflight": "Ледяное перо",
+		"icyskin": "Ледяная кожа",
+		"ilovemora": "Я люблю мору",
+		"innocentlonging": "Невинные надежды",
+		"machinehunter": "Охотница на машины",
+		"mechanicaldreams": "Механические мечты",
+		"melusentgift": "Подарок мелюзин",
+		"mikosinstruction": "Наставление жрицы",
+		"minimujina": "Минимудзина",
+		"mistcloudstage": "Облачный покров",
+		"moonglare": "Лунный свет",
+		"moonlitcourser": "Лунный скакун",
+		"moonweavegossamer": "Лунное одеяние",
+		"narukamislaw": "Церемония Наруками Огосё",
+		"neitherflowernormist": "Не цветы и не туман",
+		"newmoonstarlight": "Звёзды и новолуние",
+		"newyearscheer": "Новогоднее веселье",
+		"nightschillinghowl": "Ледяной зов ночи",
+		"nocturne": "Ноктюрн",
+		"novaswhisper": "Шёпот звёзд",
+		"opulentsplendor": "Яркая лёгкость",
+		"orchidseveninggown": "Флёр орхидеи",
+		"pactofstarsandmoon": "Встреча звёзд и луны",
+		"panoplyofahundredhunts": "Охотничьи доспехи мстителя",
+		"phantomeow": "Фантомяу",
+		"phantominboots": "Призрак в сапогах",
+		"piercingthunderbolt": "Раскаты грома",
+		"pluckedyamabukisplendor": "Великолепие цветов ямабуки",
+		"plumblossombouquet": "Тягучий аромат",
+		"pristineelegance": "Безупречное изящество",
+		"pristineprayers": "Пречистые молитвы",
+		"purespirit": "Чистый дух",
+		"purplerose": "Пурпурная роза",
+		"rainlitbambooreverie": "Бамбуковые грёзы в дождь",
+		"rangingrainbow": "Далёкая радуга",
+		"reddeadofnight": "Алая ночь",
+		"redpepperandturmeric": "Острый перец и куркума",
+		"risingstaraether": "Восходящая звезда",
+		"risingstarlumine": "Восходящая звезда",
+		"rollingwaves": "Багровые волны",
+		"sailwindshadow": "Тень ветра в парусах",
+		"seabreezedandelion": "Сон морского бриза",
+		"shatteredstar": "Осколки звёзд",
+		"shootingspark": "Резвые искры",
+		"silksplendor": "Шёлковое великолепие",
+		"soaringbeacon": "Сигнал в небе",
+		"solemnpurity": "Платье справедливости",
+		"sorbethoneypie": "Медовик с мороженым",
+		"sparklingcoralbone": "Коралловая волна",
+		"spiritedvalor": "Боевой порыв",
+		"springbloommissive": "Послание весеннего цветения",
+		"steadfastresolve": "Непреклонная решимость",
+		"sugarrush": "Сладость счастья",
+		"sugarybrew": "Сахарный коктейль",
+		"summerchilldreams": "Грёзы морозного лета",
+		"summertimesparkle": "Летний блеск",
+		"sweetnessofthesea": "Сладость океана",
+		"swordofhonor": "Меч славы",
+		"tawnypeaksspiredrock": "Рыжие пики, острые скалы",
+		"theapplicationsofmedicine": "Сонмы лекарств",
+		"thelionessandtheblazingsun": "Львица и солнце",
+		"therational": "Приверженец логики",
+		"thewaningpoint": "Тускнеющий свет",
+		"theworldsshackles": "Мировые оковы",
+		"tlalocansnightphantom": "Ночной призрак Тлалокана",
+		"tothechurchsfreespirit": "За вольный дух церкви",
+		"towardthedistanthorizon": "К дальним горизонтам",
+		"tranquilbanquet": "Банкет безмятежности",
+		"twilightblossom": "Цветок сумрака",
+		"undyingsun": "Бессмертное солнце",
+		"verdantmoon": "Цветущая луна",
+		"warriorofflame": "Воин пламени",
+		"warriorsbonegarb": "Кости храбреца",
+		"wavecrestwaltz": "Танец волн",
+		"whirlingbloom": "Игра цветов",
+		"whistledartwings": "Крылья дротика",
+		"wildsprint": "Дикий бег",
+		"woodlandsong": "Песнь леса",
+		"yellowvelvetsalon": "Салон жёлтого бархата"
+	},
+	"names": {
+		"Скаут на все сто": "100outrider",
+		"Лучший скаут": "5staroutrider",
+		"Пылающие приключения": "adventuresinblazinghue",
+		"Подарок звёзд": "agiftfromthestars",
+		"Счастливое знамение гостьи": "aguestsaugustomen",
+		"«Мой объектив ничего не упустит»": "allisovertthroughmylens",
+		"Благоухание зелени": "ambrosialverdance",
+		"Листок новой жизни": "anewleaf",
+		"Демоническая помощница Аратаки": "aratakisdemonicdeputy",
+		"Пламенная душа": "ardentsoul",
+		"Серебряный звон": "argentchimes",
+		"Железная роза": "armoredrose",
+		"И заново сотворены небо и земля": "asheavenandeartharemadeanewaether",
+		"Инкогнито в тени листвы": "asobriquetundershade",
+		"Безмолвие гневной пустоты": "awrathfulvoid",
+		"Лазурные шелка": "azuresilk",
+		"Бамбуковый дождь": "bamboorain",
+		"Глаз нетопыря": "batwingiris",
+		"Клинок славы": "bladesofglory",
+		"Цветущий свет звёзд": "blossomingstarlight",
+		"Дыхание Сабаа": "breezeofsabaa",
+		"Поэма ветра": "breezyode",
+		"Вишни под снегом": "cherriessnowladen",
+		"Каштан и османтус": "cherubicosmanthus",
+		"Чистое суждение": "clearadjudication",
+		"Коронованная примадонна": "coronatedprimadonna",
+		"Огонь во тьме": "darknightblaze",
+		"Чаровница рассветных снов": "dawnbreathdreambelle",
+		"Пророчица рассвета": "dawnseer",
+		"Пустыня и ночь": "desertandnight",
+		"Дремлющая звезда": "dreamingstar",
+		"Таинство ночи": "dunkelnachtsakrament",
+		"Эксцентричный óни": "eccentriconi",
+		"Восьмибитное искусство": "eightbitartistry",
+		"Сон вечной ночи": "einimmernachtstraum",
+		"Изумрудный шифр": "emeraldcipher",
+		"Тысячелетняя схватка": "endurerofeons",
+		"Шипы наказания": "executorsthorns",
+		"Листопад": "fallingleaves",
+		"Фантастикот": "fantasticat",
+		"Покровительство ветра": "favoniandevotion",
+		"Сияющий цветок": "flawlessradiance",
+		"Круговорот звёзд": "flowingfate",
+		"Пушистая спецодежда гения": "fluffypuffywhizkidworkwear",
+		"Летучие рыбы, большие волны и лунные раковины": "flyingfishheatwavesandmoonscallop",
+		"Во имя знаний": "forallknowledgeaverse",
+		"Обход злоключений": "fortunesfavor",
+		"Инеевая тропа": "frostdewtrail",
+		"Росы морозных цветов": "frostflowerdew",
+		"Ветер зарождения": "germinatingwind",
+		"Золочёное ущелье": "golddrapedgorge",
+		"Золотой закон": "goldenrule",
+		"Путник золотого песка": "goldensandstrider",
+		"Фейерверк золотой рыбки": "goldfishfirecracker",
+		"Золотой нефрит": "goldleafandpearlyjade",
+		"Умытые огнём крылья": "goldpinionsinflamesbathed",
+		"Оружие защитника": "guardiansgun",
+		"Наследие Гуннхильдр": "gunnhildrslegacy",
+		"Неподкупность": "heartofthescales",
+		"Смертная жизнь": "hermitofmortallife",
+		"Ледяное перо": "icyfeatherflight",
+		"Ледяная кожа": "icyskin",
+		"Я люблю мору": "ilovemora",
+		"Невинные надежды": "innocentlonging",
+		"Охотница на машины": "machinehunter",
+		"Механические мечты": "mechanicaldreams",
+		"Подарок мелюзин": "melusentgift",
+		"Наставление жрицы": "mikosinstruction",
+		"Минимудзина": "minimujina",
+		"Облачный покров": "mistcloudstage",
+		"Лунный свет": "moonglare",
+		"Лунный скакун": "moonlitcourser",
+		"Лунное одеяние": "moonweavegossamer",
+		"Церемония Наруками Огосё": "narukamislaw",
+		"Не цветы и не туман": "neitherflowernormist",
+		"Звёзды и новолуние": "newmoonstarlight",
+		"Новогоднее веселье": "newyearscheer",
+		"Ледяной зов ночи": "nightschillinghowl",
+		"Ноктюрн": "nocturne",
+		"Шёпот звёзд": "novaswhisper",
+		"Яркая лёгкость": "opulentsplendor",
+		"Флёр орхидеи": "orchidseveninggown",
+		"Встреча звёзд и луны": "pactofstarsandmoon",
+		"Охотничьи доспехи мстителя": "panoplyofahundredhunts",
+		"Фантомяу": "phantomeow",
+		"Призрак в сапогах": "phantominboots",
+		"Раскаты грома": "piercingthunderbolt",
+		"Великолепие цветов ямабуки": "pluckedyamabukisplendor",
+		"Тягучий аромат": "plumblossombouquet",
+		"Безупречное изящество": "pristineelegance",
+		"Пречистые молитвы": "pristineprayers",
+		"Чистый дух": "purespirit",
+		"Пурпурная роза": "purplerose",
+		"Бамбуковые грёзы в дождь": "rainlitbambooreverie",
+		"Далёкая радуга": "rangingrainbow",
+		"Алая ночь": "reddeadofnight",
+		"Острый перец и куркума": "redpepperandturmeric",
+		"Восходящая звезда": "risingstaraether",
+		"Багровые волны": "rollingwaves",
+		"Тень ветра в парусах": "sailwindshadow",
+		"Сон морского бриза": "seabreezedandelion",
+		"Осколки звёзд": "shatteredstar",
+		"Резвые искры": "shootingspark",
+		"Шёлковое великолепие": "silksplendor",
+		"Сигнал в небе": "soaringbeacon",
+		"Платье справедливости": "solemnpurity",
+		"Медовик с мороженым": "sorbethoneypie",
+		"Коралловая волна": "sparklingcoralbone",
+		"Боевой порыв": "spiritedvalor",
+		"Послание весеннего цветения": "springbloommissive",
+		"Непреклонная решимость": "steadfastresolve",
+		"Сладость счастья": "sugarrush",
+		"Сахарный коктейль": "sugarybrew",
+		"Грёзы морозного лета": "summerchilldreams",
+		"Летний блеск": "summertimesparkle",
+		"Сладость океана": "sweetnessofthesea",
+		"Меч славы": "swordofhonor",
+		"Рыжие пики, острые скалы": "tawnypeaksspiredrock",
+		"Сонмы лекарств": "theapplicationsofmedicine",
+		"Львица и солнце": "thelionessandtheblazingsun",
+		"Приверженец логики": "therational",
+		"Тускнеющий свет": "thewaningpoint",
+		"Мировые оковы": "theworldsshackles",
+		"Ночной призрак Тлалокана": "tlalocansnightphantom",
+		"За вольный дух церкви": "tothechurchsfreespirit",
+		"К дальним горизонтам": "towardthedistanthorizon",
+		"Банкет безмятежности": "tranquilbanquet",
+		"Цветок сумрака": "twilightblossom",
+		"Бессмертное солнце": "undyingsun",
+		"Цветущая луна": "verdantmoon",
+		"Воин пламени": "warriorofflame",
+		"Кости храбреца": "warriorsbonegarb",
+		"Танец волн": "wavecrestwaltz",
+		"Игра цветов": "whirlingbloom",
+		"Крылья дротика": "whistledartwings",
+		"Дикий бег": "wildsprint",
+		"Песнь леса": "woodlandsong",
+		"Салон жёлтого бархата": "yellowvelvetsalon"
+	},
+	"aliases": {},
+	"categories": {
+		"Эмбер": [
+			"100outrider",
+			"5staroutrider"
+		],
+		"Беннет": [
+			"adventuresinblazinghue",
+			"fortunesfavor"
+		],
+		"Дурин": [
+			"agiftfromthestars",
+			"towardthedistanthorizon"
+		],
+		"Сянь Юнь": [
+			"aguestsaugustomen"
+		],
+		"Шарлотта": [
+			"allisovertthroughmylens"
+		],
+		"Эмилия": [
+			"ambrosialverdance"
+		],
+		"Коллеи": [
+			"anewleaf"
+		],
+		"Синобу": [
+			"aratakisdemonicdeputy"
+		],
+		"Синь Янь": [
+			"ardentsoul"
+		],
+		"Лань Янь": [
+			"argentchimes"
+		],
+		"Ноэлль": [
+			"armoredrose"
+		],
+		"Итэр": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Люмин": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
+		"Лиза": [
+			"asobriquetundershade",
+			"purplerose"
+		],
+		"Странник": [
+			"awrathfulvoid"
+		],
+		"Син Цю": [
+			"azuresilk",
+			"bamboorain"
+		],
+		"Оророн": [
+			"batwingiris"
+		],
+		"Тарталья": [
+			"bladesofglory"
+		],
+		"Кли": [
+			"blossomingstarlight",
+			"shootingspark"
+		],
+		"Нилу": [
+			"breezeofsabaa",
+			"neitherflowernormist"
+		],
+		"Венти": [
+			"breezyode"
+		],
+		"Ху Тао": [
+			"cherriessnowladen",
+			"plumblossombouquet"
+		],
+		"Яо Яо": [
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
+		],
+		"Нёвиллет": [
+			"clearadjudication",
+			"melusentgift"
+		],
+		"Фурина": [
+			"coronatedprimadonna"
+		],
+		"Дилюк": [
+			"darknightblaze",
+			"reddeadofnight"
+		],
+		"Мидзуки": [
+			"dawnbreathdreambelle"
+		],
+		"Ситлали": [
+			"dawnseer"
+		],
+		"Кандакия": [
+			"desertandnight"
+		],
+		"Лайла": [
+			"dreamingstar"
+		],
+		"Фишль": [
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
+		],
+		"Итто": [
+			"eccentriconi"
+		],
+		"Кинич": [
+			"eightbitartistry"
+		],
+		"Нефер": [
+			"emeraldcipher"
+		],
+		"Сяо": [
+			"endurerofeons"
+		],
+		"Розария": [
+			"executorsthorns",
+			"tothechurchsfreespirit"
+		],
+		"Кадзуха": [
+			"fallingleaves"
+		],
+		"Лини": [
+			"fantasticat"
+		],
+		"Джинн": [
+			"favoniandevotion",
+			"gunnhildrslegacy",
+			"seabreezedandelion"
+		],
+		"Аяка": [
+			"flawlessradiance",
+			"springbloommissive"
+		],
+		"Мона": [
+			"flowingfate",
+			"pactofstarsandmoon"
+		],
+		"Айно": [
+			"fluffypuffywhizkidworkwear"
+		],
+		"Муалани": [
+			"flyingfishheatwavesandmoonscallop"
+		],
+		"Нахида": [
+			"forallknowledgeaverse"
+		],
+		"Гань Юй": [
+			"frostdewtrail",
+			"twilightblossom"
+		],
+		"Шэнь Хэ": [
+			"frostflowerdew",
+			"theworldsshackles"
+		],
+		"Сахароза": [
+			"germinatingwind"
+		],
+		"Шилонен": [
+			"golddrapedgorge"
+		],
+		"Янь Фэй": [
+			"goldenrule"
+		],
+		"Сетос": [
+			"goldensandstrider"
+		],
+		"Ёимия": [
+			"goldfishfirecracker"
+		],
+		"Нин Гуан": [
+			"goldleafandpearlyjade",
+			"orchidseveninggown"
+		],
+		"Кавех": [
+			"goldpinionsinflamesbathed"
+		],
+		"Шеврёз": [
+			"guardiansgun"
+		],
+		"Сайно": [
+			"heartofthescales"
+		],
+		"Чжун Ли": [
+			"hermitofmortallife"
+		],
+		"Кэйа": [
+			"icyfeatherflight",
+			"sailwindshadow"
+		],
+		"Фремине": [
+			"icyskin"
+		],
+		"Дори": [
+			"ilovemora"
+		],
+		"Барбара": [
+			"innocentlonging",
+			"summertimesparkle"
+		],
+		"Элой": [
+			"machinehunter"
+		],
+		"Инеффа": [
+			"mechanicaldreams"
+		],
+		"Яэ Мико": [
+			"mikosinstruction"
+		],
+		"Саю": [
+			"minimujina"
+		],
+		"Юнь Цзинь": [
+			"mistcloudstage"
+		],
+		"Арлекино": [
+			"moonglare"
+		],
+		"Цзы Бай": [
+			"moonlitcourser"
+		],
+		"Коломбина": [
+			"moonweavegossamer"
+		],
+		"Райдэн": [
+			"narukamislaw"
+		],
+		"Альбедо": [
+			"newmoonstarlight"
+		],
+		"Сян Лин": [
+			"newyearscheer",
+			"redpepperandturmeric"
+		],
+		"Ризли": [
+			"nightschillinghowl"
+		],
+		"Флинс": [
+			"nocturne"
+		],
+		"Ягода": [
+			"novaswhisper"
+		],
+		"Кэ Цин": [
+			"opulentsplendor",
+			"piercingthunderbolt"
+		],
+		"Горо": [
+			"panoplyofahundredhunts"
+		],
+		"Линетт": [
+			"phantomeow"
+		],
+		"Кирара": [
+			"phantominboots",
+			"whirlingbloom"
+		],
+		"Тиори": [
+			"pluckedyamabukisplendor"
+		],
+		"Фарузан": [
+			"pristineelegance"
+		],
+		"Далия": [
+			"pristineprayers"
+		],
+		"Чун Юнь": [
+			"purespirit"
+		],
+		"Ка Мин": [
+			"rangingrainbow"
+		],
+		"Бэй Доу": [
+			"rollingwaves"
+		],
+		"Скирк": [
+			"shatteredstar"
+		],
+		"Аято": [
+			"silksplendor"
+		],
+		"Мика": [
+			"soaringbeacon"
+		],
+		"Сара": [
+			"solemnpurity"
+		],
+		"Эскофье": [
+			"sorbethoneypie"
+		],
+		"Кокоми": [
+			"sparklingcoralbone"
+		],
+		"Хэйдзо": [
+			"spiritedvalor"
+		],
+		"Иллуги": [
+			"steadfastresolve"
+		],
+		"Вареса": [
+			"sugarrush"
+		],
+		"Диона": [
+			"sugarybrew"
+		],
+		"Ци Ци": [
+			"summerchilldreams"
+		],
+		"Сиджвин": [
+			"sweetnessofthesea"
+		],
+		"Клоринда": [
+			"swordofhonor"
+		],
+		"Качина": [
+			"tawnypeaksspiredrock"
+		],
+		"Бай Чжу": [
+			"theapplicationsofmedicine"
+		],
+		"Дэхья": [
+			"thelionessandtheblazingsun"
+		],
+		"Аль-Хайтам": [
+			"therational"
+		],
+		"Е Лань": [
+			"thewaningpoint",
+			"tranquilbanquet"
+		],
+		"Часка": [
+			"tlalocansnightphantom"
+		],
+		"Мавуика": [
+			"undyingsun"
+		],
+		"Лаума": [
+			"verdantmoon"
+		],
+		"Тома": [
+			"warriorofflame"
+		],
+		"Иансан": [
+			"warriorsbonegarb"
+		],
+		"Эола": [
+			"wavecrestwaltz"
+		],
+		"Ифа": [
+			"whistledartwings"
+		],
+		"Рэйзор": [
+			"wildsprint"
+		],
+		"Тигнари": [
+			"woodlandsong"
+		],
+		"Навия": [
+			"yellowvelvetsalon"
+		]
+	},
+	"properties": {
+		"characterName": [
+			"Эмбер",
+			"Беннет",
+			"Дурин",
+			"Сянь Юнь",
+			"Шарлотта",
+			"Эмилия",
+			"Коллеи",
+			"Синобу",
+			"Синь Янь",
+			"Лань Янь",
+			"Ноэлль",
+			"Итэр",
+			"Люмин",
+			"Лиза",
+			"Странник",
+			"Син Цю",
+			"Оророн",
+			"Тарталья",
+			"Кли",
+			"Нилу",
+			"Венти",
+			"Ху Тао",
+			"Яо Яо",
+			"Нёвиллет",
+			"Фурина",
+			"Дилюк",
+			"Мидзуки",
+			"Ситлали",
+			"Кандакия",
+			"Лайла",
+			"Фишль",
+			"Итто",
+			"Кинич",
+			"Нефер",
+			"Сяо",
+			"Розария",
+			"Кадзуха",
+			"Лини",
+			"Джинн",
+			"Аяка",
+			"Мона",
+			"Айно",
+			"Муалани",
+			"Нахида",
+			"Гань Юй",
+			"Шэнь Хэ",
+			"Сахароза",
+			"Шилонен",
+			"Янь Фэй",
+			"Сетос",
+			"Ёимия",
+			"Нин Гуан",
+			"Кавех",
+			"Шеврёз",
+			"Сайно",
+			"Чжун Ли",
+			"Кэйа",
+			"Фремине",
+			"Дори",
+			"Барбара",
+			"Элой",
+			"Инеффа",
+			"Яэ Мико",
+			"Саю",
+			"Юнь Цзинь",
+			"Арлекино",
+			"Цзы Бай",
+			"Коломбина",
+			"Райдэн",
+			"Альбедо",
+			"Сян Лин",
+			"Ризли",
+			"Флинс",
+			"Ягода",
+			"Кэ Цин",
+			"Горо",
+			"Линетт",
+			"Кирара",
+			"Тиори",
+			"Фарузан",
+			"Далия",
+			"Чун Юнь",
+			"Ка Мин",
+			"Бэй Доу",
+			"Скирк",
+			"Аято",
+			"Мика",
+			"Сара",
+			"Эскофье",
+			"Кокоми",
+			"Хэйдзо",
+			"Иллуги",
+			"Вареса",
+			"Диона",
+			"Ци Ци",
+			"Сиджвин",
+			"Клоринда",
+			"Качина",
+			"Бай Чжу",
+			"Дэхья",
+			"Аль-Хайтам",
+			"Е Лань",
+			"Часка",
+			"Мавуика",
+			"Лаума",
+			"Тома",
+			"Иансан",
+			"Эола",
+			"Ифа",
+			"Рэйзор",
+			"Тигнари",
+			"Навия"
+		]
+	}
+}

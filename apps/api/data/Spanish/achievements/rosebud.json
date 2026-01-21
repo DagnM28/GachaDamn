@@ -1,0 +1,20 @@
+{
+	"id": [
+		82071
+	],
+	"name": "Flor escarchada",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Retador: Parte 3",
+	"sortOrder": 2071,
+	"stages": 1,
+	"stage1": {
+		"title": "Flor escarchada",
+		"description": "Rompe la protección de una Maga de Cicin Cryo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

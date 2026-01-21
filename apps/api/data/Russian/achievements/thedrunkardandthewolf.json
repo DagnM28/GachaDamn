@@ -1,0 +1,20 @@
+{
+	"id": [
+		80005
+	],
+	"name": "Пьяница и волк",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Скитания по миру I",
+	"sortOrder": 5,
+	"stages": 1,
+	"stage1": {
+		"title": "Пьяница и волк",
+		"description": "Соберите полную коллекцию «Истории пьяницы».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

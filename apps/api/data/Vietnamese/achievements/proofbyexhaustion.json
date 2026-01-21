@@ -1,0 +1,20 @@
+{
+	"id": [
+		82167
+	],
+	"name": "Liệt Kê Mọi Phép Tắc",
+	"achievementGroupId": 39,
+	"achievementGroupName": "Kẻ Khiêu Chiến - Phần VII",
+	"sortOrder": 2167,
+	"stages": 1,
+	"stage1": {
+		"title": "Liệt Kê Mọi Phép Tắc",
+		"description": "Đánh bại tất cả Kẻ Rửa Tội Tàn Ác với mọi tổ hợp năng lực nguyên tố.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

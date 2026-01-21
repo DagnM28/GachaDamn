@@ -1,0 +1,11 @@
+{
+	"id": 100077,
+	"name": "Karabiber",
+	"sortRank": 321,
+	"description": "Aromatik bir baharat. Yağlı tatları keser ve damak zevkine hitap eder. Özellikle ete çok yakışır.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"Gıda pazarlarında satılır."
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": 110005,
+	"name": "Jambon",
+	"sortRank": 322,
+	"description": "Tütsülenmiş but eti. En ince dilimi bile lezzet doludur.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"İşlenerek elde edilir."
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100075,
+	"name": "Sel",
+	"sortRank": 321,
+	"description": "Une pincée suffit pour rehausser le goût de vos plats.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Épiceries"
+	]
+}

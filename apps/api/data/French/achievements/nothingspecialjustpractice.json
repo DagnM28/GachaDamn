@@ -1,0 +1,21 @@
+{
+	"id": [
+		82001
+	],
+	"name": "« Le secret, c'est la pratique. »",
+	"achievementGroupId": 7,
+	"achievementGroupName": "Dans le mille",
+	"sortOrder": 2001,
+	"stages": 1,
+	"stage1": {
+		"title": "« Le secret, c'est la pratique. »",
+		"ps5title": "Dans le mille - « Le secret, c'est la pratique »",
+		"description": "Tirez sur un aigle en plein vol avec un arc.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

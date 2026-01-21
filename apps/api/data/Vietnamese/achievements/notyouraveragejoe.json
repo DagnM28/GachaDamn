@@ -1,0 +1,21 @@
+{
+	"id": [
+		84567
+	],
+	"name": "Hương Vị Ưa Thích",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4091,
+	"stages": 1,
+	"stage1": {
+		"title": "Hương Vị Ưa Thích",
+		"description": "Pha chế ra một ly cà phê đặc biệt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

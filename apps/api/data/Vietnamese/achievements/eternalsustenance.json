@@ -1,0 +1,21 @@
+{
+	"id": [
+		81245
+	],
+	"name": "Lương Thực Vĩnh Cửu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1231,
+	"stages": 1,
+	"stage1": {
+		"title": "Lương Thực Vĩnh Cửu",
+		"description": "Cùng với Varsha ghé thăm vườn ươm của Aranara trong hiện thực.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

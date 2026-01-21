@@ -1,0 +1,21 @@
+{
+	"id": [
+		81324
+	],
+	"name": "เชือกที่พาดผ่าน Abyss",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1311,
+	"stages": 1,
+	"stage1": {
+		"title": "เชือกที่พาดผ่าน Abyss",
+		"description": "สำเร็จ \"พิธีข้ามผ่าน\" เพื่อเปิดเส้นทางไปสู่ห้วงทมิฬ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

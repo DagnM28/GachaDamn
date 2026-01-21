@@ -1,0 +1,21 @@
+{
+	"id": [
+		81345
+	],
+	"name": "Фонтейнское послание",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1331,
+	"stages": 1,
+	"stage1": {
+		"title": "Фонтейнское послание",
+		"description": "Побеседуйте с Виржилем по-дружески.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

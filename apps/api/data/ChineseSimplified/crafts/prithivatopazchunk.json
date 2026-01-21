@@ -1,0 +1,16 @@
+{
+	"id": 15020,
+	"name": "坚牢黄玉块",
+	"filterText": "角色突破素材",
+	"sortOrder": 110059,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104172,
+			"name": "坚牢黄玉断片",
+			"count": 3
+		}
+	]
+}

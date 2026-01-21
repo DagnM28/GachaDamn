@@ -1,0 +1,21 @@
+{
+	"id": [
+		84558
+	],
+	"name": "Корабельная мощь",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4082,
+	"stages": 1,
+	"stage1": {
+		"title": "Корабельная мощь",
+		"description": "Помогите Рафику испытать корпус корабля на прочность.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

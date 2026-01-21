@@ -1,0 +1,16 @@
+{
+	"id": 11052,
+	"name": "Marked Shell",
+	"filterText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sortOrder": 140139,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112075,
+			"name": "Sturdy Shell",
+			"count": 3
+		}
+	]
+}

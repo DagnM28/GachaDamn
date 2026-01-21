@@ -1,0 +1,20 @@
+{
+	"id": [
+		80068
+	],
+	"name": "Dragões e Lanças",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Visitante da Montanha Nevada",
+	"sortOrder": 68,
+	"stages": 1,
+	"stage1": {
+		"title": "Dragões e Lanças",
+		"description": "Use o corpo do dragão para criar uma arma",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

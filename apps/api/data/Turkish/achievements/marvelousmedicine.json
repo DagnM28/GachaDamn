@@ -1,0 +1,21 @@
+{
+	"id": [
+		84519
+	],
+	"name": "Mucizevi İlaç",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4043,
+	"stages": 1,
+	"stage1": {
+		"title": "Mucizevi İlaç",
+		"description": "Anna'nın hastalığını tedavi et.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

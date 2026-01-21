@@ -1,0 +1,20 @@
+{
+	"id": [
+		80147
+	],
+	"name": "Đến Từ Nơi Sâu",
+	"achievementGroupId": 30,
+	"achievementGroupName": "Hầm Mỏ Lưu Minh",
+	"sortOrder": 147,
+	"stages": 1,
+	"stage1": {
+		"title": "Đến Từ Nơi Sâu",
+		"description": "Mở khóa toàn bộ điểm dịch chuyển ở Vực Đá Sâu và hầm mỏ sâu bên dưới.",
+		"progress": 21,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

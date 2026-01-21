@@ -1,0 +1,16 @@
+{
+	"id": 12014,
+	"name": "Elisir d'oro della nebbia",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130039,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114018,
+			"name": "Elisir di mercurio della nebbia",
+			"count": 3
+		}
+	]
+}

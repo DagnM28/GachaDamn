@@ -1,0 +1,20 @@
+{
+	"id": [
+		86034
+	],
+	"name": "Quà Trưởng Thành Của Dân Sa Mạc",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần IV",
+	"sortOrder": 9033,
+	"stages": 1,
+	"stage1": {
+		"title": "Quà Trưởng Thành Của Dân Sa Mạc",
+		"description": "Cùng người chơi khác đánh bại Setekh Wenut.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

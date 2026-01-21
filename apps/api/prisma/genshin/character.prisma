@@ -1,0 +1,118 @@
+// Genshin Characters Domain
+// Models cho schema EN và VN (cấu trúc giống nhau)
+
+// ============================================
+// ENGLISH SCHEMA
+// ============================================
+
+model CharacterEN {
+  id              Int      @id
+  name            String   @unique
+  title           String
+  description     String   @db.Text
+  weaponType      String
+  weaponText      String
+  bodyType        String
+  gender          String
+  qualityType     String
+  rarity          Int
+  birthdayMmdd    String?
+  birthday        String?
+  elementType     String
+  elementText     String
+  affiliation     String
+  associationType String
+  region          String
+  substatType     String
+  substatText     String
+  constellation   String
+  cvEnglish       String?
+  cvChinese       String?
+  cvJapanese      String?
+  cvKorean        String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  ascensionCosts CharacterAscensionCostEN[]
+
+  @@index([elementType])
+  @@index([rarity])
+  @@index([region])
+  @@index([weaponType])
+  @@map("characters")
+  @@schema("en") // Thuộc schema EN
+}
+
+model CharacterAscensionCostEN {
+  id          String      @id @default(cuid())
+  characterId Int
+  character   CharacterEN @relation(fields: [characterId], references: [id], onDelete: Cascade)
+  phase       String
+  itemId      Int
+  itemName    String
+  count       Int
+  createdAt   DateTime    @default(now())
+
+  @@index([characterId])
+  @@index([phase])
+  @@map("character_ascension_costs")
+  @@schema("en") // Thuộc schema EN
+}
+
+// ============================================
+// VIETNAMESE SCHEMA
+// ============================================
+
+model CharacterVN {
+  id              Int      @id
+  name            String   @unique
+  title           String
+  description     String   @db.Text
+  weaponType      String
+  weaponText      String
+  bodyType        String
+  gender          String
+  qualityType     String
+  rarity          Int
+  birthdayMmdd    String?
+  birthday        String?
+  elementType     String
+  elementText     String
+  affiliation     String
+  associationType String
+  region          String
+  substatType     String
+  substatText     String
+  constellation   String
+  cvEnglish       String?
+  cvChinese       String?
+  cvJapanese      String?
+  cvKorean        String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  ascensionCosts CharacterAscensionCostVN[]
+
+  @@index([elementType])
+  @@index([rarity])
+  @@index([region])
+  @@index([weaponType])
+  @@map("characters")
+  @@schema("vn") // Thuộc schema VN
+}
+
+model CharacterAscensionCostVN {
+  id          String      @id @default(cuid())
+  characterId Int
+  character   CharacterVN @relation(fields: [characterId], references: [id], onDelete: Cascade)
+  phase       String
+  itemId      Int
+  itemName    String
+  count       Int
+  createdAt   DateTime    @default(now())
+
+  @@index([characterId])
+  @@index([phase])
+  @@map("character_ascension_costs")
+  @@schema("vn") // Thuộc schema VN
+}

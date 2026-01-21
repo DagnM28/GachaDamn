@@ -1,0 +1,20 @@
+{
+	"id": [
+		82006
+	],
+	"name": "Tengoku Ritmi",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Mücadeleci: I. Seri",
+	"sortOrder": 2006,
+	"stages": 1,
+	"stage1": {
+		"title": "Tengoku Ritmi",
+		"description": "Bir Hiçlik Büyücüsünün Tılsımını yeniden oluşturmasını engelle.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": [
+		81267
+	],
+	"name": "Фата-моргана",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1253,
+	"stages": 1,
+	"stage1": {
+		"title": "Фата-моргана",
+		"ps5title": "Путешествие: Фата-моргана",
+		"description": "Путь к трону наконец открыт.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

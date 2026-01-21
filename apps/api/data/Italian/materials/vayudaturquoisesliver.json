@@ -1,0 +1,14 @@
+{
+	"id": 104151,
+	"name": "Scheggia di turchese Vayuda",
+	"rarity": 2,
+	"sortRank": 12106,
+	"description": "Materiale d'ascensione personaggi.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
+		"Si acquista nel negozio di souvenir",
+		"Controlla la scheda Nemici nel Manuale dell'avventuriere",
+		"Si ottiene dalla Scheda di conversione del Banco della creazione"
+	]
+}

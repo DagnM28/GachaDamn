@@ -1,0 +1,16 @@
+{
+	"id": 13025,
+	"name": "Anleitung zur „Fairness“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120120,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104338,
+			"name": "Lehren der „Fairness“",
+			"count": 3
+		}
+	]
+}

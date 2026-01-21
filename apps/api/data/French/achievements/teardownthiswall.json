@@ -1,0 +1,20 @@
+{
+	"id": [
+		82067
+	],
+	"name": "Détruisez-moi ce mur !",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Au défi ! - Partie III",
+	"sortOrder": 2067,
+	"stages": 1,
+	"stage1": {
+		"title": "Détruisez-moi ce mur !",
+		"description": "Détruisez le bouclier de glace d'un Brutoviandu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

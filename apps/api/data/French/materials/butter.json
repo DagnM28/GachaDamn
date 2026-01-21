@@ -1,0 +1,11 @@
+{
+	"id": 110004,
+	"name": "Beurre",
+	"sortRank": 322,
+	"description": "Produit laitier qui relève le goût de vos plats les plus basiques.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Cuisine (préparation)"
+	]
+}

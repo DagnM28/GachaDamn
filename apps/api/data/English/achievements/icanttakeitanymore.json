@@ -1,0 +1,20 @@
+{
+	"id": [
+		82135
+	],
+	"name": "I Can't Take It Anymore!",
+	"achievementGroupId": 34,
+	"achievementGroupName": "Challenger: Series VI",
+	"sortOrder": 2135,
+	"stages": 1,
+	"stage1": {
+		"title": "I Can't Take It Anymore!",
+		"description": "Defeat the exhausted Jadeplume Terrorshroom after its Activated state is finished.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

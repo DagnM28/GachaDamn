@@ -1,0 +1,20 @@
+{
+	"id": [
+		80178
+	],
+	"name": "Perjalanan Farris",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Penderitaan Fana: Seri III",
+	"sortOrder": 178,
+	"stages": 1,
+	"stage1": {
+		"title": "Perjalanan Farris",
+		"description": "Lengkapi \"Gulungan Lagu yang Mengapung\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81319
+	],
+	"name": "Vyakarana der Vögel",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1306,
+	"stages": 1,
+	"stage1": {
+		"title": "Vyakarana der Vögel",
+		"description": "Unter der Aufsicht Zurvans hat Sorush die „Zwillingshorn-Blütenkrone“ erlangt ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

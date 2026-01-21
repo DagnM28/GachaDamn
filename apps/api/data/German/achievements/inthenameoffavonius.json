@@ -1,0 +1,21 @@
+{
+	"id": [
+		84520
+	],
+	"name": "Möge der Westwind mir beistehen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4044,
+	"stages": 1,
+	"stage1": {
+		"title": "Möge der Westwind mir beistehen",
+		"description": "Werde Zeuge davon, was mit Jilliana geschieht.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84105
+	],
+	"name": "La meraviglia piccante di Mondstadt",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ricordi del cuore",
+	"isHidden": true,
+	"sortOrder": 6211,
+	"stages": 1,
+	"stage1": {
+		"title": "La meraviglia piccante di Mondstadt",
+		"description": "Assaggia la Chilibirra di Barbara.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

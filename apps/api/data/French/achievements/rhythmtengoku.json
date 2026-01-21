@@ -1,0 +1,20 @@
+{
+	"id": [
+		82006
+	],
+	"name": "Qui maîtrise le rythme ?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Au défi ! - Partie I",
+	"sortOrder": 2006,
+	"stages": 1,
+	"stage1": {
+		"title": "Qui maîtrise le rythme ?",
+		"description": "Empêchez un Mage de l'Abîme de régénérer son égide.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

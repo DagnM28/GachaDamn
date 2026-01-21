@@ -1,0 +1,21 @@
+{
+	"id": [
+		81470
+	],
+	"name": "Уединённая тропа",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1454,
+	"stages": 1,
+	"stage1": {
+		"title": "Уединённая тропа",
+		"description": "Вернитесь в Покои Карпа.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

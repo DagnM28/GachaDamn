@@ -1,0 +1,20 @@
+{
+	"id": [
+		86030
+	],
+	"name": "La fine del ritorno eterno",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Incontri in un altro mondo: Serie IV",
+	"sortOrder": 9029,
+	"stages": 1,
+	"stage1": {
+		"title": "La fine del ritorno eterno",
+		"description": "Sconfiggi il Drago cataclismatico in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

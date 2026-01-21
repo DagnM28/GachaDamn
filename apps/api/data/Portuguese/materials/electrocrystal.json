@@ -1,0 +1,12 @@
+{
+	"id": 100054,
+	"name": "Cristal Eletrificado",
+	"sortRank": 320,
+	"description": "Um cristal rico em energia que extrai eletricidade do ar ao seu redor. Segurá-lo deixa sua mão um pouco dormente.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"Encontrado nas falésias das montanhas",
+		"Recomendado: Encontrado no Promontório do Julgamento"
+	]
+}

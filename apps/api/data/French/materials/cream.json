@@ -1,0 +1,11 @@
+{
+	"id": 110002,
+	"name": "Crème",
+	"sortRank": 322,
+	"description": "Produit laitier essentiel pour la pâtisserie.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Cuisine (préparation)"
+	]
+}

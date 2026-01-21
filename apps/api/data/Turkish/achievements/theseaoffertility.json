@@ -1,0 +1,21 @@
+{
+	"id": [
+		81339
+	],
+	"name": "Bolluk Denizi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1317,
+	"stages": 1,
+	"stage1": {
+		"title": "Bolluk Denizi",
+		"description": "Vourukasha Vahası'ndaki tüm göletler canlandırıldı.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

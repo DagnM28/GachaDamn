@@ -1,0 +1,22 @@
+{
+	"id": [
+		81005
+	],
+	"name": "ผู้เป็นที่รักของเทพแห่งลม",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1005,
+	"stages": 1,
+	"stage1": {
+		"title": "ผู้เป็นที่รักของเทพแห่งลม",
+		"ps5title": "การสำรวจ - ผู้เป็นที่รักของเทพแห่งลม",
+		"description": "ไปนั่งอยู่บนมือรูปปั้นเทพเจ้าในเมือง Mondstadt",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

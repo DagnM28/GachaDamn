@@ -1,0 +1,21 @@
+{
+	"id": [
+		81504
+	],
+	"name": "\"Brucia! BRUCIA!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1488,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Brucia! BRUCIA!\"",
+		"description": "Non è il posto ideale per nuotare...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

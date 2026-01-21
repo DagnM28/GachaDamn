@@ -1,0 +1,20 @@
+{
+	"id": [
+		80026
+	],
+	"name": "Подарок героя",
+	"achievementGroupId": 3,
+	"achievementGroupName": "Путешествие героя",
+	"sortOrder": 26,
+	"stages": 1,
+	"stage1": {
+		"title": "Подарок героя",
+		"description": "Получите артефакт 4★.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		80030
+	],
+	"name": "Kıta Kaşifi: Mondstadt",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt: Rüzgar ve Şarkıların Şehri",
+	"sortOrder": 30,
+	"stages": 1,
+	"stage1": {
+		"title": "Kıta Kaşifi: Mondstadt",
+		"ps5title": "Mondstadt: Kıta Kaşifi",
+		"description": "Mondstadt haritasının tamamını aydınlat (Ejdersırtı bölgesi hariç).",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

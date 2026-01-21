@@ -1,0 +1,20 @@
+{
+	"id": [
+		82002
+	],
+	"name": "Bách Bộ Xuyên Tâm",
+	"achievementGroupId": 7,
+	"achievementGroupName": "Xạ Thủ Thần",
+	"sortOrder": 2002,
+	"stages": 1,
+	"stage1": {
+		"title": "Bách Bộ Xuyên Tâm",
+		"description": "Đứng từ xa ngắm bắn trúng điểm yếu của kẻ địch.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

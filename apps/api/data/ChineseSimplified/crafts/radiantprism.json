@@ -1,0 +1,16 @@
+{
+	"id": 11050,
+	"name": "辉光棱晶",
+	"filterText": "角色与武器培养素材",
+	"sortOrder": 140129,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112072,
+			"name": "混浊棱晶",
+			"count": 3
+		}
+	]
+}

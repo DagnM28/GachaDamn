@@ -1,0 +1,21 @@
+{
+	"id": [
+		84528
+	],
+	"name": "Kẻ Ngụy Trang Trong Mắt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4052,
+	"stages": 1,
+	"stage1": {
+		"title": "Kẻ Ngụy Trang Trong Mắt",
+		"description": "Giúp Sango và Ryuuji phá án.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

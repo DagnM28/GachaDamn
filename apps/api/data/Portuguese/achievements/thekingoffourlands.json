@@ -1,0 +1,21 @@
+{
+	"id": [
+		81280
+	],
+	"name": "O Rei das Quatro Terras",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1266,
+	"stages": 1,
+	"stage1": {
+		"title": "O Rei das Quatro Terras",
+		"description": "Encontre e desbloqueie os segredos de todas as Ruínas Transparentes no deserto.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

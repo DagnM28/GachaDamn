@@ -1,0 +1,19 @@
+{
+	"id": 104323,
+	"name": "Zarafet Öğretisi",
+	"rarity": 2,
+	"sortRank": 13108,
+	"description": "Yetenek Seviyesi Yükseltme Malzemesi.\nZarafet, yıldırım ulusunun en önemli yönüdür.\nZarafet dalkavukluğa gelmez, zarifler her daim asildir. Yankılanan fırtınalarla yarışmak için yükseklerden uçan deniz şahinlerine benzer zarifler. Çamur at izi kalsın gibi cehaletten doğan bayağılıklara göz yummazlar.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter Yeteneği Malzemesi",
+	"dropDomainId": 4410,
+	"dropDomainName": "Ustalık Zindanı: Uğultulu Vadi",
+	"daysOfWeek": [
+		"Salı",
+		"Cuma",
+		"Pazar"
+	],
+	"sources": [
+		"Hediye Dükkanında takas edilir."
+	]
+}

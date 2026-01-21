@@ -1,0 +1,11 @@
+{
+	"id": 100061,
+	"name": "Carne Crua",
+	"sortRank": 321,
+	"description": "Um pedaço de carne fresca. Se feita adequadamente pode ser usada para fazer pratos deliciosos.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente",
+	"sources": [
+		"Dropado pelos animais"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11041,
+	"name": "형광 포자 분말",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 150090,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112059,
+			"name": "버섯몬 포자",
+			"count": 3
+		}
+	]
+}

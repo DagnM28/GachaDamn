@@ -1,0 +1,34 @@
+{
+	"namemap": {
+		"fontaine": "Fontaine",
+		"inazuma": "Inazuma",
+		"liyue": "Liyue",
+		"mondstadt": "Mondstadt",
+		"natlan": "Natlan",
+		"sumeru": "Sumeru"
+	},
+	"names": {
+		"Fontaine": "fontaine",
+		"Inazuma": "inazuma",
+		"Liyue": "liyue",
+		"Mondstadt": "mondstadt",
+		"Natlan": "natlan",
+		"Sumeru": "sumeru"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"fontaine",
+			"inazuma",
+			"liyue",
+			"mondstadt",
+			"natlan",
+			"sumeru"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

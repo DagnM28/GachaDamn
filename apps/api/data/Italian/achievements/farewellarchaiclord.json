@@ -1,0 +1,21 @@
+{
+	"id": [
+		84010
+	],
+	"name": "Addio, arcaico Signore",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 4011,
+	"stages": 1,
+	"stage1": {
+		"title": "Addio, arcaico Signore",
+		"description": "Completa Addio, arcaico Signore.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

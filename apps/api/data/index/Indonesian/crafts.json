@@ -1,0 +1,2005 @@
+{
+	"namemap": {
+		"aberrantcoreofthedeepshadow": "Aberrant Core of the Deep Shadow",
+		"afterglowoflongnightflint": "Afterglow of Long Night Flint",
+		"agentssacrificialknife": "Agent's Sacrificial Knife",
+		"agnidusagatechunk": "Agnidus Agate Chunk",
+		"agnidusagatefragment": "Agnidus Agate Fragment",
+		"agnidusagategemstone": "Agnidus Agate Gemstone",
+		"alienlifecore": "Alien Life Core",
+		"anemoculusresonancestone": "Anemoculus Resonance Stone",
+		"artfuldeviceinheritance": "Artful Device Inheritance",
+		"artfuldevicereplica": "Artful Device Replica",
+		"artfuldevicewish": "Artful Device Wish",
+		"artificeddynamicgear": "Artificed Dynamic Gear",
+		"aureateradianceofthefarnorthscions": "Aureate Radiance of the Far-North Scions",
+		"berrybait": "Berry Bait",
+		"bewilderingbroadleaf": "Bewildering Broadleaf",
+		"bitofaerosiderite": "Bit of Aerosiderite",
+		"blackbronzehorn": "Black Bronze Horn",
+		"blackcrystalhorn": "Black Crystal Horn",
+		"blazeoflongnightflint": "Blaze of Long Night Flint",
+		"blazingprismshell": "Blazing Prismshell",
+		"blazingsacrificialheartshesitance": "Blazing Sacrificial Heart's Hesitance",
+		"blazingsacrificialheartsresolve": "Blazing Sacrificial Heart's Resolve",
+		"blazingsacrificialheartssplendor": "Blazing Sacrificial Heart's Splendor",
+		"bluedye": "Blue Dye",
+		"borealwolfsbrokenfang": "Boreal Wolf's Broken Fang",
+		"borealwolfscrackedtooth": "Boreal Wolf's Cracked Tooth",
+		"borealwolfsnostalgia": "Boreal Wolf's Nostalgia",
+		"chainsofthedandeliongladiator": "Chains of Dandelion Gladiator",
+		"chaosaxis": "Chaos Axis",
+		"chaosbolt": "Chaos Bolt",
+		"chaoscircuit": "Chaos Circuit",
+		"chaoscore": "Chaos Core",
+		"chaosmodule": "Chaos Module",
+		"chaosoculus": "Chaos Oculus",
+		"chapterofanancientchord": "Chapter of an Ancient Chord",
+		"chasmlightfin": "Chasmlight Fin",
+		"chunkofaerosiderite": "Chunk of Aerosiderite",
+		"concealedtalon": "Concealed Talon",
+		"concealedunguis": "Concealed Unguis",
+		"condensedresin": "Condensed Resin",
+		"crystallinecystdust": "Crystalline Cyst Dust",
+		"crystalprism": "Crystal Prism",
+		"darkstatuette": "Dark Statuette",
+		"deadleylineleaves": "Dead Ley Line Leaves",
+		"deathlystatuette": "Deathly Statuette",
+		"debrisofdecarabianscity": "Debris of Decarabian's City",
+		"deliriousdemeanorofthesacredlord": "Delirious Demeanor of the Sacred Lord",
+		"deliriousdesolationofthesacredlord": "Delirious Desolution of the Sacred Lord",
+		"deliriousdivinityofthesacredlord": "Delirious Divinity of the Sacred Lord",
+		"dendrocidepotion": "Dendrocide Potion",
+		"dendroculusresonancestone": "Dendroculus Resonance Stone",
+		"desiccantpotion": "Desiccant Potion",
+		"divinebodyfromguyun": "Divine Body from Guyun",
+		"dormantfungalnucleus": "Dormant Fungal Nucleus",
+		"dreamofscorchingmight": "Dream of Scorching Might",
+		"dreamofthedandeliongladiator": "Dream of the Dandelion Gladiator",
+		"dustproofpotion": "Dustproof Potion",
+		"echoofanancientchord": "Echo of Ancient Chord",
+		"electroculusresonancestone": "Electroculus Resonance Stone",
+		"emberglowbait": "Emberglow Bait",
+		"energynectar": "Energy Nectar",
+		"essenceofpuresacreddewdrop": "Essense of Pure Sacred Dewdrop",
+		"fabric": "Fabric",
+		"fakeflybait": "Fake Fly Bait",
+		"falsewormbait": "False Worm Bait",
+		"famedhandguard": "Famed Handguard",
+		"fatesyearningessentialoil": "Minyak Esensial dari Bunga Kerinduan Takdir",
+		"flamingessentialoil": "Flaming Essential Oil",
+		"flareoflongnightflint": "Flare of Long Night Flint",
+		"flashingmaintenancemekbait": "Flashing Maintenance Mek Bait",
+		"floatysplody": "Floaty Splody",
+		"forbiddencursescroll": "Forbidden Curse Scroll",
+		"foreignsynapse": "Foreign Synapse",
+		"forestessentialoil": "Forest Essential Oil",
+		"fossilizedboneshard": "Fossilized Bone Shard",
+		"fragmentofdecarabiansepic": "Fragment of Decarabian's Epic",
+		"frostetchedwarrant": "Frost-Etched Warrant",
+		"frostingessentialoil": "Frosting Essential Oil",
+		"frostnightsglory": "Frostnight's Glory",
+		"frostnightsglow": "Frostnight's Glow",
+		"frostshieldpotion": "Frostshield Potion",
+		"fruitpastebait": "Fruit Paste Bait",
+		"geoculusresonancestone": "Geoculus Resonance Stone",
+		"glowingremains": "Glowing Remains",
+		"goldenbranchofadistantsea": "Golden Branch of a Distant Sea",
+		"goldengobletofthepristinesea": "Golden Goblet of the Pristine Sea",
+		"goldenhousemaidenessentialoil": "Minyak Esensial dari Bunga Gadis Rumah Emas",
+		"goldenraveninsignia": "Golden Raven Insignia",
+		"goldentalismanoftheforestdew": "Golden Talisman of the Forest Dew",
+		"guidetoadmonition": "Guide to Admonition",
+		"guidetoballad": "Guide to Ballad",
+		"guidetoconflict": "Guide to Conflict",
+		"guidetocontention": "Guide to Contention",
+		"guidetodiligence": "Guide to Diligence",
+		"guidetoelegance": "Guide to Elegance",
+		"guidetoelysium": "Guide to Elysium",
+		"guidetoequity": "Guide to Equity",
+		"guidetofreedom": "Guide to Freedom",
+		"guidetogold": "Guide to Gold",
+		"guidetoingenuity": "Guide to Ingenuity",
+		"guidetojustice": "Guide to Justice",
+		"guidetokindling": "Guide to Kindling",
+		"guidetolight": "Guide to Light",
+		"guidetomoonlight": "Guide to Moonlight",
+		"guidetoorder": "Guide to Order",
+		"guidetopraxis": "Guide to Praxis",
+		"guidetoprosperity": "Guide to Prosperity",
+		"guidetoresistance": "Guide to Resistance",
+		"guidetotransience": "Guide to Transience",
+		"guidetovagrancy": "Guide to Vagrancy",
+		"gushingessentialoil": "Gushing Essential Oil",
+		"heartofthesecretsource": "Heart of the Secret Source",
+		"heatshieldpotion": "Heatshield Potion",
+		"hookedbeakofthedeepshadow": "Hooked Beak of the Deep Shadow",
+		"hotpod": "Hot Pod",
+		"hydroculusresonancestone": "Hydroculus Resonance Stone",
+		"ignitedseedoflife": "Ignited Seed of Life",
+		"ignitedseeingeye": "Ignited Seeing Eye",
+		"illusoryleafcoil": "Illusory Leafcoil",
+		"immaculatewarrant": "Immaculate Warrant",
+		"inspectorssacrificialknife": "Inspector's Sacrificial Knife",
+		"insulationpotion": "Insulation Potion",
+		"irontalismanoftheforestdew": "Iron Talisman of the Forest Dew",
+		"jadebranchofadistantsea": "Jade Branch of a Distant Sea",
+		"jeweledbranchofadistantsea": "Jeweled Branch of a Distant Sea",
+		"kageuchihandguard": "Kageuchi Handguard",
+		"leylinesprout": "Ley Lines Sprouts",
+		"lieutenantsinsignia": "Lieutenant's Insignia",
+		"locusofaclearwill": "Locus of a Clear Will",
+		"luminescentpollen": "Luminescent Pollen",
+		"lunarfin": "Lunar Fin",
+		"lustrousstonefromguyun": "Lustrous Stone from Guyun",
+		"markedshell": "Marked Shell",
+		"maskofthekijin": "Mask of the Kijin",
+		"maskoftheonehorned": "Mask of the One-Horned",
+		"maskofthetigersbite": "Mask of the Tiger's Bite",
+		"mechanicalspurgear": "Mechanical Spur Gear",
+		"mintessentialoil": "Minyak Mentol",
+		"mistgrass": "Mist Grass",
+		"mistgrasswick": "Mist Grass Wick",
+		"mistshroudhelmet": "Mistshroud Helmet",
+		"mistshroudplate": "Mistshroud Plate",
+		"mistveiledgoldelixir": "Mist Veiled Gold Elixir",
+		"mistveiledmercuryelixir": "Mist Veiled Mercury Elixir",
+		"mistveiledprimoelixir": "Mist Veiled Primo Elixir",
+		"movementofanancientchord": "Movement of an Ancient Chord",
+		"nagadusemeraldchunk": "Nagadus Emerald Chunk",
+		"nagadusemeraldfragment": "Nagadus Emerald Fragment",
+		"nagadusemeraldgemstone": "Nagadus Emerald Gemstone",
+		"namelesstaboomedicineoftheroyalcourt": "Obat Terlarang Tanpa Nama dari Kerajaan",
+		"narukamisaffection": "Narukami's Affection",
+		"narukamisjoy": "Narukami's Joy",
+		"narukamisvalor": "Narukami's Valor",
+		"newborntaintedhydrophantasm": "Newborn Tainted Hydro Phantasm",
+		"nightwindsmysticaugury": "Night-Wind's Mystic Augury",
+		"nightwindsmysticpremonition": "Night-Wind's Mystic Premonition",
+		"nightwindsmysticrevelation": "Night-Wind's Mystic Revelation",
+		"oasisgardenskindness": "Oasis Garden's Kindness",
+		"oasisgardensmourning": "Oasis Garden's Mourning",
+		"oasisgardenstruth": "Oasis Garden's Truth",
+		"oblationofthefarnorthscions": "Oblation of the Far-North Scions",
+		"oldendaysofscorchingmight": "Olden Days of Scorching Might",
+		"ominousmask": "Ominous Mask",
+		"operativesconstancy": "Operative's Constancy",
+		"operativesstandardpocketwatch": "Operative's Standard Pocket Watch",
+		"philosophiesofadmonition": "Philosophies of Admonition",
+		"philosophiesofballad": "Philosophies of Ballad",
+		"philosophiesofconflict": "Philosophies of Conflict",
+		"philosophiesofcontention": "Philosophies of Contention",
+		"philosophiesofdiligence": "Philosophies of Diligence",
+		"philosophiesofelegance": "Philosophies of Elegance",
+		"philosophiesofelysium": "Philosophies of Elysium",
+		"philosophiesofequity": "Philosophies of Equity",
+		"philosophiesoffreedom": "Philosophies of Freedom",
+		"philosophiesofgold": "Philosophies of Gold",
+		"philosophiesofingenuity": "Philosophies of Ingenuity",
+		"philosophiesofjustice": "Philosophies of Justice",
+		"philosophiesofkindling": "Philosophies of Kindling",
+		"philosophiesoflight": "Philosophies of Light",
+		"philosophiesofmoonlight": "Philosophies of Moonlight",
+		"philosophiesoforder": "Philosophies of Order",
+		"philosophiesofpraxis": "Philosophies of Praxis",
+		"philosophiesofprosperity": "Philosophies of Prosperity",
+		"philosophiesofresistance": "Philosophies of Resistance",
+		"philosophiesoftransience": "Philosophies of Transience",
+		"philosophiesofvagrancy": "Philosophies of Vagrancy",
+		"pieceofaerosiderite": "Piece of Aerosiderite",
+		"polarizingprism": "Polarizing Prism",
+		"portablewaypoint": "Portable Waypoint",
+		"precisiondriveshaft": "Precision Drive Shaft",
+		"prithivatopazchunk": "Prithiva Topaz Chunk",
+		"prithivatopazfragment": "Prithiva Topaz Fragment",
+		"prithivatopazgemstone": "Prithiva Topaz Gemstone",
+		"purewater": "\"Pure Water\"",
+		"pyroculusresonancestone": "Pyroculus Resonance Stone",
+		"radiantexoskeleton": "Radiant Exoskeleton",
+		"radiantprism": "Radiant Prism",
+		"reddye": "Red Dye",
+		"redrotbait": "Redrot Bait",
+		"refreshinglakkabait": "Refreshing Lakka Bait",
+		"reinforceddriveshaft": "Reinforced Drive Shaft",
+		"relicfromguyun": "Relic from Guyun",
+		"remnantglowofscorchingmight": "Remnant Glow of Scorching Might",
+		"richredbrocade": "Rich Red Brocade",
+		"robustfungalnucleus": "Robust Fungal Nucleus",
+		"sauriancrownedwarriorsgoldenwhistle": "Saurian-Crowned Warrior's Golden Whistle",
+		"scatteredpieceofdecarabiansdream": "Scattered Piece of Decarabian's Dream",
+		"scoopoftaintedwater": "Scoop of Tainted Water",
+		"sealedscroll": "Sealed Scroll",
+		"seasonedfang": "Seasoned Fang",
+		"sergeantsinsignia": "Sergeant's Insignia",
+		"shacklesofthedandeliongladiator": "Shackles of Dandelion Gladiator",
+		"sharparrowhead": "Sharp Arrowhead",
+		"sheathofthesecretsource": "Sheath of the Secret Source",
+		"shimmeringnectar": "Shimmering Nectar",
+		"shivadajadechunk": "Shivada Jade Chunk",
+		"shivadajadefragment": "Shivada Jade Fragment",
+		"shivadajadegemstone": "Shivada Jade Gemstone",
+		"shockingessentialoil": "Shocking Essential Oil",
+		"sigilofastridingwill": "Sigil of a Striding Will",
+		"silvergobletofthepristinesea": "Silver Goblet of the Pristine Sea",
+		"silverraveninsignia": "Silver Raven Insignia",
+		"silvertalismanoftheforestdew": "Silver Talisman of the Forest Dew",
+		"slimeconcentrate": "Slime Concentrate",
+		"slimesecretions": "Slime Secretions",
+		"sourbait": "Sour Bait",
+		"specialunmovingessentialoil": "Unmoving Essential Oil Khusus",
+		"spectralheart": "Spectral Heart",
+		"spectralnucleus": "Specter Nucleus",
+		"spinelgrainbait": "Spinelgrain Bait",
+		"splinteredhilt": "Splintered Hilt",
+		"springofpuresacreddewdrop": "Spring of Pure Sacred Dewdrop",
+		"stainedmask": "Stained Mask",
+		"stillsmolderinghilt": "Still-Smoldering Hilt",
+		"straightshooter": "Straight Shooter",
+		"streamingessentialoil": "Streaming Essential Oil",
+		"strengthtonic": "Strength Tonic",
+		"sturdyboneshard": "Sturdy Bone Shard",
+		"sturdyshell": "Sturdy Shell",
+		"sublimationofpuresacreddewdrop": "Sublimation of Pure Sacred Dewdrop",
+		"sugardewbait": "Sugardew Bait",
+		"transoceanicchunk": "Transoceanic Chunk",
+		"treasuredflower": "Treasured Flower",
+		"trimmedredsilk": "Trimmed Red Silk",
+		"turbidprism": "Turbid Prism",
+		"tyrantsfang": "Tyrant's Fang",
+		"unmovingessentialoil": "Unmoving Essential Oil",
+		"unyieldingdelusionofthefarnorthscions": "Unyielding Delusion of the Far-North Scions",
+		"vajradaamethystchunk": "Vajrada Amethyst Chunk",
+		"vajradaamethystfragment": "Vajrada Amethyst Fragment",
+		"vajradaamethystgemstone": "Vajrada Amethyst Gemstone",
+		"valleyweaveressentialoil": "Minyak Esensial dari Bunga Penenun Lembah",
+		"varunadalazuritechunk": "Varunada Lazurite Chunk",
+		"varunadalazuritefragment": "Varunada Lazurite Fragment",
+		"varunadalazuritegemstone": "Varunada Lazurite Gemstone",
+		"vayudaturquoisechunk": "Vayuda Turquoise Chunk",
+		"vayudaturquoisefragment": "Vayuda Turquoise Fragment",
+		"vayudaturquoisegemstone": "Vayuda Turquoise Gemstone",
+		"wanderersbloomingflower": "Wanderer's Blooming Flower",
+		"warmbackshell": "Warm Back-Shell",
+		"warriorsmetalwhistle": "Warrior's Metal Whistle",
+		"weatheredarrowhead": "Weathered Arrowhead",
+		"windbarrierpotion": "Windbarrier Potion",
+		"winegobletofthepristinesea": "Wine Goblet of the Pristine Sea",
+		"xenochromaticcrystal": "Xenochromatic Crystal",
+		"xiaolantern": "Lentera Xiao",
+		"yellowdye": "Yellow Dye"
+	},
+	"names": {
+		"Aberrant Core of the Deep Shadow": "aberrantcoreofthedeepshadow",
+		"Afterglow of Long Night Flint": "afterglowoflongnightflint",
+		"Agent's Sacrificial Knife": "agentssacrificialknife",
+		"Agnidus Agate Chunk": "agnidusagatechunk",
+		"Agnidus Agate Fragment": "agnidusagatefragment",
+		"Agnidus Agate Gemstone": "agnidusagategemstone",
+		"Alien Life Core": "alienlifecore",
+		"Anemoculus Resonance Stone": "anemoculusresonancestone",
+		"Artful Device Inheritance": "artfuldeviceinheritance",
+		"Artful Device Replica": "artfuldevicereplica",
+		"Artful Device Wish": "artfuldevicewish",
+		"Artificed Dynamic Gear": "artificeddynamicgear",
+		"Aureate Radiance of the Far-North Scions": "aureateradianceofthefarnorthscions",
+		"Berry Bait": "berrybait",
+		"Bewildering Broadleaf": "bewilderingbroadleaf",
+		"Bit of Aerosiderite": "bitofaerosiderite",
+		"Black Bronze Horn": "blackbronzehorn",
+		"Black Crystal Horn": "blackcrystalhorn",
+		"Blaze of Long Night Flint": "blazeoflongnightflint",
+		"Blazing Prismshell": "blazingprismshell",
+		"Blazing Sacrificial Heart's Hesitance": "blazingsacrificialheartshesitance",
+		"Blazing Sacrificial Heart's Resolve": "blazingsacrificialheartsresolve",
+		"Blazing Sacrificial Heart's Splendor": "blazingsacrificialheartssplendor",
+		"Blue Dye": "bluedye",
+		"Boreal Wolf's Broken Fang": "borealwolfsbrokenfang",
+		"Boreal Wolf's Cracked Tooth": "borealwolfscrackedtooth",
+		"Boreal Wolf's Nostalgia": "borealwolfsnostalgia",
+		"Chains of Dandelion Gladiator": "chainsofthedandeliongladiator",
+		"Chaos Axis": "chaosaxis",
+		"Chaos Bolt": "chaosbolt",
+		"Chaos Circuit": "chaoscircuit",
+		"Chaos Core": "chaoscore",
+		"Chaos Module": "chaosmodule",
+		"Chaos Oculus": "chaosoculus",
+		"Chapter of an Ancient Chord": "chapterofanancientchord",
+		"Chasmlight Fin": "chasmlightfin",
+		"Chunk of Aerosiderite": "chunkofaerosiderite",
+		"Concealed Talon": "concealedtalon",
+		"Concealed Unguis": "concealedunguis",
+		"Condensed Resin": "condensedresin",
+		"Crystalline Cyst Dust": "crystallinecystdust",
+		"Crystal Prism": "crystalprism",
+		"Dark Statuette": "darkstatuette",
+		"Dead Ley Line Leaves": "deadleylineleaves",
+		"Deathly Statuette": "deathlystatuette",
+		"Debris of Decarabian's City": "debrisofdecarabianscity",
+		"Delirious Demeanor of the Sacred Lord": "deliriousdemeanorofthesacredlord",
+		"Delirious Desolution of the Sacred Lord": "deliriousdesolationofthesacredlord",
+		"Delirious Divinity of the Sacred Lord": "deliriousdivinityofthesacredlord",
+		"Dendrocide Potion": "dendrocidepotion",
+		"Dendroculus Resonance Stone": "dendroculusresonancestone",
+		"Desiccant Potion": "desiccantpotion",
+		"Divine Body from Guyun": "divinebodyfromguyun",
+		"Dormant Fungal Nucleus": "dormantfungalnucleus",
+		"Dream of Scorching Might": "dreamofscorchingmight",
+		"Dream of the Dandelion Gladiator": "dreamofthedandeliongladiator",
+		"Dustproof Potion": "dustproofpotion",
+		"Echo of Ancient Chord": "echoofanancientchord",
+		"Electroculus Resonance Stone": "electroculusresonancestone",
+		"Emberglow Bait": "emberglowbait",
+		"Energy Nectar": "energynectar",
+		"Essense of Pure Sacred Dewdrop": "essenceofpuresacreddewdrop",
+		"Fabric": "fabric",
+		"Fake Fly Bait": "fakeflybait",
+		"False Worm Bait": "falsewormbait",
+		"Famed Handguard": "famedhandguard",
+		"Minyak Esensial dari Bunga Kerinduan Takdir": "fatesyearningessentialoil",
+		"Flaming Essential Oil": "flamingessentialoil",
+		"Flare of Long Night Flint": "flareoflongnightflint",
+		"Flashing Maintenance Mek Bait": "flashingmaintenancemekbait",
+		"Floaty Splody": "floatysplody",
+		"Forbidden Curse Scroll": "forbiddencursescroll",
+		"Foreign Synapse": "foreignsynapse",
+		"Forest Essential Oil": "forestessentialoil",
+		"Fossilized Bone Shard": "fossilizedboneshard",
+		"Fragment of Decarabian's Epic": "fragmentofdecarabiansepic",
+		"Frost-Etched Warrant": "frostetchedwarrant",
+		"Frosting Essential Oil": "frostingessentialoil",
+		"Frostnight's Glory": "frostnightsglory",
+		"Frostnight's Glow": "frostnightsglow",
+		"Frostshield Potion": "frostshieldpotion",
+		"Fruit Paste Bait": "fruitpastebait",
+		"Geoculus Resonance Stone": "geoculusresonancestone",
+		"Glowing Remains": "glowingremains",
+		"Golden Branch of a Distant Sea": "goldenbranchofadistantsea",
+		"Golden Goblet of the Pristine Sea": "goldengobletofthepristinesea",
+		"Minyak Esensial dari Bunga Gadis Rumah Emas": "goldenhousemaidenessentialoil",
+		"Golden Raven Insignia": "goldenraveninsignia",
+		"Golden Talisman of the Forest Dew": "goldentalismanoftheforestdew",
+		"Guide to Admonition": "guidetoadmonition",
+		"Guide to Ballad": "guidetoballad",
+		"Guide to Conflict": "guidetoconflict",
+		"Guide to Contention": "guidetocontention",
+		"Guide to Diligence": "guidetodiligence",
+		"Guide to Elegance": "guidetoelegance",
+		"Guide to Elysium": "guidetoelysium",
+		"Guide to Equity": "guidetoequity",
+		"Guide to Freedom": "guidetofreedom",
+		"Guide to Gold": "guidetogold",
+		"Guide to Ingenuity": "guidetoingenuity",
+		"Guide to Justice": "guidetojustice",
+		"Guide to Kindling": "guidetokindling",
+		"Guide to Light": "guidetolight",
+		"Guide to Moonlight": "guidetomoonlight",
+		"Guide to Order": "guidetoorder",
+		"Guide to Praxis": "guidetopraxis",
+		"Guide to Prosperity": "guidetoprosperity",
+		"Guide to Resistance": "guidetoresistance",
+		"Guide to Transience": "guidetotransience",
+		"Guide to Vagrancy": "guidetovagrancy",
+		"Gushing Essential Oil": "gushingessentialoil",
+		"Heart of the Secret Source": "heartofthesecretsource",
+		"Heatshield Potion": "heatshieldpotion",
+		"Hooked Beak of the Deep Shadow": "hookedbeakofthedeepshadow",
+		"Hot Pod": "hotpod",
+		"Hydroculus Resonance Stone": "hydroculusresonancestone",
+		"Ignited Seed of Life": "ignitedseedoflife",
+		"Ignited Seeing Eye": "ignitedseeingeye",
+		"Illusory Leafcoil": "illusoryleafcoil",
+		"Immaculate Warrant": "immaculatewarrant",
+		"Inspector's Sacrificial Knife": "inspectorssacrificialknife",
+		"Insulation Potion": "insulationpotion",
+		"Iron Talisman of the Forest Dew": "irontalismanoftheforestdew",
+		"Jade Branch of a Distant Sea": "jadebranchofadistantsea",
+		"Jeweled Branch of a Distant Sea": "jeweledbranchofadistantsea",
+		"Kageuchi Handguard": "kageuchihandguard",
+		"Ley Lines Sprouts": "leylinesprout",
+		"Lieutenant's Insignia": "lieutenantsinsignia",
+		"Locus of a Clear Will": "locusofaclearwill",
+		"Luminescent Pollen": "luminescentpollen",
+		"Lunar Fin": "lunarfin",
+		"Lustrous Stone from Guyun": "lustrousstonefromguyun",
+		"Marked Shell": "markedshell",
+		"Mask of the Kijin": "maskofthekijin",
+		"Mask of the One-Horned": "maskoftheonehorned",
+		"Mask of the Tiger's Bite": "maskofthetigersbite",
+		"Mechanical Spur Gear": "mechanicalspurgear",
+		"Minyak Mentol": "mintessentialoil",
+		"Mist Grass": "mistgrass",
+		"Mist Grass Wick": "mistgrasswick",
+		"Mistshroud Helmet": "mistshroudhelmet",
+		"Mistshroud Plate": "mistshroudplate",
+		"Mist Veiled Gold Elixir": "mistveiledgoldelixir",
+		"Mist Veiled Mercury Elixir": "mistveiledmercuryelixir",
+		"Mist Veiled Primo Elixir": "mistveiledprimoelixir",
+		"Movement of an Ancient Chord": "movementofanancientchord",
+		"Nagadus Emerald Chunk": "nagadusemeraldchunk",
+		"Nagadus Emerald Fragment": "nagadusemeraldfragment",
+		"Nagadus Emerald Gemstone": "nagadusemeraldgemstone",
+		"Obat Terlarang Tanpa Nama dari Kerajaan": "namelesstaboomedicineoftheroyalcourt",
+		"Narukami's Affection": "narukamisaffection",
+		"Narukami's Joy": "narukamisjoy",
+		"Narukami's Valor": "narukamisvalor",
+		"Newborn Tainted Hydro Phantasm": "newborntaintedhydrophantasm",
+		"Night-Wind's Mystic Augury": "nightwindsmysticaugury",
+		"Night-Wind's Mystic Premonition": "nightwindsmysticpremonition",
+		"Night-Wind's Mystic Revelation": "nightwindsmysticrevelation",
+		"Oasis Garden's Kindness": "oasisgardenskindness",
+		"Oasis Garden's Mourning": "oasisgardensmourning",
+		"Oasis Garden's Truth": "oasisgardenstruth",
+		"Oblation of the Far-North Scions": "oblationofthefarnorthscions",
+		"Olden Days of Scorching Might": "oldendaysofscorchingmight",
+		"Ominous Mask": "ominousmask",
+		"Operative's Constancy": "operativesconstancy",
+		"Operative's Standard Pocket Watch": "operativesstandardpocketwatch",
+		"Philosophies of Admonition": "philosophiesofadmonition",
+		"Philosophies of Ballad": "philosophiesofballad",
+		"Philosophies of Conflict": "philosophiesofconflict",
+		"Philosophies of Contention": "philosophiesofcontention",
+		"Philosophies of Diligence": "philosophiesofdiligence",
+		"Philosophies of Elegance": "philosophiesofelegance",
+		"Philosophies of Elysium": "philosophiesofelysium",
+		"Philosophies of Equity": "philosophiesofequity",
+		"Philosophies of Freedom": "philosophiesoffreedom",
+		"Philosophies of Gold": "philosophiesofgold",
+		"Philosophies of Ingenuity": "philosophiesofingenuity",
+		"Philosophies of Justice": "philosophiesofjustice",
+		"Philosophies of Kindling": "philosophiesofkindling",
+		"Philosophies of Light": "philosophiesoflight",
+		"Philosophies of Moonlight": "philosophiesofmoonlight",
+		"Philosophies of Order": "philosophiesoforder",
+		"Philosophies of Praxis": "philosophiesofpraxis",
+		"Philosophies of Prosperity": "philosophiesofprosperity",
+		"Philosophies of Resistance": "philosophiesofresistance",
+		"Philosophies of Transience": "philosophiesoftransience",
+		"Philosophies of Vagrancy": "philosophiesofvagrancy",
+		"Piece of Aerosiderite": "pieceofaerosiderite",
+		"Polarizing Prism": "polarizingprism",
+		"Portable Waypoint": "portablewaypoint",
+		"Precision Drive Shaft": "precisiondriveshaft",
+		"Prithiva Topaz Chunk": "prithivatopazchunk",
+		"Prithiva Topaz Fragment": "prithivatopazfragment",
+		"Prithiva Topaz Gemstone": "prithivatopazgemstone",
+		"\"Pure Water\"": "purewater",
+		"Pyroculus Resonance Stone": "pyroculusresonancestone",
+		"Radiant Exoskeleton": "radiantexoskeleton",
+		"Radiant Prism": "radiantprism",
+		"Red Dye": "reddye",
+		"Redrot Bait": "redrotbait",
+		"Refreshing Lakka Bait": "refreshinglakkabait",
+		"Reinforced Drive Shaft": "reinforceddriveshaft",
+		"Relic from Guyun": "relicfromguyun",
+		"Remnant Glow of Scorching Might": "remnantglowofscorchingmight",
+		"Rich Red Brocade": "richredbrocade",
+		"Robust Fungal Nucleus": "robustfungalnucleus",
+		"Saurian-Crowned Warrior's Golden Whistle": "sauriancrownedwarriorsgoldenwhistle",
+		"Scattered Piece of Decarabian's Dream": "scatteredpieceofdecarabiansdream",
+		"Scoop of Tainted Water": "scoopoftaintedwater",
+		"Sealed Scroll": "sealedscroll",
+		"Seasoned Fang": "seasonedfang",
+		"Sergeant's Insignia": "sergeantsinsignia",
+		"Shackles of Dandelion Gladiator": "shacklesofthedandeliongladiator",
+		"Sharp Arrowhead": "sharparrowhead",
+		"Sheath of the Secret Source": "sheathofthesecretsource",
+		"Shimmering Nectar": "shimmeringnectar",
+		"Shivada Jade Chunk": "shivadajadechunk",
+		"Shivada Jade Fragment": "shivadajadefragment",
+		"Shivada Jade Gemstone": "shivadajadegemstone",
+		"Shocking Essential Oil": "shockingessentialoil",
+		"Sigil of a Striding Will": "sigilofastridingwill",
+		"Silver Goblet of the Pristine Sea": "silvergobletofthepristinesea",
+		"Silver Raven Insignia": "silverraveninsignia",
+		"Silver Talisman of the Forest Dew": "silvertalismanoftheforestdew",
+		"Slime Concentrate": "slimeconcentrate",
+		"Slime Secretions": "slimesecretions",
+		"Sour Bait": "sourbait",
+		"Unmoving Essential Oil Khusus": "specialunmovingessentialoil",
+		"Spectral Heart": "spectralheart",
+		"Specter Nucleus": "spectralnucleus",
+		"Spinelgrain Bait": "spinelgrainbait",
+		"Splintered Hilt": "splinteredhilt",
+		"Spring of Pure Sacred Dewdrop": "springofpuresacreddewdrop",
+		"Stained Mask": "stainedmask",
+		"Still-Smoldering Hilt": "stillsmolderinghilt",
+		"Straight Shooter": "straightshooter",
+		"Streaming Essential Oil": "streamingessentialoil",
+		"Strength Tonic": "strengthtonic",
+		"Sturdy Bone Shard": "sturdyboneshard",
+		"Sturdy Shell": "sturdyshell",
+		"Sublimation of Pure Sacred Dewdrop": "sublimationofpuresacreddewdrop",
+		"Sugardew Bait": "sugardewbait",
+		"Transoceanic Chunk": "transoceanicchunk",
+		"Treasured Flower": "treasuredflower",
+		"Trimmed Red Silk": "trimmedredsilk",
+		"Turbid Prism": "turbidprism",
+		"Tyrant's Fang": "tyrantsfang",
+		"Unmoving Essential Oil": "unmovingessentialoil",
+		"Unyielding Delusion of the Far-North Scions": "unyieldingdelusionofthefarnorthscions",
+		"Vajrada Amethyst Chunk": "vajradaamethystchunk",
+		"Vajrada Amethyst Fragment": "vajradaamethystfragment",
+		"Vajrada Amethyst Gemstone": "vajradaamethystgemstone",
+		"Minyak Esensial dari Bunga Penenun Lembah": "valleyweaveressentialoil",
+		"Varunada Lazurite Chunk": "varunadalazuritechunk",
+		"Varunada Lazurite Fragment": "varunadalazuritefragment",
+		"Varunada Lazurite Gemstone": "varunadalazuritegemstone",
+		"Vayuda Turquoise Chunk": "vayudaturquoisechunk",
+		"Vayuda Turquoise Fragment": "vayudaturquoisefragment",
+		"Vayuda Turquoise Gemstone": "vayudaturquoisegemstone",
+		"Wanderer's Blooming Flower": "wanderersbloomingflower",
+		"Warm Back-Shell": "warmbackshell",
+		"Warrior's Metal Whistle": "warriorsmetalwhistle",
+		"Weathered Arrowhead": "weatheredarrowhead",
+		"Windbarrier Potion": "windbarrierpotion",
+		"Wine Goblet of the Pristine Sea": "winegobletofthepristinesea",
+		"Xenochromatic Crystal": "xenochromaticcrystal",
+		"Lentera Xiao": "xiaolantern",
+		"Yellow Dye": "yellowdye"
+	},
+	"aliases": {},
+	"categories": {
+		"Material Penguatan Karakter dan Senjata": [
+			"aberrantcoreofthedeepshadow",
+			"agentssacrificialknife",
+			"bewilderingbroadleaf",
+			"blackbronzehorn",
+			"blackcrystalhorn",
+			"blazingprismshell",
+			"chaosaxis",
+			"chaosbolt",
+			"chaoscircuit",
+			"chaoscore",
+			"chaosmodule",
+			"chaosoculus",
+			"concealedtalon",
+			"concealedunguis",
+			"crystallinecystdust",
+			"crystalprism",
+			"darkstatuette",
+			"deadleylineleaves",
+			"deathlystatuette",
+			"dormantfungalnucleus",
+			"energynectar",
+			"famedhandguard",
+			"forbiddencursescroll",
+			"fossilizedboneshard",
+			"frostetchedwarrant",
+			"frostnightsglory",
+			"frostnightsglow",
+			"glowingremains",
+			"goldenraveninsignia",
+			"heartofthesecretsource",
+			"hookedbeakofthedeepshadow",
+			"ignitedseedoflife",
+			"ignitedseeingeye",
+			"illusoryleafcoil",
+			"immaculatewarrant",
+			"inspectorssacrificialknife",
+			"kageuchihandguard",
+			"leylinesprout",
+			"lieutenantsinsignia",
+			"locusofaclearwill",
+			"luminescentpollen",
+			"markedshell",
+			"mistgrass",
+			"mistgrasswick",
+			"mistshroudhelmet",
+			"mistshroudplate",
+			"ominousmask",
+			"polarizingprism",
+			"precisiondriveshaft",
+			"radiantexoskeleton",
+			"reinforceddriveshaft",
+			"richredbrocade",
+			"robustfungalnucleus",
+			"sauriancrownedwarriorsgoldenwhistle",
+			"sealedscroll",
+			"seasonedfang",
+			"sergeantsinsignia",
+			"sharparrowhead",
+			"sheathofthesecretsource",
+			"shimmeringnectar",
+			"sigilofastridingwill",
+			"silverraveninsignia",
+			"slimeconcentrate",
+			"slimesecretions",
+			"spectralheart",
+			"spectralnucleus",
+			"splinteredhilt",
+			"stainedmask",
+			"stillsmolderinghilt",
+			"sturdyboneshard",
+			"sturdyshell",
+			"trimmedredsilk",
+			"tyrantsfang",
+			"warmbackshell",
+			"warriorsmetalwhistle",
+			"weatheredarrowhead"
+		],
+		"Fractured Eye of the Deep Shadow": [
+			"aberrantcoreofthedeepshadow"
+		],
+		"Material Ascension Senjata": [
+			"afterglowoflongnightflint",
+			"artfuldeviceinheritance",
+			"artfuldevicereplica",
+			"artfuldevicewish",
+			"aureateradianceofthefarnorthscions",
+			"bitofaerosiderite",
+			"blazeoflongnightflint",
+			"blazingsacrificialheartshesitance",
+			"blazingsacrificialheartsresolve",
+			"blazingsacrificialheartssplendor",
+			"borealwolfsbrokenfang",
+			"borealwolfscrackedtooth",
+			"borealwolfsnostalgia",
+			"chainsofthedandeliongladiator",
+			"chapterofanancientchord",
+			"chunkofaerosiderite",
+			"debrisofdecarabianscity",
+			"deliriousdemeanorofthesacredlord",
+			"deliriousdesolationofthesacredlord",
+			"deliriousdivinityofthesacredlord",
+			"divinebodyfromguyun",
+			"dreamofscorchingmight",
+			"dreamofthedandeliongladiator",
+			"echoofanancientchord",
+			"essenceofpuresacreddewdrop",
+			"flareoflongnightflint",
+			"fragmentofdecarabiansepic",
+			"goldenbranchofadistantsea",
+			"goldengobletofthepristinesea",
+			"goldentalismanoftheforestdew",
+			"irontalismanoftheforestdew",
+			"jadebranchofadistantsea",
+			"jeweledbranchofadistantsea",
+			"lustrousstonefromguyun",
+			"maskofthekijin",
+			"maskoftheonehorned",
+			"maskofthetigersbite",
+			"mistveiledgoldelixir",
+			"mistveiledmercuryelixir",
+			"mistveiledprimoelixir",
+			"movementofanancientchord",
+			"narukamisaffection",
+			"narukamisjoy",
+			"narukamisvalor",
+			"nightwindsmysticaugury",
+			"nightwindsmysticpremonition",
+			"nightwindsmysticrevelation",
+			"oasisgardenskindness",
+			"oasisgardensmourning",
+			"oasisgardenstruth",
+			"oblationofthefarnorthscions",
+			"oldendaysofscorchingmight",
+			"pieceofaerosiderite",
+			"relicfromguyun",
+			"remnantglowofscorchingmight",
+			"scatteredpieceofdecarabiansdream",
+			"shacklesofthedandeliongladiator",
+			"silvergobletofthepristinesea",
+			"silvertalismanoftheforestdew",
+			"springofpuresacreddewdrop",
+			"sublimationofpuresacreddewdrop",
+			"unyieldingdelusionofthefarnorthscions",
+			"winegobletofthepristinesea"
+		],
+		"Ember of Long Night Flint": [
+			"afterglowoflongnightflint"
+		],
+		"Hunter's Sacrificial Knife": [
+			"agentssacrificialknife"
+		],
+		"Material Ascension Karakter": [
+			"agnidusagatechunk",
+			"agnidusagatefragment",
+			"agnidusagategemstone",
+			"nagadusemeraldchunk",
+			"nagadusemeraldfragment",
+			"nagadusemeraldgemstone",
+			"prithivatopazchunk",
+			"prithivatopazfragment",
+			"prithivatopazgemstone",
+			"shivadajadechunk",
+			"shivadajadefragment",
+			"shivadajadegemstone",
+			"vajradaamethystchunk",
+			"vajradaamethystfragment",
+			"vajradaamethystgemstone",
+			"varunadalazuritechunk",
+			"varunadalazuritefragment",
+			"varunadalazuritegemstone",
+			"vayudaturquoisechunk",
+			"vayudaturquoisefragment",
+			"vayudaturquoisegemstone"
+		],
+		"Agnidus Agate Fragment": [
+			"agnidusagatechunk"
+		],
+		"Agnidus Agate Sliver": [
+			"agnidusagatefragment"
+		],
+		"Agnidus Agate Chunk": [
+			"agnidusagategemstone"
+		],
+		"Material Penguatan Senjata dan Karakter": [
+			"alienlifecore",
+			"artificeddynamicgear",
+			"chasmlightfin",
+			"foreignsynapse",
+			"lunarfin",
+			"mechanicalspurgear",
+			"newborntaintedhydrophantasm",
+			"operativesconstancy",
+			"operativesstandardpocketwatch",
+			"radiantprism",
+			"scoopoftaintedwater",
+			"transoceanicchunk",
+			"treasuredflower",
+			"turbidprism",
+			"wanderersbloomingflower",
+			"xenochromaticcrystal"
+		],
+		"Foreign Synapse": [
+			"alienlifecore"
+		],
+		"Konsumsi": [
+			"anemoculusresonancestone",
+			"condensedresin",
+			"dendroculusresonancestone",
+			"electroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Dandelion Seed": [
+			"anemoculusresonancestone",
+			"gushingessentialoil",
+			"windbarrierpotion"
+		],
+		"Cecilia": [
+			"anemoculusresonancestone"
+		],
+		"Crystal Chunk": [
+			"anemoculusresonancestone",
+			"dendroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Artful Device Replica": [
+			"artfuldeviceinheritance"
+		],
+		"Artful Device Fragment": [
+			"artfuldevicereplica"
+		],
+		"Artful Device Inheritance": [
+			"artfuldevicewish"
+		],
+		"Mechanical Spur Gear": [
+			"artificeddynamicgear"
+		],
+		"Oblation of the Far-North Scions": [
+			"aureateradianceofthefarnorthscions"
+		],
+		"Umpan Ikan": [
+			"berrybait",
+			"emberglowbait",
+			"fakeflybait",
+			"falsewormbait",
+			"flashingmaintenancemekbait",
+			"fruitpastebait",
+			"redrotbait",
+			"refreshinglakkabait",
+			"sourbait",
+			"spinelgrainbait",
+			"sugardewbait"
+		],
+		"Midsommar Berry": [
+			"berrybait"
+		],
+		"Flour": [
+			"berrybait"
+		],
+		"Refractive Bud": [
+			"bewilderingbroadleaf"
+		],
+		"Piece of Aerosiderite": [
+			"bitofaerosiderite"
+		],
+		"Heavy Horn": [
+			"blackbronzehorn"
+		],
+		"Black Bronze Horn": [
+			"blackcrystalhorn"
+		],
+		"Flare of Long Night Flint": [
+			"blazeoflongnightflint"
+		],
+		"Warm Back-Shell": [
+			"blazingprismshell"
+		],
+		"Blazing Sacrificial Heart's Terror": [
+			"blazingsacrificialheartshesitance"
+		],
+		"Blazing Sacrificial Heart's Hesitance": [
+			"blazingsacrificialheartsresolve"
+		],
+		"Blazing Sacrificial Heart's Resolve": [
+			"blazingsacrificialheartssplendor"
+		],
+		"Material Pembuatan Perabot": [
+			"bluedye",
+			"fabric",
+			"reddye",
+			"yellowdye"
+		],
+		"Mint": [
+			"bluedye",
+			"mintessentialoil",
+			"refreshinglakkabait"
+		],
+		"Wolfhook": [
+			"bluedye"
+		],
+		"Fluorescent Fungus": [
+			"bluedye"
+		],
+		"Tidalga": [
+			"bluedye",
+			"purewater"
+		],
+		"Quenepa Berry": [
+			"bluedye",
+			"pyroculusresonancestone"
+		],
+		"Boreal Wolf's Cracked Tooth": [
+			"borealwolfsbrokenfang"
+		],
+		"Boreal Wolf's Milk Tooth": [
+			"borealwolfscrackedtooth"
+		],
+		"Boreal Wolf's Broken Fang": [
+			"borealwolfsnostalgia"
+		],
+		"Fetters of the Dandelion Gladiator": [
+			"chainsofthedandeliongladiator"
+		],
+		"Chaos Gear": [
+			"chaosaxis"
+		],
+		"Chaos Module": [
+			"chaosbolt"
+		],
+		"Chaos Device": [
+			"chaoscircuit"
+		],
+		"Chaos Circuit": [
+			"chaoscore"
+		],
+		"Chaos Storage": [
+			"chaosmodule"
+		],
+		"Chaos Axis": [
+			"chaosoculus"
+		],
+		"Fragment of an Ancient Chord": [
+			"chapterofanancientchord"
+		],
+		"Lunar Fin": [
+			"chasmlightfin"
+		],
+		"Bit of Aerosiderite": [
+			"chunkofaerosiderite"
+		],
+		"Concealed Unguis": [
+			"concealedtalon"
+		],
+		"Concealed Claw": [
+			"concealedunguis"
+		],
+		"Crystal Core": [
+			"condensedresin",
+			"dendrocidepotion",
+			"frostshieldpotion",
+			"windbarrierpotion"
+		],
+		"Original Resin": [
+			"condensedresin"
+		],
+		"Luminescent Pollen": [
+			"crystallinecystdust"
+		],
+		"Dismal Prism": [
+			"crystalprism"
+		],
+		"Gloomy Statuette": [
+			"darkstatuette"
+		],
+		"Dead Ley Line Branches": [
+			"deadleylineleaves"
+		],
+		"Dark Statuette": [
+			"deathlystatuette"
+		],
+		"Tile of Decarabian's Tower": [
+			"debrisofdecarabianscity"
+		],
+		"Delirious Desolution of the Sacred Lord": [
+			"deliriousdemeanorofthesacredlord"
+		],
+		"Delirious Decadence of the Sacred Lord": [
+			"deliriousdesolationofthesacredlord"
+		],
+		"Delirious Demeanor of the Sacred Lord": [
+			"deliriousdivinityofthesacredlord"
+		],
+		"Potion": [
+			"dendrocidepotion",
+			"desiccantpotion",
+			"dustproofpotion",
+			"flamingessentialoil",
+			"forestessentialoil",
+			"frostingessentialoil",
+			"frostshieldpotion",
+			"gushingessentialoil",
+			"heatshieldpotion",
+			"insulationpotion",
+			"shockingessentialoil",
+			"streamingessentialoil",
+			"unmovingessentialoil",
+			"windbarrierpotion"
+		],
+		"Sumeru Rose": [
+			"dendrocidepotion",
+			"forestessentialoil",
+			"namelesstaboomedicineoftheroyalcourt",
+			"sugardewbait"
+		],
+		"Nilotpala Lotus": [
+			"dendroculusresonancestone"
+		],
+		"Rukkhashava Mushroom": [
+			"dendroculusresonancestone"
+		],
+		"Butterfly Wings": [
+			"desiccantpotion",
+			"dustproofpotion",
+			"heatshieldpotion",
+			"insulationpotion"
+		],
+		"Lotus Head": [
+			"desiccantpotion",
+			"streamingessentialoil"
+		],
+		"Relic from Guyun": [
+			"divinebodyfromguyun"
+		],
+		"Inactivated Fungal Nucleus": [
+			"dormantfungalnucleus"
+		],
+		"Remnant Glow of Scorching Might": [
+			"dreamofscorchingmight"
+		],
+		"Shackles of Dandelion Gladiator": [
+			"dreamofthedandeliongladiator"
+		],
+		"Cor Lapis": [
+			"dustproofpotion",
+			"geoculusresonancestone",
+			"specialunmovingessentialoil",
+			"unmovingessentialoil",
+			"yellowdye"
+		],
+		"Movement of an Ancient Chord": [
+			"echoofanancientchord"
+		],
+		"Naku Weed": [
+			"electroculusresonancestone"
+		],
+		"Sakura Bloom": [
+			"electroculusresonancestone",
+			"fakeflybait"
+		],
+		"Amethyst Lump": [
+			"electroculusresonancestone"
+		],
+		"Embercore Flower": [
+			"emberglowbait",
+			"reddye"
+		],
+		"Wheat": [
+			"emberglowbait",
+			"fruitpastebait",
+			"purewater",
+			"sourbait"
+		],
+		"Shimmering Nectar": [
+			"energynectar"
+		],
+		"Spring of Pure Sacred Dewdrop": [
+			"essenceofpuresacreddewdrop"
+		],
+		"Silk Flower": [
+			"fabric"
+		],
+		"Horsetail": [
+			"fakeflybait"
+		],
+		"Slime Condensate": [
+			"falsewormbait",
+			"slimesecretions"
+		],
+		"Berry": [
+			"falsewormbait",
+			"yellowdye"
+		],
+		"Kageuchi Handguard": [
+			"famedhandguard"
+		],
+		"Kerinduan Takdir": [
+			"fatesyearningessentialoil"
+		],
+		"Frog": [
+			"flamingessentialoil",
+			"shockingessentialoil",
+			"specialunmovingessentialoil",
+			"straightshooter",
+			"streamingessentialoil",
+			"unmovingessentialoil"
+		],
+		"Flaming Flower Stamen": [
+			"flamingessentialoil",
+			"floatysplody",
+			"heatshieldpotion",
+			"hotpod",
+			"straightshooter"
+		],
+		"Afterglow of Long Night Flint": [
+			"flareoflongnightflint"
+		],
+		"Marcotte": [
+			"flashingmaintenancemekbait",
+			"yellowdye"
+		],
+		"Iron Chunk": [
+			"flashingmaintenancemekbait"
+		],
+		"Luminescent Spine": [
+			"floatysplody",
+			"portablewaypoint"
+		],
+		"Sealed Scroll": [
+			"forbiddencursescroll"
+		],
+		"Rift Core": [
+			"foreignsynapse"
+		],
+		"Lizard Tail": [
+			"forestessentialoil",
+			"frostingessentialoil",
+			"gushingessentialoil",
+			"hotpod"
+		],
+		"Sturdy Bone Shard": [
+			"fossilizedboneshard"
+		],
+		"Debris of Decarabian's City": [
+			"fragmentofdecarabiansepic"
+		],
+		"Immaculate Warrant": [
+			"frostetchedwarrant"
+		],
+		"Mist Flower Corolla": [
+			"frostingessentialoil",
+			"frostshieldpotion"
+		],
+		"Frostnight's Glow": [
+			"frostnightsglory"
+		],
+		"Frostnight's Glimmer": [
+			"frostnightsglow"
+		],
+		"Sunsettia": [
+			"fruitpastebait",
+			"reddye"
+		],
+		"Glaze Lily": [
+			"geoculusresonancestone"
+		],
+		"Lightless Bone": [
+			"glowingremains"
+		],
+		"Jade Branch of a Distant Sea": [
+			"goldenbranchofadistantsea"
+		],
+		"Silver Goblet of the Pristine Sea": [
+			"goldengobletofthepristinesea"
+		],
+		"Gadis Rumah Emas": [
+			"goldenhousemaidenessentialoil"
+		],
+		"Silver Raven Insignia": [
+			"goldenraveninsignia"
+		],
+		"Silver Talisman of the Forest Dew": [
+			"goldentalismanoftheforestdew"
+		],
+		"Material Talenta Karakter": [
+			"guidetoadmonition",
+			"guidetoballad",
+			"guidetoconflict",
+			"guidetocontention",
+			"guidetodiligence",
+			"guidetoelegance",
+			"guidetoelysium",
+			"guidetoequity",
+			"guidetofreedom",
+			"guidetogold",
+			"guidetoingenuity",
+			"guidetojustice",
+			"guidetokindling",
+			"guidetolight",
+			"guidetomoonlight",
+			"guidetoorder",
+			"guidetopraxis",
+			"guidetoprosperity",
+			"guidetoresistance",
+			"guidetotransience",
+			"guidetovagrancy",
+			"philosophiesofadmonition",
+			"philosophiesofballad",
+			"philosophiesofconflict",
+			"philosophiesofcontention",
+			"philosophiesofdiligence",
+			"philosophiesofelegance",
+			"philosophiesofelysium",
+			"philosophiesofequity",
+			"philosophiesoffreedom",
+			"philosophiesofgold",
+			"philosophiesofingenuity",
+			"philosophiesofjustice",
+			"philosophiesofkindling",
+			"philosophiesoflight",
+			"philosophiesofmoonlight",
+			"philosophiesoforder",
+			"philosophiesofpraxis",
+			"philosophiesofprosperity",
+			"philosophiesofresistance",
+			"philosophiesoftransience",
+			"philosophiesofvagrancy"
+		],
+		"Teachings of Admonition": [
+			"guidetoadmonition"
+		],
+		"Teachings of Ballad": [
+			"guidetoballad"
+		],
+		"Teachings of Conflict": [
+			"guidetoconflict"
+		],
+		"Teachings of Contention": [
+			"guidetocontention"
+		],
+		"Teachings of Diligence": [
+			"guidetodiligence"
+		],
+		"Teachings of Elegance": [
+			"guidetoelegance"
+		],
+		"Teachings of Elysium": [
+			"guidetoelysium"
+		],
+		"Teachings of Equity": [
+			"guidetoequity"
+		],
+		"Teachings of Freedom": [
+			"guidetofreedom"
+		],
+		"Teachings of Gold": [
+			"guidetogold"
+		],
+		"Teachings of Ingenuity": [
+			"guidetoingenuity"
+		],
+		"Teachings of Justice": [
+			"guidetojustice"
+		],
+		"Teachings of Kindling": [
+			"guidetokindling"
+		],
+		"Teachings of Light": [
+			"guidetolight"
+		],
+		"Teachings of Moonlight": [
+			"guidetomoonlight"
+		],
+		"Teachings of Order": [
+			"guidetoorder"
+		],
+		"Teachings of Praxis": [
+			"guidetopraxis"
+		],
+		"Teachings of Prosperity": [
+			"guidetoprosperity"
+		],
+		"Teachings of Resistance": [
+			"guidetoresistance"
+		],
+		"Teachings of Transience": [
+			"guidetotransience"
+		],
+		"Teachings of Vagrancy": [
+			"guidetovagrancy"
+		],
+		"Sheath of the Secret Source": [
+			"heartofthesecretsource"
+		],
+		"Aberrant Core of the Deep Shadow": [
+			"hookedbeakofthedeepshadow"
+		],
+		"Romaritime Flower": [
+			"hydroculusresonancestone"
+		],
+		"Rainbow Rose": [
+			"hydroculusresonancestone"
+		],
+		"Ignited Stone": [
+			"ignitedseedoflife"
+		],
+		"Ignited Seed of Life": [
+			"ignitedseeingeye"
+		],
+		"Bewildering Broadleaf": [
+			"illusoryleafcoil"
+		],
+		"Tattered Warrant": [
+			"immaculatewarrant"
+		],
+		"Agent's Sacrificial Knife": [
+			"inspectorssacrificialknife"
+		],
+		"Electro Crystal": [
+			"insulationpotion",
+			"shockingessentialoil"
+		],
+		"Copper Talisman of the Forest Dew": [
+			"irontalismanoftheforestdew"
+		],
+		"Jeweled Branch of a Distant Sea": [
+			"jadebranchofadistantsea"
+		],
+		"Coral Branch of a Distant Sea": [
+			"jeweledbranchofadistantsea"
+		],
+		"Old Handguard": [
+			"kageuchihandguard"
+		],
+		"Dead Ley Line Leaves": [
+			"leylinesprout",
+			"portablewaypoint"
+		],
+		"Sergeant's Insignia": [
+			"lieutenantsinsignia"
+		],
+		"Shard of a Shattered Will": [
+			"locusofaclearwill"
+		],
+		"Fungal Spore": [
+			"luminescentpollen"
+		],
+		"Feathery Fin": [
+			"lunarfin"
+		],
+		"Luminous Sands from Guyun": [
+			"lustrousstonefromguyun"
+		],
+		"Sturdy Shell": [
+			"markedshell"
+		],
+		"Mask of the One-Horned": [
+			"maskofthekijin"
+		],
+		"Mask of the Tiger's Bite": [
+			"maskoftheonehorned"
+		],
+		"Mask of the Wicked Lieutenant": [
+			"maskofthetigersbite"
+		],
+		"Meshing Gear": [
+			"mechanicalspurgear"
+		],
+		"Mist Grass Pollen": [
+			"mistgrass"
+		],
+		"Mist Grass": [
+			"mistgrasswick"
+		],
+		"Mistshroud Plate": [
+			"mistshroudhelmet"
+		],
+		"Mistshroud Manifestation": [
+			"mistshroudplate"
+		],
+		"Mist Veiled Mercury Elixir": [
+			"mistveiledgoldelixir"
+		],
+		"Mist Veiled Lead Elixir": [
+			"mistveiledmercuryelixir"
+		],
+		"Mist Veiled Gold Elixir": [
+			"mistveiledprimoelixir"
+		],
+		"Chapter of an Ancient Chord": [
+			"movementofanancientchord"
+		],
+		"Nagadus Emerald Fragment": [
+			"nagadusemeraldchunk"
+		],
+		"Nagadus Emerald Sliver": [
+			"nagadusemeraldfragment"
+		],
+		"Nagadus Emerald Chunk": [
+			"nagadusemeraldgemstone"
+		],
+		"Jamur Aneh": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Kalpalata Lotus": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Narukami's Joy": [
+			"narukamisaffection"
+		],
+		"Narukami's Wisdom": [
+			"narukamisjoy"
+		],
+		"Narukami's Affection": [
+			"narukamisvalor"
+		],
+		"Scoop of Tainted Water": [
+			"newborntaintedhydrophantasm"
+		],
+		"Night-Wind's Mystic Premonition": [
+			"nightwindsmysticaugury"
+		],
+		"Night-Wind's Mystic Consideration": [
+			"nightwindsmysticpremonition"
+		],
+		"Night-Wind's Mystic Augury": [
+			"nightwindsmysticrevelation"
+		],
+		"Oasis Garden's Reminiscence": [
+			"oasisgardenskindness"
+		],
+		"Oasis Garden's Kindness": [
+			"oasisgardensmourning"
+		],
+		"Oasis Garden's Mourning": [
+			"oasisgardenstruth"
+		],
+		"Unyielding Delusion of the Far-North Scions": [
+			"oblationofthefarnorthscions"
+		],
+		"Dream of Scorching Might": [
+			"oldendaysofscorchingmight"
+		],
+		"Stained Mask": [
+			"ominousmask"
+		],
+		"Operative's Standard Pocket Watch": [
+			"operativesconstancy"
+		],
+		"Old Operative's Pocket Watch": [
+			"operativesstandardpocketwatch"
+		],
+		"Guide to Admonition": [
+			"philosophiesofadmonition"
+		],
+		"Guide to Ballad": [
+			"philosophiesofballad"
+		],
+		"Guide to Conflict": [
+			"philosophiesofconflict"
+		],
+		"Guide to Contention": [
+			"philosophiesofcontention"
+		],
+		"Guide to Diligence": [
+			"philosophiesofdiligence"
+		],
+		"Guide to Elegance": [
+			"philosophiesofelegance"
+		],
+		"Guide to Elysium": [
+			"philosophiesofelysium"
+		],
+		"Guide to Equity": [
+			"philosophiesofequity"
+		],
+		"Guide to Freedom": [
+			"philosophiesoffreedom"
+		],
+		"Guide to Gold": [
+			"philosophiesofgold"
+		],
+		"Guide to Ingenuity": [
+			"philosophiesofingenuity"
+		],
+		"Guide to Justice": [
+			"philosophiesofjustice"
+		],
+		"Guide to Kindling": [
+			"philosophiesofkindling"
+		],
+		"Guide to Light": [
+			"philosophiesoflight"
+		],
+		"Guide to Moonlight": [
+			"philosophiesofmoonlight"
+		],
+		"Guide to Order": [
+			"philosophiesoforder"
+		],
+		"Guide to Praxis": [
+			"philosophiesofpraxis"
+		],
+		"Guide to Prosperity": [
+			"philosophiesofprosperity"
+		],
+		"Guide to Resistance": [
+			"philosophiesofresistance"
+		],
+		"Guide to Transience": [
+			"philosophiesoftransience"
+		],
+		"Guide to Vagrancy": [
+			"philosophiesofvagrancy"
+		],
+		"Grain of Aerosiderite": [
+			"pieceofaerosiderite"
+		],
+		"Crystal Prism": [
+			"polarizingprism"
+		],
+		"Reinforced Drive Shaft": [
+			"precisiondriveshaft"
+		],
+		"Prithiva Topaz Fragment": [
+			"prithivatopazchunk"
+		],
+		"Prithiva Topaz Sliver": [
+			"prithivatopazfragment"
+		],
+		"Prithiva Topaz Chunk": [
+			"prithivatopazgemstone"
+		],
+		"Makanan": [
+			"purewater",
+			"strengthtonic"
+		],
+		"Pinecone": [
+			"purewater"
+		],
+		"Sprayfeather Gill": [
+			"pyroculusresonancestone"
+		],
+		"Glowing Remains": [
+			"radiantexoskeleton"
+		],
+		"Turbid Prism": [
+			"radiantprism"
+		],
+		"Carrot": [
+			"reddye"
+		],
+		"Valberry": [
+			"reddye"
+		],
+		"Zaytun Peach": [
+			"reddye"
+		],
+		"Dendrobium": [
+			"redrotbait"
+		],
+		"Fowl": [
+			"redrotbait"
+		],
+		"Lakkaberry": [
+			"refreshinglakkabait"
+		],
+		"Broken Drive Shaft": [
+			"reinforceddriveshaft"
+		],
+		"Lustrous Stone from Guyun": [
+			"relicfromguyun"
+		],
+		"Echo of Scorching Might": [
+			"remnantglowofscorchingmight"
+		],
+		"Trimmed Red Silk": [
+			"richredbrocade"
+		],
+		"Dormant Fungal Nucleus": [
+			"robustfungalnucleus"
+		],
+		"Warrior's Metal Whistle": [
+			"sauriancrownedwarriorsgoldenwhistle"
+		],
+		"Fragment of Decarabian's Epic": [
+			"scatteredpieceofdecarabiansdream"
+		],
+		"Drop of Tainted Water": [
+			"scoopoftaintedwater"
+		],
+		"Divining Scroll": [
+			"sealedscroll"
+		],
+		"Juvenile Fang": [
+			"seasonedfang"
+		],
+		"Recruit's Insignia": [
+			"sergeantsinsignia"
+		],
+		"Chains of Dandelion Gladiator": [
+			"shacklesofthedandeliongladiator"
+		],
+		"Firm Arrowhead": [
+			"sharparrowhead"
+		],
+		"Axis of the Secret Source": [
+			"sheathofthesecretsource"
+		],
+		"Whopperflower Nectar": [
+			"shimmeringnectar"
+		],
+		"Shivada Jade Fragment": [
+			"shivadajadechunk"
+		],
+		"Shivada Jade Sliver": [
+			"shivadajadefragment"
+		],
+		"Shivada Jade Chunk": [
+			"shivadajadegemstone"
+		],
+		"Locus of a Clear Will": [
+			"sigilofastridingwill"
+		],
+		"Wine Goblet of the Pristine Sea": [
+			"silvergobletofthepristinesea"
+		],
+		"Treasure Hoarder Insignia": [
+			"silverraveninsignia"
+		],
+		"Iron Talisman of the Forest Dew": [
+			"silvertalismanoftheforestdew"
+		],
+		"Slime Secretions": [
+			"slimeconcentrate"
+		],
+		"Bulle Fruit": [
+			"sourbait"
+		],
+		"Spectral Husk": [
+			"spectralheart"
+		],
+		"Spectral Heart": [
+			"spectralnucleus"
+		],
+		"Spinel Fruit": [
+			"spinelgrainbait"
+		],
+		"Grainfruit": [
+			"spinelgrainbait"
+		],
+		"Ruined Hilt": [
+			"splinteredhilt"
+		],
+		"Sublimation of Pure Sacred Dewdrop": [
+			"springofpuresacreddewdrop"
+		],
+		"Damaged Mask": [
+			"stainedmask"
+		],
+		"Splintered Hilt": [
+			"stillsmolderinghilt"
+		],
+		"Candlecap Mushroom": [
+			"strengthtonic"
+		],
+		"Saurian Claw Succulent": [
+			"strengthtonic"
+		],
+		"Fragile Bone Shard": [
+			"sturdyboneshard"
+		],
+		"Desiccated Shell": [
+			"sturdyshell"
+		],
+		"Dross of Pure Sacred Dewdrop": [
+			"sublimationofpuresacreddewdrop"
+		],
+		"Harra Fruit": [
+			"sugardewbait"
+		],
+		"Transoceanic Pearl": [
+			"transoceanicchunk"
+		],
+		"A Flower Yet to Bloom": [
+			"treasuredflower"
+		],
+		"Faded Red Satin": [
+			"trimmedredsilk"
+		],
+		"Damaged Prism": [
+			"turbidprism"
+		],
+		"Seasoned Fang": [
+			"tyrantsfang"
+		],
+		"Sundered Glory of the Far-North Scions": [
+			"unyieldingdelusionofthefarnorthscions"
+		],
+		"Vajrada Amethyst Fragment": [
+			"vajradaamethystchunk"
+		],
+		"Vajrada Amethyst Sliver": [
+			"vajradaamethystfragment"
+		],
+		"Vajrada Amethyst Chunk": [
+			"vajradaamethystgemstone"
+		],
+		"Penenun Lembah": [
+			"valleyweaveressentialoil"
+		],
+		"Varunada Lazurite Fragment": [
+			"varunadalazuritechunk"
+		],
+		"Varunada Lazurite Sliver": [
+			"varunadalazuritefragment"
+		],
+		"Varunada Lazurite Chunk": [
+			"varunadalazuritegemstone"
+		],
+		"Vayuda Turquoise Fragment": [
+			"vayudaturquoisechunk"
+		],
+		"Vayuda Turquoise Sliver": [
+			"vayudaturquoisefragment"
+		],
+		"Vayuda Turquoise Chunk": [
+			"vayudaturquoisegemstone"
+		],
+		"Treasured Flower": [
+			"wanderersbloomingflower"
+		],
+		"Cold-Cracked Shellshard": [
+			"warmbackshell"
+		],
+		"Sentry's Wooden Whistle": [
+			"warriorsmetalwhistle"
+		],
+		"Sharp Arrowhead": [
+			"weatheredarrowhead"
+		],
+		"Broken Goblet of the Pristine Sea": [
+			"winegobletofthepristinesea"
+		],
+		"Transoceanic Chunk": [
+			"xenochromaticcrystal"
+		],
+		"Lantern Fiber": [
+			"xiaolantern"
+		],
+		"Wick Material": [
+			"xiaolantern"
+		],
+		"Plaustrite Shard": [
+			"xiaolantern"
+		]
+	},
+	"properties": {
+		"filterText": [
+			"Material Penguatan Karakter dan Senjata",
+			"Material Ascension Senjata",
+			"Material Ascension Karakter",
+			"Material Penguatan Senjata dan Karakter",
+			"Konsumsi",
+			"Umpan Ikan",
+			"Material Pembuatan Perabot",
+			"Potion",
+			"Material Talenta Karakter",
+			"Makanan"
+		],
+		"recipe": [
+			"Fractured Eye of the Deep Shadow",
+			"Ember of Long Night Flint",
+			"Hunter's Sacrificial Knife",
+			"Agnidus Agate Fragment",
+			"Agnidus Agate Sliver",
+			"Agnidus Agate Chunk",
+			"Foreign Synapse",
+			"Dandelion Seed",
+			"Cecilia",
+			"Crystal Chunk",
+			"Artful Device Replica",
+			"Artful Device Fragment",
+			"Artful Device Inheritance",
+			"Mechanical Spur Gear",
+			"Oblation of the Far-North Scions",
+			"Midsommar Berry",
+			"Flour",
+			"Refractive Bud",
+			"Piece of Aerosiderite",
+			"Heavy Horn",
+			"Black Bronze Horn",
+			"Flare of Long Night Flint",
+			"Warm Back-Shell",
+			"Blazing Sacrificial Heart's Terror",
+			"Blazing Sacrificial Heart's Hesitance",
+			"Blazing Sacrificial Heart's Resolve",
+			"Mint",
+			"Boreal Wolf's Cracked Tooth",
+			"Boreal Wolf's Milk Tooth",
+			"Boreal Wolf's Broken Fang",
+			"Fetters of the Dandelion Gladiator",
+			"Chaos Gear",
+			"Chaos Module",
+			"Chaos Device",
+			"Chaos Circuit",
+			"Chaos Storage",
+			"Chaos Axis",
+			"Fragment of an Ancient Chord",
+			"Lunar Fin",
+			"Bit of Aerosiderite",
+			"Concealed Unguis",
+			"Concealed Claw",
+			"Crystal Core",
+			"Original Resin",
+			"Luminescent Pollen",
+			"Dismal Prism",
+			"Gloomy Statuette",
+			"Dead Ley Line Branches",
+			"Dark Statuette",
+			"Tile of Decarabian's Tower",
+			"Delirious Desolution of the Sacred Lord",
+			"Delirious Decadence of the Sacred Lord",
+			"Delirious Demeanor of the Sacred Lord",
+			"Sumeru Rose",
+			"Nilotpala Lotus",
+			"Rukkhashava Mushroom",
+			"Butterfly Wings",
+			"Lotus Head",
+			"Relic from Guyun",
+			"Inactivated Fungal Nucleus",
+			"Remnant Glow of Scorching Might",
+			"Shackles of Dandelion Gladiator",
+			"Cor Lapis",
+			"Movement of an Ancient Chord",
+			"Naku Weed",
+			"Sakura Bloom",
+			"Amethyst Lump",
+			"Embercore Flower",
+			"Wheat",
+			"Shimmering Nectar",
+			"Spring of Pure Sacred Dewdrop",
+			"Silk Flower",
+			"Horsetail",
+			"Slime Condensate",
+			"Berry",
+			"Kageuchi Handguard",
+			"Kerinduan Takdir",
+			"Frog",
+			"Flaming Flower Stamen",
+			"Afterglow of Long Night Flint",
+			"Marcotte",
+			"Iron Chunk",
+			"Luminescent Spine",
+			"Sealed Scroll",
+			"Rift Core",
+			"Lizard Tail",
+			"Sturdy Bone Shard",
+			"Debris of Decarabian's City",
+			"Immaculate Warrant",
+			"Mist Flower Corolla",
+			"Frostnight's Glow",
+			"Frostnight's Glimmer",
+			"Sunsettia",
+			"Glaze Lily",
+			"Lightless Bone",
+			"Jade Branch of a Distant Sea",
+			"Silver Goblet of the Pristine Sea",
+			"Gadis Rumah Emas",
+			"Silver Raven Insignia",
+			"Silver Talisman of the Forest Dew",
+			"Teachings of Admonition",
+			"Teachings of Ballad",
+			"Teachings of Conflict",
+			"Teachings of Contention",
+			"Teachings of Diligence",
+			"Teachings of Elegance",
+			"Teachings of Elysium",
+			"Teachings of Equity",
+			"Teachings of Freedom",
+			"Teachings of Gold",
+			"Teachings of Ingenuity",
+			"Teachings of Justice",
+			"Teachings of Kindling",
+			"Teachings of Light",
+			"Teachings of Moonlight",
+			"Teachings of Order",
+			"Teachings of Praxis",
+			"Teachings of Prosperity",
+			"Teachings of Resistance",
+			"Teachings of Transience",
+			"Teachings of Vagrancy",
+			"Sheath of the Secret Source",
+			"Aberrant Core of the Deep Shadow",
+			"Romaritime Flower",
+			"Rainbow Rose",
+			"Ignited Stone",
+			"Ignited Seed of Life",
+			"Bewildering Broadleaf",
+			"Tattered Warrant",
+			"Agent's Sacrificial Knife",
+			"Electro Crystal",
+			"Copper Talisman of the Forest Dew",
+			"Jeweled Branch of a Distant Sea",
+			"Coral Branch of a Distant Sea",
+			"Old Handguard",
+			"Dead Ley Line Leaves",
+			"Sergeant's Insignia",
+			"Shard of a Shattered Will",
+			"Fungal Spore",
+			"Feathery Fin",
+			"Luminous Sands from Guyun",
+			"Sturdy Shell",
+			"Mask of the One-Horned",
+			"Mask of the Tiger's Bite",
+			"Mask of the Wicked Lieutenant",
+			"Meshing Gear",
+			"Mist Grass Pollen",
+			"Mist Grass",
+			"Mistshroud Plate",
+			"Mistshroud Manifestation",
+			"Mist Veiled Mercury Elixir",
+			"Mist Veiled Lead Elixir",
+			"Mist Veiled Gold Elixir",
+			"Chapter of an Ancient Chord",
+			"Nagadus Emerald Fragment",
+			"Nagadus Emerald Sliver",
+			"Nagadus Emerald Chunk",
+			"Jamur Aneh",
+			"Kalpalata Lotus",
+			"Narukami's Joy",
+			"Narukami's Wisdom",
+			"Narukami's Affection",
+			"Scoop of Tainted Water",
+			"Night-Wind's Mystic Premonition",
+			"Night-Wind's Mystic Consideration",
+			"Night-Wind's Mystic Augury",
+			"Oasis Garden's Reminiscence",
+			"Oasis Garden's Kindness",
+			"Oasis Garden's Mourning",
+			"Unyielding Delusion of the Far-North Scions",
+			"Dream of Scorching Might",
+			"Stained Mask",
+			"Operative's Standard Pocket Watch",
+			"Old Operative's Pocket Watch",
+			"Guide to Admonition",
+			"Guide to Ballad",
+			"Guide to Conflict",
+			"Guide to Contention",
+			"Guide to Diligence",
+			"Guide to Elegance",
+			"Guide to Elysium",
+			"Guide to Equity",
+			"Guide to Freedom",
+			"Guide to Gold",
+			"Guide to Ingenuity",
+			"Guide to Justice",
+			"Guide to Kindling",
+			"Guide to Light",
+			"Guide to Moonlight",
+			"Guide to Order",
+			"Guide to Praxis",
+			"Guide to Prosperity",
+			"Guide to Resistance",
+			"Guide to Transience",
+			"Guide to Vagrancy",
+			"Grain of Aerosiderite",
+			"Crystal Prism",
+			"Reinforced Drive Shaft",
+			"Prithiva Topaz Fragment",
+			"Prithiva Topaz Sliver",
+			"Prithiva Topaz Chunk",
+			"Pinecone",
+			"Tidalga",
+			"Quenepa Berry",
+			"Sprayfeather Gill",
+			"Glowing Remains",
+			"Turbid Prism",
+			"Dendrobium",
+			"Fowl",
+			"Lakkaberry",
+			"Broken Drive Shaft",
+			"Lustrous Stone from Guyun",
+			"Echo of Scorching Might",
+			"Trimmed Red Silk",
+			"Dormant Fungal Nucleus",
+			"Warrior's Metal Whistle",
+			"Fragment of Decarabian's Epic",
+			"Drop of Tainted Water",
+			"Divining Scroll",
+			"Juvenile Fang",
+			"Recruit's Insignia",
+			"Chains of Dandelion Gladiator",
+			"Firm Arrowhead",
+			"Axis of the Secret Source",
+			"Whopperflower Nectar",
+			"Shivada Jade Fragment",
+			"Shivada Jade Sliver",
+			"Shivada Jade Chunk",
+			"Locus of a Clear Will",
+			"Wine Goblet of the Pristine Sea",
+			"Treasure Hoarder Insignia",
+			"Iron Talisman of the Forest Dew",
+			"Slime Secretions",
+			"Bulle Fruit",
+			"Spectral Husk",
+			"Spectral Heart",
+			"Spinel Fruit",
+			"Grainfruit",
+			"Ruined Hilt",
+			"Sublimation of Pure Sacred Dewdrop",
+			"Damaged Mask",
+			"Splintered Hilt",
+			"Candlecap Mushroom",
+			"Saurian Claw Succulent",
+			"Fragile Bone Shard",
+			"Desiccated Shell",
+			"Dross of Pure Sacred Dewdrop",
+			"Harra Fruit",
+			"Transoceanic Pearl",
+			"A Flower Yet to Bloom",
+			"Faded Red Satin",
+			"Damaged Prism",
+			"Seasoned Fang",
+			"Sundered Glory of the Far-North Scions",
+			"Vajrada Amethyst Fragment",
+			"Vajrada Amethyst Sliver",
+			"Vajrada Amethyst Chunk",
+			"Penenun Lembah",
+			"Varunada Lazurite Fragment",
+			"Varunada Lazurite Sliver",
+			"Varunada Lazurite Chunk",
+			"Vayuda Turquoise Fragment",
+			"Vayuda Turquoise Sliver",
+			"Vayuda Turquoise Chunk",
+			"Treasured Flower",
+			"Cold-Cracked Shellshard",
+			"Sentry's Wooden Whistle",
+			"Sharp Arrowhead",
+			"Broken Goblet of the Pristine Sea",
+			"Transoceanic Chunk",
+			"Lantern Fiber",
+			"Wick Material",
+			"Plaustrite Shard"
+		],
+		"altrecipes": [
+			"Wolfhook",
+			"Fluorescent Fungus",
+			"Tidalga",
+			"Quenepa Berry",
+			"Carrot",
+			"Valberry",
+			"Zaytun Peach",
+			"Embercore Flower",
+			"Cor Lapis",
+			"Marcotte"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84526
+	],
+	"name": "Libera interpretazione",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "Libera interpretazione",
+		"description": "Rovina 4 segni di un amore imminente.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

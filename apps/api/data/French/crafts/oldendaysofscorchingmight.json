@@ -1,0 +1,16 @@
+{
+	"id": 12036,
+	"name": "Passé glorieux du pouvoir brûlant",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130108,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114047,
+			"name": "Rêve dominant du pouvoir brûlant",
+			"count": 3
+		}
+	]
+}

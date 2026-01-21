@@ -1,0 +1,21 @@
+{
+	"id": [
+		82175
+	],
+	"name": "Le chenal entre deux rivières",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 2175,
+	"stages": 1,
+	"stage1": {
+		"title": "Le chenal entre deux rivières",
+		"description": "Perdez dans le duel contre la légendaire Raie prédatrice...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

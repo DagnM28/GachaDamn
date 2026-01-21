@@ -1,0 +1,21 @@
+{
+	"id": [
+		84553
+	],
+	"name": "Trời Bao Cao, Đất Bao...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4077,
+	"stages": 1,
+	"stage1": {
+		"title": "Trời Bao Cao, Đất Bao...",
+		"description": "Giúp Farghani thực hiện đo lường.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81143
+	],
+	"name": "Presa salda",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guida di pesca di Teyvat: Serie I",
+	"sortOrder": 1134,
+	"stages": 1,
+	"stage1": {
+		"title": "Presa salda",
+		"description": "Pesca con successo 10 volte rimanendo sempre nell'area di tensione ideale.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80001
+	],
+	"name": "Gió và Lữ Khách Phương Xa",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Tuần Du Trần Thế - Phần I",
+	"sortOrder": 1,
+	"stages": 1,
+	"stage1": {
+		"title": "Gió và Lữ Khách Phương Xa",
+		"description": "Dùng nguyên tố Phong thổi bay một cây Bồ Công Anh",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

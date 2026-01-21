@@ -1,0 +1,21 @@
+{
+	"id": [
+		81240
+	],
+	"name": "Tiếng Gọi Của Thành Phố Không Tên",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1226,
+	"stages": 1,
+	"stage1": {
+		"title": "Tiếng Gọi Của Thành Phố Không Tên",
+		"description": "Làm cho cuộn giấy da thần bí trở nên yên tĩnh.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84520
+	],
+	"name": "En el nombre de Favonius",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 4044,
+	"stages": 1,
+	"stage1": {
+		"title": "En el nombre de Favonius",
+		"description": "Sé testigo de la historia de Jilliana.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

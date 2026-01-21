@@ -1,0 +1,21 @@
+{
+	"id": [
+		81189
+	],
+	"name": "\"ไม่เป็นรองผู้ใดใน Tokoyo\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1175,
+	"stages": 1,
+	"stage1": {
+		"title": "\"ไม่เป็นรองผู้ใดใน Tokoyo\"",
+		"description": "ได้รับการยอมรับจาก Jibashiri",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

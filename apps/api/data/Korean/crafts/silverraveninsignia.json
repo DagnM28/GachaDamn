@@ -1,0 +1,16 @@
+{
+	"id": 11023,
+	"name": "실버 까마귀 휘장",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 150050,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112035,
+			"name": "보물찾기 까마귀 휘장",
+			"count": 3
+		}
+	]
+}

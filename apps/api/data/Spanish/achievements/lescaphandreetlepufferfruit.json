@@ -1,0 +1,21 @@
+{
+	"id": [
+		81392
+	],
+	"name": "Reloj sumergible y frutorondo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1376,
+	"stages": 1,
+	"stage1": {
+		"title": "Reloj sumergible y frutorondo",
+		"description": "Completa el entrenamiento subacuático avanzado.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13001,
+	"name": "Guide to Freedom",
+	"filterText": "Character Talent Material",
+	"sortOrder": 120000,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104301,
+			"name": "Teachings of Freedom",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81108
+	],
+	"name": "Chi ha fatto uscire i cani?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1105,
+	"stages": 1,
+	"stage1": {
+		"title": "Chi ha fatto uscire i cani?",
+		"description": "Libera Toratarou.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

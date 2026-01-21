@@ -1,0 +1,16 @@
+{
+	"id": 11051,
+	"name": "Xương Rắn Chắc",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 140140,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112074,
+			"name": "Xương Vụn Vỡ",
+			"count": 3
+		}
+	]
+}

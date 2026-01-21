@@ -1,0 +1,21 @@
+{
+	"id": 22037,
+	"name": "Şeker Özü Yemi",
+	"filterText": "Yem",
+	"sortOrder": 160040,
+	"unlockRank": 28,
+	"resultCount": 10,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 101216,
+			"name": "Harra Meyvesi",
+			"count": 1
+		},
+		{
+			"id": 101219,
+			"name": "Sumeru Gülü",
+			"count": 1
+		}
+	]
+}

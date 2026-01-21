@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Dente Rachado do Lobo Boreal",
+	"filterText": "Material de Ascensão de Armas",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Dente de Leite do Lobo Boreal",
+			"count": 3
+		}
+	]
+}

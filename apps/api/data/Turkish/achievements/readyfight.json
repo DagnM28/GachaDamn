@@ -1,0 +1,21 @@
+{
+	"id": [
+		84035
+	],
+	"name": "Yumruklar Konuşsun!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5014,
+	"stages": 1,
+	"stage1": {
+		"title": "Yumruklar Konuşsun!",
+		"description": "Güneyhaçı Yarışmasında ilk zaferini kazan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 15016,
+	"name": "Shivada Yeşimi Kırıntısı",
+	"filterText": "Karakter Yükseltme Malzemesi",
+	"sortOrder": 110050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 300,
+	"recipe": [
+		{
+			"id": 104161,
+			"name": "Shivada Yeşimi Tozu",
+			"count": 3
+		}
+	]
+}

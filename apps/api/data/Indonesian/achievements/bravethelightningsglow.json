@@ -1,0 +1,20 @@
+{
+	"id": [
+		86026
+	],
+	"name": "Akan Selalu Ada Seseorang ....",
+	"achievementGroupId": 33,
+	"achievementGroupName": "Pertemuan Dunia Lain: Seri III",
+	"sortOrder": 9025,
+	"stages": 1,
+	"stage1": {
+		"title": "Akan Selalu Ada Seseorang ....",
+		"description": "Kalahkan Raiden Shogun dalam Mode Co-op bersama pemain lain.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81186
+	],
+	"name": "Смена времени суток",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1172,
+	"stages": 1,
+	"stage1": {
+		"title": "Смена времени суток",
+		"description": "Один раз переключитесь между Белой ночью и Вечной ночью.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

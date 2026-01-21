@@ -1,0 +1,21 @@
+{
+	"id": [
+		81302
+	],
+	"name": "Belas Kasihan Sang Pemburu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1289,
+	"stages": 1,
+	"stage1": {
+		"title": "Belas Kasihan Sang Pemburu",
+		"description": "Biarkan Tadhla si \"Elang Pemburu\" menentukan takdirnya sendiri ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

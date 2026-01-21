@@ -1,0 +1,21 @@
+{
+	"id": [
+		80180
+	],
+	"name": "Kum Fırtınaları ve Seraplar Arasında (I)",
+	"achievementGroupId": 35,
+	"achievementGroupName": "Sumeru: Yaldızlı Çöl - I. Seri",
+	"sortOrder": 180,
+	"stages": 1,
+	"stage1": {
+		"title": "Kum Fırtınaları ve Seraplar Arasında (I)",
+		"ps5title": "Sumeru: Kum Fırtınaları ve Seraplar Arasında (I)",
+		"description": "Sumeru'daki tüm Işınlanma Portallarının kilidini aç: Hipostil Çölü, Yukarı Setekh Toprakları ve Aşağı Setekh Toprakları.",
+		"progress": 27,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

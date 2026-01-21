@@ -1,0 +1,21 @@
+{
+	"id": [
+		84133
+	],
+	"name": "#Profesora estricta, alumn{F#a}{M#o} excelente",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"isHidden": true,
+	"sortOrder": 7111,
+	"stages": 1,
+	"stage1": {
+		"title": "#Profesora estricta, alumn{F#a}{M#o} excelente",
+		"description": "Completa el ensayo sin golpear a ningún espantapájaros azul.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

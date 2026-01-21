@@ -1,0 +1,21 @@
+{
+	"id": [
+		82085
+	],
+	"name": "Protección eficaz",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 2085,
+	"stages": 1,
+	"stage1": {
+		"title": "Protección eficaz",
+		"description": "Usa un escudo para contrarrestar cierto ataque de carga de un Dragarto Geo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

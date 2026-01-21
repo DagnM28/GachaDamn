@@ -1,0 +1,21 @@
+{
+	"id": [
+		81105
+	],
+	"name": "SHUUMATSU GAIDEN",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1103,
+	"stages": 1,
+	"stage1": {
+		"title": "SHUUMATSU GAIDEN",
+		"description": "Seja pego na luta entre o Shiyuumatsu-Ban e os Fatui...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

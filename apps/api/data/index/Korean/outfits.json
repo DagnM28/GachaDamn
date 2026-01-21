@@ -1,0 +1,767 @@
+{
+	"namemap": {
+		"100outrider": "100% 정찰 기사",
+		"5staroutrider": "「만점 정찰 기사」",
+		"adventuresinblazinghue": "뜨거운 색채",
+		"agiftfromthestars": "별빛의 선물",
+		"aguestsaugustomen": "귀한 손님",
+		"allisovertthroughmylens": "「렌즈에 담긴 세상」",
+		"ambrosialverdance": "풀빛 향기",
+		"anewleaf": "돋아난 신엽",
+		"aratakisdemonicdeputy": "아라타키의 오니 조수",
+		"ardentsoul": "열렬한 영혼",
+		"argentchimes": "은방울",
+		"armoredrose": "갑옷을 입은 장미",
+		"asheavenandeartharemadeanewaether": "하늘과 대지",
+		"asheavenandeartharemadeanewlumine": "하늘과 대지",
+		"asobriquetundershade": "잎새에 숨겨진 이름",
+		"awrathfulvoid": "공허한 정적과 분노",
+		"azuresilk": "남빛 비단",
+		"bamboorain": "비에 물든 대나무",
+		"batwingiris": "박쥐의 눈",
+		"bladesofglory": "영광의 칼날",
+		"blossomingstarlight": "크림꽃과 별빛 촛불",
+		"breezeofsabaa": "사바의 숨결",
+		"breezyode": "푸른 바람의 시",
+		"cherriessnowladen": "눈을 품은 복숭아꽃",
+		"cherubicosmanthus": "밤톨과 계화꽃",
+		"clearadjudication": "맑은 물결의 공정한 판결",
+		"coronatedprimadonna": "프리마돈나",
+		"darknightblaze": "어둠 속 불꽃",
+		"dawnbreathdreambelle": "새벽바람의 꿈",
+		"dawnseer": "계시의 눈",
+		"desertandnight": "사막과 밤",
+		"dreamingstar": "꿈속의 별",
+		"dunkelnachtsakrament": "유야의 성례",
+		"eccentriconi": "유별난 광귀",
+		"eightbitartistry": "8비트 예술",
+		"einimmernachtstraum": "극야의 진실된 꿈",
+		"emeraldcipher": "초록빛 수수께끼",
+		"endurerofeons": "천년의 세월",
+		"executorsthorns": "처형의 가시",
+		"fallingleaves": "하늘 끝의 단풍",
+		"fantasticat": "환상 고양이",
+		"favoniandevotion": "바람의 경건한 가호",
+		"flawlessradiance": "광휘의 달빛",
+		"flowingfate": "흐르는 별점",
+		"fluffypuffywhizkidworkwear": "뚝딱뚝딱 천재의 작업복",
+		"flyingfishheatwavesandmoonscallop": "날치와 뜨거운 파도 그리고 달조개",
+		"forallknowledgeaverse": "진리의 한 마디",
+		"fortunesfavor": "악운은 멀리",
+		"frostdewtrail": "서리에 맺힌 이슬",
+		"frostflowerdew": "차가운 꽃이슬",
+		"germinatingwind": "움트는 바람",
+		"golddrapedgorge": "금빛 골짜기",
+		"goldenrule": "소중한 법률",
+		"goldensandstrider": "금빛 모래 행자",
+		"goldfishfirecracker": "금붕어 불꽃",
+		"goldleafandpearlyjade": "금빛의 옥",
+		"goldpinionsinflamesbathed": "타오르는 금빛 깃털",
+		"guardiansgun": "정의를 수호하는 총",
+		"gunnhildrslegacy": "군힐드의 전승",
+		"heartofthescales": "판결의 심장",
+		"hermitofmortallife": "속세 생활",
+		"icyfeatherflight": "얼음 위 깃털",
+		"icyskin": "얼음 피부",
+		"ilovemora": "모라 좋아",
+		"innocentlonging": "순수한 기대",
+		"machinehunter": "기동 사냥꾼",
+		"mechanicaldreams": "기계의 꿈",
+		"melusentgift": "멜뤼진의 선물",
+		"mikosinstruction": "미코의 말씀",
+		"minimujina": "너구리 옷",
+		"mistcloudstage": "무대의 연기구름",
+		"moonglare": "달빛",
+		"moonlitcourser": "달빛 백마",
+		"moonweavegossamer": "달빛 비단",
+		"narukamislaw": "위대하신 나루카미 쇼군의 의식",
+		"neitherflowernormist": "꽃도 안개도 아닌",
+		"newmoonstarlight": "신월의 별빛",
+		"newyearscheer": "제야의 환호",
+		"nightschillinghowl": "시린 겨울밤의 포효",
+		"nocturne": "야상곡",
+		"novaswhisper": "샛별의 그림자",
+		"opulentsplendor": "살랑이는 무지개 자락",
+		"orchidseveninggown": "비단 속 난초",
+		"pactofstarsandmoon": "별과 달의 약속",
+		"panoplyofahundredhunts": "백수(百狩)의 갑옷",
+		"phantomeow": "환영 고양이",
+		"phantominboots": "의적 키라냥",
+		"piercingthunderbolt": "울려퍼지는 뇌음",
+		"pluckedyamabukisplendor": "알록달록 수놓인 황매화",
+		"plumblossombouquet": "매화의 잔향",
+		"pristineelegance": "푸른 잎과 흰 꽃",
+		"pristineprayers": "무결한 기도",
+		"purespirit": "청정한 영혼",
+		"purplerose": "보랏빛 장미",
+		"rainlitbambooreverie": "비와 대나무의 노래",
+		"rangingrainbow": "만리에 걸친 무지개",
+		"reddeadofnight": "진홍빛 종야",
+		"redpepperandturmeric": "홍고추와 황생강",
+		"risingstaraether": "최초로 떠오른 별",
+		"risingstarlumine": "최초로 떠오른 별",
+		"rollingwaves": "요동치는 파도",
+		"sailwindshadow": "펄럭이는 돛의 그림자",
+		"seabreezedandelion": "바닷바람의 꿈",
+		"shatteredstar": "부서진 별",
+		"shootingspark": "민첩한 불꽃",
+		"silksplendor": "화려한 비단",
+		"soaringbeacon": "상공의 이정표",
+		"solemnpurity": "엄정한 예복",
+		"sorbethoneypie": "샤베트와 허니파이",
+		"sparklingcoralbone": "산호뼈의 맑은 물결",
+		"spiritedvalor": "용맹의 바람",
+		"springbloommissive": "꽃 피는 날의 편지",
+		"steadfastresolve": "쉬지 않는 등불",
+		"sugarrush": "달콤한 즐거움",
+		"sugarybrew": "달콤한 양조법",
+		"summerchilldreams": "차가운 여름의 꿈",
+		"summertimesparkle": "빛나는 협주",
+		"sweetnessofthesea": "달콤한 바닷빛",
+		"swordofhonor": "영광의 검",
+		"tawnypeaksspiredrock": "귤빛 드릴 바위",
+		"theapplicationsofmedicine": "군신좌사",
+		"thelionessandtheblazingsun": "사자와 붉은 석양",
+		"therational": "합리주의자",
+		"thewaningpoint": "가물거리는 그림자",
+		"theworldsshackles": "속세의 굴레",
+		"tlalocansnightphantom": "틀라로칸의 유령",
+		"tothechurchsfreespirit": "성당의 자유인에게",
+		"towardthedistanthorizon": "저편의 이야기",
+		"tranquilbanquet": "고요한 밤의 연회",
+		"twilightblossom": "흑옥에 핀 꽃",
+		"undyingsun": "지지 않는 태양",
+		"verdantmoon": "푸른 숲과 순수한 달",
+		"warriorofflame": "화염의 적무",
+		"warriorsbonegarb": "용사의 뼈",
+		"wavecrestwaltz": "드높은 파도의 춤",
+		"whirlingbloom": "뭇꽃의 향연",
+		"whistledartwings": "은빛 휘파람 날개",
+		"wildsprint": "들판 질주",
+		"woodlandsong": "숲의 노래",
+		"yellowvelvetsalon": "옐로우 벨벳 살롱"
+	},
+	"names": {
+		"100% 정찰 기사": "100outrider",
+		"「만점 정찰 기사」": "5staroutrider",
+		"뜨거운 색채": "adventuresinblazinghue",
+		"별빛의 선물": "agiftfromthestars",
+		"귀한 손님": "aguestsaugustomen",
+		"「렌즈에 담긴 세상」": "allisovertthroughmylens",
+		"풀빛 향기": "ambrosialverdance",
+		"돋아난 신엽": "anewleaf",
+		"아라타키의 오니 조수": "aratakisdemonicdeputy",
+		"열렬한 영혼": "ardentsoul",
+		"은방울": "argentchimes",
+		"갑옷을 입은 장미": "armoredrose",
+		"하늘과 대지": "asheavenandeartharemadeanewaether",
+		"잎새에 숨겨진 이름": "asobriquetundershade",
+		"공허한 정적과 분노": "awrathfulvoid",
+		"남빛 비단": "azuresilk",
+		"비에 물든 대나무": "bamboorain",
+		"박쥐의 눈": "batwingiris",
+		"영광의 칼날": "bladesofglory",
+		"크림꽃과 별빛 촛불": "blossomingstarlight",
+		"사바의 숨결": "breezeofsabaa",
+		"푸른 바람의 시": "breezyode",
+		"눈을 품은 복숭아꽃": "cherriessnowladen",
+		"밤톨과 계화꽃": "cherubicosmanthus",
+		"맑은 물결의 공정한 판결": "clearadjudication",
+		"프리마돈나": "coronatedprimadonna",
+		"어둠 속 불꽃": "darknightblaze",
+		"새벽바람의 꿈": "dawnbreathdreambelle",
+		"계시의 눈": "dawnseer",
+		"사막과 밤": "desertandnight",
+		"꿈속의 별": "dreamingstar",
+		"유야의 성례": "dunkelnachtsakrament",
+		"유별난 광귀": "eccentriconi",
+		"8비트 예술": "eightbitartistry",
+		"극야의 진실된 꿈": "einimmernachtstraum",
+		"초록빛 수수께끼": "emeraldcipher",
+		"천년의 세월": "endurerofeons",
+		"처형의 가시": "executorsthorns",
+		"하늘 끝의 단풍": "fallingleaves",
+		"환상 고양이": "fantasticat",
+		"바람의 경건한 가호": "favoniandevotion",
+		"광휘의 달빛": "flawlessradiance",
+		"흐르는 별점": "flowingfate",
+		"뚝딱뚝딱 천재의 작업복": "fluffypuffywhizkidworkwear",
+		"날치와 뜨거운 파도 그리고 달조개": "flyingfishheatwavesandmoonscallop",
+		"진리의 한 마디": "forallknowledgeaverse",
+		"악운은 멀리": "fortunesfavor",
+		"서리에 맺힌 이슬": "frostdewtrail",
+		"차가운 꽃이슬": "frostflowerdew",
+		"움트는 바람": "germinatingwind",
+		"금빛 골짜기": "golddrapedgorge",
+		"소중한 법률": "goldenrule",
+		"금빛 모래 행자": "goldensandstrider",
+		"금붕어 불꽃": "goldfishfirecracker",
+		"금빛의 옥": "goldleafandpearlyjade",
+		"타오르는 금빛 깃털": "goldpinionsinflamesbathed",
+		"정의를 수호하는 총": "guardiansgun",
+		"군힐드의 전승": "gunnhildrslegacy",
+		"판결의 심장": "heartofthescales",
+		"속세 생활": "hermitofmortallife",
+		"얼음 위 깃털": "icyfeatherflight",
+		"얼음 피부": "icyskin",
+		"모라 좋아": "ilovemora",
+		"순수한 기대": "innocentlonging",
+		"기동 사냥꾼": "machinehunter",
+		"기계의 꿈": "mechanicaldreams",
+		"멜뤼진의 선물": "melusentgift",
+		"미코의 말씀": "mikosinstruction",
+		"너구리 옷": "minimujina",
+		"무대의 연기구름": "mistcloudstage",
+		"달빛": "moonglare",
+		"달빛 백마": "moonlitcourser",
+		"달빛 비단": "moonweavegossamer",
+		"위대하신 나루카미 쇼군의 의식": "narukamislaw",
+		"꽃도 안개도 아닌": "neitherflowernormist",
+		"신월의 별빛": "newmoonstarlight",
+		"제야의 환호": "newyearscheer",
+		"시린 겨울밤의 포효": "nightschillinghowl",
+		"야상곡": "nocturne",
+		"샛별의 그림자": "novaswhisper",
+		"살랑이는 무지개 자락": "opulentsplendor",
+		"비단 속 난초": "orchidseveninggown",
+		"별과 달의 약속": "pactofstarsandmoon",
+		"백수(百狩)의 갑옷": "panoplyofahundredhunts",
+		"환영 고양이": "phantomeow",
+		"의적 키라냥": "phantominboots",
+		"울려퍼지는 뇌음": "piercingthunderbolt",
+		"알록달록 수놓인 황매화": "pluckedyamabukisplendor",
+		"매화의 잔향": "plumblossombouquet",
+		"푸른 잎과 흰 꽃": "pristineelegance",
+		"무결한 기도": "pristineprayers",
+		"청정한 영혼": "purespirit",
+		"보랏빛 장미": "purplerose",
+		"비와 대나무의 노래": "rainlitbambooreverie",
+		"만리에 걸친 무지개": "rangingrainbow",
+		"진홍빛 종야": "reddeadofnight",
+		"홍고추와 황생강": "redpepperandturmeric",
+		"최초로 떠오른 별": "risingstaraether",
+		"요동치는 파도": "rollingwaves",
+		"펄럭이는 돛의 그림자": "sailwindshadow",
+		"바닷바람의 꿈": "seabreezedandelion",
+		"부서진 별": "shatteredstar",
+		"민첩한 불꽃": "shootingspark",
+		"화려한 비단": "silksplendor",
+		"상공의 이정표": "soaringbeacon",
+		"엄정한 예복": "solemnpurity",
+		"샤베트와 허니파이": "sorbethoneypie",
+		"산호뼈의 맑은 물결": "sparklingcoralbone",
+		"용맹의 바람": "spiritedvalor",
+		"꽃 피는 날의 편지": "springbloommissive",
+		"쉬지 않는 등불": "steadfastresolve",
+		"달콤한 즐거움": "sugarrush",
+		"달콤한 양조법": "sugarybrew",
+		"차가운 여름의 꿈": "summerchilldreams",
+		"빛나는 협주": "summertimesparkle",
+		"달콤한 바닷빛": "sweetnessofthesea",
+		"영광의 검": "swordofhonor",
+		"귤빛 드릴 바위": "tawnypeaksspiredrock",
+		"군신좌사": "theapplicationsofmedicine",
+		"사자와 붉은 석양": "thelionessandtheblazingsun",
+		"합리주의자": "therational",
+		"가물거리는 그림자": "thewaningpoint",
+		"속세의 굴레": "theworldsshackles",
+		"틀라로칸의 유령": "tlalocansnightphantom",
+		"성당의 자유인에게": "tothechurchsfreespirit",
+		"저편의 이야기": "towardthedistanthorizon",
+		"고요한 밤의 연회": "tranquilbanquet",
+		"흑옥에 핀 꽃": "twilightblossom",
+		"지지 않는 태양": "undyingsun",
+		"푸른 숲과 순수한 달": "verdantmoon",
+		"화염의 적무": "warriorofflame",
+		"용사의 뼈": "warriorsbonegarb",
+		"드높은 파도의 춤": "wavecrestwaltz",
+		"뭇꽃의 향연": "whirlingbloom",
+		"은빛 휘파람 날개": "whistledartwings",
+		"들판 질주": "wildsprint",
+		"숲의 노래": "woodlandsong",
+		"옐로우 벨벳 살롱": "yellowvelvetsalon"
+	},
+	"aliases": {},
+	"categories": {
+		"엠버": [
+			"100outrider",
+			"5staroutrider"
+		],
+		"베넷": [
+			"adventuresinblazinghue",
+			"fortunesfavor"
+		],
+		"두린": [
+			"agiftfromthestars",
+			"towardthedistanthorizon"
+		],
+		"한운": [
+			"aguestsaugustomen"
+		],
+		"샤를로트": [
+			"allisovertthroughmylens"
+		],
+		"에밀리": [
+			"ambrosialverdance"
+		],
+		"콜레이": [
+			"anewleaf"
+		],
+		"쿠키 시노부": [
+			"aratakisdemonicdeputy"
+		],
+		"신염": [
+			"ardentsoul"
+		],
+		"남연": [
+			"argentchimes"
+		],
+		"노엘": [
+			"armoredrose"
+		],
+		"아이테르": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"루미네": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
+		"리사": [
+			"asobriquetundershade",
+			"purplerose"
+		],
+		"방랑자": [
+			"awrathfulvoid"
+		],
+		"행추": [
+			"azuresilk",
+			"bamboorain"
+		],
+		"올로룬": [
+			"batwingiris"
+		],
+		"타르탈리아": [
+			"bladesofglory"
+		],
+		"클레": [
+			"blossomingstarlight",
+			"shootingspark"
+		],
+		"닐루": [
+			"breezeofsabaa",
+			"neitherflowernormist"
+		],
+		"벤티": [
+			"breezyode"
+		],
+		"호두": [
+			"cherriessnowladen",
+			"plumblossombouquet"
+		],
+		"요요": [
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
+		],
+		"느비예트": [
+			"clearadjudication",
+			"melusentgift"
+		],
+		"푸리나": [
+			"coronatedprimadonna"
+		],
+		"다이루크": [
+			"darknightblaze",
+			"reddeadofnight"
+		],
+		"유메미즈키 미즈키": [
+			"dawnbreathdreambelle"
+		],
+		"시틀라리": [
+			"dawnseer"
+		],
+		"캔디스": [
+			"desertandnight"
+		],
+		"레일라": [
+			"dreamingstar"
+		],
+		"피슬": [
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
+		],
+		"아라타키 이토": [
+			"eccentriconi"
+		],
+		"키니치": [
+			"eightbitartistry"
+		],
+		"네페르": [
+			"emeraldcipher"
+		],
+		"소": [
+			"endurerofeons"
+		],
+		"로자리아": [
+			"executorsthorns",
+			"tothechurchsfreespirit"
+		],
+		"카에데하라 카즈하": [
+			"fallingleaves"
+		],
+		"리니": [
+			"fantasticat"
+		],
+		"진": [
+			"favoniandevotion",
+			"gunnhildrslegacy",
+			"seabreezedandelion"
+		],
+		"카미사토 아야카": [
+			"flawlessradiance",
+			"springbloommissive"
+		],
+		"모나": [
+			"flowingfate",
+			"pactofstarsandmoon"
+		],
+		"아이노": [
+			"fluffypuffywhizkidworkwear"
+		],
+		"말라니": [
+			"flyingfishheatwavesandmoonscallop"
+		],
+		"나히다": [
+			"forallknowledgeaverse"
+		],
+		"감우": [
+			"frostdewtrail",
+			"twilightblossom"
+		],
+		"신학": [
+			"frostflowerdew",
+			"theworldsshackles"
+		],
+		"설탕": [
+			"germinatingwind"
+		],
+		"실로닌": [
+			"golddrapedgorge"
+		],
+		"연비": [
+			"goldenrule"
+		],
+		"세토스": [
+			"goldensandstrider"
+		],
+		"요이미야": [
+			"goldfishfirecracker"
+		],
+		"응광": [
+			"goldleafandpearlyjade",
+			"orchidseveninggown"
+		],
+		"카베": [
+			"goldpinionsinflamesbathed"
+		],
+		"슈브르즈": [
+			"guardiansgun"
+		],
+		"사이노": [
+			"heartofthescales"
+		],
+		"종려": [
+			"hermitofmortallife"
+		],
+		"케이아": [
+			"icyfeatherflight",
+			"sailwindshadow"
+		],
+		"프레미네": [
+			"icyskin"
+		],
+		"도리": [
+			"ilovemora"
+		],
+		"바바라": [
+			"innocentlonging",
+			"summertimesparkle"
+		],
+		"에일로이": [
+			"machinehunter"
+		],
+		"이네파": [
+			"mechanicaldreams"
+		],
+		"야에 미코": [
+			"mikosinstruction"
+		],
+		"사유": [
+			"minimujina"
+		],
+		"운근": [
+			"mistcloudstage"
+		],
+		"아를레키노": [
+			"moonglare"
+		],
+		"자백": [
+			"moonlitcourser"
+		],
+		"콜롬비나": [
+			"moonweavegossamer"
+		],
+		"라이덴 쇼군": [
+			"narukamislaw"
+		],
+		"알베도": [
+			"newmoonstarlight"
+		],
+		"향릉": [
+			"newyearscheer",
+			"redpepperandturmeric"
+		],
+		"라이오슬리": [
+			"nightschillinghowl"
+		],
+		"플린스": [
+			"nocturne"
+		],
+		"야호다": [
+			"novaswhisper"
+		],
+		"각청": [
+			"opulentsplendor",
+			"piercingthunderbolt"
+		],
+		"고로": [
+			"panoplyofahundredhunts"
+		],
+		"리넷": [
+			"phantomeow"
+		],
+		"키라라": [
+			"phantominboots",
+			"whirlingbloom"
+		],
+		"치오리": [
+			"pluckedyamabukisplendor"
+		],
+		"파루잔": [
+			"pristineelegance"
+		],
+		"달리아": [
+			"pristineprayers"
+		],
+		"중운": [
+			"purespirit"
+		],
+		"가명": [
+			"rangingrainbow"
+		],
+		"북두": [
+			"rollingwaves"
+		],
+		"스커크": [
+			"shatteredstar"
+		],
+		"카미사토 아야토": [
+			"silksplendor"
+		],
+		"미카": [
+			"soaringbeacon"
+		],
+		"쿠죠 사라": [
+			"solemnpurity"
+		],
+		"에스코피에": [
+			"sorbethoneypie"
+		],
+		"산고노미야 코코미": [
+			"sparklingcoralbone"
+		],
+		"시카노인 헤이조": [
+			"spiritedvalor"
+		],
+		"일루가": [
+			"steadfastresolve"
+		],
+		"바레사": [
+			"sugarrush"
+		],
+		"디오나": [
+			"sugarybrew"
+		],
+		"치치": [
+			"summerchilldreams"
+		],
+		"시그윈": [
+			"sweetnessofthesea"
+		],
+		"클로린드": [
+			"swordofhonor"
+		],
+		"카치나": [
+			"tawnypeaksspiredrock"
+		],
+		"백출": [
+			"theapplicationsofmedicine"
+		],
+		"데히야": [
+			"thelionessandtheblazingsun"
+		],
+		"알하이탐": [
+			"therational"
+		],
+		"야란": [
+			"thewaningpoint",
+			"tranquilbanquet"
+		],
+		"차스카": [
+			"tlalocansnightphantom"
+		],
+		"마비카": [
+			"undyingsun"
+		],
+		"라우마": [
+			"verdantmoon"
+		],
+		"토마": [
+			"warriorofflame"
+		],
+		"얀사": [
+			"warriorsbonegarb"
+		],
+		"유라": [
+			"wavecrestwaltz"
+		],
+		"이파": [
+			"whistledartwings"
+		],
+		"레이저": [
+			"wildsprint"
+		],
+		"타이나리": [
+			"woodlandsong"
+		],
+		"나비아": [
+			"yellowvelvetsalon"
+		]
+	},
+	"properties": {
+		"characterName": [
+			"엠버",
+			"베넷",
+			"두린",
+			"한운",
+			"샤를로트",
+			"에밀리",
+			"콜레이",
+			"쿠키 시노부",
+			"신염",
+			"남연",
+			"노엘",
+			"아이테르",
+			"루미네",
+			"리사",
+			"방랑자",
+			"행추",
+			"올로룬",
+			"타르탈리아",
+			"클레",
+			"닐루",
+			"벤티",
+			"호두",
+			"요요",
+			"느비예트",
+			"푸리나",
+			"다이루크",
+			"유메미즈키 미즈키",
+			"시틀라리",
+			"캔디스",
+			"레일라",
+			"피슬",
+			"아라타키 이토",
+			"키니치",
+			"네페르",
+			"소",
+			"로자리아",
+			"카에데하라 카즈하",
+			"리니",
+			"진",
+			"카미사토 아야카",
+			"모나",
+			"아이노",
+			"말라니",
+			"나히다",
+			"감우",
+			"신학",
+			"설탕",
+			"실로닌",
+			"연비",
+			"세토스",
+			"요이미야",
+			"응광",
+			"카베",
+			"슈브르즈",
+			"사이노",
+			"종려",
+			"케이아",
+			"프레미네",
+			"도리",
+			"바바라",
+			"에일로이",
+			"이네파",
+			"야에 미코",
+			"사유",
+			"운근",
+			"아를레키노",
+			"자백",
+			"콜롬비나",
+			"라이덴 쇼군",
+			"알베도",
+			"향릉",
+			"라이오슬리",
+			"플린스",
+			"야호다",
+			"각청",
+			"고로",
+			"리넷",
+			"키라라",
+			"치오리",
+			"파루잔",
+			"달리아",
+			"중운",
+			"가명",
+			"북두",
+			"스커크",
+			"카미사토 아야토",
+			"미카",
+			"쿠죠 사라",
+			"에스코피에",
+			"산고노미야 코코미",
+			"시카노인 헤이조",
+			"일루가",
+			"바레사",
+			"디오나",
+			"치치",
+			"시그윈",
+			"클로린드",
+			"카치나",
+			"백출",
+			"데히야",
+			"알하이탐",
+			"야란",
+			"차스카",
+			"마비카",
+			"라우마",
+			"토마",
+			"얀사",
+			"유라",
+			"이파",
+			"레이저",
+			"타이나리",
+			"나비아"
+		]
+	}
+}

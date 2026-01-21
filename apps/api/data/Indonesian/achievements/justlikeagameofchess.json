@@ -1,0 +1,20 @@
+{
+	"id": [
+		81086
+	],
+	"name": "Seperti Permainan Catur",
+	"achievementGroupId": 23,
+	"achievementGroupName": "Alam Lain: Seri III",
+	"sortOrder": 1087,
+	"stages": 1,
+	"stage1": {
+		"title": "Seperti Permainan Catur",
+		"description": "Memasang Realm Waypoint untuk pertama kali di Serenitea Pot.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

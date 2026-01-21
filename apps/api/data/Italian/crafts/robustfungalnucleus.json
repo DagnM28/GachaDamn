@@ -1,0 +1,16 @@
+{
+	"id": 11044,
+	"name": "Nucleo di Miconoide vigoroso",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140109,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112063,
+			"name": "Nucleo di Miconoide dormiente",
+			"count": 3
+		}
+	]
+}

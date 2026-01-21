@@ -1,0 +1,11 @@
+{
+	"id": 100077,
+	"name": "Poivre",
+	"sortRank": 321,
+	"description": "Cet assaisonnement pique légèrement vos papilles et fait des merveilles sur de la viande.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Épiceries"
+	]
+}

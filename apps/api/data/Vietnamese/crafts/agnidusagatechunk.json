@@ -1,0 +1,16 @@
+{
+	"id": 15002,
+	"name": "Miếng Mã Não Cháy",
+	"filterText": "Nguyên Liệu Đột Phá Nhân Vật",
+	"sortOrder": 109999,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104112,
+			"name": "Mảnh Mã Não Cháy",
+			"count": 3
+		}
+	]
+}

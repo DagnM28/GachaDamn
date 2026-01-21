@@ -1,0 +1,21 @@
+{
+	"id": [
+		84130
+	],
+	"name": "Aşırı Korumacılık",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"isHidden": true,
+	"sortOrder": 7011,
+	"stages": 1,
+	"stage1": {
+		"title": "Aşırı Korumacılık",
+		"description": "Tek bir taş, suda binlerce dalgacık yaratır. Ningguang izin yapamayacak sanırım.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81405
+	],
+	"name": "\"Yseut\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1389,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Yseut\"",
+		"description": "Chiến thắng Huyền Thoại Địa Phương: Yseut",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

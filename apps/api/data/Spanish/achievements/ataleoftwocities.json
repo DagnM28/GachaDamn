@@ -1,0 +1,21 @@
+{
+	"id": [
+		81172
+	],
+	"name": "Historia de dos ciudades",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1158,
+	"stages": 1,
+	"stage1": {
+		"title": "Historia de dos ciudades",
+		"description": "Parece que incluso la Isla Tsurumi se construyó sobre los restos de unas antiguas ruinas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

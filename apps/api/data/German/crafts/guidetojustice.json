@@ -1,0 +1,16 @@
+{
+	"id": 13027,
+	"name": "Anleitung zur „Gerechtigkeit“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120130,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104341,
+			"name": "Lehren der „Gerechtigkeit“",
+			"count": 3
+		}
+	]
+}

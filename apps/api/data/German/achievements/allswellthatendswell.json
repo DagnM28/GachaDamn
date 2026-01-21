@@ -1,0 +1,21 @@
+{
+	"id": [
+		84524
+	],
+	"name": "Lange nicht heimgekehrt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4048,
+	"stages": 1,
+	"stage1": {
+		"title": "Lange nicht heimgekehrt",
+		"description": "Schließ „Alte Bekannte“ ab.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

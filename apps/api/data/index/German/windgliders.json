@@ -1,0 +1,70 @@
+{
+	"namemap": {
+		"wingsofazurewind": "Himmelblaue Windschwingen",
+		"wingsofcompanionship": "Flügel der Kameradschaft",
+		"wingsofconcealingsnow": "Im Schnee versteckte Flügel",
+		"wingsofdelicacies": "Flügel der Köstlichkeit",
+		"wingsofdescension": "Flügel der Niederkunft",
+		"wingsoffatescourseintertwined": "Flügel des verflochtenen Schicksals",
+		"wingsoffeasting": "Flügel der Festgelage",
+		"wingsoffirstflight": "Anfängerschwingen",
+		"wingsofgoldenflight": "Goldener Himmelgänger",
+		"wingsofleisurelymoments": "Flügel des entspannten Beisammenseins",
+		"wingsofmercifulwrathfulwaters": "Flügel der barmherzigen Wut der Wellen",
+		"wingsofshimmeringgalaxy": "Flügel des galaktischen Scheins",
+		"wingsofsoaringflame": "Flügel der flackernden Flammen",
+		"wingsoftheforest": "Pflanzenschwingen des Überschwangs",
+		"wingsofthesilentmoon": "Flügel des stillen Mondes",
+		"wingsofthestarlitfeast": "Flügel des Sternenbanketts",
+		"wingsofthestormstrider": "Flügel des Blitzwolkenläufers",
+		"wingsoftransientdreams": "Flügel vergänglicher Träume"
+	},
+	"names": {
+		"Himmelblaue Windschwingen": "wingsofazurewind",
+		"Flügel der Kameradschaft": "wingsofcompanionship",
+		"Im Schnee versteckte Flügel": "wingsofconcealingsnow",
+		"Flügel der Köstlichkeit": "wingsofdelicacies",
+		"Flügel der Niederkunft": "wingsofdescension",
+		"Flügel des verflochtenen Schicksals": "wingsoffatescourseintertwined",
+		"Flügel der Festgelage": "wingsoffeasting",
+		"Anfängerschwingen": "wingsoffirstflight",
+		"Goldener Himmelgänger": "wingsofgoldenflight",
+		"Flügel des entspannten Beisammenseins": "wingsofleisurelymoments",
+		"Flügel der barmherzigen Wut der Wellen": "wingsofmercifulwrathfulwaters",
+		"Flügel des galaktischen Scheins": "wingsofshimmeringgalaxy",
+		"Flügel der flackernden Flammen": "wingsofsoaringflame",
+		"Pflanzenschwingen des Überschwangs": "wingsoftheforest",
+		"Flügel des stillen Mondes": "wingsofthesilentmoon",
+		"Flügel des Sternenbanketts": "wingsofthestarlitfeast",
+		"Flügel des Blitzwolkenläufers": "wingsofthestormstrider",
+		"Flügel vergänglicher Träume": "wingsoftransientdreams"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"wingsofazurewind",
+			"wingsofcompanionship",
+			"wingsofconcealingsnow",
+			"wingsofdelicacies",
+			"wingsofdescension",
+			"wingsoffatescourseintertwined",
+			"wingsoffeasting",
+			"wingsoffirstflight",
+			"wingsofgoldenflight",
+			"wingsofleisurelymoments",
+			"wingsofmercifulwrathfulwaters",
+			"wingsofshimmeringgalaxy",
+			"wingsofsoaringflame",
+			"wingsoftheforest",
+			"wingsofthesilentmoon",
+			"wingsofthestarlitfeast",
+			"wingsofthestormstrider",
+			"wingsoftransientdreams"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

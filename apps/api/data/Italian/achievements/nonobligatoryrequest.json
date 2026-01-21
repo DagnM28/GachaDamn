@@ -1,0 +1,21 @@
+{
+	"id": [
+		84557
+	],
+	"name": "Richiesta non vincolante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 4081,
+	"stages": 1,
+	"stage1": {
+		"title": "Richiesta non vincolante",
+		"description": "Trova tutti gli oggetti che Gulabgir ha creato per i suoi serpenti.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

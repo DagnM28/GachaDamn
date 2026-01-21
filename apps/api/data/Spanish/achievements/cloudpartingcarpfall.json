@@ -1,0 +1,21 @@
+{
+	"id": [
+		81450
+	],
+	"name": "El entramado de las nubes",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1434,
+	"stages": 1,
+	"stage1": {
+		"title": "El entramado de las nubes",
+		"description": "Entra con Lingyuan en los Jardines Carpacaída olvidados.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84021
+	],
+	"name": "Die Zeit des Urteils ist noch nicht gekommen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4022,
+	"stages": 1,
+	"stage1": {
+		"title": "Die Zeit des Urteils ist noch nicht gekommen",
+		"description": "Besiege den Grafen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

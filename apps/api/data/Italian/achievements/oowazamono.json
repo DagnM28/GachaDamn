@@ -1,0 +1,21 @@
+{
+	"id": [
+		81120
+	],
+	"name": "Oowazamono",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1116,
+	"stages": 1,
+	"stage1": {
+		"title": "Oowazamono",
+		"description": "Sconfiggi Masanori con facilità.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

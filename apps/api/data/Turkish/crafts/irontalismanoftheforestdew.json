@@ -1,0 +1,16 @@
+{
+	"id": 12028,
+	"name": "Orman Çiyinin Demir Tılsımı",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130090,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114037,
+			"name": "Orman Çiyinin Bakır Tılsımı",
+			"count": 3
+		}
+	]
+}

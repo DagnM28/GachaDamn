@@ -1,0 +1,16 @@
+{
+	"id": 12012,
+	"name": "孤雲寒林的神體",
+	"filterText": "武器突破素材",
+	"sortOrder": 130028,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114015,
+			"name": "孤雲寒林的聖骸",
+			"count": 3
+		}
+	]
+}

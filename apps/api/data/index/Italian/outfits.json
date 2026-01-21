@@ -1,0 +1,767 @@
+{
+	"namemap": {
+		"100outrider": "100% Vigilante",
+		"5staroutrider": "Vigilante esemplare",
+		"adventuresinblazinghue": "Avventure tra colori sfolgoranti",
+		"agiftfromthestars": "Un dono dalle stelle",
+		"aguestsaugustomen": "Solenne auspicio di un ospite",
+		"allisovertthroughmylens": "Tutto è evidente attraverso la lente",
+		"ambrosialverdance": "Verde ambrosia",
+		"anewleaf": "Nuova linfa",
+		"aratakisdemonicdeputy": "Vice demoniaca di Arataki",
+		"ardentsoul": "Anima ardente",
+		"argentchimes": "Campanelle d'argento",
+		"armoredrose": "Rosa corazzata",
+		"asheavenandeartharemadeanewaether": "Rinascita di cielo e terra",
+		"asheavenandeartharemadeanewlumine": "Rinascita di cielo e terra",
+		"asobriquetundershade": "Un nomignolo all'ombra",
+		"awrathfulvoid": "Vanità del nulla",
+		"azuresilk": "Seta celeste",
+		"bamboorain": "Pioggia di bambù",
+		"batwingiris": "Occhio del pipistrello",
+		"bladesofglory": "Lame di gloria",
+		"blossomingstarlight": "Luce stellare fiorente",
+		"breezeofsabaa": "Brezza di Sabaa",
+		"breezyode": "Versi nel vento",
+		"cherriessnowladen": "Ciliegie cariche di neve",
+		"cherubicosmanthus": "Osmanto cherubico",
+		"clearadjudication": "Giudizio perspicuo",
+		"coronatedprimadonna": "Primadonna con corona",
+		"darknightblaze": "Fiamme della notte",
+		"dawnbreathdreambelle": "Sogno di una brezza del mattino",
+		"dawnseer": "Veggente dell'alba",
+		"desertandnight": "Deserto e notte",
+		"dreamingstar": "Stella sognante",
+		"dunkelnachtsakrament": "Dunkelnacht Sakrament",
+		"eccentriconi": "Oni eccentrico",
+		"eightbitartistry": "Arte a 8 bit",
+		"einimmernachtstraum": "Ein Immernachtstraum",
+		"emeraldcipher": "Mistero di smeraldo",
+		"endurerofeons": "Combattente millenario",
+		"executorsthorns": "Sentenza spinosa",
+		"fallingleaves": "Aria d'autunno",
+		"fantasticat": "Fantastigatto",
+		"favoniandevotion": "Devozione favonica",
+		"flawlessradiance": "Radiosità impeccabile",
+		"flowingfate": "Destino mutevole",
+		"fluffypuffywhizkidworkwear": "Divisa morbidosa della giovane prodigio",
+		"flyingfishheatwavesandmoonscallop": "Pesci volanti, ondate di caldo e capesante lunari",
+		"forallknowledgeaverse": "Per tutta la conoscenza, un verso",
+		"fortunesfavor": "Favore della fortuna",
+		"frostdewtrail": "Sentiero gelato",
+		"frostflowerdew": "Rugiada fiorigente",
+		"germinatingwind": "Vento di vita",
+		"golddrapedgorge": "Valle dorata",
+		"goldenrule": "Regola aurea",
+		"goldensandstrider": "Grampasso delle sabbie dorate",
+		"goldfishfirecracker": "Spettacolo pirotecnico",
+		"goldleafandpearlyjade": "Giada dorata",
+		"goldpinionsinflamesbathed": "Ali dorate in un bagno di fiamme",
+		"guardiansgun": "Pistola della guardiana",
+		"gunnhildrslegacy": "Eredità di Gunnhildr",
+		"heartofthescales": "Cuore della bilancia",
+		"hermitofmortallife": "Spoglie mortali",
+		"icyfeatherflight": "Piume in volo sul ghiaccio",
+		"icyskin": "Pelle di ghiaccio",
+		"ilovemora": "Amore per i Mora",
+		"innocentlonging": "Speranza innocente",
+		"machinehunter": "Cacciatrice di macchine",
+		"mechanicaldreams": "Sogni meccanici",
+		"melusentgift": "Dono melusino",
+		"mikosinstruction": "Comando di Miko",
+		"minimujina": "Mini Mujina",
+		"mistcloudstage": "Manto di bruma",
+		"moonglare": "Chiarore lunare",
+		"moonlitcourser": "Corriluna",
+		"moonweavegossamer": "Veste lunare",
+		"narukamislaw": "Legge di Narukami",
+		"neitherflowernormist": "Né fiori né nebbia",
+		"newmoonstarlight": "Luce di luna nuova",
+		"newyearscheer": "Celebrazione per l'anno nuovo",
+		"nightschillinghowl": "Ululato della notte d'inverno",
+		"nocturne": "Notturno",
+		"novaswhisper": "Sospiro stellare",
+		"opulentsplendor": "Splendore opulento",
+		"orchidseveninggown": "Abito da sera d'orchidee",
+		"pactofstarsandmoon": "Patto delle stelle e della luna",
+		"panoplyofahundredhunts": "Panoplia del cacciatore esperto",
+		"phantomeow": "Fantasmiao",
+		"phantominboots": "Fantasma con gli stivali",
+		"piercingthunderbolt": "Saetta perforante",
+		"pluckedyamabukisplendor": "Iridescenza dello Yamabuki raccolto",
+		"plumblossombouquet": "Fragranza persistente",
+		"pristineelegance": "Eleganza impeccabile",
+		"pristineprayers": "Orazioni immacolate",
+		"purespirit": "Purezza spirituale",
+		"purplerose": "Rosa purpurea",
+		"rainlitbambooreverie": "Fantasticheria di bambù nella pioggia",
+		"rangingrainbow": "Arcobaleno sconfinato",
+		"reddeadofnight": "Cuore della notte rosso",
+		"redpepperandturmeric": "Curcuma e peperoncino",
+		"risingstaraether": "Astro nascente",
+		"risingstarlumine": "Astro nascente",
+		"rollingwaves": "Onda cremisi",
+		"sailwindshadow": "Ombra Navigavento",
+		"seabreezedandelion": "Dente di leone della brezza marina",
+		"shatteredstar": "Stella infranta",
+		"shootingspark": "Scintilla raggiante",
+		"silksplendor": "Splendore di seta",
+		"soaringbeacon": "Faro ad alta quota",
+		"solemnpurity": "Purezza solenne",
+		"sorbethoneypie": "Torta sorbetto al miele",
+		"sparklingcoralbone": "Corallo cristallino",
+		"spiritedvalor": "Coraggio grintoso",
+		"springbloommissive": "Missiva primaverile",
+		"steadfastresolve": "Determinazione incrollabile",
+		"sugarrush": "Trionfo di zucchero",
+		"sugarybrew": "Miscela zuccherina",
+		"summerchilldreams": "Sogno di una sera di mezza estate",
+		"summertimesparkle": "Estate raggiante",
+		"sweetnessofthesea": "Dolcezza del mare",
+		"swordofhonor": "Spada d'onore",
+		"tawnypeaksspiredrock": "Picchi fulvi, rocce a spirale",
+		"theapplicationsofmedicine": "Medicina applicata",
+		"thelionessandtheblazingsun": "La leonessa e il sole incandescente",
+		"therational": "Il razionale",
+		"thewaningpoint": "Punto di declino",
+		"theworldsshackles": "Catene del mondo",
+		"tlalocansnightphantom": "Fantasma notturno di Tlalocan",
+		"tothechurchsfreespirit": "Per lo spirito libero della Chiesa",
+		"towardthedistanthorizon": "Verso l'orizzonte distante",
+		"tranquilbanquet": "Banchetto sereno",
+		"twilightblossom": "Bocciolo crepuscolare",
+		"undyingsun": "Sole immortale",
+		"verdantmoon": "Luna verdeggiante",
+		"warriorofflame": "Guerriero delle fiamme",
+		"warriorsbonegarb": "Ossa del guerriero",
+		"wavecrestwaltz": "Valzer delle onde",
+		"whirlingbloom": "Turbine in fiore",
+		"whistledartwings": "Ali del dardo sibilante",
+		"wildsprint": "Scatto selvaggio",
+		"woodlandsong": "Canzone dei boschi",
+		"yellowvelvetsalon": "Salotto di velluto giallo"
+	},
+	"names": {
+		"100% Vigilante": "100outrider",
+		"Vigilante esemplare": "5staroutrider",
+		"Avventure tra colori sfolgoranti": "adventuresinblazinghue",
+		"Un dono dalle stelle": "agiftfromthestars",
+		"Solenne auspicio di un ospite": "aguestsaugustomen",
+		"Tutto è evidente attraverso la lente": "allisovertthroughmylens",
+		"Verde ambrosia": "ambrosialverdance",
+		"Nuova linfa": "anewleaf",
+		"Vice demoniaca di Arataki": "aratakisdemonicdeputy",
+		"Anima ardente": "ardentsoul",
+		"Campanelle d'argento": "argentchimes",
+		"Rosa corazzata": "armoredrose",
+		"Rinascita di cielo e terra": "asheavenandeartharemadeanewaether",
+		"Un nomignolo all'ombra": "asobriquetundershade",
+		"Vanità del nulla": "awrathfulvoid",
+		"Seta celeste": "azuresilk",
+		"Pioggia di bambù": "bamboorain",
+		"Occhio del pipistrello": "batwingiris",
+		"Lame di gloria": "bladesofglory",
+		"Luce stellare fiorente": "blossomingstarlight",
+		"Brezza di Sabaa": "breezeofsabaa",
+		"Versi nel vento": "breezyode",
+		"Ciliegie cariche di neve": "cherriessnowladen",
+		"Osmanto cherubico": "cherubicosmanthus",
+		"Giudizio perspicuo": "clearadjudication",
+		"Primadonna con corona": "coronatedprimadonna",
+		"Fiamme della notte": "darknightblaze",
+		"Sogno di una brezza del mattino": "dawnbreathdreambelle",
+		"Veggente dell'alba": "dawnseer",
+		"Deserto e notte": "desertandnight",
+		"Stella sognante": "dreamingstar",
+		"Dunkelnacht Sakrament": "dunkelnachtsakrament",
+		"Oni eccentrico": "eccentriconi",
+		"Arte a 8 bit": "eightbitartistry",
+		"Ein Immernachtstraum": "einimmernachtstraum",
+		"Mistero di smeraldo": "emeraldcipher",
+		"Combattente millenario": "endurerofeons",
+		"Sentenza spinosa": "executorsthorns",
+		"Aria d'autunno": "fallingleaves",
+		"Fantastigatto": "fantasticat",
+		"Devozione favonica": "favoniandevotion",
+		"Radiosità impeccabile": "flawlessradiance",
+		"Destino mutevole": "flowingfate",
+		"Divisa morbidosa della giovane prodigio": "fluffypuffywhizkidworkwear",
+		"Pesci volanti, ondate di caldo e capesante lunari": "flyingfishheatwavesandmoonscallop",
+		"Per tutta la conoscenza, un verso": "forallknowledgeaverse",
+		"Favore della fortuna": "fortunesfavor",
+		"Sentiero gelato": "frostdewtrail",
+		"Rugiada fiorigente": "frostflowerdew",
+		"Vento di vita": "germinatingwind",
+		"Valle dorata": "golddrapedgorge",
+		"Regola aurea": "goldenrule",
+		"Grampasso delle sabbie dorate": "goldensandstrider",
+		"Spettacolo pirotecnico": "goldfishfirecracker",
+		"Giada dorata": "goldleafandpearlyjade",
+		"Ali dorate in un bagno di fiamme": "goldpinionsinflamesbathed",
+		"Pistola della guardiana": "guardiansgun",
+		"Eredità di Gunnhildr": "gunnhildrslegacy",
+		"Cuore della bilancia": "heartofthescales",
+		"Spoglie mortali": "hermitofmortallife",
+		"Piume in volo sul ghiaccio": "icyfeatherflight",
+		"Pelle di ghiaccio": "icyskin",
+		"Amore per i Mora": "ilovemora",
+		"Speranza innocente": "innocentlonging",
+		"Cacciatrice di macchine": "machinehunter",
+		"Sogni meccanici": "mechanicaldreams",
+		"Dono melusino": "melusentgift",
+		"Comando di Miko": "mikosinstruction",
+		"Mini Mujina": "minimujina",
+		"Manto di bruma": "mistcloudstage",
+		"Chiarore lunare": "moonglare",
+		"Corriluna": "moonlitcourser",
+		"Veste lunare": "moonweavegossamer",
+		"Legge di Narukami": "narukamislaw",
+		"Né fiori né nebbia": "neitherflowernormist",
+		"Luce di luna nuova": "newmoonstarlight",
+		"Celebrazione per l'anno nuovo": "newyearscheer",
+		"Ululato della notte d'inverno": "nightschillinghowl",
+		"Notturno": "nocturne",
+		"Sospiro stellare": "novaswhisper",
+		"Splendore opulento": "opulentsplendor",
+		"Abito da sera d'orchidee": "orchidseveninggown",
+		"Patto delle stelle e della luna": "pactofstarsandmoon",
+		"Panoplia del cacciatore esperto": "panoplyofahundredhunts",
+		"Fantasmiao": "phantomeow",
+		"Fantasma con gli stivali": "phantominboots",
+		"Saetta perforante": "piercingthunderbolt",
+		"Iridescenza dello Yamabuki raccolto": "pluckedyamabukisplendor",
+		"Fragranza persistente": "plumblossombouquet",
+		"Eleganza impeccabile": "pristineelegance",
+		"Orazioni immacolate": "pristineprayers",
+		"Purezza spirituale": "purespirit",
+		"Rosa purpurea": "purplerose",
+		"Fantasticheria di bambù nella pioggia": "rainlitbambooreverie",
+		"Arcobaleno sconfinato": "rangingrainbow",
+		"Cuore della notte rosso": "reddeadofnight",
+		"Curcuma e peperoncino": "redpepperandturmeric",
+		"Astro nascente": "risingstaraether",
+		"Onda cremisi": "rollingwaves",
+		"Ombra Navigavento": "sailwindshadow",
+		"Dente di leone della brezza marina": "seabreezedandelion",
+		"Stella infranta": "shatteredstar",
+		"Scintilla raggiante": "shootingspark",
+		"Splendore di seta": "silksplendor",
+		"Faro ad alta quota": "soaringbeacon",
+		"Purezza solenne": "solemnpurity",
+		"Torta sorbetto al miele": "sorbethoneypie",
+		"Corallo cristallino": "sparklingcoralbone",
+		"Coraggio grintoso": "spiritedvalor",
+		"Missiva primaverile": "springbloommissive",
+		"Determinazione incrollabile": "steadfastresolve",
+		"Trionfo di zucchero": "sugarrush",
+		"Miscela zuccherina": "sugarybrew",
+		"Sogno di una sera di mezza estate": "summerchilldreams",
+		"Estate raggiante": "summertimesparkle",
+		"Dolcezza del mare": "sweetnessofthesea",
+		"Spada d'onore": "swordofhonor",
+		"Picchi fulvi, rocce a spirale": "tawnypeaksspiredrock",
+		"Medicina applicata": "theapplicationsofmedicine",
+		"La leonessa e il sole incandescente": "thelionessandtheblazingsun",
+		"Il razionale": "therational",
+		"Punto di declino": "thewaningpoint",
+		"Catene del mondo": "theworldsshackles",
+		"Fantasma notturno di Tlalocan": "tlalocansnightphantom",
+		"Per lo spirito libero della Chiesa": "tothechurchsfreespirit",
+		"Verso l'orizzonte distante": "towardthedistanthorizon",
+		"Banchetto sereno": "tranquilbanquet",
+		"Bocciolo crepuscolare": "twilightblossom",
+		"Sole immortale": "undyingsun",
+		"Luna verdeggiante": "verdantmoon",
+		"Guerriero delle fiamme": "warriorofflame",
+		"Ossa del guerriero": "warriorsbonegarb",
+		"Valzer delle onde": "wavecrestwaltz",
+		"Turbine in fiore": "whirlingbloom",
+		"Ali del dardo sibilante": "whistledartwings",
+		"Scatto selvaggio": "wildsprint",
+		"Canzone dei boschi": "woodlandsong",
+		"Salotto di velluto giallo": "yellowvelvetsalon"
+	},
+	"aliases": {},
+	"categories": {
+		"Amber": [
+			"100outrider",
+			"5staroutrider"
+		],
+		"Bennett": [
+			"adventuresinblazinghue",
+			"fortunesfavor"
+		],
+		"Durin": [
+			"agiftfromthestars",
+			"towardthedistanthorizon"
+		],
+		"Xianyun": [
+			"aguestsaugustomen"
+		],
+		"Charlotte": [
+			"allisovertthroughmylens"
+		],
+		"Émilie": [
+			"ambrosialverdance"
+		],
+		"Collei": [
+			"anewleaf"
+		],
+		"Kuki Shinobu": [
+			"aratakisdemonicdeputy"
+		],
+		"Xinyan": [
+			"ardentsoul"
+		],
+		"Lan Yan": [
+			"argentchimes"
+		],
+		"Noelle": [
+			"armoredrose"
+		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
+		"Lisa": [
+			"asobriquetundershade",
+			"purplerose"
+		],
+		"Vagabondo": [
+			"awrathfulvoid"
+		],
+		"Xingqiu": [
+			"azuresilk",
+			"bamboorain"
+		],
+		"Ororon": [
+			"batwingiris"
+		],
+		"Tartaglia": [
+			"bladesofglory"
+		],
+		"Klee": [
+			"blossomingstarlight",
+			"shootingspark"
+		],
+		"Nilou": [
+			"breezeofsabaa",
+			"neitherflowernormist"
+		],
+		"Venti": [
+			"breezyode"
+		],
+		"Hu Tao": [
+			"cherriessnowladen",
+			"plumblossombouquet"
+		],
+		"Yaoyao": [
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
+		],
+		"Neuvillette": [
+			"clearadjudication",
+			"melusentgift"
+		],
+		"Furina": [
+			"coronatedprimadonna"
+		],
+		"Diluc": [
+			"darknightblaze",
+			"reddeadofnight"
+		],
+		"Yumemizuki Mizuki": [
+			"dawnbreathdreambelle"
+		],
+		"Citlali": [
+			"dawnseer"
+		],
+		"Candace": [
+			"desertandnight"
+		],
+		"Layla": [
+			"dreamingstar"
+		],
+		"Fischl": [
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
+		],
+		"Arataki Itto": [
+			"eccentriconi"
+		],
+		"Kinich": [
+			"eightbitartistry"
+		],
+		"Nefer": [
+			"emeraldcipher"
+		],
+		"Xiao": [
+			"endurerofeons"
+		],
+		"Rosaria": [
+			"executorsthorns",
+			"tothechurchsfreespirit"
+		],
+		"Kaedehara Kazuha": [
+			"fallingleaves"
+		],
+		"Lyney": [
+			"fantasticat"
+		],
+		"Jean": [
+			"favoniandevotion",
+			"gunnhildrslegacy",
+			"seabreezedandelion"
+		],
+		"Kamisato Ayaka": [
+			"flawlessradiance",
+			"springbloommissive"
+		],
+		"Mona": [
+			"flowingfate",
+			"pactofstarsandmoon"
+		],
+		"Aino": [
+			"fluffypuffywhizkidworkwear"
+		],
+		"Mualani": [
+			"flyingfishheatwavesandmoonscallop"
+		],
+		"Nahida": [
+			"forallknowledgeaverse"
+		],
+		"Ganyu": [
+			"frostdewtrail",
+			"twilightblossom"
+		],
+		"Shenhe": [
+			"frostflowerdew",
+			"theworldsshackles"
+		],
+		"Sucrose": [
+			"germinatingwind"
+		],
+		"Xilonen": [
+			"golddrapedgorge"
+		],
+		"Yanfei": [
+			"goldenrule"
+		],
+		"Sethos": [
+			"goldensandstrider"
+		],
+		"Yoimiya": [
+			"goldfishfirecracker"
+		],
+		"Ningguang": [
+			"goldleafandpearlyjade",
+			"orchidseveninggown"
+		],
+		"Kaveh": [
+			"goldpinionsinflamesbathed"
+		],
+		"Chevreuse": [
+			"guardiansgun"
+		],
+		"Cyno": [
+			"heartofthescales"
+		],
+		"Zhongli": [
+			"hermitofmortallife"
+		],
+		"Kaeya": [
+			"icyfeatherflight",
+			"sailwindshadow"
+		],
+		"Freminet": [
+			"icyskin"
+		],
+		"Dori": [
+			"ilovemora"
+		],
+		"Barbara": [
+			"innocentlonging",
+			"summertimesparkle"
+		],
+		"Aloy": [
+			"machinehunter"
+		],
+		"Ineffa": [
+			"mechanicaldreams"
+		],
+		"Yae Miko": [
+			"mikosinstruction"
+		],
+		"Sayu": [
+			"minimujina"
+		],
+		"Yun Jin": [
+			"mistcloudstage"
+		],
+		"Arlecchino": [
+			"moonglare"
+		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Colombina": [
+			"moonweavegossamer"
+		],
+		"Shogun Raiden": [
+			"narukamislaw"
+		],
+		"Albedo": [
+			"newmoonstarlight"
+		],
+		"Xiangling": [
+			"newyearscheer",
+			"redpepperandturmeric"
+		],
+		"Wriothesley": [
+			"nightschillinghowl"
+		],
+		"Flins": [
+			"nocturne"
+		],
+		"Jahoda": [
+			"novaswhisper"
+		],
+		"Keqing": [
+			"opulentsplendor",
+			"piercingthunderbolt"
+		],
+		"Gorou": [
+			"panoplyofahundredhunts"
+		],
+		"Lynette": [
+			"phantomeow"
+		],
+		"Kirara": [
+			"phantominboots",
+			"whirlingbloom"
+		],
+		"Chiori": [
+			"pluckedyamabukisplendor"
+		],
+		"Faruzan": [
+			"pristineelegance"
+		],
+		"Dahlia": [
+			"pristineprayers"
+		],
+		"Chongyun": [
+			"purespirit"
+		],
+		"Gaming": [
+			"rangingrainbow"
+		],
+		"Beidou": [
+			"rollingwaves"
+		],
+		"Skirk": [
+			"shatteredstar"
+		],
+		"Kamisato Ayato": [
+			"silksplendor"
+		],
+		"Mika": [
+			"soaringbeacon"
+		],
+		"Kujou Sara": [
+			"solemnpurity"
+		],
+		"Escoffier": [
+			"sorbethoneypie"
+		],
+		"Sangonomiya Kokomi": [
+			"sparklingcoralbone"
+		],
+		"Shikanoin Heizou": [
+			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
+		],
+		"Varesa": [
+			"sugarrush"
+		],
+		"Diona": [
+			"sugarybrew"
+		],
+		"Qiqi": [
+			"summerchilldreams"
+		],
+		"Sigewinne": [
+			"sweetnessofthesea"
+		],
+		"Clorinde": [
+			"swordofhonor"
+		],
+		"Kachina": [
+			"tawnypeaksspiredrock"
+		],
+		"Baizhu": [
+			"theapplicationsofmedicine"
+		],
+		"Dehya": [
+			"thelionessandtheblazingsun"
+		],
+		"Alhaitham": [
+			"therational"
+		],
+		"Yelan": [
+			"thewaningpoint",
+			"tranquilbanquet"
+		],
+		"Chasca": [
+			"tlalocansnightphantom"
+		],
+		"Mavuika": [
+			"undyingsun"
+		],
+		"Lauma": [
+			"verdantmoon"
+		],
+		"Thoma": [
+			"warriorofflame"
+		],
+		"Iansan": [
+			"warriorsbonegarb"
+		],
+		"Eula": [
+			"wavecrestwaltz"
+		],
+		"Ifa": [
+			"whistledartwings"
+		],
+		"Razor": [
+			"wildsprint"
+		],
+		"Tighnari": [
+			"woodlandsong"
+		],
+		"Navia": [
+			"yellowvelvetsalon"
+		]
+	},
+	"properties": {
+		"characterName": [
+			"Amber",
+			"Bennett",
+			"Durin",
+			"Xianyun",
+			"Charlotte",
+			"Émilie",
+			"Collei",
+			"Kuki Shinobu",
+			"Xinyan",
+			"Lan Yan",
+			"Noelle",
+			"Aether",
+			"Lumine",
+			"Lisa",
+			"Vagabondo",
+			"Xingqiu",
+			"Ororon",
+			"Tartaglia",
+			"Klee",
+			"Nilou",
+			"Venti",
+			"Hu Tao",
+			"Yaoyao",
+			"Neuvillette",
+			"Furina",
+			"Diluc",
+			"Yumemizuki Mizuki",
+			"Citlali",
+			"Candace",
+			"Layla",
+			"Fischl",
+			"Arataki Itto",
+			"Kinich",
+			"Nefer",
+			"Xiao",
+			"Rosaria",
+			"Kaedehara Kazuha",
+			"Lyney",
+			"Jean",
+			"Kamisato Ayaka",
+			"Mona",
+			"Aino",
+			"Mualani",
+			"Nahida",
+			"Ganyu",
+			"Shenhe",
+			"Sucrose",
+			"Xilonen",
+			"Yanfei",
+			"Sethos",
+			"Yoimiya",
+			"Ningguang",
+			"Kaveh",
+			"Chevreuse",
+			"Cyno",
+			"Zhongli",
+			"Kaeya",
+			"Freminet",
+			"Dori",
+			"Barbara",
+			"Aloy",
+			"Ineffa",
+			"Yae Miko",
+			"Sayu",
+			"Yun Jin",
+			"Arlecchino",
+			"Zibai",
+			"Colombina",
+			"Shogun Raiden",
+			"Albedo",
+			"Xiangling",
+			"Wriothesley",
+			"Flins",
+			"Jahoda",
+			"Keqing",
+			"Gorou",
+			"Lynette",
+			"Kirara",
+			"Chiori",
+			"Faruzan",
+			"Dahlia",
+			"Chongyun",
+			"Gaming",
+			"Beidou",
+			"Skirk",
+			"Kamisato Ayato",
+			"Mika",
+			"Kujou Sara",
+			"Escoffier",
+			"Sangonomiya Kokomi",
+			"Shikanoin Heizou",
+			"Illuga",
+			"Varesa",
+			"Diona",
+			"Qiqi",
+			"Sigewinne",
+			"Clorinde",
+			"Kachina",
+			"Baizhu",
+			"Dehya",
+			"Alhaitham",
+			"Yelan",
+			"Chasca",
+			"Mavuika",
+			"Lauma",
+			"Thoma",
+			"Iansan",
+			"Eula",
+			"Ifa",
+			"Razor",
+			"Tighnari",
+			"Navia"
+		]
+	}
+}

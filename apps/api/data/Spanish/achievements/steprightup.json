@@ -1,0 +1,21 @@
+{
+	"id": [
+		81196
+	],
+	"name": "Directo a la diana",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1182,
+	"stages": 1,
+	"stage1": {
+		"title": "Directo a la diana",
+		"description": "Completa el desafío de disparo con arco.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

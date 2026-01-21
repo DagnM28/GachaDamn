@@ -1,0 +1,21 @@
+{
+	"id": [
+		80078
+	],
+	"name": "Divine Roots",
+	"achievementGroupId": 24,
+	"achievementGroupName": "Inazuma: The Islands of Thunder and Eternity - Series I",
+	"sortOrder": 79,
+	"stages": 1,
+	"stage1": {
+		"title": "Divine Roots",
+		"ps5title": "Inazuma: Divine Roots",
+		"description": "Reach the Max Level of Sacred Sakura's Favor.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

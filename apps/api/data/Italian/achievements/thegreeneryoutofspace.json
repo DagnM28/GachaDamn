@@ -1,0 +1,20 @@
+{
+	"id": [
+		86032
+	],
+	"name": "Vegetazione invasiva",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Incontri in un altro mondo: Serie IV",
+	"sortOrder": 9031,
+	"stages": 1,
+	"stage1": {
+		"title": "Vegetazione invasiva",
+		"description": "Sconfiggi un'Ipostasi di Dendro in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

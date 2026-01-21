@@ -1,0 +1,21 @@
+{
+	"id": [
+		82124
+	],
+	"name": "Attention, chien méchant !",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 2124,
+	"stages": 1,
+	"stage1": {
+		"title": "Attention, chien méchant !",
+		"description": "Vainquez un Limier de faille hurlant.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

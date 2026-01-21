@@ -1,0 +1,20 @@
+{
+	"id": [
+		80269
+	],
+	"name": "Kẻ Lừa Đảo Renart",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Tuần Du Trần Thế - Phần IV",
+	"sortOrder": 176,
+	"stages": 1,
+	"stage1": {
+		"title": "Kẻ Lừa Đảo Renart",
+		"description": "Thu thập đủ bộ \"Ngụ Ngôn Động Vật Fontaine\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

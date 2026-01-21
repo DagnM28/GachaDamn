@@ -1,0 +1,21 @@
+{
+	"id": [
+		81223
+	],
+	"name": "Weisheit, die den Wald erhellt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"sortOrder": 1209,
+	"stages": 1,
+	"stage1": {
+		"title": "Weisheit, die den Wald erhellt",
+		"ps5title": "Sumeru – Weisheit, die den Wald erhellt",
+		"description": "Erreiche Ansehensstufe 10 in Sumeru.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

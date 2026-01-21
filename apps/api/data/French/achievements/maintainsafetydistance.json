@@ -1,0 +1,21 @@
+{
+	"id": [
+		81208
+	],
+	"name": "Tous aux abris !",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1194,
+	"stages": 1,
+	"stage1": {
+		"title": "Tous aux abris !",
+		"description": "Utilisez le « dispositif de démolition à distance de sécurité - modèle 2156 » pour dégager le chemin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"id": 104316,
+	"name": "Lehren des „Golds“",
+	"rarity": 2,
+	"sortRank": 13106,
+	"description": "Material zum Verbessern von Talenten.\nGold ist das Symbol des Reiches des Gesteins.\nDas Gold fließt in den Adern Liyues. Es nährt Liyues Herz und gibt seinen Muskeln die Kraft, stolz und erhaben aufrecht zu stehen.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material für Figurentalente",
+	"dropDomainId": 5262,
+	"dropDomainName": "Sphäre des Verständnisses: Ring aus glimmender Asche",
+	"daysOfWeek": [
+		"Mittwoch",
+		"Samstag",
+		"Sonntag"
+	],
+	"sources": [
+		"Bei Geschenkhändler einzutauschen"
+	]
+}

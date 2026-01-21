@@ -1,0 +1,21 @@
+{
+	"id": [
+		84532
+	],
+	"name": "Repas pour deux",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 4056,
+	"stages": 1,
+	"stage1": {
+		"title": "Repas pour deux",
+		"description": "Aidez Xudong et Kamei Munehisa à cuisiner un plat.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

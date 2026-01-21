@@ -1,0 +1,21 @@
+{
+	"id": [
+		81329
+	],
+	"name": "Ils sont de retour",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1316,
+	"stages": 1,
+	"stage1": {
+		"title": "Ils sont de retour",
+		"description": "Terminez « Flamme vacillante ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

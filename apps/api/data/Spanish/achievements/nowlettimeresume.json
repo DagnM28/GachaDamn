@@ -1,0 +1,21 @@
+{
+	"id": [
+		81243
+	],
+	"name": "El tiempo vuelve a fluir",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1229,
+	"stages": 1,
+	"stage1": {
+		"title": "El tiempo vuelve a fluir",
+		"description": "Completa el asunto pendiente de Aradasha.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12011,
+	"name": "Relic from Guyun",
+	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
+	"sortOrder": 130029,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114014,
+			"name": "Lustrous Stone from Guyun",
+			"count": 3
+		}
+	]
+}

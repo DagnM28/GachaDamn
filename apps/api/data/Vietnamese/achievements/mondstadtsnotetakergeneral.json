@@ -1,0 +1,21 @@
+{
+	"id": [
+		84112
+	],
+	"name": "Vua Ghi Chép Mondstadt",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ký Ức Về Trái Tim",
+	"isHidden": true,
+	"sortOrder": 6411,
+	"stages": 1,
+	"stage1": {
+		"title": "Vua Ghi Chép Mondstadt",
+		"description": "Đọc Nhật Ký Học Tập của Noelle.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

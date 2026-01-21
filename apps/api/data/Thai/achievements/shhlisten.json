@@ -1,0 +1,21 @@
+{
+	"id": [
+		84151
+	],
+	"name": "ชู่วว... ฟังสิ!",
+	"achievementGroupId": 17,
+	"achievementGroupName": "ความทรงจำ ของหัวใจ",
+	"isHidden": true,
+	"sortOrder": 7711,
+	"stages": 1,
+	"stage1": {
+		"title": "ชู่วว... ฟังสิ!",
+		"description": "ฟังเสียงพูดที่ดังมาจากในห้องขัง",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

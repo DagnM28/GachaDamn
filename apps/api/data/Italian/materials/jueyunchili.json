@@ -1,0 +1,13 @@
+{
+	"id": 100027,
+	"name": "Peperoncino di Jueyun",
+	"sortRank": 312,
+	"description": "Un pianta piccante nativa di Liyue. Basta annusarlo per provare caldo e sete.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità di Liyue",
+	"sources": [
+		"Consiglio: si trova nel Villaggio di Qingce",
+		"Coltivato nella Serenteiera",
+		"Vai a raccogliere"
+	]
+}

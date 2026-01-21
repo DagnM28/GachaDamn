@@ -1,0 +1,21 @@
+{
+	"id": [
+		84002
+	],
+	"name": "Горькие слёзы",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4003,
+	"stages": 1,
+	"stage1": {
+		"title": "Горькие слёзы",
+		"description": "Завершите главу «Горькие слёзы».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

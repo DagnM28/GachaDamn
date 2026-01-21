@@ -1,0 +1,13 @@
+{
+	"id": 101235,
+	"name": "Clochette de Lumidouce",
+	"sortRank": 315,
+	"description": "Une fleur violette sereine et tranquille. Elle a un parfum léger, doux et durable et est souvent utilisée pour fabriquer des parfums rares.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Fontaine",
+	"sources": [
+		"Nord de la Cour de Fontaine",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82014
+	],
+	"name": "Truyền Bóng",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2014,
+	"stages": 1,
+	"stage1": {
+		"title": "Truyền Bóng",
+		"description": "Đánh rơi Slime Hỏa trong tay Hilichurl Đạn Nổ.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81321
+	],
+	"name": "Abandono de Toda Esperança...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1308,
+	"stages": 1,
+	"stage1": {
+		"title": "Abandono de Toda Esperança...",
+		"description": "Chegue no final da nação terrestre.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

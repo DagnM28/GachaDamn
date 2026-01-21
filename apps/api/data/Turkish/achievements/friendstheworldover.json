@@ -1,0 +1,21 @@
+{
+	"id": [
+		81023
+	],
+	"name": "Yeni Arkadaşlarla Hayatına Renk Kat",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1023,
+	"stages": 1,
+	"stage1": {
+		"title": "Yeni Arkadaşlarla Hayatına Renk Kat",
+		"description": "Maceranda birbirinden farklı insanla tanış.",
+		"progress": 10000,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

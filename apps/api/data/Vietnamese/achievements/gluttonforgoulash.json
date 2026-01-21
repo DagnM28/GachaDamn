@@ -1,0 +1,21 @@
+{
+	"id": [
+		81044
+	],
+	"name": "\"Một miếng ăn mấy chục vạn Mora\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1045,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Một miếng ăn mấy chục vạn Mora\"",
+		"description": "Nắm vững cách làm \"Thịt Hầm Sốt Rau Củ\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

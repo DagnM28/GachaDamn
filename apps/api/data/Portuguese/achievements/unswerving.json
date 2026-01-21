@@ -1,0 +1,22 @@
+{
+	"id": [
+		81003
+	],
+	"name": "Flecha Imparável",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1003,
+	"stages": 1,
+	"stage1": {
+		"title": "Flecha Imparável",
+		"ps5title": "Exploração: Flecha Imparável",
+		"description": "Abra o baú no meio das pedras em forma de coração.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

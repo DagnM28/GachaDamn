@@ -1,0 +1,21 @@
+{
+	"id": [
+		81038
+	],
+	"name": "Beyhude Çaba",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1039,
+	"stages": 1,
+	"stage1": {
+		"title": "Beyhude Çaba",
+		"description": "Çok sayıda harabe makinası kalıntısı bul.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

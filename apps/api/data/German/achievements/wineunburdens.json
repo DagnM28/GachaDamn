@@ -1,0 +1,21 @@
+{
+	"id": [
+		84123
+	],
+	"name": "Wein befreit die Seele",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Erinnerungen des Herzens",
+	"isHidden": true,
+	"sortOrder": 6910,
+	"stages": 1,
+	"stage1": {
+		"title": "Wein befreit die Seele",
+		"description": "Nimm mit Beidou an dem Bankett des Qingce-Dorfs teil.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

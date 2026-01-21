@@ -1,0 +1,16 @@
+{
+	"id": 13019,
+	"name": "Nasihat Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120090,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104329,
+			"name": "Nasihat Öğretisi",
+			"count": 3
+		}
+	]
+}

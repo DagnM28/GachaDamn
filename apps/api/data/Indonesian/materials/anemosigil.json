@@ -1,0 +1,12 @@
+{
+	"id": 305,
+	"name": "Anemo Sigil",
+	"rarity": 3,
+	"sortRank": 430001,
+	"description": "Lencana yang menunjukkan pengakuan angin Mondstadt.\nDapat ditukar untuk item khusus di Mondstadt.",
+	"category": "CONSUME",
+	"typeText": "Sigil Elemental",
+	"sources": [
+		"Hadiah Eksplorasi Mondstadt"
+	]
+}

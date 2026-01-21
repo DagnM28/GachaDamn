@@ -1,0 +1,20 @@
+{
+	"id": [
+		82068
+	],
+	"name": "Esnya Sedikit, Jangan Pakai Gula",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Penantang: Seri III",
+	"sortOrder": 2068,
+	"stages": 1,
+	"stage1": {
+		"title": "Esnya Sedikit, Jangan Pakai Gula",
+		"description": "Mengalahkan Cryo Samachurl saat dia berada dalam kondisi tidak bisa menciptakan pilar es.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

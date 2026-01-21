@@ -1,0 +1,20 @@
+{
+	"id": [
+		84140
+	],
+	"name": "วิธีแก้ปัญหาสุดเริ่ด",
+	"achievementGroupId": 17,
+	"achievementGroupName": "ความทรงจำ ของหัวใจ",
+	"sortOrder": 7400,
+	"stages": 1,
+	"stage1": {
+		"title": "วิธีแก้ปัญหาสุดเริ่ด",
+		"description": "ทำ \"ปมที่แก้ยาก\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

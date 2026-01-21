@@ -1,0 +1,13 @@
+{
+	"id": 101236,
+	"name": "Rose arc-en-ciel",
+	"sortRank": 315,
+	"description": "Une fleur rose délicate et tendre. Malgré leur nom, les roses arc-en-ciel ressemblent davantage aux lys.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Fontaine",
+	"sources": [
+		"Zone conseillée : Région Béryl",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

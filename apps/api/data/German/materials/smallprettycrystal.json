@@ -1,0 +1,11 @@
+{
+	"id": 111020,
+	"name": "Hübscher kleiner Kristall",
+	"sortRank": 430051,
+	"description": "Zusätzlich hergestelltes Produkt",
+	"category": "CONSUME",
+	"typeText": "Hergestelltes Produkt",
+	"sources": [
+		"Kann hergestellt werden"
+	]
+}

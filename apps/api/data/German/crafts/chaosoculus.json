@@ -1,0 +1,16 @@
+{
+	"id": 11032,
+	"name": "Chaos-Oculus",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140069,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112048,
+			"name": "Chaos-Achse",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81505
+	],
+	"name": "La chance ne frappe pas deux fois...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1489,
+	"stages": 1,
+	"stage1": {
+		"title": "La chance ne frappe pas deux fois...",
+		"description": "... Mais le malheur n'arrive jamais seul.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81455
+	],
+	"name": "Le voile des fresques",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1439,
+	"stages": 1,
+	"stage1": {
+		"title": "Le voile des fresques",
+		"description": "Soyez témoin de quatre fresques.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

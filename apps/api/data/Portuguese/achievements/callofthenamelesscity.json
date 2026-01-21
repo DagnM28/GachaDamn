@@ -1,0 +1,21 @@
+{
+	"id": [
+		81240
+	],
+	"name": "O Chamado da Cidade Sem Nome",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1226,
+	"stages": 1,
+	"stage1": {
+		"title": "O Chamado da Cidade Sem Nome",
+		"description": "Acalme o velino misterioso.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

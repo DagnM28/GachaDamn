@@ -1,0 +1,21 @@
+{
+	"id": [
+		84527
+	],
+	"name": "Đây không phải là thực phẩm dự trữ",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4051,
+	"stages": 1,
+	"stage1": {
+		"title": "Đây không phải là thực phẩm dự trữ",
+		"description": "Ăn mất món ăn trong nhiệm vụ \"Đơn Đặt Món Ăn\"...?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

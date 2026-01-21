@@ -1,0 +1,21 @@
+{
+	"id": [
+		81023
+	],
+	"name": "Friends the World Over",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1023,
+	"stages": 1,
+	"stage1": {
+		"title": "Friends the World Over",
+		"description": "Meet all sorts of people during your adventure.",
+		"progress": 10000,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

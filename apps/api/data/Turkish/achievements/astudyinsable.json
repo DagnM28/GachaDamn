@@ -1,0 +1,21 @@
+{
+	"id": [
+		81360
+	],
+	"name": "Samurlar Üzerine",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1346,
+	"stages": 1,
+	"stage1": {
+		"title": "Samurlar Üzerine",
+		"description": "Doğa Felsefesi Enstitüsünden daha özel bir çalışma konusu bul.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100084,
+	"name": "Fish",
+	"sortRank": 321,
+	"description": "Potongan daging ikan segar. Bisa menjadi hidangan yang lezat jika dimasak dengan benar.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Didapatkan dari menangkap ikan"
+	]
+}

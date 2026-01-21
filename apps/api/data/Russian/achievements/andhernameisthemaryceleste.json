@@ -1,0 +1,21 @@
+{
+	"id": [
+		81077
+	],
+	"name": "...Имя её «Мария Целеста»",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1078,
+	"stages": 1,
+	"stage1": {
+		"title": "...Имя её «Мария Целеста»",
+		"description": "Переживите разрушение вашего волнохода...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

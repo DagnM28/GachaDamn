@@ -1,0 +1,21 @@
+{
+	"id": [
+		84566
+	],
+	"name": "Офис на улице",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4090,
+	"stages": 1,
+	"stage1": {
+		"title": "Офис на улице",
+		"description": "Станьте свидетелем мелких происшествий в Кур-де-Фонтейне.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

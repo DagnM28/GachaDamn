@@ -1,0 +1,20 @@
+{
+	"id": [
+		82067
+	],
+	"name": "Giù il muro!",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Competitività: Serie III",
+	"sortOrder": 2067,
+	"stages": 1,
+	"stage1": {
+		"title": "Giù il muro!",
+		"description": "Distruggi lo scudo di ghiaccio di un Mitachurl.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

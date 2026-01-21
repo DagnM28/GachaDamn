@@ -1,0 +1,21 @@
+{
+	"id": [
+		81318
+	],
+	"name": "Vamos Tocar Aqui",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1305,
+	"stages": 1,
+	"stage1": {
+		"title": "Vamos Tocar Aqui",
+		"description": "Recupere os cinco Korybantes.",
+		"progress": 5,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

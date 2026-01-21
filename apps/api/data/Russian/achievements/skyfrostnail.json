@@ -1,0 +1,21 @@
+{
+	"id": [
+		80067
+	],
+	"name": "Шип небесной стужи",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Гости ледяной горы",
+	"sortOrder": 67,
+	"stages": 1,
+	"stage1": {
+		"title": "Шип небесной стужи",
+		"ps5title": "Драконий хребет: Шип небесной стужи",
+		"description": "Поднимите странную колонну.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

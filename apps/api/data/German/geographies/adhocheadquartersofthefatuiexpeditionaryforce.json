@@ -1,0 +1,11 @@
+{
+	"id": 70400044,
+	"name": "Temporäres Hauptquartier der Fatui-Expedition",
+	"areaId": 5003,
+	"areaName": "Wadi Al-Majuj",
+	"description": "Hier unter dem Vogelgezwitscher zwischen den alten Götterschreinen hat die Vorhut aus dem Land des Schnees im fernen Norden ihr Lager aufgeschlagen.",
+	"regionId": 4,
+	"regionName": "Sumeru",
+	"showOnlyUnlocked": true,
+	"sortOrder": 344
+}

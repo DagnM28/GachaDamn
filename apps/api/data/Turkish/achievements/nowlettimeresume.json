@@ -1,0 +1,21 @@
+{
+	"id": [
+		81243
+	],
+	"name": "Zaman Akmaya Başlasın",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1229,
+	"stages": 1,
+	"stage1": {
+		"title": "Zaman Akmaya Başlasın",
+		"description": "Aradasha'nın bitmemiş işlerini tamamla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81138
+	],
+	"name": "Gutes Werkzeug, gute Arbeit.",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Angelführer Teyvat – Reihe 1",
+	"sortOrder": 1130,
+	"stages": 1,
+	"stage1": {
+		"title": "Gutes Werkzeug, gute Arbeit.",
+		"description": "Kaufe dir eine Angelrute vom Angelverein.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

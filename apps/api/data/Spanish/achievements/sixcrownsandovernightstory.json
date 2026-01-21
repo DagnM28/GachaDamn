@@ -1,0 +1,20 @@
+{
+	"id": [
+		81522
+	],
+	"name": "#Notori{F#a}{M#o} en Natlan",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"sortOrder": 1506,
+	"stages": 1,
+	"stage1": {
+		"title": "#Notori{F#a}{M#o} en Natlan",
+		"description": "Alcanza el Nivel de reputación 4 en todas las tribus de Natlan.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

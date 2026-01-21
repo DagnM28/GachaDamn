@@ -1,0 +1,16 @@
+{
+	"id": 12024,
+	"name": "Narukami'nin Cesareti",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130068,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114031,
+			"name": "Narukami'nin Sevgisi",
+			"count": 3
+		}
+	]
+}

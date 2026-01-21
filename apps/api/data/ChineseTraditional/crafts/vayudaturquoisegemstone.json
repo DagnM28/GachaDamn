@@ -1,0 +1,16 @@
+{
+	"id": 15015,
+	"name": "自在松石",
+	"filterText": "角色突破素材",
+	"sortOrder": 110038,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 2700,
+	"recipe": [
+		{
+			"id": 104153,
+			"name": "自在松石塊",
+			"count": 3
+		}
+	]
+}

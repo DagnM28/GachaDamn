@@ -1,0 +1,21 @@
+{
+	"id": [
+		81221
+	],
+	"name": "\"Sách Của Taliesin\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1207,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Sách Của Taliesin\"",
+		"description": "Nhận được quà tặng từ Taliesin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

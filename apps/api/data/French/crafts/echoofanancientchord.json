@@ -1,0 +1,16 @@
+{
+	"id": 12039,
+	"name": "Écho d'un accord ancien",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130118,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114051,
+			"name": "Mouvement d'un accord ancien",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84549
+	],
+	"name": "Dinlenme Terapisi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4073,
+	"stages": 1,
+	"stage1": {
+		"title": "Dinlenme Terapisi",
+		"description": "3 hastanın dileğini gerçekleştir.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

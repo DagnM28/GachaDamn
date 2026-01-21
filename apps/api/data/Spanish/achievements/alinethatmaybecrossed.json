@@ -1,0 +1,20 @@
+{
+	"id": [
+		84102
+	],
+	"name": "Superando los límites",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"sortOrder": 6200,
+	"stages": 1,
+	"stage1": {
+		"title": "Superando los límites",
+		"description": "Completa «La fuente de la curación» y desbloquea todos los finales posibles.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

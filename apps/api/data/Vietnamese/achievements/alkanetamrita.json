@@ -1,0 +1,20 @@
+{
+	"id": [
+		80250
+	],
+	"name": "Alkanet Amrita",
+	"achievementGroupId": 41,
+	"achievementGroupName": "Phước Lành Hamada",
+	"sortOrder": 230,
+	"stages": 1,
+	"stage1": {
+		"title": "Alkanet Amrita",
+		"description": "Hiến tế Hồ Amrita đạt cấp tối đa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

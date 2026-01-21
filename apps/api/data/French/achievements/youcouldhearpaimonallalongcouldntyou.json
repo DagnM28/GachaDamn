@@ -1,0 +1,21 @@
+{
+	"id": [
+		81048
+	],
+	"name": "... Tu entends ça, toi aussi ?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1049,
+	"stages": 1,
+	"stage1": {
+		"title": "... Tu entends ça, toi aussi ?",
+		"description": "Même Paimon se fatigue parfois.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

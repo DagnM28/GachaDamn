@@ -1,0 +1,19 @@
+{
+	"id": 104343,
+	"name": "Philosophies of Justice",
+	"rarity": 4,
+	"sortRank": 13114,
+	"description": "Material Penguatan Talenta.\nPedang tajam Bangsa Hydro adalah kebenaran.\nHukum Fontaine berjalan bersama dengan pedang kebenaran di tangannya. Kebenaran berarti penghakiman dan rekonsiliasi, pedang kebenaran akan menahan seluruh tindakan kejahatan, sementara rekonsiliasi menjaga tatanan.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4493,
+	"dropDomainName": "Domain of Mastery: Ukiran Peringatan",
+	"daysOfWeek": [
+		"Selasa",
+		"Jumat",
+		"Minggu"
+	],
+	"sources": [
+		"Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80269
+	],
+	"name": "Обманщица Ренар",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Скитания по миру IV",
+	"sortOrder": 176,
+	"stages": 1,
+	"stage1": {
+		"title": "Обманщица Ренар",
+		"description": "Соберите полную коллекцию «Притч о животных Фонтейна».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

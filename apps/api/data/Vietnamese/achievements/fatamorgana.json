@@ -1,0 +1,22 @@
+{
+	"id": [
+		81267
+	],
+	"name": "Fata Morgana",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1253,
+	"stages": 1,
+	"stage1": {
+		"title": "Fata Morgana",
+		"ps5title": "Hành Trình \"Fata Morgana\"",
+		"description": "Con đường đến với \"ngai vàng\" đã xuất hiện.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

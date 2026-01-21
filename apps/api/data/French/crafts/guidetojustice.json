@@ -1,0 +1,16 @@
+{
+	"id": 13027,
+	"name": "Guide de la Justice",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120130,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104341,
+			"name": "Enseignement de la Justice",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82064
+	],
+	"name": "Мой огонь горячее твоего",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2064,
+	"stages": 1,
+	"stage1": {
+		"title": "Мой огонь горячее твоего",
+		"description": "Одолейте Пиро орхидею, не уничтожая её венчик.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

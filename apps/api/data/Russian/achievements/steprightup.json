@@ -1,0 +1,21 @@
+{
+	"id": [
+		81196
+	],
+	"name": "Прямо в яблочко!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1182,
+	"stages": 1,
+	"stage1": {
+		"title": "Прямо в яблочко!",
+		"description": "Выполните испытание по стрельбе из лука.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

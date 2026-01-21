@@ -1,0 +1,21 @@
+{
+	"id": [
+		81436
+	],
+	"name": "Deianeira Của Snezhevna",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1420,
+	"stages": 1,
+	"stage1": {
+		"title": "Deianeira Của Snezhevna",
+		"description": "Chiến thắng Huyền Thoại Địa Phương: Deianeira Của Snezhevna.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80249
+	],
+	"name": "선악의 크바레나",
+	"achievementGroupId": 41,
+	"achievementGroupName": "축복받은 자갈 사막",
+	"sortOrder": 231,
+	"stages": 1,
+	"stage1": {
+		"title": "선악의 크바레나",
+		"description": "「선악의 크바레나」 완료하기",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "원석",
+			"count": 10
+		}
+	}
+}

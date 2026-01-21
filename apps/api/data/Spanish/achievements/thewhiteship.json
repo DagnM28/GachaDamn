@@ -1,0 +1,21 @@
+{
+	"id": [
+		81342
+	],
+	"name": "El barco blanquecino",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1328,
+	"stages": 1,
+	"stage1": {
+		"title": "El barco blanquecino",
+		"description": "“Está surcando un mar de sueños...”.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

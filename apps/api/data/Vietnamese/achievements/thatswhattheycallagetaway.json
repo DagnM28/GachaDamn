@@ -1,0 +1,21 @@
+{
+	"id": [
+		81141
+	],
+	"name": "Lộ Trình Phóng Sinh",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1135,
+	"stages": 1,
+	"stage1": {
+		"title": "Lộ Trình Phóng Sinh",
+		"description": "Cá thoát được khi đang vùng vẫy.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

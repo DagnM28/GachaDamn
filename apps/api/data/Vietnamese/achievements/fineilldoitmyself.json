@@ -1,0 +1,21 @@
+{
+	"id": [
+		82101
+	],
+	"name": "...Dựa Vào Chính Mình",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2102,
+	"stages": 1,
+	"stage1": {
+		"title": "...Dựa Vào Chính Mình",
+		"description": "Đánh bại Rồng Đất Cổ mà không kích hoạt sự phản đòn của \"dòng dung nham\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

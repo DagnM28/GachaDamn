@@ -1,0 +1,21 @@
+{
+	"id": [
+		81098
+	],
+	"name": "Bitmeyen Temari",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1099,
+	"stages": 1,
+	"stage1": {
+		"title": "Bitmeyen Temari",
+		"description": "Başlattığın Temari oyununa başka bir oyuncu kat.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

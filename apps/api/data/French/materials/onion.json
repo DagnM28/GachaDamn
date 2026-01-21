@@ -1,0 +1,11 @@
+{
+	"id": 100076,
+	"name": "Oignon",
+	"sortRank": 321,
+	"description": "Un légume rond qui fait pleurer tout le monde, même les durs à cuire.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Épiceries"
+	]
+}

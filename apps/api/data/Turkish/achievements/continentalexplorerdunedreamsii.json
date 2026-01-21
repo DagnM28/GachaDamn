@@ -1,0 +1,20 @@
+{
+	"id": [
+		80224
+	],
+	"name": "Kıta Kaşifi: Çöl Serapları (II)",
+	"achievementGroupId": 38,
+	"achievementGroupName": "Sumeru: Yaldızlı Çöl - II. Seri",
+	"sortOrder": 205,
+	"stages": 1,
+	"stage1": {
+		"title": "Kıta Kaşifi: Çöl Serapları (II)",
+		"description": "Sumeru'daki şu bölgenin haritalarını aydınlat: Hadramaveth Çölü",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

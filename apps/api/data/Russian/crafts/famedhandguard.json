@@ -1,0 +1,16 @@
+{
+	"id": 11030,
+	"name": "Прославленная гарда",
+	"filterText": "Улучшение персонажей/оружия",
+	"sortOrder": 150069,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112045,
+			"name": "Гарда кагэути",
+			"count": 3
+		}
+	]
+}

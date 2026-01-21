@@ -1,0 +1,14 @@
+{
+	"id": 100029,
+	"name": "Seidenblume",
+	"sortRank": 312,
+	"description": "Eine tiefrote Blume wie aus den Regenbogenwolken über Liyue. Man kann aus ihr besonders weiche und glatte Stoffe herstellen.",
+	"category": "EXCHANGE",
+	"typeText": "Regionale Besonderheit aus Liyue",
+	"sources": [
+		"In der Nähe der Yujing-Terrasse in Liyue zu finden",
+		"In der Nähe des Gasthauses Wangshu zu finden",
+		"In der Kanne der Vergänglichkeit anzupflanzen",
+		"Zum Sammeln"
+	]
+}

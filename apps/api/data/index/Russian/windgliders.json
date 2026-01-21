@@ -1,0 +1,70 @@
+{
+	"namemap": {
+		"wingsofazurewind": "Крылья лазурного неба",
+		"wingsofcompanionship": "Крылья дружбы",
+		"wingsofconcealingsnow": "Крылья укрытых снегов",
+		"wingsofdelicacies": "Крылья пиршества",
+		"wingsofdescension": "Крылья нисхождения",
+		"wingsoffatescourseintertwined": "Крылья переплётшихся судеб",
+		"wingsoffeasting": "Планер великого пиршества",
+		"wingsoffirstflight": "Крылья новичка",
+		"wingsofgoldenflight": "Крылья золотого полёта",
+		"wingsofleisurelymoments": "Планер безмятежной встречи",
+		"wingsofmercifulwrathfulwaters": "Крылья милосердных и гневных вод",
+		"wingsofshimmeringgalaxy": "Сверкающие звёздные крылья",
+		"wingsofsoaringflame": "Крылья парящего пламени",
+		"wingsoftheforest": "Крылья леса",
+		"wingsofthesilentmoon": "Планер затихшей луны",
+		"wingsofthestarlitfeast": "Крылья звёздного пира",
+		"wingsofthestormstrider": "Крылья наездника молний",
+		"wingsoftransientdreams": "Крылья мимолётной мечты"
+	},
+	"names": {
+		"Крылья лазурного неба": "wingsofazurewind",
+		"Крылья дружбы": "wingsofcompanionship",
+		"Крылья укрытых снегов": "wingsofconcealingsnow",
+		"Крылья пиршества": "wingsofdelicacies",
+		"Крылья нисхождения": "wingsofdescension",
+		"Крылья переплётшихся судеб": "wingsoffatescourseintertwined",
+		"Планер великого пиршества": "wingsoffeasting",
+		"Крылья новичка": "wingsoffirstflight",
+		"Крылья золотого полёта": "wingsofgoldenflight",
+		"Планер безмятежной встречи": "wingsofleisurelymoments",
+		"Крылья милосердных и гневных вод": "wingsofmercifulwrathfulwaters",
+		"Сверкающие звёздные крылья": "wingsofshimmeringgalaxy",
+		"Крылья парящего пламени": "wingsofsoaringflame",
+		"Крылья леса": "wingsoftheforest",
+		"Планер затихшей луны": "wingsofthesilentmoon",
+		"Крылья звёздного пира": "wingsofthestarlitfeast",
+		"Крылья наездника молний": "wingsofthestormstrider",
+		"Крылья мимолётной мечты": "wingsoftransientdreams"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"wingsofazurewind",
+			"wingsofcompanionship",
+			"wingsofconcealingsnow",
+			"wingsofdelicacies",
+			"wingsofdescension",
+			"wingsoffatescourseintertwined",
+			"wingsoffeasting",
+			"wingsoffirstflight",
+			"wingsofgoldenflight",
+			"wingsofleisurelymoments",
+			"wingsofmercifulwrathfulwaters",
+			"wingsofshimmeringgalaxy",
+			"wingsofsoaringflame",
+			"wingsoftheforest",
+			"wingsofthesilentmoon",
+			"wingsofthestarlitfeast",
+			"wingsofthestormstrider",
+			"wingsoftransientdreams"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

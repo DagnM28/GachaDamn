@@ -1,0 +1,20 @@
+{
+	"id": [
+		82136
+	],
+	"name": "Cogumelo na Brasa",
+	"achievementGroupId": 34,
+	"achievementGroupName": "Desafiante - Série VI",
+	"sortOrder": 2136,
+	"stages": 1,
+	"stage1": {
+		"title": "Cogumelo na Brasa",
+		"description": "Derrote 6 Cogumelos criados pelo Terrorgumelo Emplumado no seu estado Queimado.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

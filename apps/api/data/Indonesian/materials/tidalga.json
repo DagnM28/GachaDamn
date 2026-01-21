@@ -1,0 +1,11 @@
+{
+	"id": 101234,
+	"name": "Tidalga",
+	"sortRank": 321,
+	"description": "Alga yang mengapung mengikuti arus dan memakan zat yang diproduksi oleh tumbuhan lain. Meskipun sering disalahartikan sebagai zooplankton, Tidalga secara alami termasuk dalam kategori fitoplankton.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Ditemukan di dalam perairan Fontaine"
+	]
+}

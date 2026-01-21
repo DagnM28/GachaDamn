@@ -1,0 +1,21 @@
+{
+	"id": [
+		84339
+	],
+	"name": "Batalha Final",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5118,
+	"stages": 1,
+	"stage1": {
+		"title": "Batalha Final",
+		"description": "No fim da longa noite, finalmente surge a aurora chamada \"esperança\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

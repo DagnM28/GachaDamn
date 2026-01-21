@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Răng Vỡ Sói Bão",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Răng Sữa Sói Bão",
+			"count": 3
+		}
+	]
+}

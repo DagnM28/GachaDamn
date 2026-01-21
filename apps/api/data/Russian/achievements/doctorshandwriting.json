@@ -1,0 +1,21 @@
+{
+	"id": [
+		84562
+	],
+	"name": "Врачебный почерк",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4086,
+	"stages": 1,
+	"stage1": {
+		"title": "Врачебный почерк",
+		"description": "Помогите Маруфу верно прочесть рецепт.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

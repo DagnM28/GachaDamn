@@ -1,0 +1,21 @@
+{
+	"id": [
+		80164
+	],
+	"name": "Culmination of the Great Dream",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru: The Rainforest of Lore",
+	"sortOrder": 164,
+	"stages": 1,
+	"stage1": {
+		"title": "Culmination of the Great Dream",
+		"ps5title": "Sumeru: Culmination of the Great Dream",
+		"description": "Reach the Max Level of the Tree of Dreams in Vanarana.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81522
+	],
+	"name": "Le sei corone nella notte",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"sortOrder": 1506,
+	"stages": 1,
+	"stage1": {
+		"title": "Le sei corone nella notte",
+		"description": "Raggiungi il liv. reputazione 4 in tutte le tribù di Natlan.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81204
+	],
+	"name": "Hang Ổ Kẻ Trộm",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1190,
+	"stages": 1,
+	"stage1": {
+		"title": "Hang Ổ Kẻ Trộm",
+		"description": "Phát hiện kho báu của Đạo Bảo Đoàn.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12016,
+	"name": "Scheggia di Aerosiderite",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114021,
+			"name": "Granello di Aerosiderite",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13009,
+	"name": "「勤劳」的指引",
+	"filterText": "角色天赋素材",
+	"sortOrder": 120040,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104313,
+			"name": "「勤劳」的教导",
+			"count": 3
+		}
+	]
+}

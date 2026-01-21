@@ -1,0 +1,21 @@
+{
+	"id": [
+		81258
+	],
+	"name": "#{F#Madame}{M#Monsieur} météo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1244,
+	"stages": 1,
+	"stage1": {
+		"title": "#{F#Madame}{M#Monsieur} météo",
+		"description": "Contrôlez l'outil varuna pour changer le temps dans les Bois d'Apam.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

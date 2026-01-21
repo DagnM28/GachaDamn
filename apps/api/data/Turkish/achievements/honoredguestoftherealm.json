@@ -1,0 +1,20 @@
+{
+	"id": [
+		81079
+	],
+	"name": "Çaydanlığın Onur Konuğu",
+	"achievementGroupId": 19,
+	"achievementGroupName": "Başka Bir Diyar: II. Seri",
+	"sortOrder": 1080,
+	"stages": 1,
+	"stage1": {
+		"title": "Çaydanlığın Onur Konuğu",
+		"description": "Bir yoldaşını Dinginçay Çaydanlığında ağırlamak için davet et.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

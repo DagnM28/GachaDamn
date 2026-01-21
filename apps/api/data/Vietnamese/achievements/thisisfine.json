@@ -1,0 +1,20 @@
+{
+	"id": [
+		86011
+	],
+	"name": "\"This is fine\"",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần I",
+	"sortOrder": 9011,
+	"stages": 1,
+	"stage1": {
+		"title": "\"This is fine\"",
+		"description": "Cùng người chơi khác đánh bại Cây Nổ.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

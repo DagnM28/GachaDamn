@@ -1,0 +1,20 @@
+{
+	"id": [
+		86015
+	],
+	"name": "Núi nhúc nhích rồi!",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Gặp Ở Thế Giới Khác - Phần II",
+	"sortOrder": 9015,
+	"stages": 1,
+	"stage1": {
+		"title": "Núi nhúc nhích rồi!",
+		"description": "Cùng người chơi khác đánh bại Rồng Đất Cổ.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84533
+	],
+	"name": "Uma Questão de Dieta",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4057,
+	"stages": 1,
+	"stage1": {
+		"title": "Uma Questão de Dieta",
+		"description": "Ajude Parvaneh a revisar todas as receitas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

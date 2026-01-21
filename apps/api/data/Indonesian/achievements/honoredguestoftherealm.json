@@ -1,0 +1,20 @@
+{
+	"id": [
+		81079
+	],
+	"name": "Tamu VIP Poci",
+	"achievementGroupId": 19,
+	"achievementGroupName": "Alam Lain: Seri II",
+	"sortOrder": 1080,
+	"stages": 1,
+	"stage1": {
+		"title": "Tamu VIP Poci",
+		"description": "Undang rekan untuk menetap di dalam Serenitea Pot.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

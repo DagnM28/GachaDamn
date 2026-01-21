@@ -1,0 +1,11 @@
+{
+	"id": 100084,
+	"name": "Poisson",
+	"sortRank": 321,
+	"description": "Un filet de poisson frais. Bien préparé, on peut en faire un plat aussi riche que savoureux.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrédient",
+	"sources": [
+		"Butin de poisson"
+	]
+}

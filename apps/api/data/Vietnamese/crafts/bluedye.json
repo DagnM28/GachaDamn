@@ -1,0 +1,46 @@
+{
+	"id": 30007,
+	"name": "Thuốc Nhuộm Lam",
+	"filterText": "Nguyên liệu chế tạo đồ trang trí",
+	"sortOrder": 170060,
+	"unlockRank": 28,
+	"resultCount": 1,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 100016,
+			"name": "Bạc Hà",
+			"count": 1
+		}
+	],
+	"altrecipes": [
+		[
+			{
+				"id": 100021,
+				"name": "Quả Móc Câu",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101209,
+				"name": "Nấm U Ám",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101234,
+				"name": "Tidalga",
+				"count": 1
+			}
+		],
+		[
+			{
+				"id": 101249,
+				"name": "Quả Quenepa",
+				"count": 1
+			}
+		]
+	]
+}

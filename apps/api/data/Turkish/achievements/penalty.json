@@ -1,0 +1,21 @@
+{
+	"id": [
+		82074
+	],
+	"name": "Ceza",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2074,
+	"stages": 1,
+	"stage1": {
+		"title": "Ceza",
+		"description": "Ateş Bodurloplarını topraktan kazıp çıkaramadığın yerler vardır...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80057
+	],
+	"name": "Andador de Picos",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Visitante da Montanha Nevada",
+	"sortOrder": 57,
+	"stages": 1,
+	"stage1": {
+		"title": "Andador de Picos",
+		"description": "Desbloqueie todos os Pontos de Teleporte na Espinha do Dragão",
+		"progress": 11,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

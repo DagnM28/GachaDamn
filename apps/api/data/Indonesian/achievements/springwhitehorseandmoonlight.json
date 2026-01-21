@@ -1,0 +1,20 @@
+{
+	"id": [
+		80006
+	],
+	"name": "Mata Air, Kuda Putih dan Sinar Rembulan",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Penderitaan Fana: Seri I",
+	"sortOrder": 6,
+	"stages": 1,
+	"stage1": {
+		"title": "Mata Air, Kuda Putih dan Sinar Rembulan",
+		"description": "Mengumpulkan semua jilid buku \"Rembulan Hutan Bambu\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

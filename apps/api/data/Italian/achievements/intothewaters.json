@@ -1,0 +1,20 @@
+{
+	"id": [
+		81139
+	],
+	"name": "In acqua",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guida di pesca di Teyvat: Serie I",
+	"sortOrder": 1131,
+	"stages": 1,
+	"stage1": {
+		"title": "In acqua",
+		"description": "Realizza 20 esche.",
+		"progress": 20,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

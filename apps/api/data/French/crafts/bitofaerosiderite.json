@@ -1,0 +1,16 @@
+{
+	"id": 12017,
+	"name": "Fragment d'aérosidérite noire",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130049,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114022,
+			"name": "Éclat d'aérosidérite noire",
+			"count": 3
+		}
+	]
+}

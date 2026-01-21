@@ -1,0 +1,16 @@
+{
+	"id": 11033,
+	"name": "Prisma di cristallo",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140080,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112050,
+			"name": "Prisma tetro",
+			"count": 3
+		}
+	]
+}

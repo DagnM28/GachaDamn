@@ -1,0 +1,2002 @@
+{
+	"namemap": {
+		"aberrantcoreofthedeepshadow": "深黯的怪核",
+		"afterglowoflongnightflint": "長夜燧火的殘照",
+		"agentssacrificialknife": "特工祭刀",
+		"agnidusagatechunk": "燃願瑪瑙塊",
+		"agnidusagatefragment": "燃願瑪瑙斷片",
+		"agnidusagategemstone": "燃願瑪瑙",
+		"alienlifecore": "異界生命核",
+		"anemoculusresonancestone": "風神瞳共鳴石",
+		"artfuldeviceinheritance": "奇巧秘器的繼業",
+		"artfuldevicereplica": "奇巧秘器的模本",
+		"artfuldevicewish": "奇巧秘器的真願",
+		"artificeddynamicgear": "奇械機芯齒輪",
+		"aureateradianceofthefarnorthscions": "終北遺嗣的煌熠",
+		"berrybait": "槲梭餌",
+		"bewilderingbroadleaf": "惑光的闊葉",
+		"bitofaerosiderite": "漆黑隕鐵的一角",
+		"blackbronzehorn": "黑銅號角",
+		"blackcrystalhorn": "黑晶號角",
+		"blazeoflongnightflint": "長夜燧火的烈輝",
+		"blazingprismshell": "明燃的稜狀殼",
+		"blazingsacrificialheartshesitance": "貢祭熾心的躊躇",
+		"blazingsacrificialheartsresolve": "貢祭熾心的決絕",
+		"blazingsacrificialheartssplendor": "貢祭熾心的榮膺",
+		"bluedye": "藍色染料",
+		"borealwolfsbrokenfang": "凜風奔狼的斷牙",
+		"borealwolfscrackedtooth": "凜風奔狼的裂齒",
+		"borealwolfsnostalgia": "凜風奔狼的懷鄉",
+		"chainsofthedandeliongladiator": "獅牙鬥士的鐵鍊",
+		"chaosaxis": "混沌樞紐",
+		"chaosbolt": "混沌錨栓",
+		"chaoscircuit": "混沌迴路",
+		"chaoscore": "混沌爐心",
+		"chaosmodule": "混沌模組",
+		"chaosoculus": "混沌真眼",
+		"chapterofanancientchord": "悠古弦音的斷章",
+		"chasmlightfin": "淵光鰭翅",
+		"chunkofaerosiderite": "漆黑隕鐵的一塊",
+		"concealedtalon": "隱獸鬼爪",
+		"concealedunguis": "隱獸利爪",
+		"condensedresin": "濃縮樹脂",
+		"crystallinecystdust": "孢囊晶塵",
+		"crystalprism": "水晶稜鏡",
+		"darkstatuette": "夤夜刻像",
+		"deadleylineleaves": "地脈的枯葉",
+		"deathlystatuette": "幽邃刻像",
+		"debrisofdecarabianscity": "高塔孤王的殘垣",
+		"deliriousdemeanorofthesacredlord": "譫妄聖主的容光",
+		"deliriousdesolationofthesacredlord": "譫妄聖主的餘哀",
+		"deliriousdivinityofthesacredlord": "譫妄聖主的神面",
+		"dendrocidepotion": "治草藥劑",
+		"dendroculusresonancestone": "草神瞳共鳴石",
+		"desiccantpotion": "防潮藥劑",
+		"divinebodyfromguyun": "孤雲寒林的神體",
+		"dormantfungalnucleus": "休眠菌核",
+		"dreamofscorchingmight": "烈日威權的夢想",
+		"dreamofthedandeliongladiator": "獅牙鬥士的理想",
+		"dustproofpotion": "防塵藥劑",
+		"echoofanancientchord": "悠古弦音的迴響",
+		"electroculusresonancestone": "雷神瞳共鳴石",
+		"emberglowbait": "溫火餌",
+		"energynectar": "原素花蜜",
+		"essenceofpuresacreddewdrop": "純聖露滴的真粹",
+		"fabric": "布匹",
+		"fakeflybait": "飛蠅假餌",
+		"falsewormbait": "蠕蟲假餌",
+		"famedhandguard": "名刀鐔",
+		"fatesyearningessentialoil": "「縹緲仙緣」精油",
+		"flamingessentialoil": "烈火精油",
+		"flareoflongnightflint": "長夜燧火的明焰",
+		"flashingmaintenancemekbait": "維護機關頻閃誘餌",
+		"floatysplody": "飄飄爆彈",
+		"forbiddencursescroll": "禁咒繪卷",
+		"foreignsynapse": "外世突觸",
+		"forestessentialoil": "叢林精油",
+		"fossilizedboneshard": "石化的骨片",
+		"fragmentofdecarabiansepic": "高塔孤王的斷片",
+		"frostetchedwarrant": "霜鐫的執憑",
+		"frostingessentialoil": "霜劫精油",
+		"frostnightsglory": "霜夜的煌榮",
+		"frostnightsglow": "霜夜的柔輝",
+		"frostshieldpotion": "耐寒藥劑",
+		"fruitpastebait": "果釀餌",
+		"geoculusresonancestone": "岩神瞳共鳴石",
+		"glowingremains": "稀光遺骼",
+		"goldenbranchofadistantsea": "遠海夷地的金枝",
+		"goldengobletofthepristinesea": "無垢之海的金杯",
+		"goldenhousemaidenessentialoil": "「金屋藏嬌」精油",
+		"goldenraveninsignia": "攫金鴉印",
+		"goldentalismanoftheforestdew": "謐林涓露的金符",
+		"guidetoadmonition": "「諍言」的指引",
+		"guidetoballad": "「詩文」的指引",
+		"guidetoconflict": "「紛爭」的指引",
+		"guidetocontention": "「角逐」的指引",
+		"guidetodiligence": "「勤勞」的指引",
+		"guidetoelegance": "「風雅」的指引",
+		"guidetoelysium": "「樂園」的指引",
+		"guidetoequity": "「公平」的指引",
+		"guidetofreedom": "「自由」的指引",
+		"guidetogold": "「黃金」的指引",
+		"guidetoingenuity": "「巧思」的指引",
+		"guidetojustice": "「正義」的指引",
+		"guidetokindling": "「焚燔」的指引",
+		"guidetolight": "「天光」的指引",
+		"guidetomoonlight": "「月光」的指引",
+		"guidetoorder": "「秩序」的指引",
+		"guidetopraxis": "「篤行」的指引",
+		"guidetoprosperity": "「繁榮」的指引",
+		"guidetoresistance": "「抗爭」的指引",
+		"guidetotransience": "「浮世」的指引",
+		"guidetovagrancy": "「浪跡」的指引",
+		"gushingessentialoil": "狂風精油",
+		"heartofthesecretsource": "秘源真芯",
+		"heatshieldpotion": "耐熱藥劑",
+		"hookedbeakofthedeepshadow": "深黯的鉤喙",
+		"hotpod": "燙燙爆彈",
+		"hydroculusresonancestone": "水神瞳共鳴石",
+		"ignitedseedoflife": "聚燃的命種",
+		"ignitedseeingeye": "聚燃的遊像眼",
+		"illusoryleafcoil": "迷光的蜷葉之心",
+		"immaculatewarrant": "精緻的執憑",
+		"inspectorssacrificialknife": "督察長祭刀",
+		"insulationpotion": "絕緣藥劑",
+		"irontalismanoftheforestdew": "謐林涓露的鐵符",
+		"jadebranchofadistantsea": "遠海夷地的瓊枝",
+		"jeweledbranchofadistantsea": "遠海夷地的玉枝",
+		"kageuchihandguard": "影打刀鐔",
+		"leylinesprout": "地脈的新芽",
+		"lieutenantsinsignia": "尉官的徽記",
+		"locusofaclearwill": "意志明晰的寄偶",
+		"luminescentpollen": "螢光孢粉",
+		"lunarfin": "月色鰭翅",
+		"lustrousstonefromguyun": "孤雲寒林的輝岩",
+		"markedshell": "鍥紋的橫脊",
+		"maskofthekijin": "今昔劇畫之鬼人",
+		"maskoftheonehorned": "今昔劇畫之一角",
+		"maskofthetigersbite": "今昔劇畫之虎齧",
+		"mechanicalspurgear": "機關正齒輪",
+		"mintessentialoil": "薄荷精油",
+		"mistgrass": "霧虛草囊",
+		"mistgrasswick": "霧虛燈芯",
+		"mistshroudhelmet": "幽霧兜盔",
+		"mistshroudplate": "幽霧片甲",
+		"mistveiledgoldelixir": "霧海雲間的金丹",
+		"mistveiledmercuryelixir": "霧海雲間的汞丹",
+		"mistveiledprimoelixir": "霧海雲間的轉還",
+		"movementofanancientchord": "悠古弦音的樂章",
+		"nagadusemeraldchunk": "生長碧翡塊",
+		"nagadusemeraldfragment": "生長碧翡斷片",
+		"nagadusemeraldgemstone": "生長碧翡",
+		"namelesstaboomedicineoftheroyalcourt": "無名的王庭禁藥",
+		"narukamisaffection": "鳴神御靈的親愛",
+		"narukamisjoy": "鳴神御靈的歡喜",
+		"narukamisvalor": "鳴神御靈的勇武",
+		"newborntaintedhydrophantasm": "初生的濁水幻靈",
+		"nightwindsmysticaugury": "神合秘煙的徵兆",
+		"nightwindsmysticpremonition": "神合秘煙的預感",
+		"nightwindsmysticrevelation": "神合秘煙的啟示",
+		"oasisgardenskindness": "綠洲花園的恩惠",
+		"oasisgardensmourning": "綠洲花園的哀思",
+		"oasisgardenstruth": "綠洲花園的真諦",
+		"oblationofthefarnorthscions": "終北遺嗣的禱獻",
+		"oldendaysofscorchingmight": "烈日威權的舊日",
+		"ominousmask": "不祥的面具",
+		"operativesconstancy": "役人的時時刻刻",
+		"operativesstandardpocketwatch": "役人的制式懷錶",
+		"philosophiesofadmonition": "「諍言」的哲學",
+		"philosophiesofballad": "「詩文」的哲學",
+		"philosophiesofconflict": "「紛爭」的哲學",
+		"philosophiesofcontention": "「角逐」的哲學",
+		"philosophiesofdiligence": "「勤勞」的哲學",
+		"philosophiesofelegance": "「風雅」的哲學",
+		"philosophiesofelysium": "「樂園」的哲學",
+		"philosophiesofequity": "「公平」的哲學",
+		"philosophiesoffreedom": "「自由」的哲學",
+		"philosophiesofgold": "「黃金」的哲學",
+		"philosophiesofingenuity": "「巧思」的哲學",
+		"philosophiesofjustice": "「正義」的哲學",
+		"philosophiesofkindling": "「焚燔」的哲學",
+		"philosophiesoflight": "「天光」的哲學",
+		"philosophiesofmoonlight": "「月光」的哲學",
+		"philosophiesoforder": "「秩序」的哲學",
+		"philosophiesofpraxis": "「篤行」的哲學",
+		"philosophiesofprosperity": "「繁榮」的哲學",
+		"philosophiesofresistance": "「抗爭」的哲學",
+		"philosophiesoftransience": "「浮世」的哲學",
+		"philosophiesofvagrancy": "「浪跡」的哲學",
+		"pieceofaerosiderite": "漆黑隕鐵的一片",
+		"polarizingprism": "偏光稜鏡",
+		"portablewaypoint": "口袋錨點",
+		"precisiondriveshaft": "精製機軸",
+		"prithivatopazchunk": "堅牢黃玉塊",
+		"prithivatopazfragment": "堅牢黃玉斷片",
+		"prithivatopazgemstone": "堅牢黃玉",
+		"purewater": "「純潔之水」",
+		"pyroculusresonancestone": "火神瞳共鳴石",
+		"radiantexoskeleton": "繁光軀外骸",
+		"radiantprism": "輝光稜晶",
+		"reddye": "紅色染料",
+		"redrotbait": "赤糜餌",
+		"refreshinglakkabait": "清白餌",
+		"reinforceddriveshaft": "加固機軸",
+		"relicfromguyun": "孤雲寒林的聖骸",
+		"remnantglowofscorchingmight": "烈日威權的餘光",
+		"richredbrocade": "織金紅綢",
+		"robustfungalnucleus": "茁壯菌核",
+		"sauriancrownedwarriorsgoldenwhistle": "龍冠武士的金哨",
+		"scatteredpieceofdecarabiansdream": "高塔孤王的碎夢",
+		"scoopoftaintedwater": "濁水的一掬",
+		"sealedscroll": "封魔繪卷",
+		"seasonedfang": "老練的堅齒",
+		"sergeantsinsignia": "士官的徽記",
+		"shacklesofthedandeliongladiator": "獅牙鬥士的鐐銬",
+		"sharparrowhead": "銳利的箭鏃",
+		"sheathofthesecretsource": "秘源機鞘",
+		"shimmeringnectar": "微光花蜜",
+		"shivadajadechunk": "哀敘冰玉塊",
+		"shivadajadefragment": "哀敘冰玉斷片",
+		"shivadajadegemstone": "哀敘冰玉",
+		"shockingessentialoil": "驚雷精油",
+		"sigilofastridingwill": "意志巡遊的符像",
+		"silvergobletofthepristinesea": "無垢之海的銀杯",
+		"silverraveninsignia": "藏銀鴉印",
+		"silvertalismanoftheforestdew": "謐林涓露的銀符",
+		"slimeconcentrate": "史萊姆原漿",
+		"slimesecretions": "史萊姆清",
+		"sourbait": "酸桔餌",
+		"specialunmovingessentialoil": "特殊的磐石精油",
+		"spectralheart": "浮游幽核",
+		"spectralnucleus": "浮游晶化核",
+		"spinelgrainbait": "澄晶果粒餌",
+		"splinteredhilt": "裂斷的劍柄",
+		"springofpuresacreddewdrop": "純聖露滴的醴泉",
+		"stainedmask": "汙穢的面具",
+		"stillsmolderinghilt": "未熄的劍柄",
+		"straightshooter": "準準爆彈",
+		"streamingessentialoil": "激流精油",
+		"strengthtonic": "「強水」",
+		"sturdyboneshard": "結實的骨片",
+		"sturdyshell": "密固的橫脊",
+		"sublimationofpuresacreddewdrop": "純聖露滴的凝華",
+		"sugardewbait": "甘露餌",
+		"transoceanicchunk": "異海之塊",
+		"treasuredflower": "何人所珍藏之花",
+		"trimmedredsilk": "鑲邊紅綢",
+		"turbidprism": "混濁稜晶",
+		"tyrantsfang": "橫行霸者的利齒",
+		"unmovingessentialoil": "磐石精油",
+		"unyieldingdelusionofthefarnorthscions": "終北遺嗣的迷頑",
+		"vajradaamethystchunk": "最勝紫晶塊",
+		"vajradaamethystfragment": "最勝紫晶斷片",
+		"vajradaamethystgemstone": "最勝紫晶",
+		"valleyweaveressentialoil": "「山陰錦簇」精油",
+		"varunadalazuritechunk": "滌淨青金塊",
+		"varunadalazuritefragment": "滌淨青金斷片",
+		"varunadalazuritegemstone": "滌淨青金",
+		"vayudaturquoisechunk": "自在松石塊",
+		"vayudaturquoisefragment": "自在松石斷片",
+		"vayudaturquoisegemstone": "自在松石",
+		"wanderersbloomingflower": "漫遊者的盛放之花",
+		"warmbackshell": "蘊熱的背殼",
+		"warriorsmetalwhistle": "戰士的鐵哨",
+		"weatheredarrowhead": "歷戰的箭鏃",
+		"windbarrierpotion": "防風藥劑",
+		"winegobletofthepristinesea": "無垢之海的酒盞",
+		"xenochromaticcrystal": "異色結晶石",
+		"xiaolantern": "霄燈",
+		"yellowdye": "黃色染料"
+	},
+	"names": {
+		"深黯的怪核": "aberrantcoreofthedeepshadow",
+		"長夜燧火的殘照": "afterglowoflongnightflint",
+		"特工祭刀": "agentssacrificialknife",
+		"燃願瑪瑙塊": "agnidusagatechunk",
+		"燃願瑪瑙斷片": "agnidusagatefragment",
+		"燃願瑪瑙": "agnidusagategemstone",
+		"異界生命核": "alienlifecore",
+		"風神瞳共鳴石": "anemoculusresonancestone",
+		"奇巧秘器的繼業": "artfuldeviceinheritance",
+		"奇巧秘器的模本": "artfuldevicereplica",
+		"奇巧秘器的真願": "artfuldevicewish",
+		"奇械機芯齒輪": "artificeddynamicgear",
+		"終北遺嗣的煌熠": "aureateradianceofthefarnorthscions",
+		"槲梭餌": "berrybait",
+		"惑光的闊葉": "bewilderingbroadleaf",
+		"漆黑隕鐵的一角": "bitofaerosiderite",
+		"黑銅號角": "blackbronzehorn",
+		"黑晶號角": "blackcrystalhorn",
+		"長夜燧火的烈輝": "blazeoflongnightflint",
+		"明燃的稜狀殼": "blazingprismshell",
+		"貢祭熾心的躊躇": "blazingsacrificialheartshesitance",
+		"貢祭熾心的決絕": "blazingsacrificialheartsresolve",
+		"貢祭熾心的榮膺": "blazingsacrificialheartssplendor",
+		"藍色染料": "bluedye",
+		"凜風奔狼的斷牙": "borealwolfsbrokenfang",
+		"凜風奔狼的裂齒": "borealwolfscrackedtooth",
+		"凜風奔狼的懷鄉": "borealwolfsnostalgia",
+		"獅牙鬥士的鐵鍊": "chainsofthedandeliongladiator",
+		"混沌樞紐": "chaosaxis",
+		"混沌錨栓": "chaosbolt",
+		"混沌迴路": "chaoscircuit",
+		"混沌爐心": "chaoscore",
+		"混沌模組": "chaosmodule",
+		"混沌真眼": "chaosoculus",
+		"悠古弦音的斷章": "chapterofanancientchord",
+		"淵光鰭翅": "chasmlightfin",
+		"漆黑隕鐵的一塊": "chunkofaerosiderite",
+		"隱獸鬼爪": "concealedtalon",
+		"隱獸利爪": "concealedunguis",
+		"濃縮樹脂": "condensedresin",
+		"孢囊晶塵": "crystallinecystdust",
+		"水晶稜鏡": "crystalprism",
+		"夤夜刻像": "darkstatuette",
+		"地脈的枯葉": "deadleylineleaves",
+		"幽邃刻像": "deathlystatuette",
+		"高塔孤王的殘垣": "debrisofdecarabianscity",
+		"譫妄聖主的容光": "deliriousdemeanorofthesacredlord",
+		"譫妄聖主的餘哀": "deliriousdesolationofthesacredlord",
+		"譫妄聖主的神面": "deliriousdivinityofthesacredlord",
+		"治草藥劑": "dendrocidepotion",
+		"草神瞳共鳴石": "dendroculusresonancestone",
+		"防潮藥劑": "desiccantpotion",
+		"孤雲寒林的神體": "divinebodyfromguyun",
+		"休眠菌核": "dormantfungalnucleus",
+		"烈日威權的夢想": "dreamofscorchingmight",
+		"獅牙鬥士的理想": "dreamofthedandeliongladiator",
+		"防塵藥劑": "dustproofpotion",
+		"悠古弦音的迴響": "echoofanancientchord",
+		"雷神瞳共鳴石": "electroculusresonancestone",
+		"溫火餌": "emberglowbait",
+		"原素花蜜": "energynectar",
+		"純聖露滴的真粹": "essenceofpuresacreddewdrop",
+		"布匹": "fabric",
+		"飛蠅假餌": "fakeflybait",
+		"蠕蟲假餌": "falsewormbait",
+		"名刀鐔": "famedhandguard",
+		"「縹緲仙緣」精油": "fatesyearningessentialoil",
+		"烈火精油": "flamingessentialoil",
+		"長夜燧火的明焰": "flareoflongnightflint",
+		"維護機關頻閃誘餌": "flashingmaintenancemekbait",
+		"飄飄爆彈": "floatysplody",
+		"禁咒繪卷": "forbiddencursescroll",
+		"外世突觸": "foreignsynapse",
+		"叢林精油": "forestessentialoil",
+		"石化的骨片": "fossilizedboneshard",
+		"高塔孤王的斷片": "fragmentofdecarabiansepic",
+		"霜鐫的執憑": "frostetchedwarrant",
+		"霜劫精油": "frostingessentialoil",
+		"霜夜的煌榮": "frostnightsglory",
+		"霜夜的柔輝": "frostnightsglow",
+		"耐寒藥劑": "frostshieldpotion",
+		"果釀餌": "fruitpastebait",
+		"岩神瞳共鳴石": "geoculusresonancestone",
+		"稀光遺骼": "glowingremains",
+		"遠海夷地的金枝": "goldenbranchofadistantsea",
+		"無垢之海的金杯": "goldengobletofthepristinesea",
+		"「金屋藏嬌」精油": "goldenhousemaidenessentialoil",
+		"攫金鴉印": "goldenraveninsignia",
+		"謐林涓露的金符": "goldentalismanoftheforestdew",
+		"「諍言」的指引": "guidetoadmonition",
+		"「詩文」的指引": "guidetoballad",
+		"「紛爭」的指引": "guidetoconflict",
+		"「角逐」的指引": "guidetocontention",
+		"「勤勞」的指引": "guidetodiligence",
+		"「風雅」的指引": "guidetoelegance",
+		"「樂園」的指引": "guidetoelysium",
+		"「公平」的指引": "guidetoequity",
+		"「自由」的指引": "guidetofreedom",
+		"「黃金」的指引": "guidetogold",
+		"「巧思」的指引": "guidetoingenuity",
+		"「正義」的指引": "guidetojustice",
+		"「焚燔」的指引": "guidetokindling",
+		"「天光」的指引": "guidetolight",
+		"「月光」的指引": "guidetomoonlight",
+		"「秩序」的指引": "guidetoorder",
+		"「篤行」的指引": "guidetopraxis",
+		"「繁榮」的指引": "guidetoprosperity",
+		"「抗爭」的指引": "guidetoresistance",
+		"「浮世」的指引": "guidetotransience",
+		"「浪跡」的指引": "guidetovagrancy",
+		"狂風精油": "gushingessentialoil",
+		"秘源真芯": "heartofthesecretsource",
+		"耐熱藥劑": "heatshieldpotion",
+		"深黯的鉤喙": "hookedbeakofthedeepshadow",
+		"燙燙爆彈": "hotpod",
+		"水神瞳共鳴石": "hydroculusresonancestone",
+		"聚燃的命種": "ignitedseedoflife",
+		"聚燃的遊像眼": "ignitedseeingeye",
+		"迷光的蜷葉之心": "illusoryleafcoil",
+		"精緻的執憑": "immaculatewarrant",
+		"督察長祭刀": "inspectorssacrificialknife",
+		"絕緣藥劑": "insulationpotion",
+		"謐林涓露的鐵符": "irontalismanoftheforestdew",
+		"遠海夷地的瓊枝": "jadebranchofadistantsea",
+		"遠海夷地的玉枝": "jeweledbranchofadistantsea",
+		"影打刀鐔": "kageuchihandguard",
+		"地脈的新芽": "leylinesprout",
+		"尉官的徽記": "lieutenantsinsignia",
+		"意志明晰的寄偶": "locusofaclearwill",
+		"螢光孢粉": "luminescentpollen",
+		"月色鰭翅": "lunarfin",
+		"孤雲寒林的輝岩": "lustrousstonefromguyun",
+		"鍥紋的橫脊": "markedshell",
+		"今昔劇畫之鬼人": "maskofthekijin",
+		"今昔劇畫之一角": "maskoftheonehorned",
+		"今昔劇畫之虎齧": "maskofthetigersbite",
+		"機關正齒輪": "mechanicalspurgear",
+		"薄荷精油": "mintessentialoil",
+		"霧虛草囊": "mistgrass",
+		"霧虛燈芯": "mistgrasswick",
+		"幽霧兜盔": "mistshroudhelmet",
+		"幽霧片甲": "mistshroudplate",
+		"霧海雲間的金丹": "mistveiledgoldelixir",
+		"霧海雲間的汞丹": "mistveiledmercuryelixir",
+		"霧海雲間的轉還": "mistveiledprimoelixir",
+		"悠古弦音的樂章": "movementofanancientchord",
+		"生長碧翡塊": "nagadusemeraldchunk",
+		"生長碧翡斷片": "nagadusemeraldfragment",
+		"生長碧翡": "nagadusemeraldgemstone",
+		"無名的王庭禁藥": "namelesstaboomedicineoftheroyalcourt",
+		"鳴神御靈的親愛": "narukamisaffection",
+		"鳴神御靈的歡喜": "narukamisjoy",
+		"鳴神御靈的勇武": "narukamisvalor",
+		"初生的濁水幻靈": "newborntaintedhydrophantasm",
+		"神合秘煙的徵兆": "nightwindsmysticaugury",
+		"神合秘煙的預感": "nightwindsmysticpremonition",
+		"神合秘煙的啟示": "nightwindsmysticrevelation",
+		"綠洲花園的恩惠": "oasisgardenskindness",
+		"綠洲花園的哀思": "oasisgardensmourning",
+		"綠洲花園的真諦": "oasisgardenstruth",
+		"終北遺嗣的禱獻": "oblationofthefarnorthscions",
+		"烈日威權的舊日": "oldendaysofscorchingmight",
+		"不祥的面具": "ominousmask",
+		"役人的時時刻刻": "operativesconstancy",
+		"役人的制式懷錶": "operativesstandardpocketwatch",
+		"「諍言」的哲學": "philosophiesofadmonition",
+		"「詩文」的哲學": "philosophiesofballad",
+		"「紛爭」的哲學": "philosophiesofconflict",
+		"「角逐」的哲學": "philosophiesofcontention",
+		"「勤勞」的哲學": "philosophiesofdiligence",
+		"「風雅」的哲學": "philosophiesofelegance",
+		"「樂園」的哲學": "philosophiesofelysium",
+		"「公平」的哲學": "philosophiesofequity",
+		"「自由」的哲學": "philosophiesoffreedom",
+		"「黃金」的哲學": "philosophiesofgold",
+		"「巧思」的哲學": "philosophiesofingenuity",
+		"「正義」的哲學": "philosophiesofjustice",
+		"「焚燔」的哲學": "philosophiesofkindling",
+		"「天光」的哲學": "philosophiesoflight",
+		"「月光」的哲學": "philosophiesofmoonlight",
+		"「秩序」的哲學": "philosophiesoforder",
+		"「篤行」的哲學": "philosophiesofpraxis",
+		"「繁榮」的哲學": "philosophiesofprosperity",
+		"「抗爭」的哲學": "philosophiesofresistance",
+		"「浮世」的哲學": "philosophiesoftransience",
+		"「浪跡」的哲學": "philosophiesofvagrancy",
+		"漆黑隕鐵的一片": "pieceofaerosiderite",
+		"偏光稜鏡": "polarizingprism",
+		"口袋錨點": "portablewaypoint",
+		"精製機軸": "precisiondriveshaft",
+		"堅牢黃玉塊": "prithivatopazchunk",
+		"堅牢黃玉斷片": "prithivatopazfragment",
+		"堅牢黃玉": "prithivatopazgemstone",
+		"「純潔之水」": "purewater",
+		"火神瞳共鳴石": "pyroculusresonancestone",
+		"繁光軀外骸": "radiantexoskeleton",
+		"輝光稜晶": "radiantprism",
+		"紅色染料": "reddye",
+		"赤糜餌": "redrotbait",
+		"清白餌": "refreshinglakkabait",
+		"加固機軸": "reinforceddriveshaft",
+		"孤雲寒林的聖骸": "relicfromguyun",
+		"烈日威權的餘光": "remnantglowofscorchingmight",
+		"織金紅綢": "richredbrocade",
+		"茁壯菌核": "robustfungalnucleus",
+		"龍冠武士的金哨": "sauriancrownedwarriorsgoldenwhistle",
+		"高塔孤王的碎夢": "scatteredpieceofdecarabiansdream",
+		"濁水的一掬": "scoopoftaintedwater",
+		"封魔繪卷": "sealedscroll",
+		"老練的堅齒": "seasonedfang",
+		"士官的徽記": "sergeantsinsignia",
+		"獅牙鬥士的鐐銬": "shacklesofthedandeliongladiator",
+		"銳利的箭鏃": "sharparrowhead",
+		"秘源機鞘": "sheathofthesecretsource",
+		"微光花蜜": "shimmeringnectar",
+		"哀敘冰玉塊": "shivadajadechunk",
+		"哀敘冰玉斷片": "shivadajadefragment",
+		"哀敘冰玉": "shivadajadegemstone",
+		"驚雷精油": "shockingessentialoil",
+		"意志巡遊的符像": "sigilofastridingwill",
+		"無垢之海的銀杯": "silvergobletofthepristinesea",
+		"藏銀鴉印": "silverraveninsignia",
+		"謐林涓露的銀符": "silvertalismanoftheforestdew",
+		"史萊姆原漿": "slimeconcentrate",
+		"史萊姆清": "slimesecretions",
+		"酸桔餌": "sourbait",
+		"特殊的磐石精油": "specialunmovingessentialoil",
+		"浮游幽核": "spectralheart",
+		"浮游晶化核": "spectralnucleus",
+		"澄晶果粒餌": "spinelgrainbait",
+		"裂斷的劍柄": "splinteredhilt",
+		"純聖露滴的醴泉": "springofpuresacreddewdrop",
+		"汙穢的面具": "stainedmask",
+		"未熄的劍柄": "stillsmolderinghilt",
+		"準準爆彈": "straightshooter",
+		"激流精油": "streamingessentialoil",
+		"「強水」": "strengthtonic",
+		"結實的骨片": "sturdyboneshard",
+		"密固的橫脊": "sturdyshell",
+		"純聖露滴的凝華": "sublimationofpuresacreddewdrop",
+		"甘露餌": "sugardewbait",
+		"異海之塊": "transoceanicchunk",
+		"何人所珍藏之花": "treasuredflower",
+		"鑲邊紅綢": "trimmedredsilk",
+		"混濁稜晶": "turbidprism",
+		"橫行霸者的利齒": "tyrantsfang",
+		"磐石精油": "unmovingessentialoil",
+		"終北遺嗣的迷頑": "unyieldingdelusionofthefarnorthscions",
+		"最勝紫晶塊": "vajradaamethystchunk",
+		"最勝紫晶斷片": "vajradaamethystfragment",
+		"最勝紫晶": "vajradaamethystgemstone",
+		"「山陰錦簇」精油": "valleyweaveressentialoil",
+		"滌淨青金塊": "varunadalazuritechunk",
+		"滌淨青金斷片": "varunadalazuritefragment",
+		"滌淨青金": "varunadalazuritegemstone",
+		"自在松石塊": "vayudaturquoisechunk",
+		"自在松石斷片": "vayudaturquoisefragment",
+		"自在松石": "vayudaturquoisegemstone",
+		"漫遊者的盛放之花": "wanderersbloomingflower",
+		"蘊熱的背殼": "warmbackshell",
+		"戰士的鐵哨": "warriorsmetalwhistle",
+		"歷戰的箭鏃": "weatheredarrowhead",
+		"防風藥劑": "windbarrierpotion",
+		"無垢之海的酒盞": "winegobletofthepristinesea",
+		"異色結晶石": "xenochromaticcrystal",
+		"霄燈": "xiaolantern",
+		"黃色染料": "yellowdye"
+	},
+	"aliases": {},
+	"categories": {
+		"角色與武器培養素材": [
+			"aberrantcoreofthedeepshadow",
+			"agentssacrificialknife",
+			"alienlifecore",
+			"artificeddynamicgear",
+			"bewilderingbroadleaf",
+			"blackbronzehorn",
+			"blackcrystalhorn",
+			"blazingprismshell",
+			"chaosaxis",
+			"chaosbolt",
+			"chaoscircuit",
+			"chaoscore",
+			"chaosmodule",
+			"chaosoculus",
+			"chasmlightfin",
+			"concealedtalon",
+			"concealedunguis",
+			"crystallinecystdust",
+			"crystalprism",
+			"darkstatuette",
+			"deadleylineleaves",
+			"deathlystatuette",
+			"dormantfungalnucleus",
+			"energynectar",
+			"famedhandguard",
+			"forbiddencursescroll",
+			"foreignsynapse",
+			"fossilizedboneshard",
+			"frostetchedwarrant",
+			"frostnightsglory",
+			"frostnightsglow",
+			"glowingremains",
+			"goldenraveninsignia",
+			"heartofthesecretsource",
+			"hookedbeakofthedeepshadow",
+			"ignitedseedoflife",
+			"ignitedseeingeye",
+			"illusoryleafcoil",
+			"immaculatewarrant",
+			"inspectorssacrificialknife",
+			"kageuchihandguard",
+			"leylinesprout",
+			"lieutenantsinsignia",
+			"locusofaclearwill",
+			"luminescentpollen",
+			"lunarfin",
+			"markedshell",
+			"mechanicalspurgear",
+			"mistgrass",
+			"mistgrasswick",
+			"mistshroudhelmet",
+			"mistshroudplate",
+			"newborntaintedhydrophantasm",
+			"ominousmask",
+			"operativesconstancy",
+			"operativesstandardpocketwatch",
+			"polarizingprism",
+			"precisiondriveshaft",
+			"radiantexoskeleton",
+			"radiantprism",
+			"reinforceddriveshaft",
+			"richredbrocade",
+			"robustfungalnucleus",
+			"sauriancrownedwarriorsgoldenwhistle",
+			"scoopoftaintedwater",
+			"sealedscroll",
+			"seasonedfang",
+			"sergeantsinsignia",
+			"sharparrowhead",
+			"sheathofthesecretsource",
+			"shimmeringnectar",
+			"sigilofastridingwill",
+			"silverraveninsignia",
+			"slimeconcentrate",
+			"slimesecretions",
+			"spectralheart",
+			"spectralnucleus",
+			"splinteredhilt",
+			"stainedmask",
+			"stillsmolderinghilt",
+			"sturdyboneshard",
+			"sturdyshell",
+			"transoceanicchunk",
+			"treasuredflower",
+			"trimmedredsilk",
+			"turbidprism",
+			"tyrantsfang",
+			"wanderersbloomingflower",
+			"warmbackshell",
+			"warriorsmetalwhistle",
+			"weatheredarrowhead",
+			"xenochromaticcrystal"
+		],
+		"深黯的裂眼": [
+			"aberrantcoreofthedeepshadow"
+		],
+		"武器突破素材": [
+			"afterglowoflongnightflint",
+			"artfuldeviceinheritance",
+			"artfuldevicereplica",
+			"artfuldevicewish",
+			"aureateradianceofthefarnorthscions",
+			"bitofaerosiderite",
+			"blazeoflongnightflint",
+			"blazingsacrificialheartshesitance",
+			"blazingsacrificialheartsresolve",
+			"blazingsacrificialheartssplendor",
+			"borealwolfsbrokenfang",
+			"borealwolfscrackedtooth",
+			"borealwolfsnostalgia",
+			"chainsofthedandeliongladiator",
+			"chapterofanancientchord",
+			"chunkofaerosiderite",
+			"debrisofdecarabianscity",
+			"deliriousdemeanorofthesacredlord",
+			"deliriousdesolationofthesacredlord",
+			"deliriousdivinityofthesacredlord",
+			"divinebodyfromguyun",
+			"dreamofscorchingmight",
+			"dreamofthedandeliongladiator",
+			"echoofanancientchord",
+			"essenceofpuresacreddewdrop",
+			"flareoflongnightflint",
+			"fragmentofdecarabiansepic",
+			"goldenbranchofadistantsea",
+			"goldengobletofthepristinesea",
+			"goldentalismanoftheforestdew",
+			"irontalismanoftheforestdew",
+			"jadebranchofadistantsea",
+			"jeweledbranchofadistantsea",
+			"lustrousstonefromguyun",
+			"maskofthekijin",
+			"maskoftheonehorned",
+			"maskofthetigersbite",
+			"mistveiledgoldelixir",
+			"mistveiledmercuryelixir",
+			"mistveiledprimoelixir",
+			"movementofanancientchord",
+			"narukamisaffection",
+			"narukamisjoy",
+			"narukamisvalor",
+			"nightwindsmysticaugury",
+			"nightwindsmysticpremonition",
+			"nightwindsmysticrevelation",
+			"oasisgardenskindness",
+			"oasisgardensmourning",
+			"oasisgardenstruth",
+			"oblationofthefarnorthscions",
+			"oldendaysofscorchingmight",
+			"pieceofaerosiderite",
+			"relicfromguyun",
+			"remnantglowofscorchingmight",
+			"scatteredpieceofdecarabiansdream",
+			"shacklesofthedandeliongladiator",
+			"silvergobletofthepristinesea",
+			"silvertalismanoftheforestdew",
+			"springofpuresacreddewdrop",
+			"sublimationofpuresacreddewdrop",
+			"unyieldingdelusionofthefarnorthscions",
+			"winegobletofthepristinesea"
+		],
+		"長夜燧火的餘燼": [
+			"afterglowoflongnightflint"
+		],
+		"獵兵祭刀": [
+			"agentssacrificialknife"
+		],
+		"角色突破素材": [
+			"agnidusagatechunk",
+			"agnidusagatefragment",
+			"agnidusagategemstone",
+			"nagadusemeraldchunk",
+			"nagadusemeraldfragment",
+			"nagadusemeraldgemstone",
+			"prithivatopazchunk",
+			"prithivatopazfragment",
+			"prithivatopazgemstone",
+			"shivadajadechunk",
+			"shivadajadefragment",
+			"shivadajadegemstone",
+			"vajradaamethystchunk",
+			"vajradaamethystfragment",
+			"vajradaamethystgemstone",
+			"varunadalazuritechunk",
+			"varunadalazuritefragment",
+			"varunadalazuritegemstone",
+			"vayudaturquoisechunk",
+			"vayudaturquoisefragment",
+			"vayudaturquoisegemstone"
+		],
+		"燃願瑪瑙斷片": [
+			"agnidusagatechunk"
+		],
+		"燃願瑪瑙碎屑": [
+			"agnidusagatefragment"
+		],
+		"燃願瑪瑙塊": [
+			"agnidusagategemstone"
+		],
+		"外世突觸": [
+			"alienlifecore"
+		],
+		"消耗品": [
+			"anemoculusresonancestone",
+			"condensedresin",
+			"dendroculusresonancestone",
+			"electroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"蒲公英籽": [
+			"anemoculusresonancestone",
+			"gushingessentialoil",
+			"windbarrierpotion"
+		],
+		"塞西莉亞花": [
+			"anemoculusresonancestone"
+		],
+		"水晶塊": [
+			"anemoculusresonancestone",
+			"dendroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"奇巧秘器的模本": [
+			"artfuldeviceinheritance"
+		],
+		"奇巧秘器的殘件": [
+			"artfuldevicereplica"
+		],
+		"奇巧秘器的繼業": [
+			"artfuldevicewish"
+		],
+		"機關正齒輪": [
+			"artificeddynamicgear"
+		],
+		"終北遺嗣的禱獻": [
+			"aureateradianceofthefarnorthscions"
+		],
+		"魚餌": [
+			"berrybait",
+			"emberglowbait",
+			"fakeflybait",
+			"falsewormbait",
+			"flashingmaintenancemekbait",
+			"fruitpastebait",
+			"redrotbait",
+			"refreshinglakkabait",
+			"sourbait",
+			"spinelgrainbait",
+			"sugardewbait"
+		],
+		"夏槲果": [
+			"berrybait"
+		],
+		"麵粉": [
+			"berrybait"
+		],
+		"折光的胚芽": [
+			"bewilderingbroadleaf"
+		],
+		"漆黑隕鐵的一片": [
+			"bitofaerosiderite"
+		],
+		"沉重號角": [
+			"blackbronzehorn"
+		],
+		"黑銅號角": [
+			"blackcrystalhorn"
+		],
+		"長夜燧火的明焰": [
+			"blazeoflongnightflint"
+		],
+		"蘊熱的背殼": [
+			"blazingprismshell"
+		],
+		"貢祭熾心的惶恐": [
+			"blazingsacrificialheartshesitance"
+		],
+		"貢祭熾心的躊躇": [
+			"blazingsacrificialheartsresolve"
+		],
+		"貢祭熾心的決絕": [
+			"blazingsacrificialheartssplendor"
+		],
+		"擺設製作材料": [
+			"bluedye",
+			"fabric",
+			"reddye",
+			"yellowdye"
+		],
+		"薄荷": [
+			"bluedye",
+			"mintessentialoil",
+			"refreshinglakkabait"
+		],
+		"鉤鉤果": [
+			"bluedye"
+		],
+		"幽燈蕈": [
+			"bluedye"
+		],
+		"汐藻": [
+			"bluedye",
+			"purewater"
+		],
+		"青蜜莓": [
+			"bluedye",
+			"pyroculusresonancestone"
+		],
+		"凜風奔狼的裂齒": [
+			"borealwolfsbrokenfang"
+		],
+		"凜風奔狼的始齔": [
+			"borealwolfscrackedtooth"
+		],
+		"凜風奔狼的斷牙": [
+			"borealwolfsnostalgia"
+		],
+		"獅牙鬥士的枷鎖": [
+			"chainsofthedandeliongladiator"
+		],
+		"混沌機關": [
+			"chaosaxis"
+		],
+		"混沌模組": [
+			"chaosbolt"
+		],
+		"混沌裝置": [
+			"chaoscircuit"
+		],
+		"混沌迴路": [
+			"chaoscore"
+		],
+		"混沌容器": [
+			"chaosmodule"
+		],
+		"混沌樞紐": [
+			"chaosoculus"
+		],
+		"悠古弦音的殘章": [
+			"chapterofanancientchord"
+		],
+		"月色鰭翅": [
+			"chasmlightfin"
+		],
+		"漆黑隕鐵的一角": [
+			"chunkofaerosiderite"
+		],
+		"隱獸利爪": [
+			"concealedtalon"
+		],
+		"隱獸指爪": [
+			"concealedunguis"
+		],
+		"晶核": [
+			"condensedresin",
+			"dendrocidepotion",
+			"frostshieldpotion",
+			"windbarrierpotion"
+		],
+		"原粹樹脂": [
+			"condensedresin"
+		],
+		"螢光孢粉": [
+			"crystallinecystdust"
+		],
+		"黯淡稜鏡": [
+			"crystalprism"
+		],
+		"晦暗刻像": [
+			"darkstatuette"
+		],
+		"地脈的舊枝": [
+			"deadleylineleaves"
+		],
+		"夤夜刻像": [
+			"deathlystatuette"
+		],
+		"高塔孤王的破瓦": [
+			"debrisofdecarabianscity"
+		],
+		"譫妄聖主的餘哀": [
+			"deliriousdemeanorofthesacredlord"
+		],
+		"譫妄聖主的朽敗": [
+			"deliriousdesolationofthesacredlord"
+		],
+		"譫妄聖主的容光": [
+			"deliriousdivinityofthesacredlord"
+		],
+		"藥劑": [
+			"dendrocidepotion",
+			"desiccantpotion",
+			"dustproofpotion",
+			"flamingessentialoil",
+			"forestessentialoil",
+			"frostingessentialoil",
+			"frostshieldpotion",
+			"gushingessentialoil",
+			"heatshieldpotion",
+			"insulationpotion",
+			"shockingessentialoil",
+			"streamingessentialoil",
+			"unmovingessentialoil",
+			"windbarrierpotion"
+		],
+		"須彌薔薇": [
+			"dendrocidepotion",
+			"forestessentialoil",
+			"namelesstaboomedicineoftheroyalcourt",
+			"sugardewbait"
+		],
+		"月蓮": [
+			"dendroculusresonancestone"
+		],
+		"樹王聖體菇": [
+			"dendroculusresonancestone"
+		],
+		"蝴蝶翅膀": [
+			"desiccantpotion",
+			"dustproofpotion",
+			"heatshieldpotion",
+			"insulationpotion"
+		],
+		"蓮蓬": [
+			"desiccantpotion",
+			"streamingessentialoil"
+		],
+		"孤雲寒林的聖骸": [
+			"divinebodyfromguyun"
+		],
+		"失活菌核": [
+			"dormantfungalnucleus"
+		],
+		"烈日威權的餘光": [
+			"dreamofscorchingmight"
+		],
+		"獅牙鬥士的鐐銬": [
+			"dreamofthedandeliongladiator"
+		],
+		"石珀": [
+			"dustproofpotion",
+			"geoculusresonancestone",
+			"specialunmovingessentialoil",
+			"unmovingessentialoil",
+			"yellowdye"
+		],
+		"悠古弦音的樂章": [
+			"echoofanancientchord"
+		],
+		"鳴草": [
+			"electroculusresonancestone"
+		],
+		"緋櫻繡球": [
+			"electroculusresonancestone",
+			"fakeflybait"
+		],
+		"紫晶塊": [
+			"electroculusresonancestone"
+		],
+		"燼芯花": [
+			"emberglowbait",
+			"reddye"
+		],
+		"小麥": [
+			"emberglowbait",
+			"fruitpastebait",
+			"purewater",
+			"sourbait"
+		],
+		"微光花蜜": [
+			"energynectar"
+		],
+		"純聖露滴的醴泉": [
+			"essenceofpuresacreddewdrop"
+		],
+		"霓裳花": [
+			"fabric"
+		],
+		"馬尾": [
+			"fakeflybait"
+		],
+		"史萊姆凝液": [
+			"falsewormbait",
+			"slimesecretions"
+		],
+		"樹莓": [
+			"falsewormbait",
+			"yellowdye"
+		],
+		"影打刀鐔": [
+			"famedhandguard"
+		],
+		"「縹緲仙緣」": [
+			"fatesyearningessentialoil"
+		],
+		"青蛙": [
+			"flamingessentialoil",
+			"shockingessentialoil",
+			"specialunmovingessentialoil",
+			"straightshooter",
+			"streamingessentialoil",
+			"unmovingessentialoil"
+		],
+		"烈焰花花蕊": [
+			"flamingessentialoil",
+			"floatysplody",
+			"heatshieldpotion",
+			"hotpod",
+			"straightshooter"
+		],
+		"長夜燧火的殘照": [
+			"flareoflongnightflint"
+		],
+		"茉潔草": [
+			"flashingmaintenancemekbait",
+			"yellowdye"
+		],
+		"鐵塊": [
+			"flashingmaintenancemekbait"
+		],
+		"發光髓": [
+			"floatysplody",
+			"portablewaypoint"
+		],
+		"封魔繪卷": [
+			"forbiddencursescroll"
+		],
+		"隙間之核": [
+			"foreignsynapse"
+		],
+		"蜥蜴尾巴": [
+			"forestessentialoil",
+			"frostingessentialoil",
+			"gushingessentialoil",
+			"hotpod"
+		],
+		"結實的骨片": [
+			"fossilizedboneshard"
+		],
+		"高塔孤王的殘垣": [
+			"fragmentofdecarabiansepic"
+		],
+		"精緻的執憑": [
+			"frostetchedwarrant"
+		],
+		"冰霧花花朵": [
+			"frostingessentialoil",
+			"frostshieldpotion"
+		],
+		"霜夜的柔輝": [
+			"frostnightsglory"
+		],
+		"霜夜的殘照": [
+			"frostnightsglow"
+		],
+		"日落果": [
+			"fruitpastebait",
+			"reddye"
+		],
+		"琉璃百合": [
+			"geoculusresonancestone"
+		],
+		"失光塊骨": [
+			"glowingremains"
+		],
+		"遠海夷地的瓊枝": [
+			"goldenbranchofadistantsea"
+		],
+		"無垢之海的銀杯": [
+			"goldengobletofthepristinesea"
+		],
+		"「金屋藏嬌」": [
+			"goldenhousemaidenessentialoil"
+		],
+		"藏銀鴉印": [
+			"goldenraveninsignia"
+		],
+		"謐林涓露的銀符": [
+			"goldentalismanoftheforestdew"
+		],
+		"角色天賦素材": [
+			"guidetoadmonition",
+			"guidetoballad",
+			"guidetoconflict",
+			"guidetocontention",
+			"guidetodiligence",
+			"guidetoelegance",
+			"guidetoelysium",
+			"guidetoequity",
+			"guidetofreedom",
+			"guidetogold",
+			"guidetoingenuity",
+			"guidetojustice",
+			"guidetokindling",
+			"guidetolight",
+			"guidetomoonlight",
+			"guidetoorder",
+			"guidetopraxis",
+			"guidetoprosperity",
+			"guidetoresistance",
+			"guidetotransience",
+			"guidetovagrancy",
+			"philosophiesofadmonition",
+			"philosophiesofballad",
+			"philosophiesofconflict",
+			"philosophiesofcontention",
+			"philosophiesofdiligence",
+			"philosophiesofelegance",
+			"philosophiesofelysium",
+			"philosophiesofequity",
+			"philosophiesoffreedom",
+			"philosophiesofgold",
+			"philosophiesofingenuity",
+			"philosophiesofjustice",
+			"philosophiesofkindling",
+			"philosophiesoflight",
+			"philosophiesofmoonlight",
+			"philosophiesoforder",
+			"philosophiesofpraxis",
+			"philosophiesofprosperity",
+			"philosophiesofresistance",
+			"philosophiesoftransience",
+			"philosophiesofvagrancy"
+		],
+		"「諍言」的教導": [
+			"guidetoadmonition"
+		],
+		"「詩文」的教導": [
+			"guidetoballad"
+		],
+		"「紛爭」的教導": [
+			"guidetoconflict"
+		],
+		"「角逐」的教導": [
+			"guidetocontention"
+		],
+		"「勤勞」的教導": [
+			"guidetodiligence"
+		],
+		"「風雅」的教導": [
+			"guidetoelegance"
+		],
+		"「樂園」的教導": [
+			"guidetoelysium"
+		],
+		"「公平」的教導": [
+			"guidetoequity"
+		],
+		"「自由」的教導": [
+			"guidetofreedom"
+		],
+		"「黃金」的教導": [
+			"guidetogold"
+		],
+		"「巧思」的教導": [
+			"guidetoingenuity"
+		],
+		"「正義」的教導": [
+			"guidetojustice"
+		],
+		"「焚燔」的教導": [
+			"guidetokindling"
+		],
+		"「天光」的教導": [
+			"guidetolight"
+		],
+		"「月光」的教導": [
+			"guidetomoonlight"
+		],
+		"「秩序」的教導": [
+			"guidetoorder"
+		],
+		"「篤行」的教導": [
+			"guidetopraxis"
+		],
+		"「繁榮」的教導": [
+			"guidetoprosperity"
+		],
+		"「抗爭」的教導": [
+			"guidetoresistance"
+		],
+		"「浮世」的教導": [
+			"guidetotransience"
+		],
+		"「浪跡」的教導": [
+			"guidetovagrancy"
+		],
+		"秘源機鞘": [
+			"heartofthesecretsource"
+		],
+		"深黯的怪核": [
+			"hookedbeakofthedeepshadow"
+		],
+		"海露花": [
+			"hydroculusresonancestone"
+		],
+		"虹彩薔薇": [
+			"hydroculusresonancestone"
+		],
+		"聚燃的石塊": [
+			"ignitedseedoflife"
+		],
+		"聚燃的命種": [
+			"ignitedseeingeye"
+		],
+		"惑光的闊葉": [
+			"illusoryleafcoil"
+		],
+		"磨損的執憑": [
+			"immaculatewarrant"
+		],
+		"特工祭刀": [
+			"inspectorssacrificialknife"
+		],
+		"電氣水晶": [
+			"insulationpotion",
+			"shockingessentialoil"
+		],
+		"謐林涓露的銅符": [
+			"irontalismanoftheforestdew"
+		],
+		"遠海夷地的玉枝": [
+			"jadebranchofadistantsea"
+		],
+		"遠海夷地的瑚枝": [
+			"jeweledbranchofadistantsea"
+		],
+		"破舊的刀鐔": [
+			"kageuchihandguard"
+		],
+		"地脈的枯葉": [
+			"leylinesprout",
+			"portablewaypoint"
+		],
+		"士官的徽記": [
+			"lieutenantsinsignia"
+		],
+		"意志破碎的殘片": [
+			"locusofaclearwill"
+		],
+		"蕈獸孢子": [
+			"luminescentpollen"
+		],
+		"羽狀鰭翅": [
+			"lunarfin"
+		],
+		"孤雲寒林的光砂": [
+			"lustrousstonefromguyun"
+		],
+		"密固的橫脊": [
+			"markedshell"
+		],
+		"今昔劇畫之一角": [
+			"maskofthekijin"
+		],
+		"今昔劇畫之虎齧": [
+			"maskoftheonehorned"
+		],
+		"今昔劇畫之惡尉": [
+			"maskofthetigersbite"
+		],
+		"齧合齒輪": [
+			"mechanicalspurgear"
+		],
+		"霧虛花粉": [
+			"mistgrass"
+		],
+		"霧虛草囊": [
+			"mistgrasswick"
+		],
+		"幽霧片甲": [
+			"mistshroudhelmet"
+		],
+		"幽霧化形": [
+			"mistshroudplate"
+		],
+		"霧海雲間的汞丹": [
+			"mistveiledgoldelixir"
+		],
+		"霧海雲間的鉛丹": [
+			"mistveiledmercuryelixir"
+		],
+		"霧海雲間的金丹": [
+			"mistveiledprimoelixir"
+		],
+		"悠古弦音的斷章": [
+			"movementofanancientchord"
+		],
+		"生長碧翡斷片": [
+			"nagadusemeraldchunk"
+		],
+		"生長碧翡碎屑": [
+			"nagadusemeraldfragment"
+		],
+		"生長碧翡塊": [
+			"nagadusemeraldgemstone"
+		],
+		"異種蘑菇": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"劫波蓮": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"鳴神御靈的歡喜": [
+			"narukamisaffection"
+		],
+		"鳴神御靈的明惠": [
+			"narukamisjoy"
+		],
+		"鳴神御靈的親愛": [
+			"narukamisvalor"
+		],
+		"濁水的一掬": [
+			"newborntaintedhydrophantasm"
+		],
+		"神合秘煙的預感": [
+			"nightwindsmysticaugury"
+		],
+		"神合秘煙的思緒": [
+			"nightwindsmysticpremonition"
+		],
+		"神合秘煙的徵兆": [
+			"nightwindsmysticrevelation"
+		],
+		"綠洲花園的追憶": [
+			"oasisgardenskindness"
+		],
+		"綠洲花園的恩惠": [
+			"oasisgardensmourning"
+		],
+		"綠洲花園的哀思": [
+			"oasisgardenstruth"
+		],
+		"終北遺嗣的迷頑": [
+			"oblationofthefarnorthscions"
+		],
+		"烈日威權的夢想": [
+			"oldendaysofscorchingmight"
+		],
+		"汙穢的面具": [
+			"ominousmask"
+		],
+		"役人的制式懷錶": [
+			"operativesconstancy"
+		],
+		"老舊的役人懷錶": [
+			"operativesstandardpocketwatch"
+		],
+		"「諍言」的指引": [
+			"philosophiesofadmonition"
+		],
+		"「詩文」的指引": [
+			"philosophiesofballad"
+		],
+		"「紛爭」的指引": [
+			"philosophiesofconflict"
+		],
+		"「角逐」的指引": [
+			"philosophiesofcontention"
+		],
+		"「勤勞」的指引": [
+			"philosophiesofdiligence"
+		],
+		"「風雅」的指引": [
+			"philosophiesofelegance"
+		],
+		"「樂園」的指引": [
+			"philosophiesofelysium"
+		],
+		"「公平」的指引": [
+			"philosophiesofequity"
+		],
+		"「自由」的指引": [
+			"philosophiesoffreedom"
+		],
+		"「黃金」的指引": [
+			"philosophiesofgold"
+		],
+		"「巧思」的指引": [
+			"philosophiesofingenuity"
+		],
+		"「正義」的指引": [
+			"philosophiesofjustice"
+		],
+		"「焚燔」的指引": [
+			"philosophiesofkindling"
+		],
+		"「天光」的指引": [
+			"philosophiesoflight"
+		],
+		"「月光」的指引": [
+			"philosophiesofmoonlight"
+		],
+		"「秩序」的指引": [
+			"philosophiesoforder"
+		],
+		"「篤行」的指引": [
+			"philosophiesofpraxis"
+		],
+		"「繁榮」的指引": [
+			"philosophiesofprosperity"
+		],
+		"「抗爭」的指引": [
+			"philosophiesofresistance"
+		],
+		"「浮世」的指引": [
+			"philosophiesoftransience"
+		],
+		"「浪跡」的指引": [
+			"philosophiesofvagrancy"
+		],
+		"漆黑隕鐵的一粒": [
+			"pieceofaerosiderite"
+		],
+		"水晶稜鏡": [
+			"polarizingprism"
+		],
+		"加固機軸": [
+			"precisiondriveshaft"
+		],
+		"堅牢黃玉斷片": [
+			"prithivatopazchunk"
+		],
+		"堅牢黃玉碎屑": [
+			"prithivatopazfragment"
+		],
+		"堅牢黃玉塊": [
+			"prithivatopazgemstone"
+		],
+		"食物": [
+			"purewater",
+			"strengthtonic"
+		],
+		"松果": [
+			"purewater"
+		],
+		"浪沫羽鰓": [
+			"pyroculusresonancestone"
+		],
+		"稀光遺骼": [
+			"radiantexoskeleton"
+		],
+		"混濁稜晶": [
+			"radiantprism"
+		],
+		"胡蘿蔔": [
+			"reddye"
+		],
+		"落落莓": [
+			"reddye"
+		],
+		"墩墩桃": [
+			"reddye"
+		],
+		"血斛": [
+			"redrotbait"
+		],
+		"禽肉": [
+			"redrotbait"
+		],
+		"白靈果": [
+			"refreshinglakkabait"
+		],
+		"毀損機軸": [
+			"reinforceddriveshaft"
+		],
+		"孤雲寒林的輝岩": [
+			"relicfromguyun"
+		],
+		"烈日威權的殘響": [
+			"remnantglowofscorchingmight"
+		],
+		"鑲邊紅綢": [
+			"richredbrocade"
+		],
+		"休眠菌核": [
+			"robustfungalnucleus"
+		],
+		"戰士的鐵哨": [
+			"sauriancrownedwarriorsgoldenwhistle"
+		],
+		"高塔孤王的斷片": [
+			"scatteredpieceofdecarabiansdream"
+		],
+		"濁水的一滴": [
+			"scoopoftaintedwater"
+		],
+		"導能繪卷": [
+			"sealedscroll"
+		],
+		"稚嫩的尖齒": [
+			"seasonedfang"
+		],
+		"新兵的徽記": [
+			"sergeantsinsignia"
+		],
+		"獅牙鬥士的鐵鍊": [
+			"shacklesofthedandeliongladiator"
+		],
+		"牢固的箭鏃": [
+			"sharparrowhead"
+		],
+		"秘源軸": [
+			"sheathofthesecretsource"
+		],
+		"騙騙花蜜": [
+			"shimmeringnectar"
+		],
+		"哀敘冰玉斷片": [
+			"shivadajadechunk"
+		],
+		"哀敘冰玉碎屑": [
+			"shivadajadefragment"
+		],
+		"哀敘冰玉塊": [
+			"shivadajadegemstone"
+		],
+		"意志明晰的寄偶": [
+			"sigilofastridingwill"
+		],
+		"無垢之海的酒盞": [
+			"silvergobletofthepristinesea"
+		],
+		"尋寶鴉印": [
+			"silverraveninsignia"
+		],
+		"謐林涓露的鐵符": [
+			"silvertalismanoftheforestdew"
+		],
+		"史萊姆清": [
+			"slimeconcentrate"
+		],
+		"泡泡桔": [
+			"sourbait"
+		],
+		"浮游乾核": [
+			"spectralheart"
+		],
+		"浮游幽核": [
+			"spectralnucleus"
+		],
+		"澄晶實": [
+			"spinelgrainbait"
+		],
+		"顆粒果": [
+			"spinelgrainbait"
+		],
+		"殘毀的劍柄": [
+			"splinteredhilt"
+		],
+		"純聖露滴的凝華": [
+			"springofpuresacreddewdrop"
+		],
+		"破損的面具": [
+			"stainedmask"
+		],
+		"裂斷的劍柄": [
+			"stillsmolderinghilt"
+		],
+		"燭傘蘑菇": [
+			"strengthtonic"
+		],
+		"肉龍掌": [
+			"strengthtonic"
+		],
+		"脆弱的骨片": [
+			"sturdyboneshard"
+		],
+		"殘毀的橫脊": [
+			"sturdyshell"
+		],
+		"純聖露滴的濾渣": [
+			"sublimationofpuresacreddewdrop"
+		],
+		"香辛果": [
+			"sugardewbait"
+		],
+		"異海凝珠": [
+			"transoceanicchunk"
+		],
+		"來自何處的待放之花": [
+			"treasuredflower"
+		],
+		"褪色紅綢": [
+			"trimmedredsilk"
+		],
+		"破缺稜晶": [
+			"turbidprism"
+		],
+		"老練的堅齒": [
+			"tyrantsfang"
+		],
+		"終北遺嗣的哀榮": [
+			"unyieldingdelusionofthefarnorthscions"
+		],
+		"最勝紫晶斷片": [
+			"vajradaamethystchunk"
+		],
+		"最勝紫晶碎屑": [
+			"vajradaamethystfragment"
+		],
+		"最勝紫晶塊": [
+			"vajradaamethystgemstone"
+		],
+		"「山陰錦簇」": [
+			"valleyweaveressentialoil"
+		],
+		"滌淨青金斷片": [
+			"varunadalazuritechunk"
+		],
+		"滌淨青金碎屑": [
+			"varunadalazuritefragment"
+		],
+		"滌淨青金塊": [
+			"varunadalazuritegemstone"
+		],
+		"自在松石斷片": [
+			"vayudaturquoisechunk"
+		],
+		"自在松石碎屑": [
+			"vayudaturquoisefragment"
+		],
+		"自在松石塊": [
+			"vayudaturquoisegemstone"
+		],
+		"何人所珍藏之花": [
+			"wanderersbloomingflower"
+		],
+		"冷裂殼塊": [
+			"warmbackshell"
+		],
+		"衛從的木哨": [
+			"warriorsmetalwhistle"
+		],
+		"銳利的箭鏃": [
+			"weatheredarrowhead"
+		],
+		"無垢之海的苦盞": [
+			"winegobletofthepristinesea"
+		],
+		"異海之塊": [
+			"xenochromaticcrystal"
+		],
+		"燈紙纖維": [
+			"xiaolantern"
+		],
+		"燈芯絨材": [
+			"xiaolantern"
+		],
+		"浮生石片": [
+			"xiaolantern"
+		]
+	},
+	"properties": {
+		"filterText": [
+			"角色與武器培養素材",
+			"武器突破素材",
+			"角色突破素材",
+			"消耗品",
+			"魚餌",
+			"擺設製作材料",
+			"藥劑",
+			"角色天賦素材",
+			"食物"
+		],
+		"recipe": [
+			"深黯的裂眼",
+			"長夜燧火的餘燼",
+			"獵兵祭刀",
+			"燃願瑪瑙斷片",
+			"燃願瑪瑙碎屑",
+			"燃願瑪瑙塊",
+			"外世突觸",
+			"蒲公英籽",
+			"塞西莉亞花",
+			"水晶塊",
+			"奇巧秘器的模本",
+			"奇巧秘器的殘件",
+			"奇巧秘器的繼業",
+			"機關正齒輪",
+			"終北遺嗣的禱獻",
+			"夏槲果",
+			"麵粉",
+			"折光的胚芽",
+			"漆黑隕鐵的一片",
+			"沉重號角",
+			"黑銅號角",
+			"長夜燧火的明焰",
+			"蘊熱的背殼",
+			"貢祭熾心的惶恐",
+			"貢祭熾心的躊躇",
+			"貢祭熾心的決絕",
+			"薄荷",
+			"凜風奔狼的裂齒",
+			"凜風奔狼的始齔",
+			"凜風奔狼的斷牙",
+			"獅牙鬥士的枷鎖",
+			"混沌機關",
+			"混沌模組",
+			"混沌裝置",
+			"混沌迴路",
+			"混沌容器",
+			"混沌樞紐",
+			"悠古弦音的殘章",
+			"月色鰭翅",
+			"漆黑隕鐵的一角",
+			"隱獸利爪",
+			"隱獸指爪",
+			"晶核",
+			"原粹樹脂",
+			"螢光孢粉",
+			"黯淡稜鏡",
+			"晦暗刻像",
+			"地脈的舊枝",
+			"夤夜刻像",
+			"高塔孤王的破瓦",
+			"譫妄聖主的餘哀",
+			"譫妄聖主的朽敗",
+			"譫妄聖主的容光",
+			"須彌薔薇",
+			"月蓮",
+			"樹王聖體菇",
+			"蝴蝶翅膀",
+			"蓮蓬",
+			"孤雲寒林的聖骸",
+			"失活菌核",
+			"烈日威權的餘光",
+			"獅牙鬥士的鐐銬",
+			"石珀",
+			"悠古弦音的樂章",
+			"鳴草",
+			"緋櫻繡球",
+			"紫晶塊",
+			"燼芯花",
+			"小麥",
+			"微光花蜜",
+			"純聖露滴的醴泉",
+			"霓裳花",
+			"馬尾",
+			"史萊姆凝液",
+			"樹莓",
+			"影打刀鐔",
+			"「縹緲仙緣」",
+			"青蛙",
+			"烈焰花花蕊",
+			"長夜燧火的殘照",
+			"茉潔草",
+			"鐵塊",
+			"發光髓",
+			"封魔繪卷",
+			"隙間之核",
+			"蜥蜴尾巴",
+			"結實的骨片",
+			"高塔孤王的殘垣",
+			"精緻的執憑",
+			"冰霧花花朵",
+			"霜夜的柔輝",
+			"霜夜的殘照",
+			"日落果",
+			"琉璃百合",
+			"失光塊骨",
+			"遠海夷地的瓊枝",
+			"無垢之海的銀杯",
+			"「金屋藏嬌」",
+			"藏銀鴉印",
+			"謐林涓露的銀符",
+			"「諍言」的教導",
+			"「詩文」的教導",
+			"「紛爭」的教導",
+			"「角逐」的教導",
+			"「勤勞」的教導",
+			"「風雅」的教導",
+			"「樂園」的教導",
+			"「公平」的教導",
+			"「自由」的教導",
+			"「黃金」的教導",
+			"「巧思」的教導",
+			"「正義」的教導",
+			"「焚燔」的教導",
+			"「天光」的教導",
+			"「月光」的教導",
+			"「秩序」的教導",
+			"「篤行」的教導",
+			"「繁榮」的教導",
+			"「抗爭」的教導",
+			"「浮世」的教導",
+			"「浪跡」的教導",
+			"秘源機鞘",
+			"深黯的怪核",
+			"海露花",
+			"虹彩薔薇",
+			"聚燃的石塊",
+			"聚燃的命種",
+			"惑光的闊葉",
+			"磨損的執憑",
+			"特工祭刀",
+			"電氣水晶",
+			"謐林涓露的銅符",
+			"遠海夷地的玉枝",
+			"遠海夷地的瑚枝",
+			"破舊的刀鐔",
+			"地脈的枯葉",
+			"士官的徽記",
+			"意志破碎的殘片",
+			"蕈獸孢子",
+			"羽狀鰭翅",
+			"孤雲寒林的光砂",
+			"密固的橫脊",
+			"今昔劇畫之一角",
+			"今昔劇畫之虎齧",
+			"今昔劇畫之惡尉",
+			"齧合齒輪",
+			"霧虛花粉",
+			"霧虛草囊",
+			"幽霧片甲",
+			"幽霧化形",
+			"霧海雲間的汞丹",
+			"霧海雲間的鉛丹",
+			"霧海雲間的金丹",
+			"悠古弦音的斷章",
+			"生長碧翡斷片",
+			"生長碧翡碎屑",
+			"生長碧翡塊",
+			"異種蘑菇",
+			"劫波蓮",
+			"鳴神御靈的歡喜",
+			"鳴神御靈的明惠",
+			"鳴神御靈的親愛",
+			"濁水的一掬",
+			"神合秘煙的預感",
+			"神合秘煙的思緒",
+			"神合秘煙的徵兆",
+			"綠洲花園的追憶",
+			"綠洲花園的恩惠",
+			"綠洲花園的哀思",
+			"終北遺嗣的迷頑",
+			"烈日威權的夢想",
+			"汙穢的面具",
+			"役人的制式懷錶",
+			"老舊的役人懷錶",
+			"「諍言」的指引",
+			"「詩文」的指引",
+			"「紛爭」的指引",
+			"「角逐」的指引",
+			"「勤勞」的指引",
+			"「風雅」的指引",
+			"「樂園」的指引",
+			"「公平」的指引",
+			"「自由」的指引",
+			"「黃金」的指引",
+			"「巧思」的指引",
+			"「正義」的指引",
+			"「焚燔」的指引",
+			"「天光」的指引",
+			"「月光」的指引",
+			"「秩序」的指引",
+			"「篤行」的指引",
+			"「繁榮」的指引",
+			"「抗爭」的指引",
+			"「浮世」的指引",
+			"「浪跡」的指引",
+			"漆黑隕鐵的一粒",
+			"水晶稜鏡",
+			"加固機軸",
+			"堅牢黃玉斷片",
+			"堅牢黃玉碎屑",
+			"堅牢黃玉塊",
+			"松果",
+			"汐藻",
+			"青蜜莓",
+			"浪沫羽鰓",
+			"稀光遺骼",
+			"混濁稜晶",
+			"血斛",
+			"禽肉",
+			"白靈果",
+			"毀損機軸",
+			"孤雲寒林的輝岩",
+			"烈日威權的殘響",
+			"鑲邊紅綢",
+			"休眠菌核",
+			"戰士的鐵哨",
+			"高塔孤王的斷片",
+			"濁水的一滴",
+			"導能繪卷",
+			"稚嫩的尖齒",
+			"新兵的徽記",
+			"獅牙鬥士的鐵鍊",
+			"牢固的箭鏃",
+			"秘源軸",
+			"騙騙花蜜",
+			"哀敘冰玉斷片",
+			"哀敘冰玉碎屑",
+			"哀敘冰玉塊",
+			"意志明晰的寄偶",
+			"無垢之海的酒盞",
+			"尋寶鴉印",
+			"謐林涓露的鐵符",
+			"史萊姆清",
+			"泡泡桔",
+			"浮游乾核",
+			"浮游幽核",
+			"澄晶實",
+			"顆粒果",
+			"殘毀的劍柄",
+			"純聖露滴的凝華",
+			"破損的面具",
+			"裂斷的劍柄",
+			"燭傘蘑菇",
+			"肉龍掌",
+			"脆弱的骨片",
+			"殘毀的橫脊",
+			"純聖露滴的濾渣",
+			"香辛果",
+			"異海凝珠",
+			"來自何處的待放之花",
+			"褪色紅綢",
+			"破缺稜晶",
+			"老練的堅齒",
+			"終北遺嗣的哀榮",
+			"最勝紫晶斷片",
+			"最勝紫晶碎屑",
+			"最勝紫晶塊",
+			"「山陰錦簇」",
+			"滌淨青金斷片",
+			"滌淨青金碎屑",
+			"滌淨青金塊",
+			"自在松石斷片",
+			"自在松石碎屑",
+			"自在松石塊",
+			"何人所珍藏之花",
+			"冷裂殼塊",
+			"衛從的木哨",
+			"銳利的箭鏃",
+			"無垢之海的苦盞",
+			"異海之塊",
+			"燈紙纖維",
+			"燈芯絨材",
+			"浮生石片"
+		],
+		"altrecipes": [
+			"鉤鉤果",
+			"幽燈蕈",
+			"汐藻",
+			"青蜜莓",
+			"胡蘿蔔",
+			"落落莓",
+			"墩墩桃",
+			"燼芯花",
+			"石珀",
+			"茉潔草"
+		]
+	}
+}

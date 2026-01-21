@@ -1,0 +1,20 @@
+{
+	"id": [
+		86018
+	],
+	"name": "Laços Cortados",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Encontros Fora Deste Mundo - Série II",
+	"sortOrder": 9018,
+	"stages": 1,
+	"stage1": {
+		"title": "Laços Cortados",
+		"description": "Derrote um Maguu Kenki no modo multijogador",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

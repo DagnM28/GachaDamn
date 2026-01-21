@@ -1,0 +1,21 @@
+{
+	"id": [
+		84112
+	],
+	"name": "Mondstadt's Note-Taker General",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Memories of the Heart",
+	"isHidden": true,
+	"sortOrder": 6411,
+	"stages": 1,
+	"stage1": {
+		"title": "Mondstadt's Note-Taker General",
+		"description": "Read Noelle's study notes.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

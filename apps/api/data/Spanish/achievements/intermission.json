@@ -1,0 +1,20 @@
+{
+	"id": [
+		81144
+	],
+	"name": "Interludio",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guía de pesca de Teyvat: Parte 1",
+	"sortOrder": 1133,
+	"stages": 1,
+	"stage1": {
+		"title": "Interludio",
+		"description": "Pesca en Inazuma unas páginas de libro perdidas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

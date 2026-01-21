@@ -1,0 +1,16 @@
+{
+	"id": 11052,
+	"name": "문양이 새겨진 갑골",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 140139,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112075,
+			"name": "견고한 갑골",
+			"count": 3
+		}
+	]
+}

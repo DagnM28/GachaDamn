@@ -1,0 +1,21 @@
+{
+	"id": [
+		81203
+	],
+	"name": "Rumor Sembilan Kata",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1189,
+	"stages": 1,
+	"stage1": {
+		"title": "Rumor Sembilan Kata",
+		"description": "Temukan semua pesan rahasia.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

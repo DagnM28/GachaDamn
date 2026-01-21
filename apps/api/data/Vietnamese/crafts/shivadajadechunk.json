@@ -1,0 +1,16 @@
+{
+	"id": 15017,
+	"name": "Miếng Ngọc Băng",
+	"filterText": "Nguyên Liệu Đột Phá Nhân Vật",
+	"sortOrder": 110049,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104162,
+			"name": "Mảnh Ngọc Băng Vỡ",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80162
+	],
+	"name": "Peziarah Kuil: Rimba Sumeru",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru: Hutan Hikmat dan Pengetahuan",
+	"sortOrder": 162,
+	"stages": 1,
+	"stage1": {
+		"title": "Peziarah Kuil: Rimba Sumeru",
+		"description": "Membuka semua segel Shrine of Depths di wilayah Sumeru: Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, dan Vanarana.",
+		"progress": 4,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

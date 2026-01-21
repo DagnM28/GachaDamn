@@ -1,0 +1,21 @@
+{
+	"id": 14003,
+	"name": "Thuốc Chịu Lạnh",
+	"filterText": "Thuốc",
+	"sortOrder": 200020,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100085,
+			"name": "Tinh Hạt Nhân",
+			"count": 1
+		},
+		{
+			"id": 100052,
+			"name": "Đóa Băng Vụ Hoa",
+			"count": 1
+		}
+	]
+}

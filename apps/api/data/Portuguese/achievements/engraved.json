@@ -1,0 +1,21 @@
+{
+	"id": [
+		81282
+	],
+	"name": "Inscrições",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1268,
+	"stages": 1,
+	"stage1": {
+		"title": "Inscrições",
+		"description": "Beleza e esperança são as melhores lembranças dos mortos.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

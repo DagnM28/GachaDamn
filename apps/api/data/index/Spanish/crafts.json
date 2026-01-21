@@ -1,0 +1,2005 @@
+{
+	"namemap": {
+		"aberrantcoreofthedeepshadow": "Núcleo aberrante de las profundidades insondables",
+		"afterglowoflongnightflint": "Destello del fuego de la larga noche",
+		"agentssacrificialknife": "Daga del agente",
+		"agnidusagatechunk": "Trozo de ágata agnidus",
+		"agnidusagatefragment": "Fragmento de ágata agnidus",
+		"agnidusagategemstone": "Ágata agnidus",
+		"alienlifecore": "Núcleo vital de otro mundo",
+		"anemoculusresonancestone": "Roca de resonancia de anemóculus",
+		"artfuldeviceinheritance": "Legado del instrumento misterioso",
+		"artfuldevicereplica": "Réplica del instrumento misterioso",
+		"artfuldevicewish": "Aspiración del instrumento misterioso",
+		"artificeddynamicgear": "Engranaje mecadinámico",
+		"aureateradianceofthefarnorthscions": "Refulgencia de los Hijos del Lejano Norte",
+		"berrybait": "Cebo de bellota",
+		"bewilderingbroadleaf": "Hoja desconcertante",
+		"bitofaerosiderite": "Fragmento de siderita oscura",
+		"blackbronzehorn": "Cuerno de bronce negro",
+		"blackcrystalhorn": "Cuerno con cristal negro",
+		"blazeoflongnightflint": "Ardor del fuego de la larga noche",
+		"blazingprismshell": "Fragmento de caparazón prismaflamígero",
+		"blazingsacrificialheartshesitance": "Indecisión del corazón sacrificial ardiente",
+		"blazingsacrificialheartsresolve": "Determinación del corazón sacrificial ardiente",
+		"blazingsacrificialheartssplendor": "Honor del corazón sacrificial ardiente",
+		"bluedye": "Tinte azul",
+		"borealwolfsbrokenfang": "Colmillo roto de lobo boreal",
+		"borealwolfscrackedtooth": "Diente roto de lobo boreal",
+		"borealwolfsnostalgia": "Nostalgia del lobo boreal",
+		"chainsofthedandeliongladiator": "Cadena de Diente de León",
+		"chaosaxis": "Eje del caos",
+		"chaosbolt": "Perno del caos",
+		"chaoscircuit": "Circuito del caos",
+		"chaoscore": "Caldera del caos",
+		"chaosmodule": "Módulo del caos",
+		"chaosoculus": "Ojo del caos",
+		"chapterofanancientchord": "Pieza de serenata arcaica",
+		"chasmlightfin": "Aleta luzabisal",
+		"chunkofaerosiderite": "Trozo de siderita oscura",
+		"concealedtalon": "Garra fantasmal oculta",
+		"concealedunguis": "Garra afilada oculta",
+		"condensedresin": "Resina concentrada",
+		"crystallinecystdust": "Polvo quistecristalino",
+		"crystalprism": "Prisma de cristal",
+		"darkstatuette": "Estatuilla del amanecer",
+		"deadleylineleaves": "Hojas secas de líneas ley",
+		"deathlystatuette": "Estatuilla de las profundidades",
+		"debrisofdecarabianscity": "Escombro de la ciudad de Decarabian",
+		"deliriousdemeanorofthesacredlord": "Esplendor del Sagrado Señor delirante",
+		"deliriousdesolationofthesacredlord": "Desconsuelo del Sagrado Señor delirante",
+		"deliriousdivinityofthesacredlord": "Máscara divina del Sagrado Señor delirante",
+		"dendrocidepotion": "Poción dendrocida",
+		"dendroculusresonancestone": "Roca de resonancia de dendróculus",
+		"desiccantpotion": "Poción antihumedad",
+		"divinebodyfromguyun": "Cuerpo divino de Guyun",
+		"dormantfungalnucleus": "Núcleo fúngico inactivo",
+		"dreamofscorchingmight": "Sueño del poder del sol",
+		"dreamofthedandeliongladiator": "Ideales de Diente de León",
+		"dustproofpotion": "Poción antipolvo",
+		"echoofanancientchord": "Reverberación de serenata arcaica",
+		"electroculusresonancestone": "Roca de resonancia de electróculus",
+		"emberglowbait": "Cebo cálido",
+		"energynectar": "Néctar energético",
+		"essenceofpuresacreddewdrop": "Esencia de rocío sagrado",
+		"fabric": "Tela",
+		"fakeflybait": "Cebo de mosca falsa",
+		"falsewormbait": "Cebo de lombriz falsa",
+		"famedhandguard": "Guardamano célebre",
+		"fatesyearningessentialoil": "Aceite esencial de anhelo del destino",
+		"flamingessentialoil": "Aceite esencial de llamas ardientes",
+		"flareoflongnightflint": "Llama del fuego de la larga noche",
+		"flashingmaintenancemekbait": "Cebo parpadeante de mecarreparadores",
+		"floatysplody": "Bomba flotante",
+		"forbiddencursescroll": "Pergamino maldito",
+		"foreignsynapse": "Sinapsis extrínseca",
+		"forestessentialoil": "Aceite esencial de flora",
+		"fossilizedboneshard": "Fragmento de hueso fosilizado",
+		"fragmentofdecarabiansepic": "Fragmento de epopeya de Decarabian",
+		"frostetchedwarrant": "Distintivo escarchado",
+		"frostingessentialoil": "Aceite esencial de escarcha",
+		"frostnightsglory": "Fulgor de la noche escarchada",
+		"frostnightsglow": "Resplandor de la noche escarchada",
+		"frostshieldpotion": "Poción anticongelante",
+		"fruitpastebait": "Cebo afrutado",
+		"geoculusresonancestone": "Roca de resonancia de geóculus",
+		"glowingremains": "Restos centelleantes",
+		"goldenbranchofadistantsea": "Rama dorada del mar distante",
+		"goldengobletofthepristinesea": "Copa de oro del mar impoluto",
+		"goldenhousemaidenessentialoil": "Aceite esencial de doncella de la casa dorada",
+		"goldenraveninsignia": "Insignia de cuervo dorada",
+		"goldentalismanoftheforestdew": "Talismán de oro del rocío",
+		"guidetoadmonition": "Guía de la exhortación",
+		"guidetoballad": "Guía de la poesía",
+		"guidetoconflict": "Guía del conflicto",
+		"guidetocontention": "Guía de la contienda",
+		"guidetodiligence": "Guía del esfuerzo",
+		"guidetoelegance": "Guía de la elegancia",
+		"guidetoelysium": "Guía del paraíso",
+		"guidetoequity": "Guía de la ecuanimidad",
+		"guidetofreedom": "Guía de la libertad",
+		"guidetogold": "Guía del oro",
+		"guidetoingenuity": "Guía del ingenio",
+		"guidetojustice": "Guía de la justicia",
+		"guidetokindling": "Guía de las brasas",
+		"guidetolight": "Guía de la luz",
+		"guidetomoonlight": "Guía de la luz lunar",
+		"guidetoorder": "Guía del orden",
+		"guidetopraxis": "Guía de la praxis",
+		"guidetoprosperity": "Guía de la prosperidad",
+		"guidetoresistance": "Guía de la resistencia",
+		"guidetotransience": "Guía de la transitoriedad",
+		"guidetovagrancy": "Guía de la errancia",
+		"gushingessentialoil": "Aceite esencial de ventisca",
+		"heartofthesecretsource": "Núcleo fuentenigma",
+		"heatshieldpotion": "Poción de resistencia térmica",
+		"hookedbeakofthedeepshadow": "Pico de las profundidades insondables",
+		"hotpod": "Bomba calcinadora",
+		"hydroculusresonancestone": "Roca de resonancia de hydróculus",
+		"ignitedseedoflife": "Semilla vital ignífera",
+		"ignitedseeingeye": "Ojo vigía ignífero",
+		"illusoryleafcoil": "Nucleofolio difuso",
+		"immaculatewarrant": "Distintivo sofisticado",
+		"inspectorssacrificialknife": "Daga larga del inspector",
+		"insulationpotion": "Poción de aislamiento",
+		"irontalismanoftheforestdew": "Talismán de metal del rocío",
+		"jadebranchofadistantsea": "Rama de jade del mar distante",
+		"jeweledbranchofadistantsea": "Rama enjoyada del mar distante",
+		"kageuchihandguard": "Guardamano gemelo",
+		"leylinesprout": "Brotes de líneas ley",
+		"lieutenantsinsignia": "Insignia del oficial",
+		"locusofaclearwill": "Ídolo de voluntad manifiesta",
+		"luminescentpollen": "Polen fluorescente",
+		"lunarfin": "Aleta lunar",
+		"lustrousstonefromguyun": "Piedra reluciente de Guyun",
+		"markedshell": "Caparazón grabado",
+		"maskofthekijin": "Máscara fantasmagórica",
+		"maskoftheonehorned": "Máscara del cuerno",
+		"maskofthetigersbite": "Máscara del mordisco de tigre",
+		"mechanicalspurgear": "Mecaengranaje recto",
+		"mintessentialoil": "Aceite esencial de menta",
+		"mistgrass": "Hierba neblinosa",
+		"mistgrasswick": "Lámpara de hierba neblinosa",
+		"mistshroudhelmet": "Casco brumoso",
+		"mistshroudplate": "Fragmento de armadura brumoso",
+		"mistveiledgoldelixir": "Perdigones de oro",
+		"mistveiledmercuryelixir": "Perdigones de mercurio",
+		"mistveiledprimoelixir": "Perdigones primordiales",
+		"movementofanancientchord": "Movimiento de serenata arcaica",
+		"nagadusemeraldchunk": "Trozo de esmeralda nagadus",
+		"nagadusemeraldfragment": "Fragmento de esmeralda nagadus",
+		"nagadusemeraldgemstone": "Esmeralda nagadus",
+		"namelesstaboomedicineoftheroyalcourt": "Medicina prohibida sin nombre de la corte real",
+		"narukamisaffection": "Afecto de Narukami",
+		"narukamisjoy": "Júbilo de Narukami",
+		"narukamisvalor": "Valentía de Narukami",
+		"newborntaintedhydrophantasm": "Ánima Legamosa neonata",
+		"nightwindsmysticaugury": "Presagio espiritista vientonocturno",
+		"nightwindsmysticpremonition": "Presentimiento espiritista vientonocturno",
+		"nightwindsmysticrevelation": "Revelación espiritista vientonocturna",
+		"oasisgardenskindness": "Gracia del oasis exuberante",
+		"oasisgardensmourning": "Lamento del oasis exuberante",
+		"oasisgardenstruth": "Esencia del oasis exuberante",
+		"oblationofthefarnorthscions": "Oblación de los Hijos del Lejano Norte",
+		"oldendaysofscorchingmight": "Pasado del poder del sol",
+		"ominousmask": "Máscara amenazante",
+		"operativesconstancy": "Asiduidad de Senescal",
+		"operativesstandardpocketwatch": "Reloj de bolsillo estándar de Senescal",
+		"philosophiesofadmonition": "Filosofía de la exhortación",
+		"philosophiesofballad": "Filosofía de la poesía",
+		"philosophiesofconflict": "Filosofía del conflicto",
+		"philosophiesofcontention": "Filosofía de la contienda",
+		"philosophiesofdiligence": "Filosofía del esfuerzo",
+		"philosophiesofelegance": "Filosofía de la elegancia",
+		"philosophiesofelysium": "Filosofía del paraíso",
+		"philosophiesofequity": "Filosofía de la ecuanimidad",
+		"philosophiesoffreedom": "Filosofía de la libertad",
+		"philosophiesofgold": "Filosofía del oro",
+		"philosophiesofingenuity": "Filosofía del ingenio",
+		"philosophiesofjustice": "Filosofía de la justicia",
+		"philosophiesofkindling": "Filosofía de las brasas",
+		"philosophiesoflight": "Filosofía de la luz",
+		"philosophiesofmoonlight": "Filosofía de la luz lunar",
+		"philosophiesoforder": "Filosofía del orden",
+		"philosophiesofpraxis": "Filosofía de la praxis",
+		"philosophiesofprosperity": "Filosofía de la prosperidad",
+		"philosophiesofresistance": "Filosofía de la resistencia",
+		"philosophiesoftransience": "Filosofía de la transitoriedad",
+		"philosophiesofvagrancy": "Filosofía de la errancia",
+		"pieceofaerosiderite": "Lámina de siderita oscura",
+		"polarizingprism": "Prisma polarizador",
+		"portablewaypoint": "Teletransportador portátil",
+		"precisiondriveshaft": "Eje refinado",
+		"prithivatopazchunk": "Trozo de topacio prithiva",
+		"prithivatopazfragment": "Fragmento de topacio prithiva",
+		"prithivatopazgemstone": "Topacio prithiva",
+		"purewater": "Agua pura",
+		"pyroculusresonancestone": "Roca de resonancia de pyróculus",
+		"radiantexoskeleton": "Hueso externo reluciente",
+		"radiantprism": "Prisma radiante",
+		"reddye": "Tinte rojo",
+		"redrotbait": "Cebo de sangre",
+		"refreshinglakkabait": "Cebo inmaculado",
+		"reinforceddriveshaft": "Eje reforzado",
+		"relicfromguyun": "Reliquia de Guyun",
+		"remnantglowofscorchingmight": "Resplandor del poder del sol",
+		"richredbrocade": "Brocado rojo lujoso",
+		"robustfungalnucleus": "Núcleo fúngico robusto",
+		"sauriancrownedwarriorsgoldenwhistle": "Silbato de oro del soldado sauriocoronado",
+		"scatteredpieceofdecarabiansdream": "Fragmento de sueño de Decarabian",
+		"scoopoftaintedwater": "Cúmulo de légamo",
+		"sealedscroll": "Pergamino hechizado",
+		"seasonedfang": "Colmillo veterano",
+		"sergeantsinsignia": "Insignia del sargento",
+		"shacklesofthedandeliongladiator": "Esposas de Diente de León",
+		"sharparrowhead": "Flecha afilada",
+		"sheathofthesecretsource": "Vaina mecánica fuentenigma",
+		"shimmeringnectar": "Néctar brillante",
+		"shivadajadechunk": "Trozo de jade shivada",
+		"shivadajadefragment": "Fragmento de jade shivada",
+		"shivadajadegemstone": "Jade shivada",
+		"shockingessentialoil": "Aceite esencial de impacto",
+		"sigilofastridingwill": "Sello de voluntad patrullera",
+		"silvergobletofthepristinesea": "Copa de plata del mar impoluto",
+		"silverraveninsignia": "Insignia de cuervo plateada",
+		"silvertalismanoftheforestdew": "Talismán de plata del rocío",
+		"slimeconcentrate": "Esencia de Slime",
+		"slimesecretions": "Babas de Slime",
+		"sourbait": "Cebo cítrico",
+		"specialunmovingessentialoil": "Aceite litoesencial especial",
+		"spectralheart": "Corazón espectral",
+		"spectralnucleus": "Núcleo espectral",
+		"spinelgrainbait": "Cebo espimahís",
+		"splinteredhilt": "Empuñadura hendida",
+		"springofpuresacreddewdrop": "Manantial de rocío sagrado",
+		"stainedmask": "Máscara sucia",
+		"stillsmolderinghilt": "Empuñadura imperecedera",
+		"straightshooter": "Bomba de precisión",
+		"streamingessentialoil": "Aceite esencial de torrente",
+		"strengthtonic": "Tónica fortalecedora",
+		"sturdyboneshard": "Fragmento de hueso sólido",
+		"sturdyshell": "Caparazón sólido",
+		"sublimationofpuresacreddewdrop": "Sublimación de rocío sagrado",
+		"sugardewbait": "Cebo maná",
+		"transoceanicchunk": "Fragmento extramarino",
+		"treasuredflower": "Flor velada",
+		"trimmedredsilk": "Seda roja bordada",
+		"turbidprism": "Prisma enturbiado",
+		"tyrantsfang": "Colmillo de tirano",
+		"unmovingessentialoil": "Aceite esencial de inmovilidad",
+		"unyieldingdelusionofthefarnorthscions": "Obstinación de los Hijos del Lejano Norte",
+		"vajradaamethystchunk": "Trozo de amatista vajrada",
+		"vajradaamethystfragment": "Fragmento de amatista vajrada",
+		"vajradaamethystgemstone": "Amatista vajrada",
+		"valleyweaveressentialoil": "Aceite esencial de tejedora de los valles",
+		"varunadalazuritechunk": "Trozo de lazurita varunada",
+		"varunadalazuritefragment": "Fragmento de lazurita varunada",
+		"varunadalazuritegemstone": "Lazurita varunada",
+		"vayudaturquoisechunk": "Trozo de turquesa vayuda",
+		"vayudaturquoisefragment": "Fragmento de turquesa vayuda",
+		"vayudaturquoisegemstone": "Turquesa vayuda",
+		"wanderersbloomingflower": "Flor floreciente del trashumante",
+		"warmbackshell": "Fragmento de caparazón con calor residual",
+		"warriorsmetalwhistle": "Silbato de hierro del guerrero",
+		"weatheredarrowhead": "Flecha veterana",
+		"windbarrierpotion": "Poción cortavientos",
+		"winegobletofthepristinesea": "Copa de vino del mar impoluto",
+		"xenochromaticcrystal": "Cristalización cromática",
+		"xiaolantern": "Linterna celeste",
+		"yellowdye": "Tinte amarillo"
+	},
+	"names": {
+		"Núcleo aberrante de las profundidades insondables": "aberrantcoreofthedeepshadow",
+		"Destello del fuego de la larga noche": "afterglowoflongnightflint",
+		"Daga del agente": "agentssacrificialknife",
+		"Trozo de ágata agnidus": "agnidusagatechunk",
+		"Fragmento de ágata agnidus": "agnidusagatefragment",
+		"Ágata agnidus": "agnidusagategemstone",
+		"Núcleo vital de otro mundo": "alienlifecore",
+		"Roca de resonancia de anemóculus": "anemoculusresonancestone",
+		"Legado del instrumento misterioso": "artfuldeviceinheritance",
+		"Réplica del instrumento misterioso": "artfuldevicereplica",
+		"Aspiración del instrumento misterioso": "artfuldevicewish",
+		"Engranaje mecadinámico": "artificeddynamicgear",
+		"Refulgencia de los Hijos del Lejano Norte": "aureateradianceofthefarnorthscions",
+		"Cebo de bellota": "berrybait",
+		"Hoja desconcertante": "bewilderingbroadleaf",
+		"Fragmento de siderita oscura": "bitofaerosiderite",
+		"Cuerno de bronce negro": "blackbronzehorn",
+		"Cuerno con cristal negro": "blackcrystalhorn",
+		"Ardor del fuego de la larga noche": "blazeoflongnightflint",
+		"Fragmento de caparazón prismaflamígero": "blazingprismshell",
+		"Indecisión del corazón sacrificial ardiente": "blazingsacrificialheartshesitance",
+		"Determinación del corazón sacrificial ardiente": "blazingsacrificialheartsresolve",
+		"Honor del corazón sacrificial ardiente": "blazingsacrificialheartssplendor",
+		"Tinte azul": "bluedye",
+		"Colmillo roto de lobo boreal": "borealwolfsbrokenfang",
+		"Diente roto de lobo boreal": "borealwolfscrackedtooth",
+		"Nostalgia del lobo boreal": "borealwolfsnostalgia",
+		"Cadena de Diente de León": "chainsofthedandeliongladiator",
+		"Eje del caos": "chaosaxis",
+		"Perno del caos": "chaosbolt",
+		"Circuito del caos": "chaoscircuit",
+		"Caldera del caos": "chaoscore",
+		"Módulo del caos": "chaosmodule",
+		"Ojo del caos": "chaosoculus",
+		"Pieza de serenata arcaica": "chapterofanancientchord",
+		"Aleta luzabisal": "chasmlightfin",
+		"Trozo de siderita oscura": "chunkofaerosiderite",
+		"Garra fantasmal oculta": "concealedtalon",
+		"Garra afilada oculta": "concealedunguis",
+		"Resina concentrada": "condensedresin",
+		"Polvo quistecristalino": "crystallinecystdust",
+		"Prisma de cristal": "crystalprism",
+		"Estatuilla del amanecer": "darkstatuette",
+		"Hojas secas de líneas ley": "deadleylineleaves",
+		"Estatuilla de las profundidades": "deathlystatuette",
+		"Escombro de la ciudad de Decarabian": "debrisofdecarabianscity",
+		"Esplendor del Sagrado Señor delirante": "deliriousdemeanorofthesacredlord",
+		"Desconsuelo del Sagrado Señor delirante": "deliriousdesolationofthesacredlord",
+		"Máscara divina del Sagrado Señor delirante": "deliriousdivinityofthesacredlord",
+		"Poción dendrocida": "dendrocidepotion",
+		"Roca de resonancia de dendróculus": "dendroculusresonancestone",
+		"Poción antihumedad": "desiccantpotion",
+		"Cuerpo divino de Guyun": "divinebodyfromguyun",
+		"Núcleo fúngico inactivo": "dormantfungalnucleus",
+		"Sueño del poder del sol": "dreamofscorchingmight",
+		"Ideales de Diente de León": "dreamofthedandeliongladiator",
+		"Poción antipolvo": "dustproofpotion",
+		"Reverberación de serenata arcaica": "echoofanancientchord",
+		"Roca de resonancia de electróculus": "electroculusresonancestone",
+		"Cebo cálido": "emberglowbait",
+		"Néctar energético": "energynectar",
+		"Esencia de rocío sagrado": "essenceofpuresacreddewdrop",
+		"Tela": "fabric",
+		"Cebo de mosca falsa": "fakeflybait",
+		"Cebo de lombriz falsa": "falsewormbait",
+		"Guardamano célebre": "famedhandguard",
+		"Aceite esencial de anhelo del destino": "fatesyearningessentialoil",
+		"Aceite esencial de llamas ardientes": "flamingessentialoil",
+		"Llama del fuego de la larga noche": "flareoflongnightflint",
+		"Cebo parpadeante de mecarreparadores": "flashingmaintenancemekbait",
+		"Bomba flotante": "floatysplody",
+		"Pergamino maldito": "forbiddencursescroll",
+		"Sinapsis extrínseca": "foreignsynapse",
+		"Aceite esencial de flora": "forestessentialoil",
+		"Fragmento de hueso fosilizado": "fossilizedboneshard",
+		"Fragmento de epopeya de Decarabian": "fragmentofdecarabiansepic",
+		"Distintivo escarchado": "frostetchedwarrant",
+		"Aceite esencial de escarcha": "frostingessentialoil",
+		"Fulgor de la noche escarchada": "frostnightsglory",
+		"Resplandor de la noche escarchada": "frostnightsglow",
+		"Poción anticongelante": "frostshieldpotion",
+		"Cebo afrutado": "fruitpastebait",
+		"Roca de resonancia de geóculus": "geoculusresonancestone",
+		"Restos centelleantes": "glowingremains",
+		"Rama dorada del mar distante": "goldenbranchofadistantsea",
+		"Copa de oro del mar impoluto": "goldengobletofthepristinesea",
+		"Aceite esencial de doncella de la casa dorada": "goldenhousemaidenessentialoil",
+		"Insignia de cuervo dorada": "goldenraveninsignia",
+		"Talismán de oro del rocío": "goldentalismanoftheforestdew",
+		"Guía de la exhortación": "guidetoadmonition",
+		"Guía de la poesía": "guidetoballad",
+		"Guía del conflicto": "guidetoconflict",
+		"Guía de la contienda": "guidetocontention",
+		"Guía del esfuerzo": "guidetodiligence",
+		"Guía de la elegancia": "guidetoelegance",
+		"Guía del paraíso": "guidetoelysium",
+		"Guía de la ecuanimidad": "guidetoequity",
+		"Guía de la libertad": "guidetofreedom",
+		"Guía del oro": "guidetogold",
+		"Guía del ingenio": "guidetoingenuity",
+		"Guía de la justicia": "guidetojustice",
+		"Guía de las brasas": "guidetokindling",
+		"Guía de la luz": "guidetolight",
+		"Guía de la luz lunar": "guidetomoonlight",
+		"Guía del orden": "guidetoorder",
+		"Guía de la praxis": "guidetopraxis",
+		"Guía de la prosperidad": "guidetoprosperity",
+		"Guía de la resistencia": "guidetoresistance",
+		"Guía de la transitoriedad": "guidetotransience",
+		"Guía de la errancia": "guidetovagrancy",
+		"Aceite esencial de ventisca": "gushingessentialoil",
+		"Núcleo fuentenigma": "heartofthesecretsource",
+		"Poción de resistencia térmica": "heatshieldpotion",
+		"Pico de las profundidades insondables": "hookedbeakofthedeepshadow",
+		"Bomba calcinadora": "hotpod",
+		"Roca de resonancia de hydróculus": "hydroculusresonancestone",
+		"Semilla vital ignífera": "ignitedseedoflife",
+		"Ojo vigía ignífero": "ignitedseeingeye",
+		"Nucleofolio difuso": "illusoryleafcoil",
+		"Distintivo sofisticado": "immaculatewarrant",
+		"Daga larga del inspector": "inspectorssacrificialknife",
+		"Poción de aislamiento": "insulationpotion",
+		"Talismán de metal del rocío": "irontalismanoftheforestdew",
+		"Rama de jade del mar distante": "jadebranchofadistantsea",
+		"Rama enjoyada del mar distante": "jeweledbranchofadistantsea",
+		"Guardamano gemelo": "kageuchihandguard",
+		"Brotes de líneas ley": "leylinesprout",
+		"Insignia del oficial": "lieutenantsinsignia",
+		"Ídolo de voluntad manifiesta": "locusofaclearwill",
+		"Polen fluorescente": "luminescentpollen",
+		"Aleta lunar": "lunarfin",
+		"Piedra reluciente de Guyun": "lustrousstonefromguyun",
+		"Caparazón grabado": "markedshell",
+		"Máscara fantasmagórica": "maskofthekijin",
+		"Máscara del cuerno": "maskoftheonehorned",
+		"Máscara del mordisco de tigre": "maskofthetigersbite",
+		"Mecaengranaje recto": "mechanicalspurgear",
+		"Aceite esencial de menta": "mintessentialoil",
+		"Hierba neblinosa": "mistgrass",
+		"Lámpara de hierba neblinosa": "mistgrasswick",
+		"Casco brumoso": "mistshroudhelmet",
+		"Fragmento de armadura brumoso": "mistshroudplate",
+		"Perdigones de oro": "mistveiledgoldelixir",
+		"Perdigones de mercurio": "mistveiledmercuryelixir",
+		"Perdigones primordiales": "mistveiledprimoelixir",
+		"Movimiento de serenata arcaica": "movementofanancientchord",
+		"Trozo de esmeralda nagadus": "nagadusemeraldchunk",
+		"Fragmento de esmeralda nagadus": "nagadusemeraldfragment",
+		"Esmeralda nagadus": "nagadusemeraldgemstone",
+		"Medicina prohibida sin nombre de la corte real": "namelesstaboomedicineoftheroyalcourt",
+		"Afecto de Narukami": "narukamisaffection",
+		"Júbilo de Narukami": "narukamisjoy",
+		"Valentía de Narukami": "narukamisvalor",
+		"Ánima Legamosa neonata": "newborntaintedhydrophantasm",
+		"Presagio espiritista vientonocturno": "nightwindsmysticaugury",
+		"Presentimiento espiritista vientonocturno": "nightwindsmysticpremonition",
+		"Revelación espiritista vientonocturna": "nightwindsmysticrevelation",
+		"Gracia del oasis exuberante": "oasisgardenskindness",
+		"Lamento del oasis exuberante": "oasisgardensmourning",
+		"Esencia del oasis exuberante": "oasisgardenstruth",
+		"Oblación de los Hijos del Lejano Norte": "oblationofthefarnorthscions",
+		"Pasado del poder del sol": "oldendaysofscorchingmight",
+		"Máscara amenazante": "ominousmask",
+		"Asiduidad de Senescal": "operativesconstancy",
+		"Reloj de bolsillo estándar de Senescal": "operativesstandardpocketwatch",
+		"Filosofía de la exhortación": "philosophiesofadmonition",
+		"Filosofía de la poesía": "philosophiesofballad",
+		"Filosofía del conflicto": "philosophiesofconflict",
+		"Filosofía de la contienda": "philosophiesofcontention",
+		"Filosofía del esfuerzo": "philosophiesofdiligence",
+		"Filosofía de la elegancia": "philosophiesofelegance",
+		"Filosofía del paraíso": "philosophiesofelysium",
+		"Filosofía de la ecuanimidad": "philosophiesofequity",
+		"Filosofía de la libertad": "philosophiesoffreedom",
+		"Filosofía del oro": "philosophiesofgold",
+		"Filosofía del ingenio": "philosophiesofingenuity",
+		"Filosofía de la justicia": "philosophiesofjustice",
+		"Filosofía de las brasas": "philosophiesofkindling",
+		"Filosofía de la luz": "philosophiesoflight",
+		"Filosofía de la luz lunar": "philosophiesofmoonlight",
+		"Filosofía del orden": "philosophiesoforder",
+		"Filosofía de la praxis": "philosophiesofpraxis",
+		"Filosofía de la prosperidad": "philosophiesofprosperity",
+		"Filosofía de la resistencia": "philosophiesofresistance",
+		"Filosofía de la transitoriedad": "philosophiesoftransience",
+		"Filosofía de la errancia": "philosophiesofvagrancy",
+		"Lámina de siderita oscura": "pieceofaerosiderite",
+		"Prisma polarizador": "polarizingprism",
+		"Teletransportador portátil": "portablewaypoint",
+		"Eje refinado": "precisiondriveshaft",
+		"Trozo de topacio prithiva": "prithivatopazchunk",
+		"Fragmento de topacio prithiva": "prithivatopazfragment",
+		"Topacio prithiva": "prithivatopazgemstone",
+		"Agua pura": "purewater",
+		"Roca de resonancia de pyróculus": "pyroculusresonancestone",
+		"Hueso externo reluciente": "radiantexoskeleton",
+		"Prisma radiante": "radiantprism",
+		"Tinte rojo": "reddye",
+		"Cebo de sangre": "redrotbait",
+		"Cebo inmaculado": "refreshinglakkabait",
+		"Eje reforzado": "reinforceddriveshaft",
+		"Reliquia de Guyun": "relicfromguyun",
+		"Resplandor del poder del sol": "remnantglowofscorchingmight",
+		"Brocado rojo lujoso": "richredbrocade",
+		"Núcleo fúngico robusto": "robustfungalnucleus",
+		"Silbato de oro del soldado sauriocoronado": "sauriancrownedwarriorsgoldenwhistle",
+		"Fragmento de sueño de Decarabian": "scatteredpieceofdecarabiansdream",
+		"Cúmulo de légamo": "scoopoftaintedwater",
+		"Pergamino hechizado": "sealedscroll",
+		"Colmillo veterano": "seasonedfang",
+		"Insignia del sargento": "sergeantsinsignia",
+		"Esposas de Diente de León": "shacklesofthedandeliongladiator",
+		"Flecha afilada": "sharparrowhead",
+		"Vaina mecánica fuentenigma": "sheathofthesecretsource",
+		"Néctar brillante": "shimmeringnectar",
+		"Trozo de jade shivada": "shivadajadechunk",
+		"Fragmento de jade shivada": "shivadajadefragment",
+		"Jade shivada": "shivadajadegemstone",
+		"Aceite esencial de impacto": "shockingessentialoil",
+		"Sello de voluntad patrullera": "sigilofastridingwill",
+		"Copa de plata del mar impoluto": "silvergobletofthepristinesea",
+		"Insignia de cuervo plateada": "silverraveninsignia",
+		"Talismán de plata del rocío": "silvertalismanoftheforestdew",
+		"Esencia de Slime": "slimeconcentrate",
+		"Babas de Slime": "slimesecretions",
+		"Cebo cítrico": "sourbait",
+		"Aceite litoesencial especial": "specialunmovingessentialoil",
+		"Corazón espectral": "spectralheart",
+		"Núcleo espectral": "spectralnucleus",
+		"Cebo espimahís": "spinelgrainbait",
+		"Empuñadura hendida": "splinteredhilt",
+		"Manantial de rocío sagrado": "springofpuresacreddewdrop",
+		"Máscara sucia": "stainedmask",
+		"Empuñadura imperecedera": "stillsmolderinghilt",
+		"Bomba de precisión": "straightshooter",
+		"Aceite esencial de torrente": "streamingessentialoil",
+		"Tónica fortalecedora": "strengthtonic",
+		"Fragmento de hueso sólido": "sturdyboneshard",
+		"Caparazón sólido": "sturdyshell",
+		"Sublimación de rocío sagrado": "sublimationofpuresacreddewdrop",
+		"Cebo maná": "sugardewbait",
+		"Fragmento extramarino": "transoceanicchunk",
+		"Flor velada": "treasuredflower",
+		"Seda roja bordada": "trimmedredsilk",
+		"Prisma enturbiado": "turbidprism",
+		"Colmillo de tirano": "tyrantsfang",
+		"Aceite esencial de inmovilidad": "unmovingessentialoil",
+		"Obstinación de los Hijos del Lejano Norte": "unyieldingdelusionofthefarnorthscions",
+		"Trozo de amatista vajrada": "vajradaamethystchunk",
+		"Fragmento de amatista vajrada": "vajradaamethystfragment",
+		"Amatista vajrada": "vajradaamethystgemstone",
+		"Aceite esencial de tejedora de los valles": "valleyweaveressentialoil",
+		"Trozo de lazurita varunada": "varunadalazuritechunk",
+		"Fragmento de lazurita varunada": "varunadalazuritefragment",
+		"Lazurita varunada": "varunadalazuritegemstone",
+		"Trozo de turquesa vayuda": "vayudaturquoisechunk",
+		"Fragmento de turquesa vayuda": "vayudaturquoisefragment",
+		"Turquesa vayuda": "vayudaturquoisegemstone",
+		"Flor floreciente del trashumante": "wanderersbloomingflower",
+		"Fragmento de caparazón con calor residual": "warmbackshell",
+		"Silbato de hierro del guerrero": "warriorsmetalwhistle",
+		"Flecha veterana": "weatheredarrowhead",
+		"Poción cortavientos": "windbarrierpotion",
+		"Copa de vino del mar impoluto": "winegobletofthepristinesea",
+		"Cristalización cromática": "xenochromaticcrystal",
+		"Linterna celeste": "xiaolantern",
+		"Tinte amarillo": "yellowdye"
+	},
+	"aliases": {},
+	"categories": {
+		"Material de mejora de personaje y arma": [
+			"aberrantcoreofthedeepshadow",
+			"agentssacrificialknife",
+			"alienlifecore",
+			"artificeddynamicgear",
+			"bewilderingbroadleaf",
+			"blackbronzehorn",
+			"blackcrystalhorn",
+			"blazingprismshell",
+			"chaosaxis",
+			"chaoscircuit",
+			"chaoscore",
+			"chaosoculus",
+			"chasmlightfin",
+			"concealedtalon",
+			"concealedunguis",
+			"crystallinecystdust",
+			"crystalprism",
+			"darkstatuette",
+			"deadleylineleaves",
+			"deathlystatuette",
+			"energynectar",
+			"famedhandguard",
+			"forbiddencursescroll",
+			"foreignsynapse",
+			"fossilizedboneshard",
+			"frostetchedwarrant",
+			"frostnightsglory",
+			"frostnightsglow",
+			"glowingremains",
+			"goldenraveninsignia",
+			"heartofthesecretsource",
+			"hookedbeakofthedeepshadow",
+			"ignitedseedoflife",
+			"ignitedseeingeye",
+			"illusoryleafcoil",
+			"immaculatewarrant",
+			"inspectorssacrificialknife",
+			"kageuchihandguard",
+			"leylinesprout",
+			"lieutenantsinsignia",
+			"locusofaclearwill",
+			"luminescentpollen",
+			"lunarfin",
+			"markedshell",
+			"mechanicalspurgear",
+			"mistgrass",
+			"mistgrasswick",
+			"mistshroudhelmet",
+			"mistshroudplate",
+			"newborntaintedhydrophantasm",
+			"ominousmask",
+			"operativesconstancy",
+			"operativesstandardpocketwatch",
+			"polarizingprism",
+			"precisiondriveshaft",
+			"radiantexoskeleton",
+			"radiantprism",
+			"reinforceddriveshaft",
+			"sauriancrownedwarriorsgoldenwhistle",
+			"scoopoftaintedwater",
+			"sealedscroll",
+			"seasonedfang",
+			"sergeantsinsignia",
+			"sharparrowhead",
+			"sheathofthesecretsource",
+			"shimmeringnectar",
+			"sigilofastridingwill",
+			"silverraveninsignia",
+			"slimeconcentrate",
+			"slimesecretions",
+			"spectralheart",
+			"spectralnucleus",
+			"splinteredhilt",
+			"stainedmask",
+			"stillsmolderinghilt",
+			"sturdyboneshard",
+			"sturdyshell",
+			"transoceanicchunk",
+			"treasuredflower",
+			"turbidprism",
+			"tyrantsfang",
+			"wanderersbloomingflower",
+			"warmbackshell",
+			"warriorsmetalwhistle",
+			"weatheredarrowhead",
+			"xenochromaticcrystal"
+		],
+		"Ojo fracturado de las profundidades insondables": [
+			"aberrantcoreofthedeepshadow"
+		],
+		"Material de ascensión de arma": [
+			"afterglowoflongnightflint",
+			"artfuldeviceinheritance",
+			"artfuldevicereplica",
+			"artfuldevicewish",
+			"aureateradianceofthefarnorthscions",
+			"bitofaerosiderite",
+			"blazeoflongnightflint",
+			"blazingsacrificialheartshesitance",
+			"blazingsacrificialheartsresolve",
+			"blazingsacrificialheartssplendor",
+			"borealwolfsbrokenfang",
+			"borealwolfscrackedtooth",
+			"borealwolfsnostalgia",
+			"chainsofthedandeliongladiator",
+			"chapterofanancientchord",
+			"chunkofaerosiderite",
+			"debrisofdecarabianscity",
+			"deliriousdemeanorofthesacredlord",
+			"deliriousdesolationofthesacredlord",
+			"deliriousdivinityofthesacredlord",
+			"divinebodyfromguyun",
+			"dreamofscorchingmight",
+			"dreamofthedandeliongladiator",
+			"echoofanancientchord",
+			"essenceofpuresacreddewdrop",
+			"flareoflongnightflint",
+			"fragmentofdecarabiansepic",
+			"goldenbranchofadistantsea",
+			"goldengobletofthepristinesea",
+			"goldentalismanoftheforestdew",
+			"irontalismanoftheforestdew",
+			"jadebranchofadistantsea",
+			"jeweledbranchofadistantsea",
+			"lustrousstonefromguyun",
+			"maskofthekijin",
+			"maskoftheonehorned",
+			"maskofthetigersbite",
+			"mistveiledgoldelixir",
+			"mistveiledmercuryelixir",
+			"mistveiledprimoelixir",
+			"movementofanancientchord",
+			"narukamisaffection",
+			"narukamisjoy",
+			"narukamisvalor",
+			"nightwindsmysticaugury",
+			"nightwindsmysticpremonition",
+			"nightwindsmysticrevelation",
+			"oasisgardenskindness",
+			"oasisgardensmourning",
+			"oasisgardenstruth",
+			"oblationofthefarnorthscions",
+			"oldendaysofscorchingmight",
+			"pieceofaerosiderite",
+			"relicfromguyun",
+			"remnantglowofscorchingmight",
+			"scatteredpieceofdecarabiansdream",
+			"shacklesofthedandeliongladiator",
+			"silvergobletofthepristinesea",
+			"silvertalismanoftheforestdew",
+			"springofpuresacreddewdrop",
+			"sublimationofpuresacreddewdrop",
+			"unyieldingdelusionofthefarnorthscions",
+			"winegobletofthepristinesea"
+		],
+		"Ascuas del fuego de la larga noche": [
+			"afterglowoflongnightflint"
+		],
+		"Daga de cacería": [
+			"agentssacrificialknife"
+		],
+		"Material de ascensión de personaje": [
+			"agnidusagatechunk",
+			"agnidusagatefragment",
+			"agnidusagategemstone",
+			"nagadusemeraldchunk",
+			"nagadusemeraldfragment",
+			"nagadusemeraldgemstone",
+			"prithivatopazchunk",
+			"prithivatopazfragment",
+			"prithivatopazgemstone",
+			"shivadajadechunk",
+			"shivadajadefragment",
+			"shivadajadegemstone",
+			"vajradaamethystchunk",
+			"vajradaamethystfragment",
+			"vajradaamethystgemstone",
+			"varunadalazuritechunk",
+			"varunadalazuritefragment",
+			"varunadalazuritegemstone",
+			"vayudaturquoisechunk",
+			"vayudaturquoisefragment",
+			"vayudaturquoisegemstone"
+		],
+		"Fragmento de ágata agnidus": [
+			"agnidusagatechunk"
+		],
+		"Pedacito de ágata agnidus": [
+			"agnidusagatefragment"
+		],
+		"Trozo de ágata agnidus": [
+			"agnidusagategemstone"
+		],
+		"Sinapsis extrínseca": [
+			"alienlifecore"
+		],
+		"Consumible": [
+			"anemoculusresonancestone",
+			"condensedresin",
+			"dendroculusresonancestone",
+			"electroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Semilla de diente de león": [
+			"anemoculusresonancestone",
+			"gushingessentialoil",
+			"windbarrierpotion"
+		],
+		"Cecilia": [
+			"anemoculusresonancestone"
+		],
+		"Pedazo de cristal": [
+			"anemoculusresonancestone",
+			"dendroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Réplica del instrumento misterioso": [
+			"artfuldeviceinheritance"
+		],
+		"Fragmento del instrumento misterioso": [
+			"artfuldevicereplica"
+		],
+		"Legado del instrumento misterioso": [
+			"artfuldevicewish"
+		],
+		"Mecaengranaje recto": [
+			"artificeddynamicgear"
+		],
+		"Oblación de los Hijos del Lejano Norte": [
+			"aureateradianceofthefarnorthscions"
+		],
+		"Cebo": [
+			"berrybait",
+			"emberglowbait",
+			"fakeflybait",
+			"falsewormbait",
+			"flashingmaintenancemekbait",
+			"fruitpastebait",
+			"redrotbait",
+			"refreshinglakkabait",
+			"sourbait",
+			"spinelgrainbait",
+			"sugardewbait"
+		],
+		"Bellota veraniega": [
+			"berrybait"
+		],
+		"Harina": [
+			"berrybait"
+		],
+		"Brote refractor": [
+			"bewilderingbroadleaf"
+		],
+		"Lámina de siderita oscura": [
+			"bitofaerosiderite"
+		],
+		"Cuerno pesado": [
+			"blackbronzehorn"
+		],
+		"Cuerno de bronce negro": [
+			"blackcrystalhorn"
+		],
+		"Llama del fuego de la larga noche": [
+			"blazeoflongnightflint"
+		],
+		"Fragmento de caparazón con calor residual": [
+			"blazingprismshell"
+		],
+		"Terror del corazón sacrificial ardiente": [
+			"blazingsacrificialheartshesitance"
+		],
+		"Indecisión del corazón sacrificial ardiente": [
+			"blazingsacrificialheartsresolve"
+		],
+		"Determinación del corazón sacrificial ardiente": [
+			"blazingsacrificialheartssplendor"
+		],
+		"Material para fabricar decoración": [
+			"bluedye",
+			"fabric",
+			"reddye",
+			"yellowdye"
+		],
+		"Menta": [
+			"bluedye",
+			"mintessentialoil",
+			"refreshinglakkabait"
+		],
+		"Gancho de lobo": [
+			"bluedye"
+		],
+		"Hongo fluorescente": [
+			"bluedye"
+		],
+		"Marealga": [
+			"bluedye",
+			"purewater"
+		],
+		"Quenepa": [
+			"bluedye",
+			"pyroculusresonancestone"
+		],
+		"Diente roto de lobo boreal": [
+			"borealwolfsbrokenfang"
+		],
+		"Diente de leche de lobo boreal": [
+			"borealwolfscrackedtooth"
+		],
+		"Colmillo roto de lobo boreal": [
+			"borealwolfsnostalgia"
+		],
+		"Grilletes de Diente de León": [
+			"chainsofthedandeliongladiator"
+		],
+		"Engranaje del caos": [
+			"chaosaxis"
+		],
+		"Material de mejora de Personaje y Arma": [
+			"chaosbolt",
+			"chaosmodule",
+			"dormantfungalnucleus",
+			"richredbrocade",
+			"robustfungalnucleus",
+			"trimmedredsilk"
+		],
+		"Módulo del caos": [
+			"chaosbolt"
+		],
+		"Dispositivo del caos": [
+			"chaoscircuit"
+		],
+		"Circuito del caos": [
+			"chaoscore"
+		],
+		"Contenedor del caos": [
+			"chaosmodule"
+		],
+		"Eje del caos": [
+			"chaosoculus"
+		],
+		"Fragmento de serenata arcaica": [
+			"chapterofanancientchord"
+		],
+		"Aleta lunar": [
+			"chasmlightfin"
+		],
+		"Fragmento de siderita oscura": [
+			"chunkofaerosiderite"
+		],
+		"Garra afilada oculta": [
+			"concealedtalon"
+		],
+		"Garra oculta": [
+			"concealedunguis"
+		],
+		"Núcleo de cristal": [
+			"condensedresin",
+			"dendrocidepotion",
+			"frostshieldpotion",
+			"windbarrierpotion"
+		],
+		"Resina original": [
+			"condensedresin"
+		],
+		"Polen fluorescente": [
+			"crystallinecystdust"
+		],
+		"Prisma oscuro": [
+			"crystalprism"
+		],
+		"Estatuilla oscura": [
+			"darkstatuette"
+		],
+		"Rama seca de líneas ley": [
+			"deadleylineleaves"
+		],
+		"Estatuilla del amanecer": [
+			"deathlystatuette"
+		],
+		"Fragmento de azulejo de Decarabian": [
+			"debrisofdecarabianscity"
+		],
+		"Desconsuelo del Sagrado Señor delirante": [
+			"deliriousdemeanorofthesacredlord"
+		],
+		"Decadencia del Sagrado Señor delirante": [
+			"deliriousdesolationofthesacredlord"
+		],
+		"Esplendor del Sagrado Señor delirante": [
+			"deliriousdivinityofthesacredlord"
+		],
+		"Poción": [
+			"dendrocidepotion",
+			"desiccantpotion",
+			"dustproofpotion",
+			"flamingessentialoil",
+			"forestessentialoil",
+			"frostingessentialoil",
+			"frostshieldpotion",
+			"gushingessentialoil",
+			"heatshieldpotion",
+			"insulationpotion",
+			"shockingessentialoil",
+			"streamingessentialoil",
+			"unmovingessentialoil",
+			"windbarrierpotion"
+		],
+		"Rosa de Sumeru": [
+			"dendrocidepotion",
+			"forestessentialoil",
+			"namelesstaboomedicineoftheroyalcourt",
+			"sugardewbait"
+		],
+		"Loto nilotpala": [
+			"dendroculusresonancestone"
+		],
+		"Champiñón rukkhashava": [
+			"dendroculusresonancestone"
+		],
+		"Alas de mariposa": [
+			"desiccantpotion",
+			"dustproofpotion",
+			"heatshieldpotion",
+			"insulationpotion"
+		],
+		"Cabeza de loto": [
+			"desiccantpotion",
+			"streamingessentialoil"
+		],
+		"Reliquia de Guyun": [
+			"divinebodyfromguyun"
+		],
+		"Núcleo fúngico inerte": [
+			"dormantfungalnucleus"
+		],
+		"Resplandor del poder del sol": [
+			"dreamofscorchingmight"
+		],
+		"Esposas de Diente de León": [
+			"dreamofthedandeliongladiator"
+		],
+		"Cor lapis": [
+			"dustproofpotion",
+			"geoculusresonancestone",
+			"specialunmovingessentialoil",
+			"unmovingessentialoil",
+			"yellowdye"
+		],
+		"Movimiento de serenata arcaica": [
+			"echoofanancientchord"
+		],
+		"Percibetormentas": [
+			"electroculusresonancestone"
+		],
+		"Pétalos de cerezo": [
+			"electroculusresonancestone",
+			"fakeflybait"
+		],
+		"Pedazo de amatista": [
+			"electroculusresonancestone"
+		],
+		"Mechaceniza": [
+			"emberglowbait",
+			"reddye"
+		],
+		"Trigo": [
+			"emberglowbait",
+			"fruitpastebait",
+			"purewater",
+			"sourbait"
+		],
+		"Néctar brillante": [
+			"energynectar"
+		],
+		"Manantial de rocío sagrado": [
+			"essenceofpuresacreddewdrop"
+		],
+		"Flor de seda": [
+			"fabric"
+		],
+		"Cola de caballo": [
+			"fakeflybait"
+		],
+		"Condensado de Slime": [
+			"falsewormbait",
+			"slimesecretions"
+		],
+		"Baya": [
+			"falsewormbait",
+			"yellowdye"
+		],
+		"Guardamano gemelo": [
+			"famedhandguard"
+		],
+		"Anhelo del destino": [
+			"fatesyearningessentialoil"
+		],
+		"Rana": [
+			"flamingessentialoil",
+			"shockingessentialoil",
+			"specialunmovingessentialoil",
+			"straightshooter",
+			"streamingessentialoil",
+			"unmovingessentialoil"
+		],
+		"Pistilo de flor llameante": [
+			"flamingessentialoil",
+			"floatysplody",
+			"heatshieldpotion",
+			"hotpod",
+			"straightshooter"
+		],
+		"Destello del fuego de la larga noche": [
+			"flareoflongnightflint"
+		],
+		"Jazmimpoluto": [
+			"flashingmaintenancemekbait",
+			"yellowdye"
+		],
+		"Pedazo de hierro": [
+			"flashingmaintenancemekbait"
+		],
+		"Coraza fluorescente": [
+			"floatysplody",
+			"portablewaypoint"
+		],
+		"Pergamino hechizado": [
+			"forbiddencursescroll"
+		],
+		"Núcleo de la fisura": [
+			"foreignsynapse"
+		],
+		"Cola de lagarto": [
+			"forestessentialoil",
+			"frostingessentialoil",
+			"gushingessentialoil",
+			"hotpod"
+		],
+		"Fragmento de hueso sólido": [
+			"fossilizedboneshard"
+		],
+		"Escombro de la ciudad de Decarabian": [
+			"fragmentofdecarabiansepic"
+		],
+		"Distintivo sofisticado": [
+			"frostetchedwarrant"
+		],
+		"Pistilo de flor helada": [
+			"frostingessentialoil",
+			"frostshieldpotion"
+		],
+		"Resplandor de la noche escarchada": [
+			"frostnightsglory"
+		],
+		"Destello de la noche escarchada": [
+			"frostnightsglow"
+		],
+		"Solsettia": [
+			"fruitpastebait",
+			"reddye"
+		],
+		"Lirio de cristal": [
+			"geoculusresonancestone"
+		],
+		"Trozo de hueso apagado": [
+			"glowingremains"
+		],
+		"Rama de jade del mar distante": [
+			"goldenbranchofadistantsea"
+		],
+		"Copa de plata del mar impoluto": [
+			"goldengobletofthepristinesea"
+		],
+		"Doncella de la casa dorada": [
+			"goldenhousemaidenessentialoil"
+		],
+		"Insignia de cuervo plateada": [
+			"goldenraveninsignia"
+		],
+		"Talismán de plata del rocío": [
+			"goldentalismanoftheforestdew"
+		],
+		"Material de talento de personaje": [
+			"guidetoadmonition",
+			"guidetoballad",
+			"guidetoconflict",
+			"guidetocontention",
+			"guidetodiligence",
+			"guidetoelegance",
+			"guidetoelysium",
+			"guidetoequity",
+			"guidetofreedom",
+			"guidetogold",
+			"guidetoingenuity",
+			"guidetojustice",
+			"guidetokindling",
+			"guidetolight",
+			"guidetomoonlight",
+			"guidetoorder",
+			"guidetopraxis",
+			"guidetoprosperity",
+			"guidetoresistance",
+			"guidetotransience",
+			"guidetovagrancy",
+			"philosophiesofadmonition",
+			"philosophiesofballad",
+			"philosophiesofconflict",
+			"philosophiesofcontention",
+			"philosophiesofdiligence",
+			"philosophiesofelegance",
+			"philosophiesofelysium",
+			"philosophiesofequity",
+			"philosophiesoffreedom",
+			"philosophiesofgold",
+			"philosophiesofingenuity",
+			"philosophiesofjustice",
+			"philosophiesofkindling",
+			"philosophiesoflight",
+			"philosophiesofmoonlight",
+			"philosophiesoforder",
+			"philosophiesofpraxis",
+			"philosophiesofprosperity",
+			"philosophiesofresistance",
+			"philosophiesoftransience",
+			"philosophiesofvagrancy"
+		],
+		"Enseñanzas de la exhortación": [
+			"guidetoadmonition"
+		],
+		"Enseñanzas de la poesía": [
+			"guidetoballad"
+		],
+		"Enseñanzas del conflicto": [
+			"guidetoconflict"
+		],
+		"Enseñanzas de la contienda": [
+			"guidetocontention"
+		],
+		"Enseñanzas del esfuerzo": [
+			"guidetodiligence"
+		],
+		"Enseñanzas de la elegancia": [
+			"guidetoelegance"
+		],
+		"Enseñanzas del paraíso": [
+			"guidetoelysium"
+		],
+		"Enseñanzas de la ecuanimidad": [
+			"guidetoequity"
+		],
+		"Enseñanzas de la libertad": [
+			"guidetofreedom"
+		],
+		"Enseñanzas del oro": [
+			"guidetogold"
+		],
+		"Enseñanzas del ingenio": [
+			"guidetoingenuity"
+		],
+		"Enseñanzas de la justicia": [
+			"guidetojustice"
+		],
+		"Enseñanzas de las brasas": [
+			"guidetokindling"
+		],
+		"Enseñanzas de la luz": [
+			"guidetolight"
+		],
+		"Enseñanzas de la luz lunar": [
+			"guidetomoonlight"
+		],
+		"Enseñanzas del orden": [
+			"guidetoorder"
+		],
+		"Enseñanzas de la praxis": [
+			"guidetopraxis"
+		],
+		"Enseñanzas de la prosperidad": [
+			"guidetoprosperity"
+		],
+		"Enseñanzas de la resistencia": [
+			"guidetoresistance"
+		],
+		"Enseñanzas de la transitoriedad": [
+			"guidetotransience"
+		],
+		"Enseñanzas de la errancia": [
+			"guidetovagrancy"
+		],
+		"Vaina mecánica fuentenigma": [
+			"heartofthesecretsource"
+		],
+		"Núcleo aberrante de las profundidades insondables": [
+			"hookedbeakofthedeepshadow"
+		],
+		"Flor rociomarina": [
+			"hydroculusresonancestone"
+		],
+		"Rosarcoíris": [
+			"hydroculusresonancestone"
+		],
+		"Roca ignífera": [
+			"ignitedseedoflife"
+		],
+		"Semilla vital ignífera": [
+			"ignitedseeingeye"
+		],
+		"Hoja desconcertante": [
+			"illusoryleafcoil"
+		],
+		"Distintivo desgastado": [
+			"immaculatewarrant"
+		],
+		"Daga del agente": [
+			"inspectorssacrificialknife"
+		],
+		"Electrocristal": [
+			"insulationpotion",
+			"shockingessentialoil"
+		],
+		"Talismán de bronce del rocío": [
+			"irontalismanoftheforestdew"
+		],
+		"Rama enjoyada del mar distante": [
+			"jadebranchofadistantsea"
+		],
+		"Rama de coral del mar distante": [
+			"jeweledbranchofadistantsea"
+		],
+		"Guardamano viejo": [
+			"kageuchihandguard"
+		],
+		"Hojas secas de líneas ley": [
+			"leylinesprout",
+			"portablewaypoint"
+		],
+		"Insignia del sargento": [
+			"lieutenantsinsignia"
+		],
+		"Fragmento de voluntad quebrantada": [
+			"locusofaclearwill"
+		],
+		"Espora fúngica": [
+			"luminescentpollen"
+		],
+		"Aleta emplumada": [
+			"lunarfin"
+		],
+		"Arena brillante de Guyun": [
+			"lustrousstonefromguyun"
+		],
+		"Caparazón sólido": [
+			"markedshell"
+		],
+		"Máscara del cuerno": [
+			"maskofthekijin"
+		],
+		"Máscara del mordisco de tigre": [
+			"maskoftheonehorned"
+		],
+		"Máscara del teniente maligno": [
+			"maskofthetigersbite"
+		],
+		"Engranaje de malla": [
+			"mechanicalspurgear"
+		],
+		"Polen neblinoso": [
+			"mistgrass"
+		],
+		"Hierba neblinosa": [
+			"mistgrasswick"
+		],
+		"Fragmento de armadura brumoso": [
+			"mistshroudhelmet"
+		],
+		"Condensado brumoso": [
+			"mistshroudplate"
+		],
+		"Perdigones de mercurio": [
+			"mistveiledgoldelixir"
+		],
+		"Perdigones de plomo": [
+			"mistveiledmercuryelixir"
+		],
+		"Perdigones de oro": [
+			"mistveiledprimoelixir"
+		],
+		"Pieza de serenata arcaica": [
+			"movementofanancientchord"
+		],
+		"Fragmento de esmeralda nagadus": [
+			"nagadusemeraldchunk"
+		],
+		"Pedacito de esmeralda nagadus": [
+			"nagadusemeraldfragment"
+		],
+		"Trozo de esmeralda nagadus": [
+			"nagadusemeraldgemstone"
+		],
+		"Champiñón extraño": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Loto kalpa": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Júbilo de Narukami": [
+			"narukamisaffection"
+		],
+		"Sabiduría de Narukami": [
+			"narukamisjoy"
+		],
+		"Afecto de Narukami": [
+			"narukamisvalor"
+		],
+		"Cúmulo de légamo": [
+			"newborntaintedhydrophantasm"
+		],
+		"Presentimiento espiritista vientonocturno": [
+			"nightwindsmysticaugury"
+		],
+		"Reflexión espiritista vientonocturna": [
+			"nightwindsmysticpremonition"
+		],
+		"Presagio espiritista vientonocturno": [
+			"nightwindsmysticrevelation"
+		],
+		"Reminiscencia del oasis exuberante": [
+			"oasisgardenskindness"
+		],
+		"Gracia del oasis exuberante": [
+			"oasisgardensmourning"
+		],
+		"Lamento del oasis exuberante": [
+			"oasisgardenstruth"
+		],
+		"Obstinación de los Hijos del Lejano Norte": [
+			"oblationofthefarnorthscions"
+		],
+		"Sueño del poder del sol": [
+			"oldendaysofscorchingmight"
+		],
+		"Máscara sucia": [
+			"ominousmask"
+		],
+		"Reloj de bolsillo estándar de Senescal": [
+			"operativesconstancy"
+		],
+		"Reloj de bolsillo vetusto de Senescal": [
+			"operativesstandardpocketwatch"
+		],
+		"Guía de la exhortación": [
+			"philosophiesofadmonition"
+		],
+		"Guía de la poesía": [
+			"philosophiesofballad"
+		],
+		"Guía del conflicto": [
+			"philosophiesofconflict"
+		],
+		"Guía de la contienda": [
+			"philosophiesofcontention"
+		],
+		"Guía del esfuerzo": [
+			"philosophiesofdiligence"
+		],
+		"Guía de la elegancia": [
+			"philosophiesofelegance"
+		],
+		"Guía del paraíso": [
+			"philosophiesofelysium"
+		],
+		"Guía de la ecuanimidad": [
+			"philosophiesofequity"
+		],
+		"Guía de la libertad": [
+			"philosophiesoffreedom"
+		],
+		"Guía del oro": [
+			"philosophiesofgold"
+		],
+		"Guía del ingenio": [
+			"philosophiesofingenuity"
+		],
+		"Guía de la justicia": [
+			"philosophiesofjustice"
+		],
+		"Guía de las brasas": [
+			"philosophiesofkindling"
+		],
+		"Guía de la luz": [
+			"philosophiesoflight"
+		],
+		"Guía de la luz lunar": [
+			"philosophiesofmoonlight"
+		],
+		"Guía del orden": [
+			"philosophiesoforder"
+		],
+		"Guía de la praxis": [
+			"philosophiesofpraxis"
+		],
+		"Guía de la prosperidad": [
+			"philosophiesofprosperity"
+		],
+		"Guía de la resistencia": [
+			"philosophiesofresistance"
+		],
+		"Guía de la transitoriedad": [
+			"philosophiesoftransience"
+		],
+		"Guía de la errancia": [
+			"philosophiesofvagrancy"
+		],
+		"Grano de siderita oscura": [
+			"pieceofaerosiderite"
+		],
+		"Prisma de cristal": [
+			"polarizingprism"
+		],
+		"Eje reforzado": [
+			"precisiondriveshaft"
+		],
+		"Fragmento de topacio prithiva": [
+			"prithivatopazchunk"
+		],
+		"Pedacito de topacio prithiva": [
+			"prithivatopazfragment"
+		],
+		"Trozo de topacio prithiva": [
+			"prithivatopazgemstone"
+		],
+		"Comida": [
+			"purewater",
+			"strengthtonic"
+		],
+		"Piñón": [
+			"purewater"
+		],
+		"Branquia plumaespuma": [
+			"pyroculusresonancestone"
+		],
+		"Restos centelleantes": [
+			"radiantexoskeleton"
+		],
+		"Prisma enturbiado": [
+			"radiantprism"
+		],
+		"Zanahoria": [
+			"reddye"
+		],
+		"Valbaya": [
+			"reddye"
+		],
+		"Duraznoliva": [
+			"reddye"
+		],
+		"Dendrobio": [
+			"redrotbait"
+		],
+		"Carne de ave": [
+			"redrotbait"
+		],
+		"Lakka": [
+			"refreshinglakkabait"
+		],
+		"Eje dañado": [
+			"reinforceddriveshaft"
+		],
+		"Piedra reluciente de Guyun": [
+			"relicfromguyun"
+		],
+		"Eco del poder del sol": [
+			"remnantglowofscorchingmight"
+		],
+		"Seda roja bordada": [
+			"richredbrocade"
+		],
+		"Núcleo fúngico inactivo": [
+			"robustfungalnucleus"
+		],
+		"Silbato de hierro del guerrero": [
+			"sauriancrownedwarriorsgoldenwhistle"
+		],
+		"Fragmento de epopeya de Decarabian": [
+			"scatteredpieceofdecarabiansdream"
+		],
+		"Gota legamosa": [
+			"scoopoftaintedwater"
+		],
+		"Pergamino guía": [
+			"sealedscroll"
+		],
+		"Colmillo joven": [
+			"seasonedfang"
+		],
+		"Insignia del recluta": [
+			"sergeantsinsignia"
+		],
+		"Cadena de Diente de León": [
+			"shacklesofthedandeliongladiator"
+		],
+		"Flecha robusta": [
+			"sharparrowhead"
+		],
+		"Eje fuentenigma": [
+			"sheathofthesecretsource"
+		],
+		"Néctar de Megaflora": [
+			"shimmeringnectar"
+		],
+		"Fragmento de jade shivada": [
+			"shivadajadechunk"
+		],
+		"Pedacito de jade shivada": [
+			"shivadajadefragment"
+		],
+		"Trozo de jade shivada": [
+			"shivadajadegemstone"
+		],
+		"Ídolo de voluntad manifiesta": [
+			"sigilofastridingwill"
+		],
+		"Copa de vino del mar impoluto": [
+			"silvergobletofthepristinesea"
+		],
+		"Insignia de cuervo de bronce": [
+			"silverraveninsignia"
+		],
+		"Talismán de metal del rocío": [
+			"silvertalismanoftheforestdew"
+		],
+		"Babas de Slime": [
+			"slimeconcentrate"
+		],
+		"Burburanja": [
+			"sourbait"
+		],
+		"Caparazón espectral": [
+			"spectralheart"
+		],
+		"Corazón espectral": [
+			"spectralnucleus"
+		],
+		"Espinela": [
+			"spinelgrainbait"
+		],
+		"Mahís": [
+			"spinelgrainbait"
+		],
+		"Empuñadura destrozada": [
+			"splinteredhilt"
+		],
+		"Sublimación de rocío sagrado": [
+			"springofpuresacreddewdrop"
+		],
+		"Máscara dañada": [
+			"stainedmask"
+		],
+		"Empuñadura hendida": [
+			"stillsmolderinghilt"
+		],
+		"Seta sombrillavela": [
+			"strengthtonic"
+		],
+		"Pata de saurio": [
+			"strengthtonic"
+		],
+		"Fragmento de hueso frágil": [
+			"sturdyboneshard"
+		],
+		"Caparazón desfigurado": [
+			"sturdyshell"
+		],
+		"Sedimento de rocío sagrado": [
+			"sublimationofpuresacreddewdrop"
+		],
+		"Fruto harra": [
+			"sugardewbait"
+		],
+		"Condensado extramarino": [
+			"transoceanicchunk"
+		],
+		"Flor encapullada de origen desconocido": [
+			"treasuredflower"
+		],
+		"Satén rojo descolorido": [
+			"trimmedredsilk"
+		],
+		"Prisma dañado": [
+			"turbidprism"
+		],
+		"Colmillo veterano": [
+			"tyrantsfang"
+		],
+		"Gloria póstuma de los Hijos del Lejano Norte": [
+			"unyieldingdelusionofthefarnorthscions"
+		],
+		"Fragmento de amatista vajrada": [
+			"vajradaamethystchunk"
+		],
+		"Pedacito de amatista vajrada": [
+			"vajradaamethystfragment"
+		],
+		"Trozo de amatista vajrada": [
+			"vajradaamethystgemstone"
+		],
+		"Tejedora de los valles": [
+			"valleyweaveressentialoil"
+		],
+		"Fragmento de lazurita varunada": [
+			"varunadalazuritechunk"
+		],
+		"Pedacito de lazurita varunada": [
+			"varunadalazuritefragment"
+		],
+		"Trozo de lazurita varunada": [
+			"varunadalazuritegemstone"
+		],
+		"Fragmento de turquesa vayuda": [
+			"vayudaturquoisechunk"
+		],
+		"Pedacito de turquesa vayuda": [
+			"vayudaturquoisefragment"
+		],
+		"Trozo de turquesa vayuda": [
+			"vayudaturquoisegemstone"
+		],
+		"Flor velada": [
+			"wanderersbloomingflower"
+		],
+		"Fragmento de caparazón agrietado por el frío": [
+			"warmbackshell"
+		],
+		"Silbato de madera del guardián": [
+			"warriorsmetalwhistle"
+		],
+		"Flecha afilada": [
+			"weatheredarrowhead"
+		],
+		"Copa rota del mar impoluto": [
+			"winegobletofthepristinesea"
+		],
+		"Fragmento extramarino": [
+			"xenochromaticcrystal"
+		],
+		"Celulosa para linterna": [
+			"xiaolantern"
+		],
+		"Material para mecha": [
+			"xiaolantern"
+		],
+		"Fragmento de plaustrita": [
+			"xiaolantern"
+		]
+	},
+	"properties": {
+		"filterText": [
+			"Material de mejora de personaje y arma",
+			"Material de ascensión de arma",
+			"Material de ascensión de personaje",
+			"Consumible",
+			"Cebo",
+			"Material para fabricar decoración",
+			"Material de mejora de Personaje y Arma",
+			"Poción",
+			"Material de talento de personaje",
+			"Comida"
+		],
+		"recipe": [
+			"Ojo fracturado de las profundidades insondables",
+			"Ascuas del fuego de la larga noche",
+			"Daga de cacería",
+			"Fragmento de ágata agnidus",
+			"Pedacito de ágata agnidus",
+			"Trozo de ágata agnidus",
+			"Sinapsis extrínseca",
+			"Semilla de diente de león",
+			"Cecilia",
+			"Pedazo de cristal",
+			"Réplica del instrumento misterioso",
+			"Fragmento del instrumento misterioso",
+			"Legado del instrumento misterioso",
+			"Mecaengranaje recto",
+			"Oblación de los Hijos del Lejano Norte",
+			"Bellota veraniega",
+			"Harina",
+			"Brote refractor",
+			"Lámina de siderita oscura",
+			"Cuerno pesado",
+			"Cuerno de bronce negro",
+			"Llama del fuego de la larga noche",
+			"Fragmento de caparazón con calor residual",
+			"Terror del corazón sacrificial ardiente",
+			"Indecisión del corazón sacrificial ardiente",
+			"Determinación del corazón sacrificial ardiente",
+			"Menta",
+			"Diente roto de lobo boreal",
+			"Diente de leche de lobo boreal",
+			"Colmillo roto de lobo boreal",
+			"Grilletes de Diente de León",
+			"Engranaje del caos",
+			"Módulo del caos",
+			"Dispositivo del caos",
+			"Circuito del caos",
+			"Contenedor del caos",
+			"Eje del caos",
+			"Fragmento de serenata arcaica",
+			"Aleta lunar",
+			"Fragmento de siderita oscura",
+			"Garra afilada oculta",
+			"Garra oculta",
+			"Núcleo de cristal",
+			"Resina original",
+			"Polen fluorescente",
+			"Prisma oscuro",
+			"Estatuilla oscura",
+			"Rama seca de líneas ley",
+			"Estatuilla del amanecer",
+			"Fragmento de azulejo de Decarabian",
+			"Desconsuelo del Sagrado Señor delirante",
+			"Decadencia del Sagrado Señor delirante",
+			"Esplendor del Sagrado Señor delirante",
+			"Rosa de Sumeru",
+			"Loto nilotpala",
+			"Champiñón rukkhashava",
+			"Alas de mariposa",
+			"Cabeza de loto",
+			"Reliquia de Guyun",
+			"Núcleo fúngico inerte",
+			"Resplandor del poder del sol",
+			"Esposas de Diente de León",
+			"Cor lapis",
+			"Movimiento de serenata arcaica",
+			"Percibetormentas",
+			"Pétalos de cerezo",
+			"Pedazo de amatista",
+			"Mechaceniza",
+			"Trigo",
+			"Néctar brillante",
+			"Manantial de rocío sagrado",
+			"Flor de seda",
+			"Cola de caballo",
+			"Condensado de Slime",
+			"Baya",
+			"Guardamano gemelo",
+			"Anhelo del destino",
+			"Rana",
+			"Pistilo de flor llameante",
+			"Destello del fuego de la larga noche",
+			"Jazmimpoluto",
+			"Pedazo de hierro",
+			"Coraza fluorescente",
+			"Pergamino hechizado",
+			"Núcleo de la fisura",
+			"Cola de lagarto",
+			"Fragmento de hueso sólido",
+			"Escombro de la ciudad de Decarabian",
+			"Distintivo sofisticado",
+			"Pistilo de flor helada",
+			"Resplandor de la noche escarchada",
+			"Destello de la noche escarchada",
+			"Solsettia",
+			"Lirio de cristal",
+			"Trozo de hueso apagado",
+			"Rama de jade del mar distante",
+			"Copa de plata del mar impoluto",
+			"Doncella de la casa dorada",
+			"Insignia de cuervo plateada",
+			"Talismán de plata del rocío",
+			"Enseñanzas de la exhortación",
+			"Enseñanzas de la poesía",
+			"Enseñanzas del conflicto",
+			"Enseñanzas de la contienda",
+			"Enseñanzas del esfuerzo",
+			"Enseñanzas de la elegancia",
+			"Enseñanzas del paraíso",
+			"Enseñanzas de la ecuanimidad",
+			"Enseñanzas de la libertad",
+			"Enseñanzas del oro",
+			"Enseñanzas del ingenio",
+			"Enseñanzas de la justicia",
+			"Enseñanzas de las brasas",
+			"Enseñanzas de la luz",
+			"Enseñanzas de la luz lunar",
+			"Enseñanzas del orden",
+			"Enseñanzas de la praxis",
+			"Enseñanzas de la prosperidad",
+			"Enseñanzas de la resistencia",
+			"Enseñanzas de la transitoriedad",
+			"Enseñanzas de la errancia",
+			"Vaina mecánica fuentenigma",
+			"Núcleo aberrante de las profundidades insondables",
+			"Flor rociomarina",
+			"Rosarcoíris",
+			"Roca ignífera",
+			"Semilla vital ignífera",
+			"Hoja desconcertante",
+			"Distintivo desgastado",
+			"Daga del agente",
+			"Electrocristal",
+			"Talismán de bronce del rocío",
+			"Rama enjoyada del mar distante",
+			"Rama de coral del mar distante",
+			"Guardamano viejo",
+			"Hojas secas de líneas ley",
+			"Insignia del sargento",
+			"Fragmento de voluntad quebrantada",
+			"Espora fúngica",
+			"Aleta emplumada",
+			"Arena brillante de Guyun",
+			"Caparazón sólido",
+			"Máscara del cuerno",
+			"Máscara del mordisco de tigre",
+			"Máscara del teniente maligno",
+			"Engranaje de malla",
+			"Polen neblinoso",
+			"Hierba neblinosa",
+			"Fragmento de armadura brumoso",
+			"Condensado brumoso",
+			"Perdigones de mercurio",
+			"Perdigones de plomo",
+			"Perdigones de oro",
+			"Pieza de serenata arcaica",
+			"Fragmento de esmeralda nagadus",
+			"Pedacito de esmeralda nagadus",
+			"Trozo de esmeralda nagadus",
+			"Champiñón extraño",
+			"Loto kalpa",
+			"Júbilo de Narukami",
+			"Sabiduría de Narukami",
+			"Afecto de Narukami",
+			"Cúmulo de légamo",
+			"Presentimiento espiritista vientonocturno",
+			"Reflexión espiritista vientonocturna",
+			"Presagio espiritista vientonocturno",
+			"Reminiscencia del oasis exuberante",
+			"Gracia del oasis exuberante",
+			"Lamento del oasis exuberante",
+			"Obstinación de los Hijos del Lejano Norte",
+			"Sueño del poder del sol",
+			"Máscara sucia",
+			"Reloj de bolsillo estándar de Senescal",
+			"Reloj de bolsillo vetusto de Senescal",
+			"Guía de la exhortación",
+			"Guía de la poesía",
+			"Guía del conflicto",
+			"Guía de la contienda",
+			"Guía del esfuerzo",
+			"Guía de la elegancia",
+			"Guía del paraíso",
+			"Guía de la ecuanimidad",
+			"Guía de la libertad",
+			"Guía del oro",
+			"Guía del ingenio",
+			"Guía de la justicia",
+			"Guía de las brasas",
+			"Guía de la luz",
+			"Guía de la luz lunar",
+			"Guía del orden",
+			"Guía de la praxis",
+			"Guía de la prosperidad",
+			"Guía de la resistencia",
+			"Guía de la transitoriedad",
+			"Guía de la errancia",
+			"Grano de siderita oscura",
+			"Prisma de cristal",
+			"Eje reforzado",
+			"Fragmento de topacio prithiva",
+			"Pedacito de topacio prithiva",
+			"Trozo de topacio prithiva",
+			"Piñón",
+			"Marealga",
+			"Quenepa",
+			"Branquia plumaespuma",
+			"Restos centelleantes",
+			"Prisma enturbiado",
+			"Dendrobio",
+			"Carne de ave",
+			"Lakka",
+			"Eje dañado",
+			"Piedra reluciente de Guyun",
+			"Eco del poder del sol",
+			"Seda roja bordada",
+			"Núcleo fúngico inactivo",
+			"Silbato de hierro del guerrero",
+			"Fragmento de epopeya de Decarabian",
+			"Gota legamosa",
+			"Pergamino guía",
+			"Colmillo joven",
+			"Insignia del recluta",
+			"Cadena de Diente de León",
+			"Flecha robusta",
+			"Eje fuentenigma",
+			"Néctar de Megaflora",
+			"Fragmento de jade shivada",
+			"Pedacito de jade shivada",
+			"Trozo de jade shivada",
+			"Ídolo de voluntad manifiesta",
+			"Copa de vino del mar impoluto",
+			"Insignia de cuervo de bronce",
+			"Talismán de metal del rocío",
+			"Babas de Slime",
+			"Burburanja",
+			"Caparazón espectral",
+			"Corazón espectral",
+			"Espinela",
+			"Mahís",
+			"Empuñadura destrozada",
+			"Sublimación de rocío sagrado",
+			"Máscara dañada",
+			"Empuñadura hendida",
+			"Seta sombrillavela",
+			"Pata de saurio",
+			"Fragmento de hueso frágil",
+			"Caparazón desfigurado",
+			"Sedimento de rocío sagrado",
+			"Fruto harra",
+			"Condensado extramarino",
+			"Flor encapullada de origen desconocido",
+			"Satén rojo descolorido",
+			"Prisma dañado",
+			"Colmillo veterano",
+			"Gloria póstuma de los Hijos del Lejano Norte",
+			"Fragmento de amatista vajrada",
+			"Pedacito de amatista vajrada",
+			"Trozo de amatista vajrada",
+			"Tejedora de los valles",
+			"Fragmento de lazurita varunada",
+			"Pedacito de lazurita varunada",
+			"Trozo de lazurita varunada",
+			"Fragmento de turquesa vayuda",
+			"Pedacito de turquesa vayuda",
+			"Trozo de turquesa vayuda",
+			"Flor velada",
+			"Fragmento de caparazón agrietado por el frío",
+			"Silbato de madera del guardián",
+			"Flecha afilada",
+			"Copa rota del mar impoluto",
+			"Fragmento extramarino",
+			"Celulosa para linterna",
+			"Material para mecha",
+			"Fragmento de plaustrita"
+		],
+		"altrecipes": [
+			"Gancho de lobo",
+			"Hongo fluorescente",
+			"Marealga",
+			"Quenepa",
+			"Zanahoria",
+			"Valbaya",
+			"Duraznoliva",
+			"Mechaceniza",
+			"Cor lapis",
+			"Jazmimpoluto"
+		]
+	}
+}

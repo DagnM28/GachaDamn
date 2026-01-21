@@ -1,0 +1,12 @@
+{
+	"id": 101214,
+	"name": "Padisachidée",
+	"sortRank": 314,
+	"description": "Une plante pure et noble, très exigeante quant à l'environnement dans lequel elle pousse. Son pistil peut être transformé en épices précieuses.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Sumeru",
+	"sources": [
+		"Ville de Sumeru",
+		"Aller collecter"
+	]
+}

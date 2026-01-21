@@ -1,0 +1,18 @@
+{
+	"id": 112006,
+	"name": "Mặt Nạ Bẩn",
+	"rarity": 2,
+	"sortRank": 10602,
+	"description": "Bị dính nhiều chất bẩn, tỏa ra mùi khó chịu.\nDù là vậy vẫn đeo lên mặt, người Hilichurl thật ngoan cố.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sources": [
+		"Hilichurl cấp 40 trở lên rơi",
+		"Xạ thủ Hilichurl cấp 40 trở lên rơi một ít",
+		"Phù thủy Hilichurl cấp 40 trở lên rơi một lượng nhỏ",
+		"Bạo Đồ Hilichurl cấp 40 trở lên rơi một ít",
+		"Vua Hilichurl cấp 40 trở lên rơi một ít",
+		"Đổi từ Tinh Trần",
+		"Số lượng có thể ghép - chiếm chỗ: {0}"
+	]
+}

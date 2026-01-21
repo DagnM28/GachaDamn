@@ -1,0 +1,22 @@
+{
+	"id": [
+		81124
+	],
+	"name": "Unerwartete Schätze",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1120,
+	"stages": 1,
+	"stage1": {
+		"title": "Unerwartete Schätze",
+		"ps5title": "Inazuma – Unerwartete Schätze",
+		"description": "Benutze die „Kamuijima-Kanone“, um einen verborgenen Schatz freizulegen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

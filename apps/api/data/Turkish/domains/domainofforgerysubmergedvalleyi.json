@@ -1,0 +1,55 @@
+{
+	"id": 4320,
+	"name": "Döküm Zindanı: Batık Vadi I",
+	"regionId": 1,
+	"regionName": "Mondstadt",
+	"entranceId": 37,
+	"entranceName": "Sesilya Bahçesi",
+	"domainType": "UI_ABYSSUS_WEAPON_PROMOTE",
+	"domainText": "Silah Yükseltme Malzemeleri",
+	"description": "Bu nemli kadim sunaktan muazzam seviyelerde Su enerjisi yayılır.\nŞayet imtihanı geçmeyi başarırsan Silah Yükseltme Malzemeleri kazanacaksın.",
+	"recommendedLevel": 15,
+	"recommendedElements": [
+		"Elektrik"
+	],
+	"daysOfWeek": [
+		"Salı",
+		"Cuma",
+		"Pazar"
+	],
+	"unlockRank": 15,
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "Macera TP",
+			"count": 100
+		},
+		{
+			"id": 202,
+			"name": "Mora",
+			"count": 1125
+		},
+		{
+			"id": 105,
+			"name": "Yoldaşlık TP",
+			"count": 10
+		},
+		{
+			"id": 114005,
+			"name": "Kutup Kurdunun Süt Dişi"
+		}
+	],
+	"disorder": [
+		"Gruptaki tüm karakterler %75 Elektrik Hasarı Bonusu kazanır."
+	],
+	"monsterList": [
+		{
+			"id": 20011001,
+			"name": "Su Bodurlopu"
+		},
+		{
+			"id": 20011101,
+			"name": "Büyük Su Bodurlopu"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81532
+	],
+	"name": "Кошачий корм для креветок",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1516,
+	"stages": 1,
+	"stage1": {
+		"title": "Кошачий корм для креветок",
+		"description": "Быстро постройте убежище для раненых заврианов Натлана.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

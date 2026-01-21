@@ -1,0 +1,20 @@
+{
+	"id": [
+		84143
+	],
+	"name": "Man nennt sie „Layla“",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Erinnerungen des Herzens",
+	"sortOrder": 7500,
+	"stages": 1,
+	"stage1": {
+		"title": "Man nennt sie „Layla“",
+		"description": "Schließe „Stille Sterne“ ab und schalte alle Ausgänge frei.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

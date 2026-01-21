@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Dente rotto del Lupo boreale",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Dente da latte del Lupo boreale",
+			"count": 3
+		}
+	]
+}

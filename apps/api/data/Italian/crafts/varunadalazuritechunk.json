@@ -1,0 +1,16 @@
+{
+	"id": 15005,
+	"name": "Pezzo di lazurite Varunada",
+	"filterText": "Materiale d'ascensione personaggi",
+	"sortOrder": 110009,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104122,
+			"name": "Frammento di lazurite Varunada",
+			"count": 3
+		}
+	]
+}

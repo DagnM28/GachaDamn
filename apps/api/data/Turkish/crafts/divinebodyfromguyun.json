@@ -1,0 +1,16 @@
+{
+	"id": 12012,
+	"name": "Guyun'un Kutsal Hazinesi",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130028,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114015,
+			"name": "Guyun'un Yadigarı",
+			"count": 3
+		}
+	]
+}

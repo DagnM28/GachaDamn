@@ -1,0 +1,21 @@
+{
+	"id": [
+		82113
+	],
+	"name": "Caída del trueno",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 2113,
+	"stages": 1,
+	"stage1": {
+		"title": "Caída del trueno",
+		"description": "Derrota a la Manifestación del Trueno mientras vuela.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

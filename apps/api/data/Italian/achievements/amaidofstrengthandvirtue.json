@@ -1,0 +1,20 @@
+{
+	"id": [
+		84103
+	],
+	"name": "La domestica forte e virtuosa",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ricordi del cuore",
+	"sortOrder": 6300,
+	"stages": 1,
+	"stage1": {
+		"title": "La domestica forte e virtuosa",
+		"description": "Completa Addestramento cavalleresco e sblocca tutti i finali.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 20
+		}
+	}
+}

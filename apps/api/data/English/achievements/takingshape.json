@@ -1,0 +1,20 @@
+{
+	"id": [
+		80007
+	],
+	"name": "Taking Shape",
+	"achievementGroupId": 2,
+	"achievementGroupName": "The Art of Adventure",
+	"sortOrder": 7,
+	"stages": 1,
+	"stage1": {
+		"title": "Taking Shape",
+		"description": "Forge a 4-star weapon.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

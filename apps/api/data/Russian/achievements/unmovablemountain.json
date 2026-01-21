@@ -1,0 +1,21 @@
+{
+	"id": [
+		80045
+	],
+	"name": "Неподвижные скалы",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Гавань камня и контрактов",
+	"sortOrder": 45,
+	"stages": 1,
+	"stage1": {
+		"title": "Неподвижные скалы",
+		"ps5title": "Ли Юэ: Неподвижные скалы",
+		"description": "Повысьте статую семи Архонтов в Ли Юэ до макс. уровня.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 20
+		}
+	}
+}

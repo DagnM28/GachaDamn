@@ -1,0 +1,11 @@
+{
+	"id": 100078,
+	"name": "牛奶",
+	"sortRank": 321,
+	"description": "奶牛的乳汁。香香甜甜，嘴角的那滴也不想放過。",
+	"category": "EXCHANGE",
+	"typeText": "食材",
+	"sources": [
+		"雜貨店購買"
+	]
+}

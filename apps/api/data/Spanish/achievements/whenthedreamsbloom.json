@@ -1,0 +1,21 @@
+{
+	"id": [
+		81246
+	],
+	"name": "Sueños que florecen",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1232,
+	"stages": 1,
+	"stage1": {
+		"title": "Sueños que florecen",
+		"description": "Consigue que el jardín de los aranara esté repleto de viparyas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

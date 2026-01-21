@@ -1,0 +1,13 @@
+{
+	"id": 112002,
+	"name": "Slime Condensate",
+	"rarity": 1,
+	"sortRank": 10601,
+	"description": "Lapisan tebal yang ditemukan pada Slime. Bahan yang paling sering dijumpai di bengkel elemental.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Penguatan Senjata dan Karakter",
+	"sources": [
+		"Dijatuhkan oleh Slime",
+		"Penukaran Stardust"
+	]
+}

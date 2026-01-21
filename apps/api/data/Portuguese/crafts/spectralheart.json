@@ -1,0 +1,16 @@
+{
+	"id": 11035,
+	"name": "Coração Espectral",
+	"filterText": "Material de Fortalecimento de Arma e Personagem",
+	"sortOrder": 150080,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112053,
+			"name": "Casca Espectral",
+			"count": 3
+		}
+	]
+}

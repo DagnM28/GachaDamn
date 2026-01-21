@@ -1,0 +1,21 @@
+{
+	"id": [
+		81552
+	],
+	"name": "Aparecium",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1536,
+	"stages": 1,
+	"stage1": {
+		"title": "Aparecium",
+		"description": "Usa por primera vez el poder de una pintada mística para crear un ente místico.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

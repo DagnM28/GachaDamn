@@ -1,0 +1,21 @@
+{
+	"id": [
+		81331
+	],
+	"name": "Cesurlar Geri Adım Atmaz",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1318,
+	"stages": 1,
+	"stage1": {
+		"title": "Cesurlar Geri Adım Atmaz",
+		"description": "Jarjar'ın hazırladığı tüm imtihanları geç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

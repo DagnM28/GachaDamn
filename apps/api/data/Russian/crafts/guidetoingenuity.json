@@ -1,0 +1,16 @@
+{
+	"id": 13021,
+	"name": "Указания об «Остроумии»",
+	"filterText": "Таланты персонажей",
+	"sortOrder": 120100,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104332,
+			"name": "Учения об «Остроумии»",
+			"count": 3
+		}
+	]
+}

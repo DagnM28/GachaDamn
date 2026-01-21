@@ -1,0 +1,20 @@
+{
+	"id": [
+		80363
+	],
+	"name": "Il tocco finale?",
+	"achievementGroupId": 55,
+	"achievementGroupName": "Natlan: Una terra di fuoco e competizione (II)",
+	"sortOrder": 337,
+	"stages": 1,
+	"stage1": {
+		"title": "Il tocco finale?",
+		"description": "Ripristina il potere dell'enorme graffito sui Monti Tezcatepetonco.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

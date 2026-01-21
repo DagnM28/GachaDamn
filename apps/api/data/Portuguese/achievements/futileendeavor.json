@@ -1,0 +1,21 @@
+{
+	"id": [
+		81038
+	],
+	"name": "Jornada Fútil",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1039,
+	"stages": 1,
+	"stage1": {
+		"title": "Jornada Fútil",
+		"description": "Descubra os resquícios de várias máquinas das ruínas.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

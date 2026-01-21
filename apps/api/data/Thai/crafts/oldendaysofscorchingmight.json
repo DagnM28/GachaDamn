@@ -1,0 +1,16 @@
+{
+	"id": 12036,
+	"name": "Olden Days of Scorching Might",
+	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
+	"sortOrder": 130108,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114047,
+			"name": "Dream of Scorching Might",
+			"count": 3
+		}
+	]
+}

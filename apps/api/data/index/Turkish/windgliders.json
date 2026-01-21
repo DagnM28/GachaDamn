@@ -1,0 +1,70 @@
+{
+	"namemap": {
+		"wingsofazurewind": "Mavi Rüzgar Kanatları",
+		"wingsofcompanionship": "Yoldaşlık Kanatları",
+		"wingsofconcealingsnow": "Kar Örtüsü Kanatları",
+		"wingsofdelicacies": "Lezzet Kanatları",
+		"wingsofdescension": "Zuhur Kanatları",
+		"wingsoffatescourseintertwined": "Kader Ağının Kanatları",
+		"wingsoffeasting": "Ziyafet Kanatları",
+		"wingsoffirstflight": "İlk Uçuş Kanatları",
+		"wingsofgoldenflight": "Altın Uçuş Kanatları",
+		"wingsofleisurelymoments": "Keyifli Anların Kanatları",
+		"wingsofmercifulwrathfulwaters": "Merhametli ve Öfkeli Suların Kanatları",
+		"wingsofshimmeringgalaxy": "Galaktik Işıltı Kanatları",
+		"wingsofsoaringflame": "Süzülen Alev Kanatları",
+		"wingsoftheforest": "Ormanın Kanatları",
+		"wingsofthesilentmoon": "Sessiz Ayın Kanatları",
+		"wingsofthestarlitfeast": "Yıldız Işığı Kanatları",
+		"wingsofthestormstrider": "Fırtınagezer Kanatları",
+		"wingsoftransientdreams": "Fani Rüyaların Kanatları"
+	},
+	"names": {
+		"Mavi Rüzgar Kanatları": "wingsofazurewind",
+		"Yoldaşlık Kanatları": "wingsofcompanionship",
+		"Kar Örtüsü Kanatları": "wingsofconcealingsnow",
+		"Lezzet Kanatları": "wingsofdelicacies",
+		"Zuhur Kanatları": "wingsofdescension",
+		"Kader Ağının Kanatları": "wingsoffatescourseintertwined",
+		"Ziyafet Kanatları": "wingsoffeasting",
+		"İlk Uçuş Kanatları": "wingsoffirstflight",
+		"Altın Uçuş Kanatları": "wingsofgoldenflight",
+		"Keyifli Anların Kanatları": "wingsofleisurelymoments",
+		"Merhametli ve Öfkeli Suların Kanatları": "wingsofmercifulwrathfulwaters",
+		"Galaktik Işıltı Kanatları": "wingsofshimmeringgalaxy",
+		"Süzülen Alev Kanatları": "wingsofsoaringflame",
+		"Ormanın Kanatları": "wingsoftheforest",
+		"Sessiz Ayın Kanatları": "wingsofthesilentmoon",
+		"Yıldız Işığı Kanatları": "wingsofthestarlitfeast",
+		"Fırtınagezer Kanatları": "wingsofthestormstrider",
+		"Fani Rüyaların Kanatları": "wingsoftransientdreams"
+	},
+	"aliases": {},
+	"categories": {
+		"4": [
+			"wingsofazurewind",
+			"wingsofcompanionship",
+			"wingsofconcealingsnow",
+			"wingsofdelicacies",
+			"wingsofdescension",
+			"wingsoffatescourseintertwined",
+			"wingsoffeasting",
+			"wingsoffirstflight",
+			"wingsofgoldenflight",
+			"wingsofleisurelymoments",
+			"wingsofmercifulwrathfulwaters",
+			"wingsofshimmeringgalaxy",
+			"wingsofsoaringflame",
+			"wingsoftheforest",
+			"wingsofthesilentmoon",
+			"wingsofthestarlitfeast",
+			"wingsofthestormstrider",
+			"wingsoftransientdreams"
+		]
+	},
+	"properties": {
+		"rarity": [
+			4
+		]
+	}
+}

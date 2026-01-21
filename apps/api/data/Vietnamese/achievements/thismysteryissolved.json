@@ -1,0 +1,21 @@
+{
+	"id": [
+		81328
+	],
+	"name": "\"Đã Giải Hết Toàn Bộ Câu Đố Rồi!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1315,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Đã Giải Hết Toàn Bộ Câu Đố Rồi!\"",
+		"description": "Hoàn thành \"Nghiên Cứu Bia Khắc\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

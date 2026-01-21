@@ -1,0 +1,11 @@
+{
+	"id": 110009,
+	"name": "Peynir",
+	"sortRank": 322,
+	"description": "Mayalanmış sütten üretilir. Enerji oranı yüksektir ve çeşitli pek çok yemekte kullanılır.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"İşlenerek elde edilir."
+	]
+}

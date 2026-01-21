@@ -1,0 +1,21 @@
+{
+	"id": [
+		84044
+	],
+	"name": "Devrimci Yabancı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5023,
+	"stages": 1,
+	"stage1": {
+		"title": "Devrimci Yabancı",
+		"description": "Direnişe başarıyla katıl.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 15014,
+	"name": "Vayuda Turkuazı Parçası",
+	"filterText": "Karakter Yükseltme Malzemesi",
+	"sortOrder": 110039,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104152,
+			"name": "Vayuda Turkuazı Kırıntısı",
+			"count": 3
+		}
+	]
+}

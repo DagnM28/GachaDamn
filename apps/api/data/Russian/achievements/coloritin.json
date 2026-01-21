@@ -1,0 +1,42 @@
+{
+	"id": [
+		81065,
+		81066,
+		81067
+	],
+	"name": "Добавить цвет?",
+	"achievementGroupId": 18,
+	"achievementGroupName": "Бессмертная обитель I",
+	"sortOrder": 1066,
+	"stages": 3,
+	"stage1": {
+		"title": "Добавить цвет?",
+		"description": "Изготовьте 50 красок.",
+		"progress": 50,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Добавить цвет?",
+		"description": "Изготовьте 200 красок.",
+		"progress": 200,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Добавить цвет?",
+		"description": "Изготовьте 600 красок.",
+		"progress": 600,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 20
+		}
+	}
+}

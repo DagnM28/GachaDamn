@@ -1,0 +1,21 @@
+{
+	"id": [
+		81425
+	],
+	"name": "Un corvo o un merlo?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1409,
+	"stages": 1,
+	"stage1": {
+		"title": "Un corvo o un merlo?",
+		"description": "È un pellicano!",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

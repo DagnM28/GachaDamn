@@ -1,0 +1,19 @@
+{
+	"id": 114010,
+	"name": "Chaînes du Chevalier du Croc de Lion",
+	"rarity": 3,
+	"sortRank": 15103,
+	"description": "Matériau d'élévation d'arme.\nDes chaînes qui ont entravé la grande Vennessa lorsqu'elle n'était qu'une gladiatrice parmi les autres.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'élévation d'arme",
+	"dropDomainId": 4331,
+	"dropDomainName": "Donjon d'entraînement : Capitale assoiffée",
+	"daysOfWeek": [
+		"Mercredi",
+		"Samedi",
+		"Dimanche"
+	],
+	"sources": [
+		"Emplacement réservé - Quantité synthétisable : {0}"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13002,
+	"name": "Философия о «Свободе»",
+	"filterText": "Таланты персонажей",
+	"sortOrder": 119999,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104302,
+			"name": "Указания о «Свободе»",
+			"count": 3
+		}
+	]
+}

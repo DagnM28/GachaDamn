@@ -1,0 +1,21 @@
+{
+	"id": [
+		84321
+	],
+	"name": "La Nación de los Saurios",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 5100,
+	"stages": 1,
+	"stage1": {
+		"title": "La Nación de los Saurios",
+		"description": "Todo aquí es muy especial.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

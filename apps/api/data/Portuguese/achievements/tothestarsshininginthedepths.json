@@ -1,0 +1,21 @@
+{
+	"id": [
+		84307
+	],
+	"name": "Rumo às Estrelas Brilhando nas Profundezas",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5086,
+	"stages": 1,
+	"stage1": {
+		"title": "Rumo às Estrelas Brilhando nas Profundezas",
+		"description": "Complete \"Rumo às Estrelas Brilhando nas Profundezas\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

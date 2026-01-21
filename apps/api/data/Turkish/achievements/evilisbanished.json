@@ -1,0 +1,20 @@
+{
+	"id": [
+		84104
+	],
+	"name": "Kötülük Defedildi",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"sortOrder": 6100,
+	"stages": 1,
+	"stage1": {
+		"title": "Kötülük Defedildi",
+		"description": "\"Kötülük Belirtileri\" görevini tamamlayıp bütün sonların kilidini aç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 20
+		}
+	}
+}

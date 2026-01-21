@@ -1,0 +1,20 @@
+{
+	"id": [
+		80073
+	],
+	"name": "Đào Sâu Học Thuật Hilichurl",
+	"achievementGroupId": 22,
+	"achievementGroupName": "Tuần Du Trần Thế - Phần II",
+	"sortOrder": 73,
+	"stages": 1,
+	"stage1": {
+		"title": "Đào Sâu Học Thuật Hilichurl",
+		"description": "Thu thập trọn bộ \"Khảo Sát Tập Quán Hilichurl\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

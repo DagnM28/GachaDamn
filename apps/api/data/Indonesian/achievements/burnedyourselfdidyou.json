@@ -1,0 +1,21 @@
+{
+	"id": [
+		82102
+	],
+	"name": "Kamu Terbakar?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2103,
+	"stages": 1,
+	"stage1": {
+		"title": "Kamu Terbakar?",
+		"description": "Kalahkan Pyro Hypostasis yang telah bangkit dua kali.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

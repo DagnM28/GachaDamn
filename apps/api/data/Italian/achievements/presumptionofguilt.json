@@ -1,0 +1,20 @@
+{
+	"id": [
+		86035
+	],
+	"name": "Presunzione di colpa",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Incontri in un altro mondo: Serie IV",
+	"sortOrder": 9034,
+	"stages": 1,
+	"stage1": {
+		"title": "Presunzione di colpa",
+		"description": "Sconfiggi il Battezzante maligno in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

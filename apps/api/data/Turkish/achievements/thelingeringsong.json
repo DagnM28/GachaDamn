@@ -1,0 +1,20 @@
+{
+	"id": [
+		84131
+	],
+	"name": "Ölümsüz Şarkı",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"sortOrder": 7100,
+	"stages": 1,
+	"stage1": {
+		"title": "Ölümsüz Şarkı",
+		"description": "\"Kaderin Şarkısı\" görevini tamamlayıp tüm sonların kilidini aç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 20
+		}
+	}
+}

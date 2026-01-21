@@ -1,0 +1,16 @@
+{
+	"id": 13025,
+	"name": "Guida all'equità",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120120,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104338,
+			"name": "Insegnamenti di equità",
+			"count": 3
+		}
+	]
+}

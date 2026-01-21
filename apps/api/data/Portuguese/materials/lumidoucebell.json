@@ -1,0 +1,13 @@
+{
+	"id": 101235,
+	"name": "Campânula Lumidouce",
+	"sortRank": 315,
+	"description": "Uma flor violeta serena e tranquila. Ela tem um aroma leve, suave e duradouro, e é geralmente usada para fazer perfumes raros.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Fontaine",
+	"sources": [
+		"Encontrado ao norte da Corte de Fontaine",
+		"Plantar no Bule de Relachá",
+		"Ir para coleta"
+	]
+}

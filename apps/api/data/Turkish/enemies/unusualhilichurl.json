@@ -1,0 +1,27 @@
+{
+	"id": 21011501,
+	"monsterId": 21011501,
+	"name": "Tuhaf Dağ Yabanisi",
+	"specialNames": [
+		"Köşkün Belalısı"
+	],
+	"monsterType": "MONSTER_ORDINARY",
+	"enemyType": "NORMAL",
+	"categoryType": "CODEX_SUBTYPE_HILICHURL",
+	"categoryText": "Dağ Yabanileri",
+	"description": "\"Homu, homu, mimi domu!\"",
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "Macera TP"
+		},
+		{
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 100018,
+			"name": "Lahana"
+		}
+	]
+}

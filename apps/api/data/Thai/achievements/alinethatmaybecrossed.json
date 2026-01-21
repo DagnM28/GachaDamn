@@ -1,0 +1,20 @@
+{
+	"id": [
+		84102
+	],
+	"name": "เส้นเขตแดนที่ข้ามได้",
+	"achievementGroupId": 17,
+	"achievementGroupName": "ความทรงจำ ของหัวใจ",
+	"sortOrder": 6200,
+	"stages": 1,
+	"stage1": {
+		"title": "เส้นเขตแดนที่ข้ามได้",
+		"description": "ทำ \"น้ำพุแห่งการรักษา\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

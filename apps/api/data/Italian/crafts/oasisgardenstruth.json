@@ -1,0 +1,16 @@
+{
+	"id": 12033,
+	"name": "Verità del giardino dell'oasi",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130098,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114043,
+			"name": "Compianto del giardino dell'oasi",
+			"count": 3
+		}
+	]
+}

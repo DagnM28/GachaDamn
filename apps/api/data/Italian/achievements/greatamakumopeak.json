@@ -1,0 +1,21 @@
+{
+	"id": [
+		81165
+	],
+	"name": "Il gran Capo Amakumo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1151,
+	"stages": 1,
+	"stage1": {
+		"title": "Il gran Capo Amakumo",
+		"description": "Sblocca il meccanismo sotto il Capo Amakumo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

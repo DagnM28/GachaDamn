@@ -1,0 +1,11 @@
+{
+	"id": 101212,
+	"name": "Yıldız Mantarı",
+	"sortRank": 90000,
+	"description": "Tepesi beş köşeli yıldıza benzeyen bir mantar. Oldukça dayanıklıdır. Olgunlaştığında şapkasının ortası açılır.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Yiyecek",
+	"sources": [
+		"Doğada bulunur."
+	]
+}

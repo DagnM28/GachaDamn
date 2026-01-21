@@ -1,0 +1,21 @@
+{
+	"id": [
+		84144
+	],
+	"name": "Tendue jusqu'à la limite",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Souvenirs du cœur",
+	"isHidden": true,
+	"sortOrder": 7510,
+	"stages": 1,
+	"stage1": {
+		"title": "Tendue jusqu'à la limite",
+		"description": "Aidez Layla à terminer sa thèse sans lui causer plus d'anxiété.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

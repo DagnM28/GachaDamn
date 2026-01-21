@@ -1,0 +1,21 @@
+{
+	"id": [
+		84514
+	],
+	"name": "Keberuntungan Pemula",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 4038,
+	"stages": 1,
+	"stage1": {
+		"title": "Keberuntungan Pemula",
+		"description": "Pilih giok dengan nilai tertinggi dalam sekali coba.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

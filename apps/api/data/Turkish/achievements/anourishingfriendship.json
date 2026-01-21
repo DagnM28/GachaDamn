@@ -1,0 +1,20 @@
+{
+	"id": [
+		84509
+	],
+	"name": "Doyurucu Arkadaşlık",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"sortOrder": 4034,
+	"stages": 1,
+	"stage1": {
+		"title": "Doyurucu Arkadaşlık",
+		"description": "\"Jiangxue Balık Tutuyor\" ve \"Yanxiao'nun İkilemi\" özel görevlerini tamamla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

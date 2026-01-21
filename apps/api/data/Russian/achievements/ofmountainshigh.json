@@ -1,0 +1,21 @@
+{
+	"id": [
+		80002
+	],
+	"name": "О высоких скалах",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Скитания по миру I",
+	"sortOrder": 2,
+	"stages": 1,
+	"stage1": {
+		"title": "О высоких скалах",
+		"ps5title": "Гео: О высоких скалах",
+		"description": "Получите силу элемента Гео.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 15017,
+	"name": "哀切なアイスクリスタル·塊",
+	"filterText": "キャラクター突破素材",
+	"sortOrder": 110049,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104162,
+			"name": "哀切なアイスクリスタル·欠片",
+			"count": 3
+		}
+	]
+}

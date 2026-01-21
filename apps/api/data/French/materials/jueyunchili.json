@@ -1,0 +1,13 @@
+{
+	"id": 100027,
+	"name": "Piment de Jueyun",
+	"sortRank": 312,
+	"description": "Une plante épicée originaire de Liyue. La sentir suffit à faire monter en flèche votre température interne et à vous assoiffer.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Liyue",
+	"sources": [
+		"Zone conseillée : Village de Qingce",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

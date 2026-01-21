@@ -1,0 +1,21 @@
+{
+	"id": [
+		84559
+	],
+	"name": "Mấu Chốt Ở Đâu?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4083,
+	"stages": 1,
+	"stage1": {
+		"title": "Mấu Chốt Ở Đâu?",
+		"description": "Thưởng thức 3 món ăn của Jafar làm.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81132
+	],
+	"name": "Chắc Là Cần Bể Cá",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Hướng Dẫn Câu Cá Teyvat - Phần I",
+	"sortOrder": 1124,
+	"stages": 1,
+	"stage1": {
+		"title": "Chắc Là Cần Bể Cá",
+		"description": "Lần đầu câu được Cá Cảnh.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

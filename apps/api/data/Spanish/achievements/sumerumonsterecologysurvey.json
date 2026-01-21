@@ -1,0 +1,21 @@
+{
+	"id": [
+		81248
+	],
+	"name": "Ecología de los monstruos de Sumeru",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1234,
+	"stages": 1,
+	"stage1": {
+		"title": "Ecología de los monstruos de Sumeru",
+		"description": "Completa el encargo de proteger el ecosistema del bosque.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

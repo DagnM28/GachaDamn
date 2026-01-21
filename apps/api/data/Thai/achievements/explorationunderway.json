@@ -1,0 +1,20 @@
+{
+	"id": [
+		80159
+	],
+	"name": "ครึ่งทางของการสำรวจ...",
+	"achievementGroupId": 30,
+	"achievementGroupName": "เหมืองอันสว่างไสว",
+	"sortOrder": 159,
+	"stages": 1,
+	"stage1": {
+		"title": "ครึ่งทางของการสำรวจ...",
+		"description": "สำเร็จคำขอการสำรวจของฝ่ายกิจการทั่วไป",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

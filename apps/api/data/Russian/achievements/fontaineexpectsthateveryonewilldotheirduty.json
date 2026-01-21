@@ -1,0 +1,21 @@
+{
+	"id": [
+		81366
+	],
+	"name": "Фонтейн ждёт, что каждый выполнит свой долг",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1351,
+	"stages": 1,
+	"stage1": {
+		"title": "Фонтейн ждёт, что каждый выполнит свой долг",
+		"description": "Предмет возвращается к законному владельцу...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

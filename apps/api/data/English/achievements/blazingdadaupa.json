@@ -1,0 +1,20 @@
+{
+	"id": [
+		82007
+	],
+	"name": "Blazing Dadaupa",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Challenger: Series I",
+	"sortOrder": 2007,
+	"stages": 1,
+	"stage1": {
+		"title": "Blazing Dadaupa",
+		"description": "Set a Wooden Shieldwall Mitachurl's shield on fire.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

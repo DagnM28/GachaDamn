@@ -1,0 +1,20 @@
+{
+	"id": [
+		86020
+	],
+	"name": "Il macchinario non così perpetuo",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Incontri in un altro mondo: Serie II",
+	"sortOrder": 9020,
+	"stages": 1,
+	"stage1": {
+		"title": "Il macchinario non così perpetuo",
+		"description": "Sconfiggi un Macchinario perpetuo in modalità cooperativa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

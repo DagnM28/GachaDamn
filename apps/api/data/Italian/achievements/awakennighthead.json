@@ -1,0 +1,21 @@
+{
+	"id": [
+		81519
+	],
+	"name": "\"Svegliati, mente notturna!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1503,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Svegliati, mente notturna!\"",
+		"description": "...E invece non è successo niente.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

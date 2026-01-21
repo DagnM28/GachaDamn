@@ -1,0 +1,12 @@
+{
+	"id": 100033,
+	"name": "Yıldız Kabuğu",
+	"sortRank": 312,
+	"description": "Gelgitlerin kıyıya getirdiği boş deniz kabuğu. Kulağına yaklaştır ve denizin çağrısını dinle.",
+	"category": "EXCHANGE",
+	"typeText": "Liyue Yöresel Ürünü",
+	"sources": [
+		"Liyue sahillerinde bulunur.",
+		"Toplamaya git."
+	]
+}

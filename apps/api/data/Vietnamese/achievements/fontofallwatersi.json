@@ -1,0 +1,21 @@
+{
+	"id": [
+		80253
+	],
+	"name": "Ngọn Nguồn Của Muôn Dòng Nước I",
+	"achievementGroupId": 42,
+	"achievementGroupName": "Fontaine - Dòng Suối Trong Như Sương (I)",
+	"sortOrder": 233,
+	"stages": 1,
+	"stage1": {
+		"title": "Ngọn Nguồn Của Muôn Dòng Nước I",
+		"ps5title": "Fontaine - Ngọn Nguồn Của Muôn Dòng Nước I",
+		"description": "Mở khóa tất cả điểm dịch chuyển ở Đại Sảnh Fontaine, Khu Belleau, Khu Beryl trong khu vực Fontaine.",
+		"progress": 40,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81184
+	],
+	"name": "Biển Sâu Mấy Vạn Dặm?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1170,
+	"stages": 1,
+	"stage1": {
+		"title": "Biển Sâu Mấy Vạn Dặm?",
+		"description": "Vào Enkanomiya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

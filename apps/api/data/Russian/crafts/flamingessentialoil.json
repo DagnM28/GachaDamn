@@ -1,0 +1,21 @@
+{
+	"id": 14008,
+	"name": "Пламенное масло",
+	"filterText": "Зелье",
+	"sortOrder": 210000,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100081,
+			"name": "Лягушка",
+			"count": 1
+		},
+		{
+			"id": 100053,
+			"name": "Пылающий цветок (тычинка)",
+			"count": 1
+		}
+	]
+}

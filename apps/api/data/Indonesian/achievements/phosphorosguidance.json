@@ -1,0 +1,42 @@
+{
+	"id": [
+		80132,
+		80133,
+		80134
+	],
+	"name": "Panduan Phosphoros",
+	"achievementGroupId": 28,
+	"achievementGroupName": "Cahaya Siang",
+	"sortOrder": 132,
+	"stages": 3,
+	"stage1": {
+		"title": "Panduan Phosphoros",
+		"description": "Ikuti 6 Seelie di Enkanomiya ke Seelie Court mereka.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Panduan Phosphoros",
+		"description": "Ikuti 15 Seelie di Enkanomiya ke Seelie Court mereka.",
+		"progress": 15,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Panduan Phosphoros",
+		"description": "Ikuti 30 Seelie di Enkanomiya ke Seelie Court mereka.",
+		"progress": 30,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

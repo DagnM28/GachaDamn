@@ -1,0 +1,21 @@
+{
+	"id": [
+		80164
+	],
+	"name": "Điểm Dịch Chuyển Giấc Mơ",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru - Rừng Mưa Huyền Bí",
+	"sortOrder": 164,
+	"stages": 1,
+	"stage1": {
+		"title": "Điểm Dịch Chuyển Giấc Mơ",
+		"ps5title": "Sumeru - Điểm Dịch Chuyển Giấc Mơ",
+		"description": "Tăng cấp Cây Mơ Mộng tại Vanarana đến cấp tối đa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84091
+	],
+	"name": "Pembalikan Kejadian",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 5070,
+	"stages": 1,
+	"stage1": {
+		"title": "Pembalikan Kejadian",
+		"description": "Selesaikan \"Pembalikan Kejadian\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

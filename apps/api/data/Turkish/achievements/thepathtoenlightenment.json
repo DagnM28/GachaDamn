@@ -1,0 +1,22 @@
+{
+	"id": [
+		81272
+	],
+	"name": "Aydınlanma Yolu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1258,
+	"stages": 1,
+	"stage1": {
+		"title": "Aydınlanma Yolu",
+		"ps5title": "Yolculuk: Aydınlanma Yolu",
+		"description": "Kimse bu abidelerin neden inşa edildiğini ve neden unutulduklarını bilmiyor.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

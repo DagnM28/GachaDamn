@@ -1,0 +1,21 @@
+{
+	"id": [
+		82131
+	],
+	"name": "\"Get Over Here!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 2131,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Get Over Here!\"",
+		"description": "Shoot down a flying Fungus.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

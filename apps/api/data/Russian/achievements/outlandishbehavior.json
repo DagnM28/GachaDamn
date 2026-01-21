@@ -1,0 +1,21 @@
+{
+	"id": [
+		84011
+	],
+	"name": "Чужак в стране чужой",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4012,
+	"stages": 1,
+	"stage1": {
+		"title": "Чужак в стране чужой",
+		"description": "Будьте спасены туристом в месте, которое редко посещают местные жители.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

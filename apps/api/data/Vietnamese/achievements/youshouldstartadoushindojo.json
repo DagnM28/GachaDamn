@@ -1,0 +1,21 @@
+{
+	"id": [
+		84539
+	],
+	"name": "Nhà huấn luyện lính tuần tra?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4063,
+	"stages": 1,
+	"stage1": {
+		"title": "Nhà huấn luyện lính tuần tra?",
+		"description": "Giúp đỡ Asakura huấn luyện 5 lần.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

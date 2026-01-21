@@ -1,0 +1,16 @@
+{
+	"id": 13021,
+	"name": "「巧思」的指引",
+	"filterText": "角色天赋素材",
+	"sortOrder": 120100,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104332,
+			"name": "「巧思」的教导",
+			"count": 3
+		}
+	]
+}

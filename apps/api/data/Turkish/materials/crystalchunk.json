@@ -1,0 +1,12 @@
+{
+	"id": 101003,
+	"name": "Kristal Parçası",
+	"sortRank": 301,
+	"description": "Kesilmemiş bir kristal. Sadece profesyonel bir işçilikle gerçek değeri ortaya çıkar.",
+	"category": "EXCHANGE",
+	"typeText": "Dövmeye Uygun Cevher",
+	"sources": [
+		"Doğada bulunur.",
+		"Öneri: Fırtına Dehşeti'nin İninde bulunur."
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81077
+	],
+	"name": "...E il suo nome è Mary Celeste",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1078,
+	"stages": 1,
+	"stage1": {
+		"title": "...E il suo nome è Mary Celeste",
+		"description": "Guarda un tuo Cavalcaonde distruggersi...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

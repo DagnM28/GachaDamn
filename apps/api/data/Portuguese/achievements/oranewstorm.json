@@ -1,0 +1,21 @@
+{
+	"id": [
+		84005
+	],
+	"name": "...Ou uma nova Tempestade?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4006,
+	"stages": 1,
+	"stage1": {
+		"title": "...Ou uma nova Tempestade?",
+		"description": "Elimine o Dragão que atacou Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

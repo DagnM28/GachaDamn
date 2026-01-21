@@ -1,0 +1,21 @@
+{
+	"id": [
+		82253
+	],
+	"name": "Cartouche élémentaire perforante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 2253,
+	"stages": 1,
+	"stage1": {
+		"title": "Cartouche élémentaire perforante",
+		"description": "Brisez l'égide du néant d'une Papille obombrée.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

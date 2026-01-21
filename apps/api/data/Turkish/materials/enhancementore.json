@@ -1,0 +1,13 @@
+{
+	"id": 104011,
+	"name": "Geliştirme Cevheri",
+	"rarity": 1,
+	"sortRank": 5,
+	"description": "Silah TP malzemesi. 400 TP verir.\nSilahları geliştirmek için kullanılabilen sonsuz olanağa sahip saflaştırılmış bir cevher.",
+	"category": "WEAPON_EXP_STONE",
+	"typeText": "Silah Geliştirme Malzemesi",
+	"sources": [
+		"Dövülerek elde edilir.",
+		"Rastgele Etkinlik Ödülü"
+	]
+}

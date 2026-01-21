@@ -1,0 +1,2008 @@
+{
+	"namemap": {
+		"aberrantcoreofthedeepshadow": "Аномальное ядро глубокой тьмы",
+		"afterglowoflongnightflint": "Отблеск кремня долгой ночи",
+		"agentssacrificialknife": "Церемониальный нож агента",
+		"agnidusagatechunk": "Кусок агата Агнидус",
+		"agnidusagatefragment": "Фрагмент агата Агнидус",
+		"agnidusagategemstone": "Драгоценный агат Агнидус",
+		"alienlifecore": "Чужеродное ядро",
+		"anemoculusresonancestone": "Камень эха анемокула",
+		"artfuldeviceinheritance": "Наследие чудесного устройства",
+		"artfuldevicereplica": "Образец чудесного устройства",
+		"artfuldevicewish": "Мечта чудесного устройства",
+		"artificeddynamicgear": "Изощрённая динамическая шестерня",
+		"aureateradianceofthefarnorthscions": "Златое сияние последователей крайнего севера",
+		"berrybait": "Ягодная наживка",
+		"bewilderingbroadleaf": "Ошеломляющий широколист",
+		"bitofaerosiderite": "Осколок чёрного сидерита",
+		"blackbronzehorn": "Чёрный бронзовый рог",
+		"blackcrystalhorn": "Чёрный кристаллический рог",
+		"blazeoflongnightflint": "Пламя кремня долгой ночи",
+		"blazingprismshell": "Пылающий призмопанцирь",
+		"blazingsacrificialheartshesitance": "Сомнение пылающего жертвенного сердца",
+		"blazingsacrificialheartsresolve": "Решимость пылающего жертвенного сердца",
+		"blazingsacrificialheartssplendor": "Великолепие пылающего жертвенного сердца",
+		"bluedye": "Синяя краска",
+		"borealwolfsbrokenfang": "Сломанный клык арктического волка",
+		"borealwolfscrackedtooth": "Треснувший зуб арктического волка",
+		"borealwolfsnostalgia": "Ностальгия арктического волка",
+		"chainsofthedandeliongladiator": "Цепи львиного клыка",
+		"chaosaxis": "Ось хаоса",
+		"chaosbolt": "Анкер хаоса",
+		"chaoscircuit": "Цепь хаоса",
+		"chaoscore": "Ядро хаоса",
+		"chaosmodule": "Модуль хаоса",
+		"chaosoculus": "Око хаоса",
+		"chapterofanancientchord": "Незаконченный отзвук древней струны",
+		"chasmlightfin": "Глубинный плавник",
+		"chunkofaerosiderite": "Обломок чёрного сидерита",
+		"concealedtalon": "Скрытый дьявольский коготь",
+		"concealedunguis": "Скрытый заточенный коготь",
+		"condensedresin": "Густая смола",
+		"crystallinecystdust": "Пыль кристаллоцистов",
+		"crystalprism": "Кристальная призма",
+		"darkstatuette": "Тёмная статуэтка",
+		"deadleylineleaves": "Листья артерий земли",
+		"deathlystatuette": "Смертельная статуэтка",
+		"debrisofdecarabianscity": "Обломок стены Декарабиана",
+		"deliriousdemeanorofthesacredlord": "Безумный облик Святого Мудреца",
+		"deliriousdesolationofthesacredlord": "Безумное опустошение Святого Мудреца",
+		"deliriousdivinityofthesacredlord": "Безумная духовность Святого Мудреца",
+		"dendrocidepotion": "Зелье антидендро",
+		"dendroculusresonancestone": "Камень эха дендрокула",
+		"desiccantpotion": "Зелье осушения",
+		"divinebodyfromguyun": "Останки богов Гуюнь",
+		"dormantfungalnucleus": "Спящее ядро плесенника",
+		"dreamofscorchingmight": "Грёзы пылающей мощи",
+		"dreamofthedandeliongladiator": "Мечты львиного клыка",
+		"dustproofpotion": "Зелье пыленепроницаемости",
+		"echoofanancientchord": "Эхо отзвука древней струны",
+		"electroculusresonancestone": "Камень эха электрокула",
+		"emberglowbait": "Наживка из листка света",
+		"energynectar": "Элементальный нектар",
+		"essenceofpuresacreddewdrop": "Эссенция чистой капли росы",
+		"fabric": "Ткань",
+		"fakeflybait": "Фальшивая муха",
+		"falsewormbait": "Фальшивый червь",
+		"famedhandguard": "Прославленная гарда",
+		"fatesyearningessentialoil": "Эссенция «Тоскующей фортуны»",
+		"flamingessentialoil": "Пламенное масло",
+		"flareoflongnightflint": "Вспышка кремня долгой ночи",
+		"flashingmaintenancemekbait": "Огонёк ремонтного мека",
+		"floatysplody": "Плавающая бомба",
+		"forbiddencursescroll": "Свиток запретного проклятья",
+		"foreignsynapse": "Иноземный обломок",
+		"forestessentialoil": "Лесное масло",
+		"fossilizedboneshard": "Окаменевшие останки",
+		"fragmentofdecarabiansepic": "Фрагмент эпоса Декарабиана",
+		"frostetchedwarrant": "Заиндевевший мандат",
+		"frostingessentialoil": "Морозное масло",
+		"frostnightsglory": "Слава морозной ночи",
+		"frostnightsglow": "Сияние морозной ночи",
+		"frostshieldpotion": "Зелье морозного щита",
+		"fruitpastebait": "Фруктовая бражка",
+		"geoculusresonancestone": "Камень эха геокула",
+		"glowingremains": "Светящиеся останки",
+		"goldenbranchofadistantsea": "Золотая ветвь внешних морей",
+		"goldengobletofthepristinesea": "Золотой кубок непорочного моря",
+		"goldenhousemaidenessentialoil": "Эссенция «Золотой мадам»",
+		"goldenraveninsignia": "Печать золотого ворона",
+		"goldentalismanoftheforestdew": "Золотой амулет лесной росы",
+		"guidetoadmonition": "Указания о «Наставлениях»",
+		"guidetoballad": "Указания о «Поэзии»",
+		"guidetoconflict": "Указания о «Раздоре»",
+		"guidetocontention": "Указания о «Соперничестве»",
+		"guidetodiligence": "Указания об «Усердии»",
+		"guidetoelegance": "Указания об «Изяществе»",
+		"guidetoelysium": "Указания о «Рае»",
+		"guidetoequity": "Указания о «Беспристрастии»",
+		"guidetofreedom": "Указания о «Свободе»",
+		"guidetogold": "Указания о «Золоте»",
+		"guidetoingenuity": "Указания об «Остроумии»",
+		"guidetojustice": "Указания о «Справедливости»",
+		"guidetokindling": "Указания о «Сжигании»",
+		"guidetolight": "Указания о «Свете»",
+		"guidetomoonlight": "Указания о «Лунном свете»",
+		"guidetoorder": "Указания о «Порядке»",
+		"guidetopraxis": "Указания о «Честности»",
+		"guidetoprosperity": "Указания о «Процветании»",
+		"guidetoresistance": "Указания о «Борьбе»",
+		"guidetotransience": "Указания о «Бренности»",
+		"guidetovagrancy": "Указания о «Скитании»",
+		"gushingessentialoil": "Штормовое масло",
+		"heartofthesecretsource": "Ядро таинственного источника",
+		"heatshieldpotion": "Зелье теплового щита",
+		"hookedbeakofthedeepshadow": "Клюв глубокой тьмы",
+		"hotpod": "Горячая бомба",
+		"hydroculusresonancestone": "Камень эха гидрокула",
+		"ignitedseedoflife": "Пламенное семя жизни",
+		"ignitedseeingeye": "Пламенное око",
+		"illusoryleafcoil": "Иллюзорная листовая спираль",
+		"immaculatewarrant": "Безупречный мандат",
+		"inspectorssacrificialknife": "Церемониальный нож инспектора",
+		"insulationpotion": "Зелье изоляции",
+		"irontalismanoftheforestdew": "Железный амулет лесной росы",
+		"jadebranchofadistantsea": "Нефритовая ветвь внешних морей",
+		"jeweledbranchofadistantsea": "Драгоценная ветвь внешних морей",
+		"kageuchihandguard": "Гарда кагэути",
+		"leylinesprout": "Ростки артерий земли",
+		"lieutenantsinsignia": "Шеврон офицера",
+		"locusofaclearwill": "Образ ясной воли",
+		"luminescentpollen": "Светящаяся пыльца",
+		"lunarfin": "Лунный плавник",
+		"lustrousstonefromguyun": "Блестящий камень Гуюнь",
+		"markedshell": "Меченая оболочка",
+		"maskofthekijin": "Маска кидзин",
+		"maskoftheonehorned": "Маска однорогого",
+		"maskofthetigersbite": "Маска тигриной пасти",
+		"mechanicalspurgear": "Шестерня механизма",
+		"mintessentialoil": "Мятное эфирное масло",
+		"mistgrass": "Мешочек с туманной травой",
+		"mistgrasswick": "Пучок туманной травы",
+		"mistshroudhelmet": "Туманный шлем",
+		"mistshroudplate": "Туманная пластина",
+		"mistveiledgoldelixir": "Золотая пилюля Заоблачного моря",
+		"mistveiledmercuryelixir": "Ртутная пилюля Заоблачного моря",
+		"mistveiledprimoelixir": "Примо эликсир Заоблачного моря",
+		"movementofanancientchord": "Песнь отзвука древней струны",
+		"nagadusemeraldchunk": "Кусок изумруда Нагадус",
+		"nagadusemeraldfragment": "Фрагмент изумруда Нагадус",
+		"nagadusemeraldgemstone": "Драгоценный изумруд Нагадус",
+		"namelesstaboomedicineoftheroyalcourt": "Запретное безымянное лекарство королевского двора",
+		"narukamisaffection": "Милость Наруками",
+		"narukamisjoy": "Радость Наруками",
+		"narukamisvalor": "Доблесть Наруками",
+		"newborntaintedhydrophantasm": "Новорождённый фантазм мутных вод",
+		"nightwindsmysticaugury": "Загадочные предзнаменования ночного ветра",
+		"nightwindsmysticpremonition": "Загадочные предчувствия ночного ветра",
+		"nightwindsmysticrevelation": "Загадочные откровения ночного ветра",
+		"oasisgardenskindness": "Милость цветущего оазиса",
+		"oasisgardensmourning": "Печаль цветущего оазиса",
+		"oasisgardenstruth": "Истина цветущего оазиса",
+		"oblationofthefarnorthscions": "Подношение последователей крайнего севера",
+		"oldendaysofscorchingmight": "Прошлое пылающей мощи",
+		"ominousmask": "Зловещая маска",
+		"operativesconstancy": "Постоянство сенешаля",
+		"operativesstandardpocketwatch": "Штатные карманные часы сенешаля",
+		"philosophiesofadmonition": "Философия о «Наставлениях»",
+		"philosophiesofballad": "Философия о «Поэзии»",
+		"philosophiesofconflict": "Философия о «Раздоре»",
+		"philosophiesofcontention": "Философия о «Соперничестве»",
+		"philosophiesofdiligence": "Философия об «Усердии»",
+		"philosophiesofelegance": "Философия об «Изяществе»",
+		"philosophiesofelysium": "Философия о «Рае»",
+		"philosophiesofequity": "Философия о «Беспристрастии»",
+		"philosophiesoffreedom": "Философия о «Свободе»",
+		"philosophiesofgold": "Философия о «Золоте»",
+		"philosophiesofingenuity": "Философия об «Остроумии»",
+		"philosophiesofjustice": "Философия о «Справедливости»",
+		"philosophiesofkindling": "Философия о «Сжигании»",
+		"philosophiesoflight": "Философия о «Свете»",
+		"philosophiesofmoonlight": "Философия о «Лунном свете»",
+		"philosophiesoforder": "Философия о «Порядке»",
+		"philosophiesofpraxis": "Философия о «Честности»",
+		"philosophiesofprosperity": "Философия о «Процветании»",
+		"philosophiesofresistance": "Философия о «Борьбе»",
+		"philosophiesoftransience": "Философия о «Бренности»",
+		"philosophiesofvagrancy": "Философия о «Скитании»",
+		"pieceofaerosiderite": "Кусочек чёрного сидерита",
+		"polarizingprism": "Поляризационная призма",
+		"portablewaypoint": "Карманный телепорт",
+		"precisiondriveshaft": "Высокоточный вал",
+		"prithivatopazchunk": "Кусок топаза Притхива",
+		"prithivatopazfragment": "Фрагмент топаза Притхива",
+		"prithivatopazgemstone": "Драгоценный топаз Притхива",
+		"purewater": "Чистейшая вода",
+		"pyroculusresonancestone": "Камень эха пирокула",
+		"radiantexoskeleton": "Сияющая кость",
+		"radiantprism": "Блестящая призма",
+		"reddye": "Красная краска",
+		"redrotbait": "Красная болтушка",
+		"refreshinglakkabait": "Наживка из ягод лакка",
+		"reinforceddriveshaft": "Усиленный вал",
+		"relicfromguyun": "Реликвия Гуюнь",
+		"remnantglowofscorchingmight": "Отсветы пылающей мощи",
+		"richredbrocade": "Златотканый красный шёлк",
+		"robustfungalnucleus": "Здоровое ядро плесенника",
+		"sauriancrownedwarriorsgoldenwhistle": "Золотой свисток коронованного заврианами воина",
+		"scatteredpieceofdecarabiansdream": "Осколок мечты Декарабиана",
+		"scoopoftaintedwater": "Мутная лужица",
+		"sealedscroll": "Свиток печати",
+		"seasonedfang": "Клык взрослого",
+		"sergeantsinsignia": "Шеврон сержанта",
+		"shacklesofthedandeliongladiator": "Оковы львиного клыка",
+		"sharparrowhead": "Острый наконечник стрелы",
+		"sheathofthesecretsource": "Оболочка таинственного источника",
+		"shimmeringnectar": "Мерцающий нектар",
+		"shivadajadechunk": "Кусок нефрита Шивада",
+		"shivadajadefragment": "Фрагмент нефрита Шивада",
+		"shivadajadegemstone": "Драгоценный нефрит Шивада",
+		"shockingessentialoil": "Громовое масло",
+		"sigilofastridingwill": "Талисман странствующей воли",
+		"silvergobletofthepristinesea": "Серебряный кубок непорочного моря",
+		"silverraveninsignia": "Печать серебряного ворона",
+		"silvertalismanoftheforestdew": "Серебряный амулет лесной росы",
+		"slimeconcentrate": "Концентрат слайма",
+		"slimesecretions": "Выделения слайма",
+		"sourbait": "Кислая наживка",
+		"specialunmovingessentialoil": "Особая эссенция неподвижности",
+		"spectralheart": "Призрачное сердце",
+		"spectralnucleus": "Призрачное ядро",
+		"spinelgrainbait": "Наживка из корундина",
+		"splinteredhilt": "Расщеплённый эфес",
+		"springofpuresacreddewdrop": "Источник чистой капли росы",
+		"stainedmask": "Грязная маска",
+		"stillsmolderinghilt": "Неугасающий эфес",
+		"straightshooter": "Высокоточная бомба",
+		"streamingessentialoil": "Водоворотное масло",
+		"strengthtonic": "Эликсир силы",
+		"sturdyboneshard": "Крепкие останки",
+		"sturdyshell": "Прочная оболочка",
+		"sublimationofpuresacreddewdrop": "Конденсат чистой капли росы",
+		"sugardewbait": "Сахарная наживка",
+		"transoceanicchunk": "Обломок из иноморья",
+		"treasuredflower": "Заветный цветок",
+		"trimmedredsilk": "Окаймлённый красный шёлк",
+		"turbidprism": "Загрязнённая призма",
+		"tyrantsfang": "Клык тирана",
+		"unmovingessentialoil": "Эссенция неподвижности",
+		"unyieldingdelusionofthefarnorthscions": "Упрямое заблуждение последователей крайнего севера",
+		"vajradaamethystchunk": "Кусок аметиста Ваджрада",
+		"vajradaamethystfragment": "Фрагмент аметиста Ваджрада",
+		"vajradaamethystgemstone": "Драгоценный аметист Ваджрада",
+		"valleyweaveressentialoil": "Эссенция «Горной ткачихи»",
+		"varunadalazuritechunk": "Кусок лазурита Варунада",
+		"varunadalazuritefragment": "Фрагмент лазурита Варунада",
+		"varunadalazuritegemstone": "Драгоценный лазурит Варунада",
+		"vayudaturquoisechunk": "Кусок бирюзы Вайюда",
+		"vayudaturquoisefragment": "Фрагмент бирюзы Вайюда",
+		"vayudaturquoisegemstone": "Драгоценная бирюза Вайюда",
+		"wanderersbloomingflower": "Распустившийся цветок странника",
+		"warmbackshell": "Тёплый панцирь",
+		"warriorsmetalwhistle": "Металлический свисток воина",
+		"weatheredarrowhead": "Старый наконечник стрелы",
+		"windbarrierpotion": "Зелье ветряного барьера",
+		"winegobletofthepristinesea": "Чаша непорочного моря",
+		"xenochromaticcrystal": "Ксенохромный кристалл",
+		"xiaolantern": "Небесный фонарь",
+		"yellowdye": "Жёлтая краска"
+	},
+	"names": {
+		"Аномальное ядро глубокой тьмы": "aberrantcoreofthedeepshadow",
+		"Отблеск кремня долгой ночи": "afterglowoflongnightflint",
+		"Церемониальный нож агента": "agentssacrificialknife",
+		"Кусок агата Агнидус": "agnidusagatechunk",
+		"Фрагмент агата Агнидус": "agnidusagatefragment",
+		"Драгоценный агат Агнидус": "agnidusagategemstone",
+		"Чужеродное ядро": "alienlifecore",
+		"Камень эха анемокула": "anemoculusresonancestone",
+		"Наследие чудесного устройства": "artfuldeviceinheritance",
+		"Образец чудесного устройства": "artfuldevicereplica",
+		"Мечта чудесного устройства": "artfuldevicewish",
+		"Изощрённая динамическая шестерня": "artificeddynamicgear",
+		"Златое сияние последователей крайнего севера": "aureateradianceofthefarnorthscions",
+		"Ягодная наживка": "berrybait",
+		"Ошеломляющий широколист": "bewilderingbroadleaf",
+		"Осколок чёрного сидерита": "bitofaerosiderite",
+		"Чёрный бронзовый рог": "blackbronzehorn",
+		"Чёрный кристаллический рог": "blackcrystalhorn",
+		"Пламя кремня долгой ночи": "blazeoflongnightflint",
+		"Пылающий призмопанцирь": "blazingprismshell",
+		"Сомнение пылающего жертвенного сердца": "blazingsacrificialheartshesitance",
+		"Решимость пылающего жертвенного сердца": "blazingsacrificialheartsresolve",
+		"Великолепие пылающего жертвенного сердца": "blazingsacrificialheartssplendor",
+		"Синяя краска": "bluedye",
+		"Сломанный клык арктического волка": "borealwolfsbrokenfang",
+		"Треснувший зуб арктического волка": "borealwolfscrackedtooth",
+		"Ностальгия арктического волка": "borealwolfsnostalgia",
+		"Цепи львиного клыка": "chainsofthedandeliongladiator",
+		"Ось хаоса": "chaosaxis",
+		"Анкер хаоса": "chaosbolt",
+		"Цепь хаоса": "chaoscircuit",
+		"Ядро хаоса": "chaoscore",
+		"Модуль хаоса": "chaosmodule",
+		"Око хаоса": "chaosoculus",
+		"Незаконченный отзвук древней струны": "chapterofanancientchord",
+		"Глубинный плавник": "chasmlightfin",
+		"Обломок чёрного сидерита": "chunkofaerosiderite",
+		"Скрытый дьявольский коготь": "concealedtalon",
+		"Скрытый заточенный коготь": "concealedunguis",
+		"Густая смола": "condensedresin",
+		"Пыль кристаллоцистов": "crystallinecystdust",
+		"Кристальная призма": "crystalprism",
+		"Тёмная статуэтка": "darkstatuette",
+		"Листья артерий земли": "deadleylineleaves",
+		"Смертельная статуэтка": "deathlystatuette",
+		"Обломок стены Декарабиана": "debrisofdecarabianscity",
+		"Безумный облик Святого Мудреца": "deliriousdemeanorofthesacredlord",
+		"Безумное опустошение Святого Мудреца": "deliriousdesolationofthesacredlord",
+		"Безумная духовность Святого Мудреца": "deliriousdivinityofthesacredlord",
+		"Зелье антидендро": "dendrocidepotion",
+		"Камень эха дендрокула": "dendroculusresonancestone",
+		"Зелье осушения": "desiccantpotion",
+		"Останки богов Гуюнь": "divinebodyfromguyun",
+		"Спящее ядро плесенника": "dormantfungalnucleus",
+		"Грёзы пылающей мощи": "dreamofscorchingmight",
+		"Мечты львиного клыка": "dreamofthedandeliongladiator",
+		"Зелье пыленепроницаемости": "dustproofpotion",
+		"Эхо отзвука древней струны": "echoofanancientchord",
+		"Камень эха электрокула": "electroculusresonancestone",
+		"Наживка из листка света": "emberglowbait",
+		"Элементальный нектар": "energynectar",
+		"Эссенция чистой капли росы": "essenceofpuresacreddewdrop",
+		"Ткань": "fabric",
+		"Фальшивая муха": "fakeflybait",
+		"Фальшивый червь": "falsewormbait",
+		"Прославленная гарда": "famedhandguard",
+		"Эссенция «Тоскующей фортуны»": "fatesyearningessentialoil",
+		"Пламенное масло": "flamingessentialoil",
+		"Вспышка кремня долгой ночи": "flareoflongnightflint",
+		"Огонёк ремонтного мека": "flashingmaintenancemekbait",
+		"Плавающая бомба": "floatysplody",
+		"Свиток запретного проклятья": "forbiddencursescroll",
+		"Иноземный обломок": "foreignsynapse",
+		"Лесное масло": "forestessentialoil",
+		"Окаменевшие останки": "fossilizedboneshard",
+		"Фрагмент эпоса Декарабиана": "fragmentofdecarabiansepic",
+		"Заиндевевший мандат": "frostetchedwarrant",
+		"Морозное масло": "frostingessentialoil",
+		"Слава морозной ночи": "frostnightsglory",
+		"Сияние морозной ночи": "frostnightsglow",
+		"Зелье морозного щита": "frostshieldpotion",
+		"Фруктовая бражка": "fruitpastebait",
+		"Камень эха геокула": "geoculusresonancestone",
+		"Светящиеся останки": "glowingremains",
+		"Золотая ветвь внешних морей": "goldenbranchofadistantsea",
+		"Золотой кубок непорочного моря": "goldengobletofthepristinesea",
+		"Эссенция «Золотой мадам»": "goldenhousemaidenessentialoil",
+		"Печать золотого ворона": "goldenraveninsignia",
+		"Золотой амулет лесной росы": "goldentalismanoftheforestdew",
+		"Указания о «Наставлениях»": "guidetoadmonition",
+		"Указания о «Поэзии»": "guidetoballad",
+		"Указания о «Раздоре»": "guidetoconflict",
+		"Указания о «Соперничестве»": "guidetocontention",
+		"Указания об «Усердии»": "guidetodiligence",
+		"Указания об «Изяществе»": "guidetoelegance",
+		"Указания о «Рае»": "guidetoelysium",
+		"Указания о «Беспристрастии»": "guidetoequity",
+		"Указания о «Свободе»": "guidetofreedom",
+		"Указания о «Золоте»": "guidetogold",
+		"Указания об «Остроумии»": "guidetoingenuity",
+		"Указания о «Справедливости»": "guidetojustice",
+		"Указания о «Сжигании»": "guidetokindling",
+		"Указания о «Свете»": "guidetolight",
+		"Указания о «Лунном свете»": "guidetomoonlight",
+		"Указания о «Порядке»": "guidetoorder",
+		"Указания о «Честности»": "guidetopraxis",
+		"Указания о «Процветании»": "guidetoprosperity",
+		"Указания о «Борьбе»": "guidetoresistance",
+		"Указания о «Бренности»": "guidetotransience",
+		"Указания о «Скитании»": "guidetovagrancy",
+		"Штормовое масло": "gushingessentialoil",
+		"Ядро таинственного источника": "heartofthesecretsource",
+		"Зелье теплового щита": "heatshieldpotion",
+		"Клюв глубокой тьмы": "hookedbeakofthedeepshadow",
+		"Горячая бомба": "hotpod",
+		"Камень эха гидрокула": "hydroculusresonancestone",
+		"Пламенное семя жизни": "ignitedseedoflife",
+		"Пламенное око": "ignitedseeingeye",
+		"Иллюзорная листовая спираль": "illusoryleafcoil",
+		"Безупречный мандат": "immaculatewarrant",
+		"Церемониальный нож инспектора": "inspectorssacrificialknife",
+		"Зелье изоляции": "insulationpotion",
+		"Железный амулет лесной росы": "irontalismanoftheforestdew",
+		"Нефритовая ветвь внешних морей": "jadebranchofadistantsea",
+		"Драгоценная ветвь внешних морей": "jeweledbranchofadistantsea",
+		"Гарда кагэути": "kageuchihandguard",
+		"Ростки артерий земли": "leylinesprout",
+		"Шеврон офицера": "lieutenantsinsignia",
+		"Образ ясной воли": "locusofaclearwill",
+		"Светящаяся пыльца": "luminescentpollen",
+		"Лунный плавник": "lunarfin",
+		"Блестящий камень Гуюнь": "lustrousstonefromguyun",
+		"Меченая оболочка": "markedshell",
+		"Маска кидзин": "maskofthekijin",
+		"Маска однорогого": "maskoftheonehorned",
+		"Маска тигриной пасти": "maskofthetigersbite",
+		"Шестерня механизма": "mechanicalspurgear",
+		"Мятное эфирное масло": "mintessentialoil",
+		"Мешочек с туманной травой": "mistgrass",
+		"Пучок туманной травы": "mistgrasswick",
+		"Туманный шлем": "mistshroudhelmet",
+		"Туманная пластина": "mistshroudplate",
+		"Золотая пилюля Заоблачного моря": "mistveiledgoldelixir",
+		"Ртутная пилюля Заоблачного моря": "mistveiledmercuryelixir",
+		"Примо эликсир Заоблачного моря": "mistveiledprimoelixir",
+		"Песнь отзвука древней струны": "movementofanancientchord",
+		"Кусок изумруда Нагадус": "nagadusemeraldchunk",
+		"Фрагмент изумруда Нагадус": "nagadusemeraldfragment",
+		"Драгоценный изумруд Нагадус": "nagadusemeraldgemstone",
+		"Запретное безымянное лекарство королевского двора": "namelesstaboomedicineoftheroyalcourt",
+		"Милость Наруками": "narukamisaffection",
+		"Радость Наруками": "narukamisjoy",
+		"Доблесть Наруками": "narukamisvalor",
+		"Новорождённый фантазм мутных вод": "newborntaintedhydrophantasm",
+		"Загадочные предзнаменования ночного ветра": "nightwindsmysticaugury",
+		"Загадочные предчувствия ночного ветра": "nightwindsmysticpremonition",
+		"Загадочные откровения ночного ветра": "nightwindsmysticrevelation",
+		"Милость цветущего оазиса": "oasisgardenskindness",
+		"Печаль цветущего оазиса": "oasisgardensmourning",
+		"Истина цветущего оазиса": "oasisgardenstruth",
+		"Подношение последователей крайнего севера": "oblationofthefarnorthscions",
+		"Прошлое пылающей мощи": "oldendaysofscorchingmight",
+		"Зловещая маска": "ominousmask",
+		"Постоянство сенешаля": "operativesconstancy",
+		"Штатные карманные часы сенешаля": "operativesstandardpocketwatch",
+		"Философия о «Наставлениях»": "philosophiesofadmonition",
+		"Философия о «Поэзии»": "philosophiesofballad",
+		"Философия о «Раздоре»": "philosophiesofconflict",
+		"Философия о «Соперничестве»": "philosophiesofcontention",
+		"Философия об «Усердии»": "philosophiesofdiligence",
+		"Философия об «Изяществе»": "philosophiesofelegance",
+		"Философия о «Рае»": "philosophiesofelysium",
+		"Философия о «Беспристрастии»": "philosophiesofequity",
+		"Философия о «Свободе»": "philosophiesoffreedom",
+		"Философия о «Золоте»": "philosophiesofgold",
+		"Философия об «Остроумии»": "philosophiesofingenuity",
+		"Философия о «Справедливости»": "philosophiesofjustice",
+		"Философия о «Сжигании»": "philosophiesofkindling",
+		"Философия о «Свете»": "philosophiesoflight",
+		"Философия о «Лунном свете»": "philosophiesofmoonlight",
+		"Философия о «Порядке»": "philosophiesoforder",
+		"Философия о «Честности»": "philosophiesofpraxis",
+		"Философия о «Процветании»": "philosophiesofprosperity",
+		"Философия о «Борьбе»": "philosophiesofresistance",
+		"Философия о «Бренности»": "philosophiesoftransience",
+		"Философия о «Скитании»": "philosophiesofvagrancy",
+		"Кусочек чёрного сидерита": "pieceofaerosiderite",
+		"Поляризационная призма": "polarizingprism",
+		"Карманный телепорт": "portablewaypoint",
+		"Высокоточный вал": "precisiondriveshaft",
+		"Кусок топаза Притхива": "prithivatopazchunk",
+		"Фрагмент топаза Притхива": "prithivatopazfragment",
+		"Драгоценный топаз Притхива": "prithivatopazgemstone",
+		"Чистейшая вода": "purewater",
+		"Камень эха пирокула": "pyroculusresonancestone",
+		"Сияющая кость": "radiantexoskeleton",
+		"Блестящая призма": "radiantprism",
+		"Красная краска": "reddye",
+		"Красная болтушка": "redrotbait",
+		"Наживка из ягод лакка": "refreshinglakkabait",
+		"Усиленный вал": "reinforceddriveshaft",
+		"Реликвия Гуюнь": "relicfromguyun",
+		"Отсветы пылающей мощи": "remnantglowofscorchingmight",
+		"Златотканый красный шёлк": "richredbrocade",
+		"Здоровое ядро плесенника": "robustfungalnucleus",
+		"Золотой свисток коронованного заврианами воина": "sauriancrownedwarriorsgoldenwhistle",
+		"Осколок мечты Декарабиана": "scatteredpieceofdecarabiansdream",
+		"Мутная лужица": "scoopoftaintedwater",
+		"Свиток печати": "sealedscroll",
+		"Клык взрослого": "seasonedfang",
+		"Шеврон сержанта": "sergeantsinsignia",
+		"Оковы львиного клыка": "shacklesofthedandeliongladiator",
+		"Острый наконечник стрелы": "sharparrowhead",
+		"Оболочка таинственного источника": "sheathofthesecretsource",
+		"Мерцающий нектар": "shimmeringnectar",
+		"Кусок нефрита Шивада": "shivadajadechunk",
+		"Фрагмент нефрита Шивада": "shivadajadefragment",
+		"Драгоценный нефрит Шивада": "shivadajadegemstone",
+		"Громовое масло": "shockingessentialoil",
+		"Талисман странствующей воли": "sigilofastridingwill",
+		"Серебряный кубок непорочного моря": "silvergobletofthepristinesea",
+		"Печать серебряного ворона": "silverraveninsignia",
+		"Серебряный амулет лесной росы": "silvertalismanoftheforestdew",
+		"Концентрат слайма": "slimeconcentrate",
+		"Выделения слайма": "slimesecretions",
+		"Кислая наживка": "sourbait",
+		"Особая эссенция неподвижности": "specialunmovingessentialoil",
+		"Призрачное сердце": "spectralheart",
+		"Призрачное ядро": "spectralnucleus",
+		"Наживка из корундина": "spinelgrainbait",
+		"Расщеплённый эфес": "splinteredhilt",
+		"Источник чистой капли росы": "springofpuresacreddewdrop",
+		"Грязная маска": "stainedmask",
+		"Неугасающий эфес": "stillsmolderinghilt",
+		"Высокоточная бомба": "straightshooter",
+		"Водоворотное масло": "streamingessentialoil",
+		"Эликсир силы": "strengthtonic",
+		"Крепкие останки": "sturdyboneshard",
+		"Прочная оболочка": "sturdyshell",
+		"Конденсат чистой капли росы": "sublimationofpuresacreddewdrop",
+		"Сахарная наживка": "sugardewbait",
+		"Обломок из иноморья": "transoceanicchunk",
+		"Заветный цветок": "treasuredflower",
+		"Окаймлённый красный шёлк": "trimmedredsilk",
+		"Загрязнённая призма": "turbidprism",
+		"Клык тирана": "tyrantsfang",
+		"Эссенция неподвижности": "unmovingessentialoil",
+		"Упрямое заблуждение последователей крайнего севера": "unyieldingdelusionofthefarnorthscions",
+		"Кусок аметиста Ваджрада": "vajradaamethystchunk",
+		"Фрагмент аметиста Ваджрада": "vajradaamethystfragment",
+		"Драгоценный аметист Ваджрада": "vajradaamethystgemstone",
+		"Эссенция «Горной ткачихи»": "valleyweaveressentialoil",
+		"Кусок лазурита Варунада": "varunadalazuritechunk",
+		"Фрагмент лазурита Варунада": "varunadalazuritefragment",
+		"Драгоценный лазурит Варунада": "varunadalazuritegemstone",
+		"Кусок бирюзы Вайюда": "vayudaturquoisechunk",
+		"Фрагмент бирюзы Вайюда": "vayudaturquoisefragment",
+		"Драгоценная бирюза Вайюда": "vayudaturquoisegemstone",
+		"Распустившийся цветок странника": "wanderersbloomingflower",
+		"Тёплый панцирь": "warmbackshell",
+		"Металлический свисток воина": "warriorsmetalwhistle",
+		"Старый наконечник стрелы": "weatheredarrowhead",
+		"Зелье ветряного барьера": "windbarrierpotion",
+		"Чаша непорочного моря": "winegobletofthepristinesea",
+		"Ксенохромный кристалл": "xenochromaticcrystal",
+		"Небесный фонарь": "xiaolantern",
+		"Жёлтая краска": "yellowdye"
+	},
+	"aliases": {},
+	"categories": {
+		"Улучшение персонажей/оружия": [
+			"aberrantcoreofthedeepshadow",
+			"agentssacrificialknife",
+			"alienlifecore",
+			"artificeddynamicgear",
+			"bewilderingbroadleaf",
+			"blackbronzehorn",
+			"blackcrystalhorn",
+			"blazingprismshell",
+			"chaosaxis",
+			"chaosbolt",
+			"chaoscircuit",
+			"chaoscore",
+			"chaosmodule",
+			"chaosoculus",
+			"chasmlightfin",
+			"concealedtalon",
+			"concealedunguis",
+			"crystallinecystdust",
+			"crystalprism",
+			"darkstatuette",
+			"deadleylineleaves",
+			"deathlystatuette",
+			"dormantfungalnucleus",
+			"energynectar",
+			"famedhandguard",
+			"forbiddencursescroll",
+			"foreignsynapse",
+			"fossilizedboneshard",
+			"frostetchedwarrant",
+			"frostnightsglory",
+			"frostnightsglow",
+			"glowingremains",
+			"goldenraveninsignia",
+			"heartofthesecretsource",
+			"hookedbeakofthedeepshadow",
+			"ignitedseedoflife",
+			"ignitedseeingeye",
+			"illusoryleafcoil",
+			"immaculatewarrant",
+			"inspectorssacrificialknife",
+			"kageuchihandguard",
+			"leylinesprout",
+			"lieutenantsinsignia",
+			"locusofaclearwill",
+			"luminescentpollen",
+			"lunarfin",
+			"mechanicalspurgear",
+			"mistgrass",
+			"mistgrasswick",
+			"mistshroudhelmet",
+			"mistshroudplate",
+			"newborntaintedhydrophantasm",
+			"ominousmask",
+			"operativesconstancy",
+			"operativesstandardpocketwatch",
+			"polarizingprism",
+			"precisiondriveshaft",
+			"radiantexoskeleton",
+			"radiantprism",
+			"reinforceddriveshaft",
+			"richredbrocade",
+			"robustfungalnucleus",
+			"sauriancrownedwarriorsgoldenwhistle",
+			"scoopoftaintedwater",
+			"sealedscroll",
+			"seasonedfang",
+			"sergeantsinsignia",
+			"sharparrowhead",
+			"sheathofthesecretsource",
+			"shimmeringnectar",
+			"sigilofastridingwill",
+			"silverraveninsignia",
+			"slimeconcentrate",
+			"slimesecretions",
+			"spectralheart",
+			"spectralnucleus",
+			"stainedmask",
+			"sturdyboneshard",
+			"transoceanicchunk",
+			"treasuredflower",
+			"trimmedredsilk",
+			"turbidprism",
+			"tyrantsfang",
+			"wanderersbloomingflower",
+			"warmbackshell",
+			"warriorsmetalwhistle",
+			"weatheredarrowhead",
+			"xenochromaticcrystal"
+		],
+		"Расколотый глаз глубокой тьмы": [
+			"aberrantcoreofthedeepshadow"
+		],
+		"Возвышение оружия": [
+			"afterglowoflongnightflint",
+			"artfuldeviceinheritance",
+			"artfuldevicereplica",
+			"artfuldevicewish",
+			"aureateradianceofthefarnorthscions",
+			"bitofaerosiderite",
+			"blazeoflongnightflint",
+			"blazingsacrificialheartshesitance",
+			"blazingsacrificialheartsresolve",
+			"blazingsacrificialheartssplendor",
+			"borealwolfsbrokenfang",
+			"borealwolfscrackedtooth",
+			"borealwolfsnostalgia",
+			"chainsofthedandeliongladiator",
+			"chapterofanancientchord",
+			"chunkofaerosiderite",
+			"debrisofdecarabianscity",
+			"deliriousdemeanorofthesacredlord",
+			"deliriousdesolationofthesacredlord",
+			"deliriousdivinityofthesacredlord",
+			"divinebodyfromguyun",
+			"dreamofscorchingmight",
+			"dreamofthedandeliongladiator",
+			"echoofanancientchord",
+			"essenceofpuresacreddewdrop",
+			"flareoflongnightflint",
+			"fragmentofdecarabiansepic",
+			"goldenbranchofadistantsea",
+			"goldengobletofthepristinesea",
+			"goldentalismanoftheforestdew",
+			"irontalismanoftheforestdew",
+			"jadebranchofadistantsea",
+			"jeweledbranchofadistantsea",
+			"lustrousstonefromguyun",
+			"maskofthekijin",
+			"maskoftheonehorned",
+			"maskofthetigersbite",
+			"mistveiledgoldelixir",
+			"mistveiledmercuryelixir",
+			"mistveiledprimoelixir",
+			"movementofanancientchord",
+			"narukamisaffection",
+			"narukamisjoy",
+			"narukamisvalor",
+			"nightwindsmysticaugury",
+			"nightwindsmysticpremonition",
+			"nightwindsmysticrevelation",
+			"oasisgardenskindness",
+			"oasisgardensmourning",
+			"oasisgardenstruth",
+			"oblationofthefarnorthscions",
+			"oldendaysofscorchingmight",
+			"pieceofaerosiderite",
+			"relicfromguyun",
+			"remnantglowofscorchingmight",
+			"scatteredpieceofdecarabiansdream",
+			"shacklesofthedandeliongladiator",
+			"silvergobletofthepristinesea",
+			"silvertalismanoftheforestdew",
+			"springofpuresacreddewdrop",
+			"sublimationofpuresacreddewdrop",
+			"unyieldingdelusionofthefarnorthscions",
+			"winegobletofthepristinesea"
+		],
+		"Искра кремня долгой ночи": [
+			"afterglowoflongnightflint"
+		],
+		"Церемониальный нож охотника": [
+			"agentssacrificialknife"
+		],
+		"Возвышение персонажей": [
+			"agnidusagatechunk",
+			"agnidusagatefragment",
+			"agnidusagategemstone",
+			"prithivatopazchunk",
+			"prithivatopazfragment",
+			"prithivatopazgemstone",
+			"shivadajadechunk",
+			"shivadajadefragment",
+			"shivadajadegemstone",
+			"vajradaamethystchunk",
+			"vajradaamethystfragment",
+			"vajradaamethystgemstone",
+			"varunadalazuritechunk",
+			"varunadalazuritefragment",
+			"varunadalazuritegemstone",
+			"vayudaturquoisechunk",
+			"vayudaturquoisefragment",
+			"vayudaturquoisegemstone"
+		],
+		"Фрагмент агата Агнидус": [
+			"agnidusagatechunk"
+		],
+		"Осколок агата Агнидус": [
+			"agnidusagatefragment"
+		],
+		"Кусок агата Агнидус": [
+			"agnidusagategemstone"
+		],
+		"Иноземный обломок": [
+			"alienlifecore"
+		],
+		"Расходный предмет": [
+			"anemoculusresonancestone",
+			"condensedresin",
+			"dendroculusresonancestone",
+			"electroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Семена одуванчика": [
+			"anemoculusresonancestone",
+			"gushingessentialoil",
+			"windbarrierpotion"
+		],
+		"Сесилия": [
+			"anemoculusresonancestone"
+		],
+		"Обломок кристалла": [
+			"anemoculusresonancestone",
+			"dendroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Образец чудесного устройства": [
+			"artfuldeviceinheritance"
+		],
+		"Фрагмент чудесного устройства": [
+			"artfuldevicereplica"
+		],
+		"Наследие чудесного устройства": [
+			"artfuldevicewish"
+		],
+		"Шестерня механизма": [
+			"artificeddynamicgear"
+		],
+		"Подношение последователей крайнего севера": [
+			"aureateradianceofthefarnorthscions"
+		],
+		"Наживка": [
+			"berrybait",
+			"emberglowbait",
+			"fakeflybait",
+			"falsewormbait",
+			"flashingmaintenancemekbait",
+			"fruitpastebait",
+			"redrotbait",
+			"refreshinglakkabait",
+			"sourbait",
+			"spinelgrainbait",
+			"sugardewbait"
+		],
+		"Летника": [
+			"berrybait"
+		],
+		"Мука": [
+			"berrybait"
+		],
+		"Преломляющий бутон": [
+			"bewilderingbroadleaf"
+		],
+		"Кусочек чёрного сидерита": [
+			"bitofaerosiderite"
+		],
+		"Тяжёлый рог": [
+			"blackbronzehorn"
+		],
+		"Чёрный бронзовый рог": [
+			"blackcrystalhorn"
+		],
+		"Вспышка кремня долгой ночи": [
+			"blazeoflongnightflint"
+		],
+		"Тёплый панцирь": [
+			"blazingprismshell"
+		],
+		"Ужас пылающего жертвенного сердца": [
+			"blazingsacrificialheartshesitance"
+		],
+		"Сомнение пылающего жертвенного сердца": [
+			"blazingsacrificialheartsresolve"
+		],
+		"Решимость пылающего жертвенного сердца": [
+			"blazingsacrificialheartssplendor"
+		],
+		"Изготовление предмета декора": [
+			"bluedye",
+			"fabric",
+			"reddye",
+			"yellowdye"
+		],
+		"Мята": [
+			"bluedye",
+			"mintessentialoil",
+			"refreshinglakkabait"
+		],
+		"Волчий крюк": [
+			"bluedye"
+		],
+		"Светящийся гриб": [
+			"bluedye"
+		],
+		"Тидалья": [
+			"bluedye",
+			"purewater"
+		],
+		"Ягода квенепа": [
+			"bluedye",
+			"pyroculusresonancestone"
+		],
+		"Треснувший зуб арктического волка": [
+			"borealwolfsbrokenfang"
+		],
+		"Молочный зуб арктического волка": [
+			"borealwolfscrackedtooth"
+		],
+		"Сломанный клык арктического волка": [
+			"borealwolfsnostalgia"
+		],
+		"Кандалы львиного клыка": [
+			"chainsofthedandeliongladiator"
+		],
+		"Механизм хаоса": [
+			"chaosaxis"
+		],
+		"Модуль хаоса": [
+			"chaosbolt"
+		],
+		"Устройство хаоса": [
+			"chaoscircuit"
+		],
+		"Цепь хаоса": [
+			"chaoscore"
+		],
+		"Сосуд хаоса": [
+			"chaosmodule"
+		],
+		"Ось хаоса": [
+			"chaosoculus"
+		],
+		"Фрагмент отзвука древней струны": [
+			"chapterofanancientchord"
+		],
+		"Лунный плавник": [
+			"chasmlightfin"
+		],
+		"Осколок чёрного сидерита": [
+			"chunkofaerosiderite"
+		],
+		"Скрытый заточенный коготь": [
+			"concealedtalon"
+		],
+		"Скрытый коготь": [
+			"concealedunguis"
+		],
+		"Кристальное ядро": [
+			"condensedresin",
+			"dendrocidepotion",
+			"frostshieldpotion",
+			"windbarrierpotion"
+		],
+		"Первородная смола": [
+			"condensedresin"
+		],
+		"Светящаяся пыльца": [
+			"crystallinecystdust"
+		],
+		"Тёмная призма": [
+			"crystalprism"
+		],
+		"Мрачная статуэтка": [
+			"darkstatuette"
+		],
+		"Ветви артерий земли": [
+			"deadleylineleaves"
+		],
+		"Тёмная статуэтка": [
+			"deathlystatuette"
+		],
+		"Плитка башни Декарабиана": [
+			"debrisofdecarabianscity"
+		],
+		"Безумное опустошение Святого Мудреца": [
+			"deliriousdemeanorofthesacredlord"
+		],
+		"Безумный декаданс Святого Мудреца": [
+			"deliriousdesolationofthesacredlord"
+		],
+		"Безумный облик Святого Мудреца": [
+			"deliriousdivinityofthesacredlord"
+		],
+		"Зелье": [
+			"dendrocidepotion",
+			"desiccantpotion",
+			"dustproofpotion",
+			"flamingessentialoil",
+			"forestessentialoil",
+			"frostingessentialoil",
+			"frostshieldpotion",
+			"gushingessentialoil",
+			"heatshieldpotion",
+			"insulationpotion",
+			"shockingessentialoil",
+			"streamingessentialoil",
+			"unmovingessentialoil",
+			"windbarrierpotion"
+		],
+		"Сумерская роза": [
+			"dendrocidepotion",
+			"forestessentialoil",
+			"namelesstaboomedicineoftheroyalcourt",
+			"sugardewbait"
+		],
+		"Лотос нилотпала": [
+			"dendroculusresonancestone"
+		],
+		"Грибы руккхашава": [
+			"dendroculusresonancestone"
+		],
+		"Крылья бабочки": [
+			"desiccantpotion",
+			"dustproofpotion",
+			"heatshieldpotion",
+			"insulationpotion"
+		],
+		"Чашечка лотоса": [
+			"desiccantpotion",
+			"streamingessentialoil"
+		],
+		"Реликвия Гуюнь": [
+			"divinebodyfromguyun"
+		],
+		"Неактивное ядро плесенника": [
+			"dormantfungalnucleus"
+		],
+		"Отсветы пылающей мощи": [
+			"dreamofscorchingmight"
+		],
+		"Оковы львиного клыка": [
+			"dreamofthedandeliongladiator"
+		],
+		"Кор ляпис": [
+			"dustproofpotion",
+			"geoculusresonancestone",
+			"specialunmovingessentialoil",
+			"unmovingessentialoil",
+			"yellowdye"
+		],
+		"Песнь отзвука древней струны": [
+			"echoofanancientchord"
+		],
+		"Трава наку": [
+			"electroculusresonancestone"
+		],
+		"Цвет сакуры": [
+			"electroculusresonancestone",
+			"fakeflybait"
+		],
+		"Кусок аметиста": [
+			"electroculusresonancestone"
+		],
+		"Пепельник": [
+			"emberglowbait",
+			"reddye"
+		],
+		"Пшеница": [
+			"emberglowbait",
+			"fruitpastebait",
+			"purewater",
+			"sourbait"
+		],
+		"Мерцающий нектар": [
+			"energynectar"
+		],
+		"Источник чистой капли росы": [
+			"essenceofpuresacreddewdrop"
+		],
+		"Шелковица": [
+			"fabric"
+		],
+		"Конский хвост": [
+			"fakeflybait"
+		],
+		"Слизь слайма": [
+			"falsewormbait",
+			"slimesecretions"
+		],
+		"Ягода": [
+			"falsewormbait",
+			"yellowdye"
+		],
+		"Гарда кагэути": [
+			"famedhandguard"
+		],
+		"«Тоскующая фортуна»": [
+			"fatesyearningessentialoil"
+		],
+		"Лягушка": [
+			"flamingessentialoil",
+			"shockingessentialoil",
+			"specialunmovingessentialoil",
+			"straightshooter",
+			"streamingessentialoil",
+			"unmovingessentialoil"
+		],
+		"Пылающий цветок (тычинка)": [
+			"flamingessentialoil",
+			"floatysplody",
+			"heatshieldpotion",
+			"hotpod",
+			"straightshooter"
+		],
+		"Отблеск кремня долгой ночи": [
+			"flareoflongnightflint"
+		],
+		"Маркот": [
+			"flashingmaintenancemekbait",
+			"yellowdye"
+		],
+		"Обломок железа": [
+			"flashingmaintenancemekbait"
+		],
+		"Светящееся брюшко": [
+			"floatysplody",
+			"portablewaypoint"
+		],
+		"Свиток печати": [
+			"forbiddencursescroll"
+		],
+		"Ядро расщелины": [
+			"foreignsynapse"
+		],
+		"Хвост ящерицы": [
+			"forestessentialoil",
+			"frostingessentialoil",
+			"gushingessentialoil",
+			"hotpod"
+		],
+		"Крепкие останки": [
+			"fossilizedboneshard"
+		],
+		"Обломок стены Декарабиана": [
+			"fragmentofdecarabiansepic"
+		],
+		"Безупречный мандат": [
+			"frostetchedwarrant"
+		],
+		"Туманный цветок (венчик)": [
+			"frostingessentialoil",
+			"frostshieldpotion"
+		],
+		"Сияние морозной ночи": [
+			"frostnightsglory"
+		],
+		"Мерцание морозной ночи": [
+			"frostnightsglow"
+		],
+		"Закатник": [
+			"fruitpastebait",
+			"reddye"
+		],
+		"Глазурная лилия": [
+			"geoculusresonancestone"
+		],
+		"Потускневшая кость": [
+			"glowingremains"
+		],
+		"Нефритовая ветвь внешних морей": [
+			"goldenbranchofadistantsea"
+		],
+		"Серебряный кубок непорочного моря": [
+			"goldengobletofthepristinesea"
+		],
+		"«Золотая мадам»": [
+			"goldenhousemaidenessentialoil"
+		],
+		"Печать серебряного ворона": [
+			"goldenraveninsignia"
+		],
+		"Серебряный амулет лесной росы": [
+			"goldentalismanoftheforestdew"
+		],
+		"Таланты персонажей": [
+			"guidetoadmonition",
+			"guidetoballad",
+			"guidetoconflict",
+			"guidetocontention",
+			"guidetodiligence",
+			"guidetoelegance",
+			"guidetoelysium",
+			"guidetoequity",
+			"guidetofreedom",
+			"guidetogold",
+			"guidetoingenuity",
+			"guidetojustice",
+			"guidetokindling",
+			"guidetolight",
+			"guidetomoonlight",
+			"guidetoorder",
+			"guidetopraxis",
+			"guidetoprosperity",
+			"guidetoresistance",
+			"guidetotransience",
+			"guidetovagrancy",
+			"philosophiesofadmonition",
+			"philosophiesofballad",
+			"philosophiesofconflict",
+			"philosophiesofcontention",
+			"philosophiesofdiligence",
+			"philosophiesofelegance",
+			"philosophiesofelysium",
+			"philosophiesofequity",
+			"philosophiesoffreedom",
+			"philosophiesofgold",
+			"philosophiesofingenuity",
+			"philosophiesofjustice",
+			"philosophiesofkindling",
+			"philosophiesoflight",
+			"philosophiesofmoonlight",
+			"philosophiesoforder",
+			"philosophiesofpraxis",
+			"philosophiesofprosperity",
+			"philosophiesofresistance",
+			"philosophiesoftransience",
+			"philosophiesofvagrancy"
+		],
+		"Учения о «Наставлениях»": [
+			"guidetoadmonition"
+		],
+		"Учения о «Поэзии»": [
+			"guidetoballad"
+		],
+		"Учения о «Раздоре»": [
+			"guidetoconflict"
+		],
+		"Учения о «Соперничестве»": [
+			"guidetocontention"
+		],
+		"Учения об «Усердии»": [
+			"guidetodiligence"
+		],
+		"Учения об «Изяществе»": [
+			"guidetoelegance"
+		],
+		"Учения о «Рае»": [
+			"guidetoelysium"
+		],
+		"Учения о «Беспристрастии»": [
+			"guidetoequity"
+		],
+		"Учения о «Свободе»": [
+			"guidetofreedom"
+		],
+		"Учения о «Золоте»": [
+			"guidetogold"
+		],
+		"Учения об «Остроумии»": [
+			"guidetoingenuity"
+		],
+		"Учения о «Справедливости»": [
+			"guidetojustice"
+		],
+		"Учения о «Сжигании»": [
+			"guidetokindling"
+		],
+		"Учения о «Свете»": [
+			"guidetolight"
+		],
+		"Учения о «Лунном свете»": [
+			"guidetomoonlight"
+		],
+		"Учения о «Порядке»": [
+			"guidetoorder"
+		],
+		"Учения о «Честности»": [
+			"guidetopraxis"
+		],
+		"Учения о «Процветании»": [
+			"guidetoprosperity"
+		],
+		"Учения о «Борьбе»": [
+			"guidetoresistance"
+		],
+		"Учения о «Бренности»": [
+			"guidetotransience"
+		],
+		"Учения о «Скитании»": [
+			"guidetovagrancy"
+		],
+		"Оболочка таинственного источника": [
+			"heartofthesecretsource"
+		],
+		"Аномальное ядро глубокой тьмы": [
+			"hookedbeakofthedeepshadow"
+		],
+		"Ромарин": [
+			"hydroculusresonancestone"
+		],
+		"Радужная роза": [
+			"hydroculusresonancestone"
+		],
+		"Пламенный камень": [
+			"ignitedseedoflife"
+		],
+		"Пламенное семя жизни": [
+			"ignitedseeingeye"
+		],
+		"Ошеломляющий широколист": [
+			"illusoryleafcoil"
+		],
+		"Потрёпанный мандат": [
+			"immaculatewarrant"
+		],
+		"Церемониальный нож агента": [
+			"inspectorssacrificialknife"
+		],
+		"Электро кристалл": [
+			"insulationpotion",
+			"shockingessentialoil"
+		],
+		"Медный амулет лесной росы": [
+			"irontalismanoftheforestdew"
+		],
+		"Драгоценная ветвь внешних морей": [
+			"jadebranchofadistantsea"
+		],
+		"Коралловая ветвь внешних морей": [
+			"jeweledbranchofadistantsea"
+		],
+		"Старая гарда": [
+			"kageuchihandguard"
+		],
+		"Листья артерий земли": [
+			"leylinesprout",
+			"portablewaypoint"
+		],
+		"Шеврон сержанта": [
+			"lieutenantsinsignia"
+		],
+		"Осколок разбитой воли": [
+			"locusofaclearwill"
+		],
+		"Споры плесенника": [
+			"luminescentpollen"
+		],
+		"Перьевой плавник": [
+			"lunarfin"
+		],
+		"Светящийся песок Гуюнь": [
+			"lustrousstonefromguyun"
+		],
+		"Материал улучшения персонажей/оружия": [
+			"markedshell",
+			"splinteredhilt",
+			"stillsmolderinghilt",
+			"sturdyshell"
+		],
+		"Прочная оболочка": [
+			"markedshell"
+		],
+		"Маска однорогого": [
+			"maskofthekijin"
+		],
+		"Маска тигриной пасти": [
+			"maskoftheonehorned"
+		],
+		"Маска злого военачальника": [
+			"maskofthetigersbite"
+		],
+		"Сцепляющаяся шестерня": [
+			"mechanicalspurgear"
+		],
+		"Пыльца туманной травы": [
+			"mistgrass"
+		],
+		"Мешочек с туманной травой": [
+			"mistgrasswick"
+		],
+		"Туманная пластина": [
+			"mistshroudhelmet"
+		],
+		"Туманное воплощение": [
+			"mistshroudplate"
+		],
+		"Ртутная пилюля Заоблачного моря": [
+			"mistveiledgoldelixir"
+		],
+		"Свинцовая пилюля Заоблачного моря": [
+			"mistveiledmercuryelixir"
+		],
+		"Золотая пилюля Заоблачного моря": [
+			"mistveiledprimoelixir"
+		],
+		"Незаконченный отзвук древней струны": [
+			"movementofanancientchord"
+		],
+		"Возвышение персонажа": [
+			"nagadusemeraldchunk",
+			"nagadusemeraldfragment",
+			"nagadusemeraldgemstone"
+		],
+		"Фрагмент изумруда Нагадус": [
+			"nagadusemeraldchunk"
+		],
+		"Осколок изумруда Нагадус": [
+			"nagadusemeraldfragment"
+		],
+		"Кусок изумруда Нагадус": [
+			"nagadusemeraldgemstone"
+		],
+		"Необычный гриб": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Лотос кальпалата": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Радость Наруками": [
+			"narukamisaffection"
+		],
+		"Мудрость Наруками": [
+			"narukamisjoy"
+		],
+		"Милость Наруками": [
+			"narukamisvalor"
+		],
+		"Мутная лужица": [
+			"newborntaintedhydrophantasm"
+		],
+		"Загадочные предчувствия ночного ветра": [
+			"nightwindsmysticaugury"
+		],
+		"Загадочные размышления ночного ветра": [
+			"nightwindsmysticpremonition"
+		],
+		"Загадочные предзнаменования ночного ветра": [
+			"nightwindsmysticrevelation"
+		],
+		"Воспоминания цветущего оазиса": [
+			"oasisgardenskindness"
+		],
+		"Милость цветущего оазиса": [
+			"oasisgardensmourning"
+		],
+		"Печаль цветущего оазиса": [
+			"oasisgardenstruth"
+		],
+		"Упрямое заблуждение последователей крайнего севера": [
+			"oblationofthefarnorthscions"
+		],
+		"Грёзы пылающей мощи": [
+			"oldendaysofscorchingmight"
+		],
+		"Грязная маска": [
+			"ominousmask"
+		],
+		"Штатные карманные часы сенешаля": [
+			"operativesconstancy"
+		],
+		"Старые карманные часы сенешаля": [
+			"operativesstandardpocketwatch"
+		],
+		"Указания о «Наставлениях»": [
+			"philosophiesofadmonition"
+		],
+		"Указания о «Поэзии»": [
+			"philosophiesofballad"
+		],
+		"Указания о «Раздоре»": [
+			"philosophiesofconflict"
+		],
+		"Указания о «Соперничестве»": [
+			"philosophiesofcontention"
+		],
+		"Указания об «Усердии»": [
+			"philosophiesofdiligence"
+		],
+		"Указания об «Изяществе»": [
+			"philosophiesofelegance"
+		],
+		"Указания о «Рае»": [
+			"philosophiesofelysium"
+		],
+		"Указания о «Беспристрастии»": [
+			"philosophiesofequity"
+		],
+		"Указания о «Свободе»": [
+			"philosophiesoffreedom"
+		],
+		"Указания о «Золоте»": [
+			"philosophiesofgold"
+		],
+		"Указания об «Остроумии»": [
+			"philosophiesofingenuity"
+		],
+		"Указания о «Справедливости»": [
+			"philosophiesofjustice"
+		],
+		"Указания о «Сжигании»": [
+			"philosophiesofkindling"
+		],
+		"Указания о «Свете»": [
+			"philosophiesoflight"
+		],
+		"Указания о «Лунном свете»": [
+			"philosophiesofmoonlight"
+		],
+		"Указания о «Порядке»": [
+			"philosophiesoforder"
+		],
+		"Указания о «Честности»": [
+			"philosophiesofpraxis"
+		],
+		"Указания о «Процветании»": [
+			"philosophiesofprosperity"
+		],
+		"Указания о «Борьбе»": [
+			"philosophiesofresistance"
+		],
+		"Указания о «Бренности»": [
+			"philosophiesoftransience"
+		],
+		"Указания о «Скитании»": [
+			"philosophiesofvagrancy"
+		],
+		"Зерно чёрного сидерита": [
+			"pieceofaerosiderite"
+		],
+		"Кристальная призма": [
+			"polarizingprism"
+		],
+		"Усиленный вал": [
+			"precisiondriveshaft"
+		],
+		"Фрагмент топаза Притхива": [
+			"prithivatopazchunk"
+		],
+		"Осколок топаза Притхива": [
+			"prithivatopazfragment"
+		],
+		"Кусок топаза Притхива": [
+			"prithivatopazgemstone"
+		],
+		"Еда": [
+			"purewater",
+			"strengthtonic"
+		],
+		"Сосновая шишка": [
+			"purewater"
+		],
+		"Морское перо": [
+			"pyroculusresonancestone"
+		],
+		"Светящиеся останки": [
+			"radiantexoskeleton"
+		],
+		"Загрязнённая призма": [
+			"radiantprism"
+		],
+		"Морковь": [
+			"reddye"
+		],
+		"Валяшка": [
+			"reddye"
+		],
+		"Персик зайтун": [
+			"reddye"
+		],
+		"Кровоцвет": [
+			"redrotbait"
+		],
+		"Мясо птицы": [
+			"redrotbait"
+		],
+		"Ягоды лакка": [
+			"refreshinglakkabait"
+		],
+		"Сломанный вал": [
+			"reinforceddriveshaft"
+		],
+		"Блестящий камень Гуюнь": [
+			"relicfromguyun"
+		],
+		"Эхо пылающей мощи": [
+			"remnantglowofscorchingmight"
+		],
+		"Окаймлённый красный шёлк": [
+			"richredbrocade"
+		],
+		"Спящее ядро плесенника": [
+			"robustfungalnucleus"
+		],
+		"Металлический свисток воина": [
+			"sauriancrownedwarriorsgoldenwhistle"
+		],
+		"Фрагмент эпоса Декарабиана": [
+			"scatteredpieceofdecarabiansdream"
+		],
+		"Мутная капля": [
+			"scoopoftaintedwater"
+		],
+		"Свиток божественной магии": [
+			"sealedscroll"
+		],
+		"Молодой клык": [
+			"seasonedfang"
+		],
+		"Шеврон рядового": [
+			"sergeantsinsignia"
+		],
+		"Цепи львиного клыка": [
+			"shacklesofthedandeliongladiator"
+		],
+		"Прочный наконечник стрелы": [
+			"sharparrowhead"
+		],
+		"Ось таинственного источника": [
+			"sheathofthesecretsource"
+		],
+		"Нектар попрыгуньи": [
+			"shimmeringnectar"
+		],
+		"Фрагмент нефрита Шивада": [
+			"shivadajadechunk"
+		],
+		"Осколок нефрита Шивада": [
+			"shivadajadefragment"
+		],
+		"Кусок нефрита Шивада": [
+			"shivadajadegemstone"
+		],
+		"Образ ясной воли": [
+			"sigilofastridingwill"
+		],
+		"Чаша непорочного моря": [
+			"silvergobletofthepristinesea"
+		],
+		"Печать Похитителей сокровищ": [
+			"silverraveninsignia"
+		],
+		"Железный амулет лесной росы": [
+			"silvertalismanoftheforestdew"
+		],
+		"Выделения слайма": [
+			"slimeconcentrate"
+		],
+		"Пузырин": [
+			"sourbait"
+		],
+		"Призрачная оболочка": [
+			"spectralheart"
+		],
+		"Призрачное сердце": [
+			"spectralnucleus"
+		],
+		"Корундин": [
+			"spinelgrainbait"
+		],
+		"Злакофрукт": [
+			"spinelgrainbait"
+		],
+		"Сломанный эфес": [
+			"splinteredhilt"
+		],
+		"Конденсат чистой капли росы": [
+			"springofpuresacreddewdrop"
+		],
+		"Разбитая маска": [
+			"stainedmask"
+		],
+		"Расщеплённый эфес": [
+			"stillsmolderinghilt"
+		],
+		"Свечевик": [
+			"strengthtonic"
+		],
+		"Лапа завриана": [
+			"strengthtonic"
+		],
+		"Хрупкие останки": [
+			"sturdyboneshard"
+		],
+		"Опустошённая оболочка": [
+			"sturdyshell"
+		],
+		"Осадок чистой капли росы": [
+			"sublimationofpuresacreddewdrop"
+		],
+		"Фрукт харра": [
+			"sugardewbait"
+		],
+		"Жемчужина иноморья": [
+			"transoceanicchunk"
+		],
+		"Нераспустившийся цветок": [
+			"treasuredflower"
+		],
+		"Выцветший красный шёлк": [
+			"trimmedredsilk"
+		],
+		"Сломанная призма": [
+			"turbidprism"
+		],
+		"Клык взрослого": [
+			"tyrantsfang"
+		],
+		"Растоптанная слава последователей крайнего севера": [
+			"unyieldingdelusionofthefarnorthscions"
+		],
+		"Фрагмент аметиста Ваджрада": [
+			"vajradaamethystchunk"
+		],
+		"Осколок аметиста Ваджрада": [
+			"vajradaamethystfragment"
+		],
+		"Кусок аметиста Ваджрада": [
+			"vajradaamethystgemstone"
+		],
+		"«Горная ткачиха»": [
+			"valleyweaveressentialoil"
+		],
+		"Фрагмент лазурита Варунада": [
+			"varunadalazuritechunk"
+		],
+		"Осколок лазурита Варунада": [
+			"varunadalazuritefragment"
+		],
+		"Кусок лазурита Варунада": [
+			"varunadalazuritegemstone"
+		],
+		"Фрагмент бирюзы Вайюда": [
+			"vayudaturquoisechunk"
+		],
+		"Осколок бирюзы Вайюда": [
+			"vayudaturquoisefragment"
+		],
+		"Кусок бирюзы Вайюда": [
+			"vayudaturquoisegemstone"
+		],
+		"Заветный цветок": [
+			"wanderersbloomingflower"
+		],
+		"Холодный осколок панциря": [
+			"warmbackshell"
+		],
+		"Деревянный свисток дозорного": [
+			"warriorsmetalwhistle"
+		],
+		"Острый наконечник стрелы": [
+			"weatheredarrowhead"
+		],
+		"Разбитая чаша непорочного моря": [
+			"winegobletofthepristinesea"
+		],
+		"Обломок из иноморья": [
+			"xenochromaticcrystal"
+		],
+		"Волокно для фонарей": [
+			"xiaolantern"
+		],
+		"Пух для фитиля": [
+			"xiaolantern"
+		],
+		"Осколок плаустрита": [
+			"xiaolantern"
+		]
+	},
+	"properties": {
+		"filterText": [
+			"Улучшение персонажей/оружия",
+			"Возвышение оружия",
+			"Возвышение персонажей",
+			"Расходный предмет",
+			"Наживка",
+			"Изготовление предмета декора",
+			"Зелье",
+			"Таланты персонажей",
+			"Материал улучшения персонажей/оружия",
+			"Возвышение персонажа",
+			"Еда"
+		],
+		"recipe": [
+			"Расколотый глаз глубокой тьмы",
+			"Искра кремня долгой ночи",
+			"Церемониальный нож охотника",
+			"Фрагмент агата Агнидус",
+			"Осколок агата Агнидус",
+			"Кусок агата Агнидус",
+			"Иноземный обломок",
+			"Семена одуванчика",
+			"Сесилия",
+			"Обломок кристалла",
+			"Образец чудесного устройства",
+			"Фрагмент чудесного устройства",
+			"Наследие чудесного устройства",
+			"Шестерня механизма",
+			"Подношение последователей крайнего севера",
+			"Летника",
+			"Мука",
+			"Преломляющий бутон",
+			"Кусочек чёрного сидерита",
+			"Тяжёлый рог",
+			"Чёрный бронзовый рог",
+			"Вспышка кремня долгой ночи",
+			"Тёплый панцирь",
+			"Ужас пылающего жертвенного сердца",
+			"Сомнение пылающего жертвенного сердца",
+			"Решимость пылающего жертвенного сердца",
+			"Мята",
+			"Треснувший зуб арктического волка",
+			"Молочный зуб арктического волка",
+			"Сломанный клык арктического волка",
+			"Кандалы львиного клыка",
+			"Механизм хаоса",
+			"Модуль хаоса",
+			"Устройство хаоса",
+			"Цепь хаоса",
+			"Сосуд хаоса",
+			"Ось хаоса",
+			"Фрагмент отзвука древней струны",
+			"Лунный плавник",
+			"Осколок чёрного сидерита",
+			"Скрытый заточенный коготь",
+			"Скрытый коготь",
+			"Кристальное ядро",
+			"Первородная смола",
+			"Светящаяся пыльца",
+			"Тёмная призма",
+			"Мрачная статуэтка",
+			"Ветви артерий земли",
+			"Тёмная статуэтка",
+			"Плитка башни Декарабиана",
+			"Безумное опустошение Святого Мудреца",
+			"Безумный декаданс Святого Мудреца",
+			"Безумный облик Святого Мудреца",
+			"Сумерская роза",
+			"Лотос нилотпала",
+			"Грибы руккхашава",
+			"Крылья бабочки",
+			"Чашечка лотоса",
+			"Реликвия Гуюнь",
+			"Неактивное ядро плесенника",
+			"Отсветы пылающей мощи",
+			"Оковы львиного клыка",
+			"Кор ляпис",
+			"Песнь отзвука древней струны",
+			"Трава наку",
+			"Цвет сакуры",
+			"Кусок аметиста",
+			"Пепельник",
+			"Пшеница",
+			"Мерцающий нектар",
+			"Источник чистой капли росы",
+			"Шелковица",
+			"Конский хвост",
+			"Слизь слайма",
+			"Ягода",
+			"Гарда кагэути",
+			"«Тоскующая фортуна»",
+			"Лягушка",
+			"Пылающий цветок (тычинка)",
+			"Отблеск кремня долгой ночи",
+			"Маркот",
+			"Обломок железа",
+			"Светящееся брюшко",
+			"Свиток печати",
+			"Ядро расщелины",
+			"Хвост ящерицы",
+			"Крепкие останки",
+			"Обломок стены Декарабиана",
+			"Безупречный мандат",
+			"Туманный цветок (венчик)",
+			"Сияние морозной ночи",
+			"Мерцание морозной ночи",
+			"Закатник",
+			"Глазурная лилия",
+			"Потускневшая кость",
+			"Нефритовая ветвь внешних морей",
+			"Серебряный кубок непорочного моря",
+			"«Золотая мадам»",
+			"Печать серебряного ворона",
+			"Серебряный амулет лесной росы",
+			"Учения о «Наставлениях»",
+			"Учения о «Поэзии»",
+			"Учения о «Раздоре»",
+			"Учения о «Соперничестве»",
+			"Учения об «Усердии»",
+			"Учения об «Изяществе»",
+			"Учения о «Рае»",
+			"Учения о «Беспристрастии»",
+			"Учения о «Свободе»",
+			"Учения о «Золоте»",
+			"Учения об «Остроумии»",
+			"Учения о «Справедливости»",
+			"Учения о «Сжигании»",
+			"Учения о «Свете»",
+			"Учения о «Лунном свете»",
+			"Учения о «Порядке»",
+			"Учения о «Честности»",
+			"Учения о «Процветании»",
+			"Учения о «Борьбе»",
+			"Учения о «Бренности»",
+			"Учения о «Скитании»",
+			"Оболочка таинственного источника",
+			"Аномальное ядро глубокой тьмы",
+			"Ромарин",
+			"Радужная роза",
+			"Пламенный камень",
+			"Пламенное семя жизни",
+			"Ошеломляющий широколист",
+			"Потрёпанный мандат",
+			"Церемониальный нож агента",
+			"Электро кристалл",
+			"Медный амулет лесной росы",
+			"Драгоценная ветвь внешних морей",
+			"Коралловая ветвь внешних морей",
+			"Старая гарда",
+			"Листья артерий земли",
+			"Шеврон сержанта",
+			"Осколок разбитой воли",
+			"Споры плесенника",
+			"Перьевой плавник",
+			"Светящийся песок Гуюнь",
+			"Прочная оболочка",
+			"Маска однорогого",
+			"Маска тигриной пасти",
+			"Маска злого военачальника",
+			"Сцепляющаяся шестерня",
+			"Пыльца туманной травы",
+			"Мешочек с туманной травой",
+			"Туманная пластина",
+			"Туманное воплощение",
+			"Ртутная пилюля Заоблачного моря",
+			"Свинцовая пилюля Заоблачного моря",
+			"Золотая пилюля Заоблачного моря",
+			"Незаконченный отзвук древней струны",
+			"Фрагмент изумруда Нагадус",
+			"Осколок изумруда Нагадус",
+			"Кусок изумруда Нагадус",
+			"Необычный гриб",
+			"Лотос кальпалата",
+			"Радость Наруками",
+			"Мудрость Наруками",
+			"Милость Наруками",
+			"Мутная лужица",
+			"Загадочные предчувствия ночного ветра",
+			"Загадочные размышления ночного ветра",
+			"Загадочные предзнаменования ночного ветра",
+			"Воспоминания цветущего оазиса",
+			"Милость цветущего оазиса",
+			"Печаль цветущего оазиса",
+			"Упрямое заблуждение последователей крайнего севера",
+			"Грёзы пылающей мощи",
+			"Грязная маска",
+			"Штатные карманные часы сенешаля",
+			"Старые карманные часы сенешаля",
+			"Указания о «Наставлениях»",
+			"Указания о «Поэзии»",
+			"Указания о «Раздоре»",
+			"Указания о «Соперничестве»",
+			"Указания об «Усердии»",
+			"Указания об «Изяществе»",
+			"Указания о «Рае»",
+			"Указания о «Беспристрастии»",
+			"Указания о «Свободе»",
+			"Указания о «Золоте»",
+			"Указания об «Остроумии»",
+			"Указания о «Справедливости»",
+			"Указания о «Сжигании»",
+			"Указания о «Свете»",
+			"Указания о «Лунном свете»",
+			"Указания о «Порядке»",
+			"Указания о «Честности»",
+			"Указания о «Процветании»",
+			"Указания о «Борьбе»",
+			"Указания о «Бренности»",
+			"Указания о «Скитании»",
+			"Зерно чёрного сидерита",
+			"Кристальная призма",
+			"Усиленный вал",
+			"Фрагмент топаза Притхива",
+			"Осколок топаза Притхива",
+			"Кусок топаза Притхива",
+			"Сосновая шишка",
+			"Тидалья",
+			"Ягода квенепа",
+			"Морское перо",
+			"Светящиеся останки",
+			"Загрязнённая призма",
+			"Кровоцвет",
+			"Мясо птицы",
+			"Ягоды лакка",
+			"Сломанный вал",
+			"Блестящий камень Гуюнь",
+			"Эхо пылающей мощи",
+			"Окаймлённый красный шёлк",
+			"Спящее ядро плесенника",
+			"Металлический свисток воина",
+			"Фрагмент эпоса Декарабиана",
+			"Мутная капля",
+			"Свиток божественной магии",
+			"Молодой клык",
+			"Шеврон рядового",
+			"Цепи львиного клыка",
+			"Прочный наконечник стрелы",
+			"Ось таинственного источника",
+			"Нектар попрыгуньи",
+			"Фрагмент нефрита Шивада",
+			"Осколок нефрита Шивада",
+			"Кусок нефрита Шивада",
+			"Образ ясной воли",
+			"Чаша непорочного моря",
+			"Печать Похитителей сокровищ",
+			"Железный амулет лесной росы",
+			"Выделения слайма",
+			"Пузырин",
+			"Призрачная оболочка",
+			"Призрачное сердце",
+			"Корундин",
+			"Злакофрукт",
+			"Сломанный эфес",
+			"Конденсат чистой капли росы",
+			"Разбитая маска",
+			"Расщеплённый эфес",
+			"Свечевик",
+			"Лапа завриана",
+			"Хрупкие останки",
+			"Опустошённая оболочка",
+			"Осадок чистой капли росы",
+			"Фрукт харра",
+			"Жемчужина иноморья",
+			"Нераспустившийся цветок",
+			"Выцветший красный шёлк",
+			"Сломанная призма",
+			"Клык взрослого",
+			"Растоптанная слава последователей крайнего севера",
+			"Фрагмент аметиста Ваджрада",
+			"Осколок аметиста Ваджрада",
+			"Кусок аметиста Ваджрада",
+			"«Горная ткачиха»",
+			"Фрагмент лазурита Варунада",
+			"Осколок лазурита Варунада",
+			"Кусок лазурита Варунада",
+			"Фрагмент бирюзы Вайюда",
+			"Осколок бирюзы Вайюда",
+			"Кусок бирюзы Вайюда",
+			"Заветный цветок",
+			"Холодный осколок панциря",
+			"Деревянный свисток дозорного",
+			"Острый наконечник стрелы",
+			"Разбитая чаша непорочного моря",
+			"Обломок из иноморья",
+			"Волокно для фонарей",
+			"Пух для фитиля",
+			"Осколок плаустрита"
+		],
+		"altrecipes": [
+			"Волчий крюк",
+			"Светящийся гриб",
+			"Тидалья",
+			"Ягода квенепа",
+			"Морковь",
+			"Валяшка",
+			"Персик зайтун",
+			"Пепельник",
+			"Кор ляпис",
+			"Маркот"
+		]
+	}
+}

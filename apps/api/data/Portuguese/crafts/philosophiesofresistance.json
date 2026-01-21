@@ -1,0 +1,16 @@
+{
+	"id": 13004,
+	"name": "Filosofia de Resistência",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120009,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104305,
+			"name": "Guia de Resistência",
+			"count": 3
+		}
+	]
+}

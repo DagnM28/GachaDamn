@@ -1,0 +1,21 @@
+{
+	"id": 22033,
+	"name": "Fruit Paste Bait",
+	"filterText": "Bait",
+	"sortOrder": 160000,
+	"unlockRank": 28,
+	"resultCount": 10,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 100002,
+			"name": "Sunsettia",
+			"count": 1
+		},
+		{
+			"id": 100017,
+			"name": "Wheat",
+			"count": 1
+		}
+	]
+}

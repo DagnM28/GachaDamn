@@ -1,0 +1,21 @@
+{
+	"id": [
+		81463
+	],
+	"name": "Subindo o Bishui",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1447,
+	"stages": 1,
+	"stage1": {
+		"title": "Subindo o Bishui",
+		"description": "Descubra sobre a beleza do Rio Bishui de canções de barco.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

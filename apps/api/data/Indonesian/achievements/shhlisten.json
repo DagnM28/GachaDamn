@@ -1,0 +1,21 @@
+{
+	"id": [
+		84151
+	],
+	"name": "Ssst ... Dengar!",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ingatan Hati",
+	"isHidden": true,
+	"sortOrder": 7711,
+	"stages": 1,
+	"stage1": {
+		"title": "Ssst ... Dengar!",
+		"description": "Dengarkan suara yang berasal dari ruang tahanan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"id": 104303,
+	"name": "Philosophies of Freedom",
+	"rarity": 4,
+	"sortRank": 13101,
+	"description": "Material Penguatan Talenta.\nKebebasan adalah gairah Kerajaan Angin.\nKebebasan bernyanyi adalah salah satunya, kebebasan untuk mengungkapkan isi hatimu dengan nyanyian angin.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4213,
+	"dropDomainName": "Domain of Mastery: Altar Salju",
+	"daysOfWeek": [
+		"Senin",
+		"Kamis",
+		"Minggu"
+	],
+	"sources": [
+		"Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": [
+		81121
+	],
+	"name": "Второе цветение",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1117,
+	"stages": 1,
+	"stage1": {
+		"title": "Второе цветение",
+		"ps5title": "Инадзума - Второе цветение",
+		"description": "Получите подарок Ханаямы Каору.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

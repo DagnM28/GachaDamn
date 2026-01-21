@@ -1,0 +1,20 @@
+{
+	"id": [
+		80004
+	],
+	"name": "Tombak Dewa yang Mencela Langit",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Penderitaan Fana: Seri I",
+	"sortOrder": 4,
+	"stages": 1,
+	"stage1": {
+		"title": "Tombak Dewa yang Mencela Langit",
+		"description": "Mengumpulkan semua jilid buku \"Legenda Tombak Dewa\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

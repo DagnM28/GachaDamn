@@ -1,0 +1,21 @@
+{
+	"id": [
+		81076
+	],
+	"name": "Славная лодка!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1077,
+	"stages": 1,
+	"stage1": {
+		"title": "Славная лодка!",
+		"description": "Обменяйтесь волноходами с другим игроком.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82177
+	],
+	"name": "Vorsicht, heiß!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2177,
+	"stages": 1,
+	"stage1": {
+		"title": "Vorsicht, heiß!",
+		"description": "Versuch fortlaufend, den Okeanospuk einzufrieren ...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

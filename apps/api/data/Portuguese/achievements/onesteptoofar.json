@@ -1,0 +1,21 @@
+{
+	"id": [
+		84561
+	],
+	"name": "Passo Maior que a Perna",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4085,
+	"stages": 1,
+	"stage1": {
+		"title": "Passo Maior que a Perna",
+		"description": "Perca acidentalmente na corrida contra Hilmi...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

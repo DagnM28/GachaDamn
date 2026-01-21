@@ -1,0 +1,16 @@
+{
+	"id": 12025,
+	"name": "Maschera del morso della tigre",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130080,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114033,
+			"name": "Maschera del tenente malvagio",
+			"count": 3
+		}
+	]
+}

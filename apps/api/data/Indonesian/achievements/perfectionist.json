@@ -1,0 +1,20 @@
+{
+	"id": [
+		84503
+	],
+	"name": "Perfeksionis",
+	"achievementGroupId": 11,
+	"achievementGroupName": "Snezhnaya Tidak Percaya Air Mata: Seri I",
+	"sortOrder": 4028,
+	"stages": 1,
+	"stage1": {
+		"title": "Perfeksionis",
+		"description": "Selesaikan semua komisi Tsarevich dengan sempurna di \"Dapat Diandalkan\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"id": 101235,
+	"name": "Campanula di Lumidouce",
+	"sortRank": 315,
+	"description": "Un fiore viola placido e immoto. La lucentezza, la morbidezza e la fragranza duratura che lo contraddistinguono l'hanno reso un ingrediente per la preparazione di profumi di lusso.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità di Fontaine",
+	"sources": [
+		"Si trova a nord della Corte di Fontaine",
+		"Coltivato nella Serenteiera",
+		"Vai a raccogliere"
+	]
+}

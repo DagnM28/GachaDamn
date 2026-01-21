@@ -1,0 +1,11 @@
+{
+	"id": 100099,
+	"name": "Fermente Meyve Suyu",
+	"sortRank": 321,
+	"description": "Kendine has bir meyve kokusu olan fermente edilmiş bir meyve suyu. Genelde marinasyon için kullanılır.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"Fontaine'deki gıda pazarında satılır."
+	]
+}

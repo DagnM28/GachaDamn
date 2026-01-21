@@ -1,0 +1,22 @@
+{
+	"id": [
+		81256
+	],
+	"name": "雨は泥へと落ちる",
+	"achievementGroupId": 0,
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 1242,
+	"stages": 1,
+	"stage1": {
+		"title": "雨は泥へと落ちる",
+		"ps5title": "旅道·「雨は泥へと落ちる」",
+		"description": "「ヴァルナ伽陀」をクリアする。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 10
+		}
+	}
+}

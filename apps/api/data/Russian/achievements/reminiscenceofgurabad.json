@@ -1,0 +1,20 @@
+{
+	"id": [
+		80176
+	],
+	"name": "Воспоминания о Гюрабаде",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Скитания по миру III",
+	"sortOrder": 176,
+	"stages": 1,
+	"stage1": {
+		"title": "Воспоминания о Гюрабаде",
+		"description": "Соберите полную коллекцию «Истории Шируе и Сирин».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

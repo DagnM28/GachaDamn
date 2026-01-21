@@ -1,0 +1,20 @@
+{
+	"id": [
+		81133
+	],
+	"name": "Pêche au clair de lune",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guide de pêche en Teyvat - Partie I",
+	"sortOrder": 1125,
+	"stages": 1,
+	"stage1": {
+		"title": "Pêche au clair de lune",
+		"description": "Attrapez un poisson qui ne sort que la nuit pour la première fois.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

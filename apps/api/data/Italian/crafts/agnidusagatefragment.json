@@ -1,0 +1,16 @@
+{
+	"id": 15001,
+	"name": "Frammento d'agata Agnidus",
+	"filterText": "Materiale d'ascensione personaggi",
+	"sortOrder": 110000,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 300,
+	"recipe": [
+		{
+			"id": 104111,
+			"name": "Scheggia d'agata Agnidus",
+			"count": 3
+		}
+	]
+}

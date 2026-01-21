@@ -1,0 +1,20 @@
+{
+	"id": [
+		80033
+	],
+	"name": "Marcha Santa: Mondstadt",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt: A Cidade do Vento e da Poesia",
+	"sortOrder": 33,
+	"stages": 1,
+	"stage1": {
+		"title": "Marcha Santa: Mondstadt",
+		"description": "Desbloqueie todos os Santuários das Profundezas em Mondstadt.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

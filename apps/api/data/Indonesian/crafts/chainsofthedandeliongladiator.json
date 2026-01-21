@@ -1,0 +1,16 @@
+{
+	"id": 12007,
+	"name": "Chains of Dandelion Gladiator",
+	"filterText": "Material Ascension Senjata",
+	"sortOrder": 130020,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114009,
+			"name": "Fetters of the Dandelion Gladiator",
+			"count": 3
+		}
+	]
+}

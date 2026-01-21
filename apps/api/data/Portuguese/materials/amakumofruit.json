@@ -1,0 +1,12 @@
+{
+	"id": 101208,
+	"name": "Fruto Tenkumo",
+	"sortRank": 313,
+	"description": "O fruto da Grama Tenkumo que cresce na Ilha Seirai. Você pode ouvir a corrente elétrica estalando se segurar próximo ao seu ouvido.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Inazuma",
+	"sources": [
+		"Recomendação: Encontrado na Ilha Seirai",
+		"Ir para coleta"
+	]
+}

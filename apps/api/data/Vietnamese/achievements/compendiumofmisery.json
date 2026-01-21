@@ -1,0 +1,20 @@
+{
+	"id": [
+		80271
+	],
+	"name": "Trọn Bộ Bất Hạnh",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Tuần Du Trần Thế - Phần IV",
+	"sortOrder": 178,
+	"stages": 1,
+	"stage1": {
+		"title": "Trọn Bộ Bất Hạnh",
+		"description": "Thu thập đủ bộ \"Cuộc Suy Vong Của Remuria\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

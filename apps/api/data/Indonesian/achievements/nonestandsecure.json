@@ -1,0 +1,21 @@
+{
+	"id": [
+		82078
+	],
+	"name": "Bangunan Tetap Bisa Runtuh Meski Fondasinya Kuat!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2078,
+	"stages": 1,
+	"stage1": {
+		"title": "Bangunan Tetap Bisa Runtuh Meski Fondasinya Kuat!",
+		"description": "Membuat Geo Hypostasis masuk ke Status Pemulihan tanpa menyerang Basalt Column.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

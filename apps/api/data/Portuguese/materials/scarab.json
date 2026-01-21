@@ -1,0 +1,12 @@
+{
+	"id": 101225,
+	"name": "Escaravelho Dourado",
+	"sortRank": 314,
+	"description": "Um besouro tenaz que habita o vasto mar de areia do deserto. Os padrões dourados em sua carapaça parecem ter alguma conexão com as antigas ruínas espalhadas pelo deserto.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Sumeru",
+	"sources": [
+		"Encontrado nas ruínas do deserto de Sumeru",
+		"Ir para coleta"
+	]
+}

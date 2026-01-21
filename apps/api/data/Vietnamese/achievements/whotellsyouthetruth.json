@@ -1,0 +1,21 @@
+{
+	"id": [
+		84572
+	],
+	"name": "Ai Nói Ra Chân Tướng?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4096,
+	"stages": 1,
+	"stage1": {
+		"title": "Ai Nói Ra Chân Tướng?",
+		"description": "Giúp Guijarro tìm ra cảm hứng mới...?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

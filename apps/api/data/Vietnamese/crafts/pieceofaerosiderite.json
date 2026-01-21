@@ -1,0 +1,16 @@
+{
+	"id": 12016,
+	"name": "Mảnh Thiên Thạch Đen",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114021,
+			"name": "Hạt Thiên Thạch Đen",
+			"count": 3
+		}
+	]
+}

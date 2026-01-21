@@ -1,0 +1,16 @@
+{
+	"id": 12023,
+	"name": "Affetto di Narukami",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130069,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114030,
+			"name": "Gioia di Narukami",
+			"count": 3
+		}
+	]
+}

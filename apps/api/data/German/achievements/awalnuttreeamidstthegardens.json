@@ -1,0 +1,21 @@
+{
+	"id": [
+		81247
+	],
+	"name": "„Ein Walnussbaum in den Gärten ...“",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1233,
+	"stages": 1,
+	"stage1": {
+		"title": "„Ein Walnussbaum in den Gärten ...“",
+		"description": "Frag Khayyam nach der verlorenen Erinnerung.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

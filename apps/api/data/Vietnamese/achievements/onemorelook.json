@@ -1,0 +1,21 @@
+{
+	"id": [
+		84135
+	],
+	"name": "Ngắm Lại Lần Nữa!",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ký Ức Về Trái Tim",
+	"isHidden": true,
+	"sortOrder": 7210,
+	"stages": 1,
+	"stage1": {
+		"title": "Ngắm Lại Lần Nữa!",
+		"description": "Nhìn thấy Kuki Shinobu trong trang phục pháp sư.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

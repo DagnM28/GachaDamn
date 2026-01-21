@@ -1,0 +1,21 @@
+{
+	"id": [
+		81407
+	],
+	"name": "Lời Giải Narzissenkreuz - Chương Mê Cung",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1391,
+	"stages": 1,
+	"stage1": {
+		"title": "Lời Giải Narzissenkreuz - Chương Mê Cung",
+		"description": "\"Thế nào? Nghĩ sao về thế giới được vẽ ra này?\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": 22035,
+	"name": "Фальшивый червь",
+	"filterText": "Наживка",
+	"sortOrder": 160020,
+	"unlockRank": 28,
+	"resultCount": 10,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 112002,
+			"name": "Слизь слайма",
+			"count": 1
+		},
+		{
+			"id": 100051,
+			"name": "Ягода",
+			"count": 1
+		}
+	]
+}

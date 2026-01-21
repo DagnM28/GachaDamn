@@ -1,0 +1,21 @@
+{
+	"id": [
+		80002
+	],
+	"name": "Ribuan Gunung Membentang",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Penderitaan Fana: Seri I",
+	"sortOrder": 2,
+	"stages": 1,
+	"stage1": {
+		"title": "Ribuan Gunung Membentang",
+		"ps5title": "Geo: Ribuan Gunung Membentang",
+		"description": "Dapatkan kekuatan Geo.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

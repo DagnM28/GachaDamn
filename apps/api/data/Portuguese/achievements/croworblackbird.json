@@ -1,0 +1,21 @@
+{
+	"id": [
+		81425
+	],
+	"name": "Um Corvo ou Melro?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1409,
+	"stages": 1,
+	"stage1": {
+		"title": "Um Corvo ou Melro?",
+		"description": "É um Pelicano!",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

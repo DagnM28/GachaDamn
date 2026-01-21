@@ -1,0 +1,19 @@
+{
+	"id": 104311,
+	"name": "Guide de la Prospérité",
+	"rarity": 3,
+	"sortRank": 13104,
+	"description": "Matériau d'amélioration d'aptitude.\nLa prospérité est l'aspiration du pays de la roche.\nRécompenser le labeur avec de l'or, telle était la promesse faite aux enfants de Liyue.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'aptitude de personnage",
+	"dropDomainId": 5255,
+	"dropDomainName": "Donjon de la maîtrise : Autel des flammes",
+	"daysOfWeek": [
+		"Lundi",
+		"Jeudi",
+		"Dimanche"
+	],
+	"sources": [
+		"Emplacement réservé - Quantité synthétisable : {0}"
+	]
+}

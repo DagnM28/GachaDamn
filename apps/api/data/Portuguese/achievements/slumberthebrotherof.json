@@ -1,0 +1,21 @@
+{
+	"id": [
+		80191
+	],
+	"name": "... Sono Epônimo",
+	"achievementGroupId": 35,
+	"achievementGroupName": "Sumeru: Deserto Dourado — I",
+	"sortOrder": 193,
+	"stages": 1,
+	"stage1": {
+		"title": "... Sono Epônimo",
+		"ps5title": "Viagem: Sono Epônimo",
+		"description": "Complete \"Sonho Dourado\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81132
+	],
+	"name": "« Et vous prendrez un aquarium avec tout ça ? »",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guide de pêche en Teyvat - Partie I",
+	"sortOrder": 1124,
+	"stages": 1,
+	"stage1": {
+		"title": "« Et vous prendrez un aquarium avec tout ça ? »",
+		"description": "Attrapez votre premier poisson ornemental.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

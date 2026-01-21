@@ -1,0 +1,21 @@
+{
+	"id": [
+		80030
+	],
+	"name": "Penjelajah Benua: Mondstadt",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt: Kota Angin dan Lagu",
+	"sortOrder": 30,
+	"stages": 1,
+	"stage1": {
+		"title": "Penjelajah Benua: Mondstadt",
+		"ps5title": "Mondstadt: Penjelajah Benua",
+		"description": "Membuka semua peta wilayah Mondstadt (tidak termasuk area Dragonspine).",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

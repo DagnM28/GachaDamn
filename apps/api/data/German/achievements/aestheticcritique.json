@@ -1,0 +1,21 @@
+{
+	"id": [
+		84568
+	],
+	"name": "Ästhetische Kritik",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4092,
+	"stages": 1,
+	"stage1": {
+		"title": "Ästhetische Kritik",
+		"description": "Höre dir die Theorie der „Ästhetik“ von Depierris an.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

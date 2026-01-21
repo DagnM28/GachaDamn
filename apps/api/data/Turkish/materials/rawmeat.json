@@ -1,0 +1,11 @@
+{
+	"id": 100061,
+	"name": "Çiğ Et",
+	"sortRank": 321,
+	"description": "Bir parça taze et. Yüksek enerji sağlayan yemekler yapmak için kullanılabilir.",
+	"category": "EXCHANGE",
+	"typeText": "Yemek Malzemesi",
+	"sources": [
+		"Hayvanlardan düşer."
+	]
+}

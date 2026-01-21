@@ -1,0 +1,21 @@
+{
+	"id": [
+		81225
+	],
+	"name": "Портал чудес",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1211,
+	"stages": 1,
+	"stage1": {
+		"title": "Портал чудес",
+		"description": "Войдите в мир аранар...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

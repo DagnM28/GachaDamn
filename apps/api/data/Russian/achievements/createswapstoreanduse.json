@@ -1,0 +1,21 @@
+{
+	"id": [
+		81268
+	],
+	"name": "Создавайте, торгуйте, храните и используйте",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1254,
+	"stages": 1,
+	"stage1": {
+		"title": "Создавайте, торгуйте, храните и используйте",
+		"description": "Ключ тоже должен быть «признан».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

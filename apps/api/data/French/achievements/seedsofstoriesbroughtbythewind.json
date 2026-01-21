@@ -1,0 +1,21 @@
+{
+	"id": [
+		81002
+	],
+	"name": "« Les graines d'histoires apportées par le vent... »",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1002,
+	"stages": 1,
+	"stage1": {
+		"title": "« Les graines d'histoires apportées par le vent... »",
+		"description": "Atteignez l'île sans nom au nord-est de Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

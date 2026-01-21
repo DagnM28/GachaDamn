@@ -1,0 +1,16 @@
+{
+	"id": 13027,
+	"name": "Guide to Justice",
+	"filterText": "วัสดุพรสวรรค์ของตัวละคร",
+	"sortOrder": 120130,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104341,
+			"name": "Teachings of Justice",
+			"count": 3
+		}
+	]
+}

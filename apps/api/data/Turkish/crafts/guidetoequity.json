@@ -1,0 +1,16 @@
+{
+	"id": 13025,
+	"name": "Eşitlik Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120120,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104338,
+			"name": "Eşitlik Öğretisi",
+			"count": 3
+		}
+	]
+}

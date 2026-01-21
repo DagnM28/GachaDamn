@@ -1,0 +1,16 @@
+{
+	"id": 12022,
+	"name": "Narukami's Joy",
+	"filterText": "วัสดุเลื่อนขั้นอาวุธ",
+	"sortOrder": 130070,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114029,
+			"name": "Narukami's Wisdom",
+			"count": 3
+		}
+	]
+}

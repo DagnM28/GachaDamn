@@ -1,0 +1,21 @@
+{
+	"id": [
+		80002
+	],
+	"name": "Nghìn trùng vạn dặm",
+	"achievementGroupId": 1,
+	"achievementGroupName": "Tuần Du Trần Thế - Phần I",
+	"sortOrder": 2,
+	"stages": 1,
+	"stage1": {
+		"title": "Nghìn trùng vạn dặm",
+		"ps5title": "Nguyên Tố Nham - Nghìn Trùng Vạn Dặm",
+		"description": "Nắm vững sức mạnh nguyên tố \"Nham\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

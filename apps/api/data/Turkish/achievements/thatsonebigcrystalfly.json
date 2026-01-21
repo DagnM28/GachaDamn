@@ -1,0 +1,22 @@
+{
+	"id": [
+		82010
+	],
+	"name": "\"Bu Kristal Kelebeği Amma Da Büyükmüş\"",
+	"dupealias": "\"Bu Kristal Kelebeği Amma Da Büyükmüş\" 0",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2010,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Bu Kristal Kelebeği Amma Da Büyükmüş\"",
+		"description": "Bir Rüzgar Hipostazı yeniden canlanmadan önce tüm Rüzgar Kristallerini al.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

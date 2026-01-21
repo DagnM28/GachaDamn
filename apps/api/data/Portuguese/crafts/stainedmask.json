@@ -1,0 +1,16 @@
+{
+	"id": 11003,
+	"name": "Máscara Suja",
+	"filterText": "Material de Fortalecimento de Arma e Personagem",
+	"sortOrder": 150010,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112005,
+			"name": "Máscara Danificada",
+			"count": 3
+		}
+	]
+}

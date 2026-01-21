@@ -1,0 +1,20 @@
+{
+	"id": [
+		82118
+	],
+	"name": "Elektrikli Kaçış",
+	"achievementGroupId": 29,
+	"achievementGroupName": "Mücadeleci: V. Seri",
+	"sortOrder": 2118,
+	"stages": 1,
+	"stage1": {
+		"title": "Elektrikli Kaçış",
+		"description": "Bir Yıldırım Alametini güdümlü yıldırım kafesi saldırısından hasar almadan yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

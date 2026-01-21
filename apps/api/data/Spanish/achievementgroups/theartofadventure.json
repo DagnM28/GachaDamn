@@ -1,0 +1,9 @@
+{
+	"id": 2,
+	"name": "El arte de la aventura",
+	"sortOrder": 9,
+	"reward": {
+		"id": 210022,
+		"name": "Logro - Virtuoso"
+	}
+}

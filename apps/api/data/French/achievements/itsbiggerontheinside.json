@@ -1,0 +1,21 @@
+{
+	"id": [
+		84014
+	],
+	"name": "C'est plus grand à l'intérieur !",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 4015,
+	"stages": 1,
+	"stage1": {
+		"title": "C'est plus grand à l'intérieur !",
+		"description": "Nettoyez la théière de Madame Ping.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

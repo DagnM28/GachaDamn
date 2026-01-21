@@ -1,0 +1,42 @@
+{
+	"id": [
+		81026,
+		81027,
+		81028
+	],
+	"name": "Цель уничтожена",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"sortOrder": 1027,
+	"stages": 3,
+	"stage1": {
+		"title": "Цель уничтожена",
+		"description": "Выполните 3 заказа на монстров.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Цель уничтожена",
+		"description": "Выполните 6 заказов на монстров.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Цель уничтожена",
+		"description": "Выполните 9 заказов на монстров.",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 20
+		}
+	}
+}

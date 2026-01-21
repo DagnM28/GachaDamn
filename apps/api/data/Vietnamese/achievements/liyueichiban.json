@@ -1,0 +1,21 @@
+{
+	"id": [
+		84530
+	],
+	"name": "Liyue Ichiban",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4054,
+	"stages": 1,
+	"stage1": {
+		"title": "Liyue Ichiban",
+		"description": "Dùng những món ngon xoa dịu Tang Wen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

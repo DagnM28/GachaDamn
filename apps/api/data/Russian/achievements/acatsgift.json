@@ -1,0 +1,21 @@
+{
+	"id": [
+		81159
+	],
+	"name": "Кошачьи дары",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1145,
+	"stages": 1,
+	"stage1": {
+		"title": "Кошачьи дары",
+		"description": "Накормите котят на острове Сэйрай и добейтесь их расположения.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

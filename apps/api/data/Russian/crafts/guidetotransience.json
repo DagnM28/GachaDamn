@@ -1,0 +1,16 @@
+{
+	"id": 13013,
+	"name": "Указания о «Бренности»",
+	"filterText": "Таланты персонажей",
+	"sortOrder": 120060,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104320,
+			"name": "Учения о «Бренности»",
+			"count": 3
+		}
+	]
+}

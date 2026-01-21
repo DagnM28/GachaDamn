@@ -1,0 +1,13 @@
+{
+	"id": 101002,
+	"name": "Beyaz Demir Parçası",
+	"sortRank": 301,
+	"description": "Becerikli eller bunu harika bir şeye dönüştürebilir.",
+	"category": "EXCHANGE",
+	"typeText": "Dövmeye Uygun Cevher",
+	"sources": [
+		"Doğada bulunur.",
+		"Öneri: Fırtınakesen Dağları'nda bulunur.",
+		"Öneri: Kurtlar Diyarı'nda bulunur."
+	]
+}

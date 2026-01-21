@@ -1,0 +1,16 @@
+{
+	"id": 12018,
+	"name": "漆黑陨铁的一块",
+	"filterText": "武器突破素材",
+	"sortOrder": 130048,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114023,
+			"name": "漆黑陨铁的一角",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		80026
+	],
+	"name": "Dono dell'eroe",
+	"achievementGroupId": 3,
+	"achievementGroupName": "Il viaggio dell'eroe",
+	"sortOrder": 26,
+	"stages": 1,
+	"stage1": {
+		"title": "Dono dell'eroe",
+		"description": "Ottieni un manufatto da 4★.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

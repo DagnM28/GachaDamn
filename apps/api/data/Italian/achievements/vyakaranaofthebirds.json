@@ -1,0 +1,21 @@
+{
+	"id": [
+		81319
+	],
+	"name": "Vyakarana degli uccelli",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1306,
+	"stages": 1,
+	"stage1": {
+		"title": "Vyakarana degli uccelli",
+		"description": "Sorush ha ottenuto la Corona bicorne davanti agli occhi di Zurvan...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

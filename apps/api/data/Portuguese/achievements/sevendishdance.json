@@ -1,0 +1,21 @@
+{
+	"id": [
+		81333
+	],
+	"name": "Dança dos Sete Pratos",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1320,
+	"stages": 1,
+	"stage1": {
+		"title": "Dança dos Sete Pratos",
+		"description": "Complete todos os desafios de \"Percussão Cogumélica\"",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

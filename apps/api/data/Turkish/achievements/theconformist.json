@@ -1,0 +1,21 @@
+{
+	"id": [
+		84573
+	],
+	"name": "Konformist",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4097,
+	"stages": 1,
+	"stage1": {
+		"title": "Konformist",
+		"description": "Işık, gölge ve su bilimi hakkında bir hikayeye tanık ol...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

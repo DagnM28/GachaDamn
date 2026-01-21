@@ -1,0 +1,14 @@
+{
+	"id": 100055,
+	"name": "Lâmpada de Grama",
+	"sortRank": 311,
+	"description": "Uma flor selvagem que emite luz à noite. Usada na culinária para realçar sabores.",
+	"category": "EXCHANGE",
+	"typeText": "Especialidade de Mondstadt",
+	"sources": [
+		"Recomendação: Encontrado no Reino dos Lobos",
+		"Recomendação: Encontrado no Bosque Sussurrante",
+		"Plantar no Bule de Relachá",
+		"Ir para coleta"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11050,
+	"name": "Leuchtendes Prisma",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140129,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112072,
+			"name": "Trübes Prisma",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		80268
+	],
+	"name": "Terra delle delicate sorgenti",
+	"achievementGroupId": 43,
+	"achievementGroupName": "Fatiche mortali: Serie IV",
+	"sortOrder": 175,
+	"stages": 1,
+	"stage1": {
+		"title": "Terra delle delicate sorgenti",
+		"ps5title": "Hydro: Terra delle delicate sorgenti",
+		"description": "Ottieni il potere di Hydro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

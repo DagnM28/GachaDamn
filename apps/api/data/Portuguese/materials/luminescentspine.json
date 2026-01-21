@@ -1,0 +1,11 @@
+{
+	"id": 100082,
+	"name": "Espinha Luminescente",
+	"sortRank": 320,
+	"description": "A parte luminosa de um vaga-lume. É o seu órgão de cortejo e o elixir da força para os humanos.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"Encontrado na natureza"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		81131
+	],
+	"name": "Amadores Martelam Pregos em Ganchos",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guia de Pesca de Teyvat - Série I",
+	"sortOrder": 1123,
+	"stages": 1,
+	"stage1": {
+		"title": "Amadores Martelam Pregos em Ganchos",
+		"description": "Pegue seu primeiro peixe.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

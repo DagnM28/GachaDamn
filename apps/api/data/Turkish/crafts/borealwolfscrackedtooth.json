@@ -1,0 +1,16 @@
+{
+	"id": 12004,
+	"name": "Kutup Kurdunun Çatlak Dişi",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130010,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114005,
+			"name": "Kutup Kurdunun Süt Dişi",
+			"count": 3
+		}
+	]
+}

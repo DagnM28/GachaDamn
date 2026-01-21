@@ -1,0 +1,21 @@
+{
+	"id": [
+		81039
+	],
+	"name": "Câu chuyện không thể kể",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1040,
+	"stages": 1,
+	"stage1": {
+		"title": "Câu chuyện không thể kể",
+		"description": "Gặp những người bạn bất ngờ ở những nơi không ngờ tới.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

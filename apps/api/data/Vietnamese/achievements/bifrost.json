@@ -1,0 +1,21 @@
+{
+	"id": [
+		81332
+	],
+	"name": "Bifröst",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1319,
+	"stages": 1,
+	"stage1": {
+		"title": "Bifröst",
+		"description": "Hoàn thành tất cả khiêu chiến \"Chuông Linh Bảo\"",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

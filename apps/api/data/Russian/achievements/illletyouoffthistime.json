@@ -1,0 +1,21 @@
+{
+	"id": [
+		84021
+	],
+	"name": "На этот раз... можешь идти",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4022,
+	"stages": 1,
+	"stage1": {
+		"title": "На этот раз... можешь идти",
+		"description": "Одолейте Чайльда.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

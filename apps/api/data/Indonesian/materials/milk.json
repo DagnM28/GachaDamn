@@ -1,0 +1,11 @@
+{
+	"id": 100078,
+	"name": "Milk",
+	"sortRank": 321,
+	"description": "Susu sapi yang manis dan harum. Jangan sia-siakan satu tetes pun, terlebih yang menetes di dagumu.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Dijual di toko barang kebutuhan"
+	]
+}

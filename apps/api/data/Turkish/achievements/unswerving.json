@@ -1,0 +1,22 @@
+{
+	"id": [
+		81003
+	],
+	"name": "Yolundan Şaşmaz",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1003,
+	"stages": 1,
+	"stage1": {
+		"title": "Yolundan Şaşmaz",
+		"ps5title": "Kaşif: Yolundan Şaşmaz",
+		"description": "Kalp şeklindeki kaya oluşumunun ortasındaki sandığı aç.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

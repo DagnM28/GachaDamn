@@ -1,0 +1,21 @@
+{
+	"id": [
+		84100
+	],
+	"name": "Archaic Lord of Lightning and Blitz",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Ingatan Hati",
+	"isHidden": true,
+	"sortOrder": 6010,
+	"stages": 1,
+	"stage1": {
+		"title": "Archaic Lord of Lightning and Blitz",
+		"description": "Saksikan kesialan Bennett yang bahkan bisa memengaruhi cuaca.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

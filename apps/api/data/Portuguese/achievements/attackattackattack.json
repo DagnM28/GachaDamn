@@ -1,0 +1,42 @@
+{
+	"id": [
+		80209,
+		80210,
+		80211
+	],
+	"name": "Ataque, Ataque, Ataque!",
+	"achievementGroupId": 37,
+	"achievementGroupName": "Chamado Sagrado dos Sete",
+	"sortOrder": 211,
+	"stages": 3,
+	"stage1": {
+		"title": "Ataque, Ataque, Ataque!",
+		"description": "Use mais do que 3 Supremos em um total de {param0} partidas vitoriosas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Ataque, Ataque, Ataque!",
+		"description": "Use mais do que 3 Supremos em um total de {param0} partidas vitoriosas.",
+		"progress": 5,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Ataque, Ataque, Ataque!",
+		"description": "Use mais do que 3 Supremos em um total de {param0} partidas vitoriosas.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

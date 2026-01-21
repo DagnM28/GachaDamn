@@ -1,0 +1,16 @@
+{
+	"id": 13005,
+	"name": "Guida alla poesia",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120020,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104307,
+			"name": "Insegnamenti della poesia",
+			"count": 3
+		}
+	]
+}

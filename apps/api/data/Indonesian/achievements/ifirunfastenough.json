@@ -1,0 +1,21 @@
+{
+	"id": [
+		82099
+	],
+	"name": "Kalau Aku Berlari Cukup Cepat ....",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2100,
+	"stages": 1,
+	"stage1": {
+		"title": "Kalau Aku Berlari Cukup Cepat ....",
+		"description": "Kalahkan Maguu Kenki tanpa terkena serangan dari bayangannya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

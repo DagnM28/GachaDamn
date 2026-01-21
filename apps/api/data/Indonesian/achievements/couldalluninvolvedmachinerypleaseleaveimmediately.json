@@ -1,0 +1,21 @@
+{
+	"id": [
+		82105
+	],
+	"name": "Semua Mesin yang Terlibat Harap Pergi!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2106,
+	"stages": 1,
+	"stage1": {
+		"title": "Semua Mesin yang Terlibat Harap Pergi!",
+		"description": "Kalahkan Perpetual Mechanical Array tanpa mengalahkan Ruin Sentinel miliknya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13028,
+	"name": "Philosophies of Justice",
+	"filterText": "Character Talent Material",
+	"sortOrder": 120129,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104342,
+			"name": "Guide to Justice",
+			"count": 3
+		}
+	]
+}

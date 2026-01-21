@@ -1,0 +1,21 @@
+{
+	"id": [
+		80256
+	],
+	"name": "Canção do Orvalho",
+	"achievementGroupId": 42,
+	"achievementGroupName": "Fontaine: Dança das Fontes Brancas de Orvalho I",
+	"sortOrder": 236,
+	"stages": 1,
+	"stage1": {
+		"title": "Canção do Orvalho",
+		"ps5title": "Fontaine - Canção do Orvalho",
+		"description": "Alcance o Nível Máximo na Fonte de Lucine no Distrito da Corte de Fontaine",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

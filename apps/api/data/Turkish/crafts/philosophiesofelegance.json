@@ -1,0 +1,16 @@
+{
+	"id": 13016,
+	"name": "Zarafet Felsefesi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120069,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104324,
+			"name": "Zarafet Rehberi",
+			"count": 3
+		}
+	]
+}

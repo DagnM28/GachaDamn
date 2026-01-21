@@ -1,0 +1,21 @@
+{
+	"id": [
+		81239
+	],
+	"name": "Au nom d'Anfortas !",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1225,
+	"stages": 1,
+	"stage1": {
+		"title": "Au nom d'Anfortas !",
+		"description": "Visitez l'endroit où les héros ont rencontré leur fin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

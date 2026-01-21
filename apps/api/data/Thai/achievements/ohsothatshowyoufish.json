@@ -1,0 +1,21 @@
+{
+	"id": [
+		81142
+	],
+	"name": "\"โอ้ ที่แท้ก็มาตกปลานี่เอง...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1136,
+	"stages": 1,
+	"stage1": {
+		"title": "\"โอ้ ที่แท้ก็มาตกปลานี่เอง...\"",
+		"description": "ทำให้ปลาตกใจหนี ขณะที่เหวี่ยงเบ็ด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

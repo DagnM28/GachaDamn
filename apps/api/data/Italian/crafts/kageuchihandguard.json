@@ -1,0 +1,16 @@
+{
+	"id": 11029,
+	"name": "Paramano kageuchi",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 150070,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112044,
+			"name": "Paramano antico",
+			"count": 3
+		}
+	]
+}

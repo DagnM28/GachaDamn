@@ -1,0 +1,21 @@
+{
+	"id": [
+		81506
+	],
+	"name": "Прощай, друг!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1490,
+	"stages": 1,
+	"stage1": {
+		"title": "Прощай, друг!",
+		"description": "Спасибо за компанию в этом путешествии.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

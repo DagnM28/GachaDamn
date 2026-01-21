@@ -1,0 +1,16 @@
+{
+	"id": 12035,
+	"name": "Sonho do Poder Escaldante",
+	"filterText": "Material de Ascensão de Armas",
+	"sortOrder": 130109,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114046,
+			"name": "Brilho Remanescente do Poder Escaldante",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		84509
+	],
+	"name": "Le chef et le pêcheur",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"sortOrder": 4034,
+	"stages": 1,
+	"stage1": {
+		"title": "Le chef et le pêcheur",
+		"description": "Terminez « Pêcheur solitaire » et « Le dilemme de Yanxiao ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

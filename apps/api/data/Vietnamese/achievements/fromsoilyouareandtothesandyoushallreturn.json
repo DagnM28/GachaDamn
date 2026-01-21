@@ -1,0 +1,21 @@
+{
+	"id": [
+		81309
+	],
+	"name": "Đến Từ Bùn Đất, Về Với Cát Bụi...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1296,
+	"stages": 1,
+	"stage1": {
+		"title": "Đến Từ Bùn Đất, Về Với Cát Bụi...",
+		"description": "Cũng như tất thảy sinh mệnh trong sa mạc vậy...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81216
+	],
+	"name": "«Отлично, Штирлиц!»",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1202,
+	"stages": 1,
+	"stage1": {
+		"title": "«Отлично, Штирлиц!»",
+		"description": "Помогите Янь Бо выполнить задание Миллелитов.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81432
+	],
+	"name": "Chassanion",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1416,
+	"stages": 1,
+	"stage1": {
+		"title": "Chassanion",
+		"description": "Chiến thắng Huyền Thoại Địa Phương: Chassanion.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

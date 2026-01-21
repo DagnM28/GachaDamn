@@ -1,0 +1,22 @@
+{
+	"id": [
+		80092
+	],
+	"name": "По островам царства грома",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1026,
+	"stages": 1,
+	"stage1": {
+		"title": "По островам царства грома",
+		"ps5title": "Инадзума - По островам царства грома",
+		"description": "Достигните уровня репутации 10 в Инадзуме.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 20
+		}
+	}
+}

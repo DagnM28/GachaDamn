@@ -1,0 +1,21 @@
+{
+	"id": [
+		81167
+	],
+	"name": "Bước Vào Cánh Cổng Sương Đêm",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1153,
+	"stages": 1,
+	"stage1": {
+		"title": "Bước Vào Cánh Cổng Sương Đêm",
+		"description": "Thích ứng khí hậu lạ thường ở Đảo Tsurumi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

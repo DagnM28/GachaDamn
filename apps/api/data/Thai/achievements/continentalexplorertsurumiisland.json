@@ -1,0 +1,20 @@
+{
+	"id": [
+		80113
+	],
+	"name": "สำรวจโลกกว้าง - เกาะ Tsurumi",
+	"achievementGroupId": 27,
+	"achievementGroupName": "บันทึกแห่งทะเลหมอก",
+	"sortOrder": 113,
+	"stages": 1,
+	"stage1": {
+		"title": "สำรวจโลกกว้าง - เกาะ Tsurumi",
+		"description": "เปิดแผนที่ของเกาะ Tsurumi",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

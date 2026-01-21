@@ -1,0 +1,22 @@
+{
+	"id": [
+		81121
+	],
+	"name": "Seconda fioritura",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1117,
+	"stages": 1,
+	"stage1": {
+		"title": "Seconda fioritura",
+		"ps5title": "Inazuma: Seconda fioritura",
+		"description": "Ottieni il regalo di Hanayama Kaoru.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

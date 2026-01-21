@@ -1,0 +1,21 @@
+{
+	"id": [
+		82085
+	],
+	"name": "Chạm vào",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2085,
+	"stages": 1,
+	"stage1": {
+		"title": "Chạm vào",
+		"description": "Lợi dụng khiên để chống lại tấn công va chạm của Rồng Đất Nham.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

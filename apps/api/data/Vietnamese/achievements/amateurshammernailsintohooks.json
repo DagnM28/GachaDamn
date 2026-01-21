@@ -1,0 +1,20 @@
+{
+	"id": [
+		81131
+	],
+	"name": "Cá Đâu Đớp Động Dưới Chân Bèo",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Hướng Dẫn Câu Cá Teyvat - Phần I",
+	"sortOrder": 1123,
+	"stages": 1,
+	"stage1": {
+		"title": "Cá Đâu Đớp Động Dưới Chân Bèo",
+		"description": "Lần đầu câu cá thành công.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

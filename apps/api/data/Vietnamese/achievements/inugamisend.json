@@ -1,0 +1,21 @@
+{
+	"id": [
+		82121
+	],
+	"name": "Đường Cùng Của Inugami",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2121,
+	"stages": 1,
+	"stage1": {
+		"title": "Đường Cùng Của Inugami",
+		"description": "Trong thời gian ngắn phá hủy 2 Chó Ma Đầu Đàn.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

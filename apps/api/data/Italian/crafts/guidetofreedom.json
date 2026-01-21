@@ -1,0 +1,16 @@
+{
+	"id": 13001,
+	"name": "Guida alla libertà",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120000,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104301,
+			"name": "Insegnamenti della libertà",
+			"count": 3
+		}
+	]
+}

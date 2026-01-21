@@ -1,0 +1,767 @@
+{
+	"namemap": {
+		"100outrider": "%100 Kaşif",
+		"5staroutrider": "Beş Yıldızlı Kaşif",
+		"adventuresinblazinghue": "Alev Renkli Maceralar",
+		"agiftfromthestars": "Yıldızlardan Bir Hediye",
+		"aguestsaugustomen": "Yüce Konuğun Gelişi",
+		"allisovertthroughmylens": "\"Lensimde Her Şeyin Hakikati Görünür\"",
+		"ambrosialverdance": "Yeşilin Rayihası",
+		"anewleaf": "Yeni Bir Yaprak",
+		"aratakisdemonicdeputy": "Arataki'nin Şeytani Yardımcısı",
+		"ardentsoul": "Ateşli Ruh",
+		"argentchimes": "Gümüş Çanlar",
+		"armoredrose": "Zırhlı Gül",
+		"asheavenandeartharemadeanewaether": "Yer ve Gök Yeniden Yaratılırken",
+		"asheavenandeartharemadeanewlumine": "Yer ve Gök Yeniden Yaratılırken",
+		"asobriquetundershade": "Yaprakların Gölgesindeki Bilgelik",
+		"awrathfulvoid": "Hiddetli Boşluk",
+		"azuresilk": "Mavi İpek",
+		"bamboorain": "Bambu Yağmuru",
+		"batwingiris": "Yarasa Gözler",
+		"bladesofglory": "Şanlı Kılıçlar",
+		"blossomingstarlight": "Çiçek Açan Yıldız Işığı",
+		"breezeofsabaa": "Sabaa Esintisi",
+		"breezyode": "Havalı Gazel",
+		"cherriessnowladen": "Kar Kaplı Kirazlar",
+		"cherubicosmanthus": "Saf Osmantus",
+		"clearadjudication": "Kesin Hüküm",
+		"coronatedprimadonna": "Aktrisler Kraliçesi",
+		"darknightblaze": "Karagecenin Ateşi",
+		"dawnbreathdreambelle": "Şafaktaki Düş Esintisi",
+		"dawnseer": "Şafak Kahini",
+		"desertandnight": "Çöl ve Gece",
+		"dreamingstar": "Rüyadaki Yıldız",
+		"dunkelnachtsakrament": "Görkemli Gece",
+		"eccentriconi": "Acayip Oni",
+		"eightbitartistry": "Sekiz Bit Sanat",
+		"einimmernachtstraum": "Ein Immernachtstraum",
+		"emeraldcipher": "Zümrüt Şifre",
+		"endurerofeons": "Bin Yıllık Mücadele",
+		"executorsthorns": "İnfazcının Dikenleri",
+		"fallingleaves": "Dökülen Yapraklar",
+		"fantasticat": "Fantastikedi",
+		"favoniandevotion": "Rüzgarın Koruyucusu",
+		"flawlessradiance": "Kusursuz İhtişam",
+		"flowingfate": "Kaderin Akışı",
+		"fluffypuffywhizkidworkwear": "Pofuduk Dahi Çocuğun İş Tulumu",
+		"flyingfishheatwavesandmoonscallop": "Uçan Balıklar, Sıcaklık Dalgaları ve Ay İstiridyesi",
+		"forallknowledgeaverse": "Bir Mısrada Bin Bilgelik",
+		"fortunesfavor": "Talihin Lütfu",
+		"frostdewtrail": "Donuk Şebnem",
+		"frostflowerdew": "Kırağı Çiçeği Çiyi",
+		"germinatingwind": "Filizlenen Rüzgar",
+		"golddrapedgorge": "Altın Kaplı Vadi",
+		"goldenrule": "Altın Kural",
+		"goldensandstrider": "Altın Kumgezer",
+		"goldfishfirecracker": "Inazuma Balığı Kıvılcımları",
+		"goldleafandpearlyjade": "Altın Yapraklı ve İncili Yeşim",
+		"goldpinionsinflamesbathed": "Alevle Kaplı Altın Tüyler",
+		"guardiansgun": "Muhafız Alayı",
+		"gunnhildrslegacy": "Gunnhildr'ın Mirası",
+		"heartofthescales": "Terazinin Kalbi",
+		"hermitofmortallife": "Fani Dünya",
+		"icyfeatherflight": "Buzlu Kanatlar",
+		"icyskin": "Buzul Dalgıç",
+		"ilovemora": "Morayı Severim",
+		"innocentlonging": "Masum Özlem",
+		"machinehunter": "Makina Avcısı",
+		"mechanicaldreams": "Mekanik Rüyalar",
+		"melusentgift": "Melusinaların Hediyesi",
+		"mikosinstruction": "Miko'nun Öğretileri",
+		"minimujina": "Mini Mujina",
+		"mistcloudstage": "Bulut Örtüsü",
+		"moonglare": "Ay Işığı",
+		"moonlitcourser": "Mehtabın Beyaz Atı",
+		"moonweavegossamer": "Ay Dokuması Tül",
+		"narukamislaw": "Narukami'nin Kanunu",
+		"neitherflowernormist": "Ne Çiçek Ne Sis",
+		"newmoonstarlight": "Hilal Işığı",
+		"newyearscheer": "Yeni Yıl Coşkusu",
+		"nightschillinghowl": "Gece Ayazındaki Uluma",
+		"nocturne": "Noktürn",
+		"novaswhisper": "Novanın Fısıltısı",
+		"opulentsplendor": "Göz Alıcı İhtişam",
+		"orchidseveninggown": "Gece Orkidesi",
+		"pactofstarsandmoon": "Yıldızların ve Ayın Sözü",
+		"panoplyofahundredhunts": "Avcının Zırhı",
+		"phantomeow": "Fantomiyav",
+		"phantominboots": "Çizmeli Hayalet",
+		"piercingthunderbolt": "Delici Yıldırım",
+		"pluckedyamabukisplendor": "Yamabuki Çiçeği İhtişamı",
+		"plumblossombouquet": "Erik Çiçeği Buketi",
+		"pristineelegance": "El Değmemiş Zarafet",
+		"pristineprayers": "Kadim Dualar",
+		"purespirit": "Saf Ruh",
+		"purplerose": "Mor Gül",
+		"rainlitbambooreverie": "Yağmurlu Bambu Rüyası",
+		"rangingrainbow": "Uzaktaki Gökkuşağı",
+		"reddeadofnight": "Kırmızı Gecenin Karanlığı",
+		"redpepperandturmeric": "Baharatlı Tatlar",
+		"risingstaraether": "Yükselen Yıldız",
+		"risingstarlumine": "Yükselen Yıldız",
+		"rollingwaves": "Çetin Dalgalar",
+		"sailwindshadow": "Yelkenli Gölgesi",
+		"seabreezedandelion": "Deniz Esintisi Rüyası",
+		"shatteredstar": "Karanlıkta Yiten Yıldız",
+		"shootingspark": "Küçük Kıvılcım",
+		"silksplendor": "İpekten Görkem",
+		"soaringbeacon": "Yüce İşaretçi",
+		"solemnpurity": "Saf Ciddiyet",
+		"sorbethoneypie": "Ballı Şerbetli Turta",
+		"sparklingcoralbone": "Işıltılı Mercan",
+		"spiritedvalor": "Coşkulu Cesaret",
+		"springbloommissive": "Bahar Çiçeği Mektubu",
+		"steadfastresolve": "Sarsılmaz Kararlılık",
+		"sugarrush": "Şeker Patlaması",
+		"sugarybrew": "Şekerli Kokteyl",
+		"summerchilldreams": "Serin Yaz Rüyası",
+		"summertimesparkle": "Muhteşem Yaz",
+		"sweetnessofthesea": "Denizin Tatlılığı",
+		"swordofhonor": "Onur Kılıcı",
+		"tawnypeaksspiredrock": "Turuncu Tepeler, Sarmal Kaya",
+		"theapplicationsofmedicine": "Şifacının Kaderi",
+		"thelionessandtheblazingsun": "Aslan ve Kavurucu Güneş",
+		"therational": "Aklı Başında",
+		"thewaningpoint": "Küçülme Noktası",
+		"theworldsshackles": "Dünyanın Kelepçeleri",
+		"tlalocansnightphantom": "Tlalocan'ın Gece Hayaleti",
+		"tothechurchsfreespirit": "Kilisenin Özgür Ruhu",
+		"towardthedistanthorizon": "Uzaktaki Ufka Doğru",
+		"tranquilbanquet": "Sessiz Ziyafet",
+		"twilightblossom": "Alacakaranlık Çiçeği",
+		"undyingsun": "Ebedi Güneş",
+		"verdantmoon": "Yeşil Ay",
+		"warriorofflame": "Alev Savaşçısı",
+		"warriorsbonegarb": "Savaşçının Kemik Zırhı",
+		"wavecrestwaltz": "Dalgaların Dansı",
+		"whirlingbloom": "Uçuşan Çiçekler",
+		"whistledartwings": "Rüzgarın Peşinde",
+		"wildsprint": "Yaban Koşusu",
+		"woodlandsong": "Orman Şarkısı",
+		"yellowvelvetsalon": "Sarı Kadife"
+	},
+	"names": {
+		"%100 Kaşif": "100outrider",
+		"Beş Yıldızlı Kaşif": "5staroutrider",
+		"Alev Renkli Maceralar": "adventuresinblazinghue",
+		"Yıldızlardan Bir Hediye": "agiftfromthestars",
+		"Yüce Konuğun Gelişi": "aguestsaugustomen",
+		"\"Lensimde Her Şeyin Hakikati Görünür\"": "allisovertthroughmylens",
+		"Yeşilin Rayihası": "ambrosialverdance",
+		"Yeni Bir Yaprak": "anewleaf",
+		"Arataki'nin Şeytani Yardımcısı": "aratakisdemonicdeputy",
+		"Ateşli Ruh": "ardentsoul",
+		"Gümüş Çanlar": "argentchimes",
+		"Zırhlı Gül": "armoredrose",
+		"Yer ve Gök Yeniden Yaratılırken": "asheavenandeartharemadeanewaether",
+		"Yaprakların Gölgesindeki Bilgelik": "asobriquetundershade",
+		"Hiddetli Boşluk": "awrathfulvoid",
+		"Mavi İpek": "azuresilk",
+		"Bambu Yağmuru": "bamboorain",
+		"Yarasa Gözler": "batwingiris",
+		"Şanlı Kılıçlar": "bladesofglory",
+		"Çiçek Açan Yıldız Işığı": "blossomingstarlight",
+		"Sabaa Esintisi": "breezeofsabaa",
+		"Havalı Gazel": "breezyode",
+		"Kar Kaplı Kirazlar": "cherriessnowladen",
+		"Saf Osmantus": "cherubicosmanthus",
+		"Kesin Hüküm": "clearadjudication",
+		"Aktrisler Kraliçesi": "coronatedprimadonna",
+		"Karagecenin Ateşi": "darknightblaze",
+		"Şafaktaki Düş Esintisi": "dawnbreathdreambelle",
+		"Şafak Kahini": "dawnseer",
+		"Çöl ve Gece": "desertandnight",
+		"Rüyadaki Yıldız": "dreamingstar",
+		"Görkemli Gece": "dunkelnachtsakrament",
+		"Acayip Oni": "eccentriconi",
+		"Sekiz Bit Sanat": "eightbitartistry",
+		"Ein Immernachtstraum": "einimmernachtstraum",
+		"Zümrüt Şifre": "emeraldcipher",
+		"Bin Yıllık Mücadele": "endurerofeons",
+		"İnfazcının Dikenleri": "executorsthorns",
+		"Dökülen Yapraklar": "fallingleaves",
+		"Fantastikedi": "fantasticat",
+		"Rüzgarın Koruyucusu": "favoniandevotion",
+		"Kusursuz İhtişam": "flawlessradiance",
+		"Kaderin Akışı": "flowingfate",
+		"Pofuduk Dahi Çocuğun İş Tulumu": "fluffypuffywhizkidworkwear",
+		"Uçan Balıklar, Sıcaklık Dalgaları ve Ay İstiridyesi": "flyingfishheatwavesandmoonscallop",
+		"Bir Mısrada Bin Bilgelik": "forallknowledgeaverse",
+		"Talihin Lütfu": "fortunesfavor",
+		"Donuk Şebnem": "frostdewtrail",
+		"Kırağı Çiçeği Çiyi": "frostflowerdew",
+		"Filizlenen Rüzgar": "germinatingwind",
+		"Altın Kaplı Vadi": "golddrapedgorge",
+		"Altın Kural": "goldenrule",
+		"Altın Kumgezer": "goldensandstrider",
+		"Inazuma Balığı Kıvılcımları": "goldfishfirecracker",
+		"Altın Yapraklı ve İncili Yeşim": "goldleafandpearlyjade",
+		"Alevle Kaplı Altın Tüyler": "goldpinionsinflamesbathed",
+		"Muhafız Alayı": "guardiansgun",
+		"Gunnhildr'ın Mirası": "gunnhildrslegacy",
+		"Terazinin Kalbi": "heartofthescales",
+		"Fani Dünya": "hermitofmortallife",
+		"Buzlu Kanatlar": "icyfeatherflight",
+		"Buzul Dalgıç": "icyskin",
+		"Morayı Severim": "ilovemora",
+		"Masum Özlem": "innocentlonging",
+		"Makina Avcısı": "machinehunter",
+		"Mekanik Rüyalar": "mechanicaldreams",
+		"Melusinaların Hediyesi": "melusentgift",
+		"Miko'nun Öğretileri": "mikosinstruction",
+		"Mini Mujina": "minimujina",
+		"Bulut Örtüsü": "mistcloudstage",
+		"Ay Işığı": "moonglare",
+		"Mehtabın Beyaz Atı": "moonlitcourser",
+		"Ay Dokuması Tül": "moonweavegossamer",
+		"Narukami'nin Kanunu": "narukamislaw",
+		"Ne Çiçek Ne Sis": "neitherflowernormist",
+		"Hilal Işığı": "newmoonstarlight",
+		"Yeni Yıl Coşkusu": "newyearscheer",
+		"Gece Ayazındaki Uluma": "nightschillinghowl",
+		"Noktürn": "nocturne",
+		"Novanın Fısıltısı": "novaswhisper",
+		"Göz Alıcı İhtişam": "opulentsplendor",
+		"Gece Orkidesi": "orchidseveninggown",
+		"Yıldızların ve Ayın Sözü": "pactofstarsandmoon",
+		"Avcının Zırhı": "panoplyofahundredhunts",
+		"Fantomiyav": "phantomeow",
+		"Çizmeli Hayalet": "phantominboots",
+		"Delici Yıldırım": "piercingthunderbolt",
+		"Yamabuki Çiçeği İhtişamı": "pluckedyamabukisplendor",
+		"Erik Çiçeği Buketi": "plumblossombouquet",
+		"El Değmemiş Zarafet": "pristineelegance",
+		"Kadim Dualar": "pristineprayers",
+		"Saf Ruh": "purespirit",
+		"Mor Gül": "purplerose",
+		"Yağmurlu Bambu Rüyası": "rainlitbambooreverie",
+		"Uzaktaki Gökkuşağı": "rangingrainbow",
+		"Kırmızı Gecenin Karanlığı": "reddeadofnight",
+		"Baharatlı Tatlar": "redpepperandturmeric",
+		"Yükselen Yıldız": "risingstaraether",
+		"Çetin Dalgalar": "rollingwaves",
+		"Yelkenli Gölgesi": "sailwindshadow",
+		"Deniz Esintisi Rüyası": "seabreezedandelion",
+		"Karanlıkta Yiten Yıldız": "shatteredstar",
+		"Küçük Kıvılcım": "shootingspark",
+		"İpekten Görkem": "silksplendor",
+		"Yüce İşaretçi": "soaringbeacon",
+		"Saf Ciddiyet": "solemnpurity",
+		"Ballı Şerbetli Turta": "sorbethoneypie",
+		"Işıltılı Mercan": "sparklingcoralbone",
+		"Coşkulu Cesaret": "spiritedvalor",
+		"Bahar Çiçeği Mektubu": "springbloommissive",
+		"Sarsılmaz Kararlılık": "steadfastresolve",
+		"Şeker Patlaması": "sugarrush",
+		"Şekerli Kokteyl": "sugarybrew",
+		"Serin Yaz Rüyası": "summerchilldreams",
+		"Muhteşem Yaz": "summertimesparkle",
+		"Denizin Tatlılığı": "sweetnessofthesea",
+		"Onur Kılıcı": "swordofhonor",
+		"Turuncu Tepeler, Sarmal Kaya": "tawnypeaksspiredrock",
+		"Şifacının Kaderi": "theapplicationsofmedicine",
+		"Aslan ve Kavurucu Güneş": "thelionessandtheblazingsun",
+		"Aklı Başında": "therational",
+		"Küçülme Noktası": "thewaningpoint",
+		"Dünyanın Kelepçeleri": "theworldsshackles",
+		"Tlalocan'ın Gece Hayaleti": "tlalocansnightphantom",
+		"Kilisenin Özgür Ruhu": "tothechurchsfreespirit",
+		"Uzaktaki Ufka Doğru": "towardthedistanthorizon",
+		"Sessiz Ziyafet": "tranquilbanquet",
+		"Alacakaranlık Çiçeği": "twilightblossom",
+		"Ebedi Güneş": "undyingsun",
+		"Yeşil Ay": "verdantmoon",
+		"Alev Savaşçısı": "warriorofflame",
+		"Savaşçının Kemik Zırhı": "warriorsbonegarb",
+		"Dalgaların Dansı": "wavecrestwaltz",
+		"Uçuşan Çiçekler": "whirlingbloom",
+		"Rüzgarın Peşinde": "whistledartwings",
+		"Yaban Koşusu": "wildsprint",
+		"Orman Şarkısı": "woodlandsong",
+		"Sarı Kadife": "yellowvelvetsalon"
+	},
+	"aliases": {},
+	"categories": {
+		"Amber": [
+			"100outrider",
+			"5staroutrider"
+		],
+		"Bennett": [
+			"adventuresinblazinghue",
+			"fortunesfavor"
+		],
+		"Durin": [
+			"agiftfromthestars",
+			"towardthedistanthorizon"
+		],
+		"Xianyun": [
+			"aguestsaugustomen"
+		],
+		"Charlotte": [
+			"allisovertthroughmylens"
+		],
+		"Emilie": [
+			"ambrosialverdance"
+		],
+		"Collei": [
+			"anewleaf"
+		],
+		"Kuki Shinobu": [
+			"aratakisdemonicdeputy"
+		],
+		"Xinyan": [
+			"ardentsoul"
+		],
+		"Lan Yan": [
+			"argentchimes"
+		],
+		"Noelle": [
+			"armoredrose"
+		],
+		"Aether": [
+			"asheavenandeartharemadeanewaether",
+			"risingstaraether"
+		],
+		"Lumine": [
+			"asheavenandeartharemadeanewlumine",
+			"risingstarlumine"
+		],
+		"Lisa": [
+			"asobriquetundershade",
+			"purplerose"
+		],
+		"Avare": [
+			"awrathfulvoid"
+		],
+		"Xingqiu": [
+			"azuresilk",
+			"bamboorain"
+		],
+		"Ororon": [
+			"batwingiris"
+		],
+		"Tartaglia": [
+			"bladesofglory"
+		],
+		"Klee": [
+			"blossomingstarlight",
+			"shootingspark"
+		],
+		"Nilou": [
+			"breezeofsabaa",
+			"neitherflowernormist"
+		],
+		"Venti": [
+			"breezyode"
+		],
+		"Hu Tao": [
+			"cherriessnowladen",
+			"plumblossombouquet"
+		],
+		"Yaoyao": [
+			"cherubicosmanthus",
+			"rainlitbambooreverie"
+		],
+		"Neuvillette": [
+			"clearadjudication",
+			"melusentgift"
+		],
+		"Furina": [
+			"coronatedprimadonna"
+		],
+		"Diluc": [
+			"darknightblaze",
+			"reddeadofnight"
+		],
+		"Yumemizuki Mizuki": [
+			"dawnbreathdreambelle"
+		],
+		"Citlali": [
+			"dawnseer"
+		],
+		"Candace": [
+			"desertandnight"
+		],
+		"Layla": [
+			"dreamingstar"
+		],
+		"Fischl": [
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
+		],
+		"Arataki Itto": [
+			"eccentriconi"
+		],
+		"Kinich": [
+			"eightbitartistry"
+		],
+		"Nefer": [
+			"emeraldcipher"
+		],
+		"Xiao": [
+			"endurerofeons"
+		],
+		"Rosaria": [
+			"executorsthorns",
+			"tothechurchsfreespirit"
+		],
+		"Kaedehara Kazuha": [
+			"fallingleaves"
+		],
+		"Lyney": [
+			"fantasticat"
+		],
+		"Jean": [
+			"favoniandevotion",
+			"gunnhildrslegacy",
+			"seabreezedandelion"
+		],
+		"Kamisato Ayaka": [
+			"flawlessradiance",
+			"springbloommissive"
+		],
+		"Mona": [
+			"flowingfate",
+			"pactofstarsandmoon"
+		],
+		"Aino": [
+			"fluffypuffywhizkidworkwear"
+		],
+		"Mualani": [
+			"flyingfishheatwavesandmoonscallop"
+		],
+		"Nahida": [
+			"forallknowledgeaverse"
+		],
+		"Ganyu": [
+			"frostdewtrail",
+			"twilightblossom"
+		],
+		"Shenhe": [
+			"frostflowerdew",
+			"theworldsshackles"
+		],
+		"Sucrose": [
+			"germinatingwind"
+		],
+		"Xilonen": [
+			"golddrapedgorge"
+		],
+		"Yanfei": [
+			"goldenrule"
+		],
+		"Sethos": [
+			"goldensandstrider"
+		],
+		"Yoimiya": [
+			"goldfishfirecracker"
+		],
+		"Ningguang": [
+			"goldleafandpearlyjade",
+			"orchidseveninggown"
+		],
+		"Kaveh": [
+			"goldpinionsinflamesbathed"
+		],
+		"Chevreuse": [
+			"guardiansgun"
+		],
+		"Cyno": [
+			"heartofthescales"
+		],
+		"Zhongli": [
+			"hermitofmortallife"
+		],
+		"Kaeya": [
+			"icyfeatherflight",
+			"sailwindshadow"
+		],
+		"Freminet": [
+			"icyskin"
+		],
+		"Dori": [
+			"ilovemora"
+		],
+		"Barbara": [
+			"innocentlonging",
+			"summertimesparkle"
+		],
+		"Aloy": [
+			"machinehunter"
+		],
+		"Ineffa": [
+			"mechanicaldreams"
+		],
+		"Yae Miko": [
+			"mikosinstruction"
+		],
+		"Sayu": [
+			"minimujina"
+		],
+		"Yun Jin": [
+			"mistcloudstage"
+		],
+		"Arlecchino": [
+			"moonglare"
+		],
+		"Zibai": [
+			"moonlitcourser"
+		],
+		"Columbina": [
+			"moonweavegossamer"
+		],
+		"Şogun Raiden": [
+			"narukamislaw"
+		],
+		"Albedo": [
+			"newmoonstarlight"
+		],
+		"Xiangling": [
+			"newyearscheer",
+			"redpepperandturmeric"
+		],
+		"Wriothesley": [
+			"nightschillinghowl"
+		],
+		"Flins": [
+			"nocturne"
+		],
+		"Jahoda": [
+			"novaswhisper"
+		],
+		"Keqing": [
+			"opulentsplendor",
+			"piercingthunderbolt"
+		],
+		"Gorou": [
+			"panoplyofahundredhunts"
+		],
+		"Lynette": [
+			"phantomeow"
+		],
+		"Kirara": [
+			"phantominboots",
+			"whirlingbloom"
+		],
+		"Chiori": [
+			"pluckedyamabukisplendor"
+		],
+		"Faruzan": [
+			"pristineelegance"
+		],
+		"Dahlia": [
+			"pristineprayers"
+		],
+		"Chongyun": [
+			"purespirit"
+		],
+		"Gaming": [
+			"rangingrainbow"
+		],
+		"Beidou": [
+			"rollingwaves"
+		],
+		"Skirk": [
+			"shatteredstar"
+		],
+		"Kamisato Ayato": [
+			"silksplendor"
+		],
+		"Mika": [
+			"soaringbeacon"
+		],
+		"Kujou Sara": [
+			"solemnpurity"
+		],
+		"Escoffier": [
+			"sorbethoneypie"
+		],
+		"Sangonomiya Kokomi": [
+			"sparklingcoralbone"
+		],
+		"Shikanoin Heizou": [
+			"spiritedvalor"
+		],
+		"Illuga": [
+			"steadfastresolve"
+		],
+		"Varesa": [
+			"sugarrush"
+		],
+		"Diona": [
+			"sugarybrew"
+		],
+		"Qiqi": [
+			"summerchilldreams"
+		],
+		"Sigewinne": [
+			"sweetnessofthesea"
+		],
+		"Clorinde": [
+			"swordofhonor"
+		],
+		"Kachina": [
+			"tawnypeaksspiredrock"
+		],
+		"Baizhu": [
+			"theapplicationsofmedicine"
+		],
+		"Dehya": [
+			"thelionessandtheblazingsun"
+		],
+		"Alhaitham": [
+			"therational"
+		],
+		"Yelan": [
+			"thewaningpoint",
+			"tranquilbanquet"
+		],
+		"Chasca": [
+			"tlalocansnightphantom"
+		],
+		"Mavuika": [
+			"undyingsun"
+		],
+		"Lauma": [
+			"verdantmoon"
+		],
+		"Thoma": [
+			"warriorofflame"
+		],
+		"Iansan": [
+			"warriorsbonegarb"
+		],
+		"Eula": [
+			"wavecrestwaltz"
+		],
+		"Ifa": [
+			"whistledartwings"
+		],
+		"Razor": [
+			"wildsprint"
+		],
+		"Tighnari": [
+			"woodlandsong"
+		],
+		"Navia": [
+			"yellowvelvetsalon"
+		]
+	},
+	"properties": {
+		"characterName": [
+			"Amber",
+			"Bennett",
+			"Durin",
+			"Xianyun",
+			"Charlotte",
+			"Emilie",
+			"Collei",
+			"Kuki Shinobu",
+			"Xinyan",
+			"Lan Yan",
+			"Noelle",
+			"Aether",
+			"Lumine",
+			"Lisa",
+			"Avare",
+			"Xingqiu",
+			"Ororon",
+			"Tartaglia",
+			"Klee",
+			"Nilou",
+			"Venti",
+			"Hu Tao",
+			"Yaoyao",
+			"Neuvillette",
+			"Furina",
+			"Diluc",
+			"Yumemizuki Mizuki",
+			"Citlali",
+			"Candace",
+			"Layla",
+			"Fischl",
+			"Arataki Itto",
+			"Kinich",
+			"Nefer",
+			"Xiao",
+			"Rosaria",
+			"Kaedehara Kazuha",
+			"Lyney",
+			"Jean",
+			"Kamisato Ayaka",
+			"Mona",
+			"Aino",
+			"Mualani",
+			"Nahida",
+			"Ganyu",
+			"Shenhe",
+			"Sucrose",
+			"Xilonen",
+			"Yanfei",
+			"Sethos",
+			"Yoimiya",
+			"Ningguang",
+			"Kaveh",
+			"Chevreuse",
+			"Cyno",
+			"Zhongli",
+			"Kaeya",
+			"Freminet",
+			"Dori",
+			"Barbara",
+			"Aloy",
+			"Ineffa",
+			"Yae Miko",
+			"Sayu",
+			"Yun Jin",
+			"Arlecchino",
+			"Zibai",
+			"Columbina",
+			"Şogun Raiden",
+			"Albedo",
+			"Xiangling",
+			"Wriothesley",
+			"Flins",
+			"Jahoda",
+			"Keqing",
+			"Gorou",
+			"Lynette",
+			"Kirara",
+			"Chiori",
+			"Faruzan",
+			"Dahlia",
+			"Chongyun",
+			"Gaming",
+			"Beidou",
+			"Skirk",
+			"Kamisato Ayato",
+			"Mika",
+			"Kujou Sara",
+			"Escoffier",
+			"Sangonomiya Kokomi",
+			"Shikanoin Heizou",
+			"Illuga",
+			"Varesa",
+			"Diona",
+			"Qiqi",
+			"Sigewinne",
+			"Clorinde",
+			"Kachina",
+			"Baizhu",
+			"Dehya",
+			"Alhaitham",
+			"Yelan",
+			"Chasca",
+			"Mavuika",
+			"Lauma",
+			"Thoma",
+			"Iansan",
+			"Eula",
+			"Ifa",
+			"Razor",
+			"Tighnari",
+			"Navia"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81203
+	],
+	"name": "La rumeur en neuf mots",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1189,
+	"stages": 1,
+	"stage1": {
+		"title": "La rumeur en neuf mots",
+		"description": "Trouvez tous les messages secrets.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

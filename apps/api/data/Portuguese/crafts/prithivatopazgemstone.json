@@ -1,0 +1,16 @@
+{
+	"id": 15021,
+	"name": "Gema de Topázio Prithiva",
+	"filterText": "Material de Ascensão de Personagem",
+	"sortOrder": 110058,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 2700,
+	"recipe": [
+		{
+			"id": 104173,
+			"name": "Pedaço de Topázio Prithiva",
+			"count": 3
+		}
+	]
+}

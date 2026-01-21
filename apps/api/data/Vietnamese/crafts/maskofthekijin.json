@@ -1,0 +1,16 @@
+{
+	"id": 12027,
+	"name": "Mặt Nạ Kijin",
+	"filterText": "Nguyên liệu đột phá vũ khí",
+	"sortOrder": 130078,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114035,
+			"name": "Mặt Nạ Một Sừng",
+			"count": 3
+		}
+	]
+}

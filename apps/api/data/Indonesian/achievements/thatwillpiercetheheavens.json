@@ -1,0 +1,21 @@
+{
+	"id": [
+		81527
+	],
+	"name": "Menerobos Cakrawala!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1511,
+	"stages": 1,
+	"stage1": {
+		"title": "Menerobos Cakrawala!",
+		"description": "Menyelesaikan semua Tantangan Pejuang di suku Putra-Putri Gema dengan skor tertinggi.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

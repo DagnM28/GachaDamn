@@ -1,0 +1,16 @@
+{
+	"id": 30001,
+	"name": "Stoffa",
+	"filterText": "Materiale creazione decorazioni",
+	"sortOrder": 170000,
+	"unlockRank": 28,
+	"resultCount": 10,
+	"moraCost": 0,
+	"recipe": [
+		{
+			"id": 100029,
+			"name": "Fiordiseta",
+			"count": 1
+		}
+	]
+}

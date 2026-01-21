@@ -1,0 +1,21 @@
+{
+	"id": [
+		84118
+	],
+	"name": "Y del mar nunca jamás lo separaron",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"isHidden": true,
+	"sortOrder": 6611,
+	"stages": 1,
+	"stage1": {
+		"title": "Y del mar nunca jamás lo separaron",
+		"description": "Averigua la historia de Inu Shoushou con Thoma.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

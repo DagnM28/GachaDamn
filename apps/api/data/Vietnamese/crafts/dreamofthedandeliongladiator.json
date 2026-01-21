@@ -1,0 +1,16 @@
+{
+	"id": 12009,
+	"name": "Lý Tưởng Của Đấu Sĩ Nanh Sư Tử",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130018,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114011,
+			"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+			"count": 3
+		}
+	]
+}

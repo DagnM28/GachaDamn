@@ -1,0 +1,16 @@
+{
+	"id": 11013,
+	"name": "Dead Ley Line Leaves",
+	"filterText": "วัสดุยกระดับตัวละครและอาวุธ",
+	"sortOrder": 140020,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112020,
+			"name": "Dead Ley Line Branch",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12011,
+	"name": "Squelette sacré de Guyun",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130029,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114014,
+			"name": "Roche lustrée de Guyun",
+			"count": 3
+		}
+	]
+}

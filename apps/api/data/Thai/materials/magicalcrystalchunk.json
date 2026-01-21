@@ -1,0 +1,11 @@
+{
+	"id": 101004,
+	"name": "Magical Crystal Chunk",
+	"sortRank": 301,
+	"description": "สามารถปรับปรุงเป็นวัสดุประสบการณ์อาวุธได้ผ่านการ \"สั่งทำอาวุธ\" โดยใช้ Original Resin\nCrystal Ore ที่ถูกกัดเซาะด้วยพลังงานของ Ley Lines นั้นจะไม่สามารถจัดการได้ด้วยวิธีทั่วไป",
+	"category": "EXCHANGE",
+	"typeText": "แร่ที่ใช้ในการหลอม",
+	"sources": [
+		"พบได้ในโลกกว้าง"
+	]
+}

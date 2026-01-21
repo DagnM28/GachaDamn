@@ -1,0 +1,20 @@
+{
+	"id": [
+		86012
+	],
+	"name": "Um peixe chamado Rhodeia",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Encontros Fora Deste Mundo - Série I",
+	"sortOrder": 9012,
+	"stages": 1,
+	"stage1": {
+		"title": "Um peixe chamado Rhodeia",
+		"description": "Derrote um Oceanids no modo multijogador.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

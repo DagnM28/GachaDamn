@@ -1,0 +1,13 @@
+{
+	"id": 101002,
+	"name": "White Iron Chunk",
+	"sortRank": 301,
+	"description": "ช่างเหล็กที่มีความสามารถ จะเปลี่ยนสิ่งนี้ให้เป็นสิ่งมหัศจรรย์ได้",
+	"category": "EXCHANGE",
+	"typeText": "แร่ที่ใช้ในการหลอม",
+	"sources": [
+		"พบได้ในโลกกว้าง",
+		"คำแนะนำ: หาได้ที่หุบเขา Stormbearer Mountain",
+		"คำแนะนำ: หาได้ที่ Wolvendom"
+	]
+}

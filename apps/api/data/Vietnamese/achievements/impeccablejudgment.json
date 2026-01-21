@@ -1,0 +1,21 @@
+{
+	"id": [
+		82123
+	],
+	"name": "Nhận Định Chính Xác",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2123,
+	"stages": 1,
+	"stage1": {
+		"title": "Nhận Định Chính Xác",
+		"description": "Chỉ bắn rơi đối thủ thực sự...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

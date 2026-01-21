@@ -1,0 +1,20 @@
+{
+	"id": [
+		82166
+	],
+	"name": "Aunque haya un muro entre nosotros...",
+	"achievementGroupId": 39,
+	"achievementGroupName": "Retador: Parte 7",
+	"sortOrder": 2166,
+	"stages": 1,
+	"stage1": {
+		"title": "Aunque haya un muro entre nosotros...",
+		"description": "Derrota a un Bautista Sacrílego sin romper su protección elemental.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

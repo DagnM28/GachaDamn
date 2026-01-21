@@ -1,0 +1,16 @@
+{
+	"id": 11043,
+	"name": "休眠菌核",
+	"filterText": "角色与武器培养素材",
+	"sortOrder": 140110,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112062,
+			"name": "失活菌核",
+			"count": 3
+		}
+	]
+}

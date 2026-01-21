@@ -1,0 +1,16 @@
+{
+	"id": 13025,
+	"name": "Guide de l'Équité",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120120,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104338,
+			"name": "Enseignement de l'Équité",
+			"count": 3
+		}
+	]
+}

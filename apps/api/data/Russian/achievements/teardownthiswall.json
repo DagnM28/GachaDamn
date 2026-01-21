@@ -1,0 +1,20 @@
+{
+	"id": [
+		82067
+	],
+	"name": "Снесите эту стену!",
+	"achievementGroupId": 15,
+	"achievementGroupName": "Победитель III",
+	"sortOrder": 2067,
+	"stages": 1,
+	"stage1": {
+		"title": "Снесите эту стену!",
+		"description": "Разбейте ледяной щит митачурла.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

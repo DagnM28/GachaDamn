@@ -1,0 +1,15 @@
+{
+	"id": 101312,
+	"name": "Legno Otogi",
+	"rarity": 1,
+	"sortRank": 330,
+	"description": "Legno ottenuto dagli alberi otogi. Umido e oleoso al punto giusto, può essere impiegato in vari modi.\nPuoi usarlo per creare decorazioni.",
+	"category": "WOOD",
+	"typeText": "Materiale",
+	"sources": [
+		"Presente in natura",
+		"Consiglio: si taglia sull'Isola di Yashiori",
+		"Negozio del regno: Legno",
+		"Converti legno"
+	]
+}

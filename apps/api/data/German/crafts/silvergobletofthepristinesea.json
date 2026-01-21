@@ -1,0 +1,16 @@
+{
+	"id": 12044,
+	"name": "Silberkelch des unberührten Meers",
+	"filterText": "Material zum Aufstieg von Waffen",
+	"sortOrder": 130139,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114058,
+			"name": "Weinkelch des unberührten Meers",
+			"count": 3
+		}
+	]
+}

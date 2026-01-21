@@ -1,0 +1,14 @@
+{
+	"id": 100056,
+	"name": "Lys calla",
+	"sortRank": 311,
+	"description": "Une fleur qui pousse près des points d'eau. Ses pétales dodus ont un goût sucré et amer lorsqu'ils sont cuisinés.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Mondstadt",
+	"sources": [
+		"Bords de lac",
+		"Zone conseillée : Deauclaire",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13019,
+	"name": "Guida all'ammonimento",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120090,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104329,
+			"name": "Insegnamenti dell'ammonimento",
+			"count": 3
+		}
+	]
+}

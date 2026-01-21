@@ -1,0 +1,21 @@
+{
+	"id": [
+		81152
+	],
+	"name": "El tesoro del pastor marino",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"isHidden": true,
+	"sortOrder": 1138,
+	"stages": 1,
+	"stage1": {
+		"title": "El tesoro del pastor marino",
+		"description": "Encuentra el valioso legado de los piratas a partir de las descripciones de un borracho.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

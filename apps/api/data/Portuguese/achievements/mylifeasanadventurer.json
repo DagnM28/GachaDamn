@@ -1,0 +1,21 @@
+{
+	"id": [
+		81173
+	],
+	"name": "\"Minha Vida Como Um Aventureiro\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1159,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Minha Vida Como Um Aventureiro\"",
+		"description": "Ajude Roald a completar seu diário de aventura.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

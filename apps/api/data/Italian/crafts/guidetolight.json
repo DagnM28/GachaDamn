@@ -1,0 +1,16 @@
+{
+	"id": 13017,
+	"name": "Guida alla luce",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120080,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104326,
+			"name": "Insegnamenti della luce",
+			"count": 3
+		}
+	]
+}

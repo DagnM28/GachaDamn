@@ -1,0 +1,16 @@
+{
+	"id": 15020,
+	"name": "Prithiva Topaz Chunk",
+	"filterText": "Character Ascension Material",
+	"sortOrder": 110059,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104172,
+			"name": "Prithiva Topaz Fragment",
+			"count": 3
+		}
+	]
+}

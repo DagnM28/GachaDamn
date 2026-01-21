@@ -1,0 +1,21 @@
+{
+	"id": [
+		81365
+	],
+	"name": "Vivianne du lac",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1350,
+	"stages": 1,
+	"stage1": {
+		"title": "Vivianne du lac",
+		"description": "Vainquez la légende locale : Vivianne du lac.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

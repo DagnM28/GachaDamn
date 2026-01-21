@@ -1,0 +1,21 @@
+{
+	"id": [
+		81038
+	],
+	"name": "การสำรวจที่ไร้ผล",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1039,
+	"stages": 1,
+	"stage1": {
+		"title": "การสำรวจที่ไร้ผล",
+		"description": "พบซากเครื่องจักรในโบราณสถานจำนวนมาก...",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

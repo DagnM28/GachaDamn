@@ -1,0 +1,14 @@
+{
+	"id": 100055,
+	"name": "Herbe à lampe",
+	"sortRank": 311,
+	"description": "Une plante sauvage qui produit de la lumière une fois la nuit tombée.",
+	"category": "EXCHANGE",
+	"typeText": "Produit de Mondstadt",
+	"sources": [
+		"Zone conseillée : Territoire des loups",
+		"Zone conseillée : Bois des Murmures",
+		"Agriculture dans la Sérénithéière",
+		"Aller collecter"
+	]
+}

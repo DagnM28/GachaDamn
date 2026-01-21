@@ -1,0 +1,20 @@
+{
+	"id": [
+		82072
+	],
+	"name": "สังหารราชา",
+	"achievementGroupId": 15,
+	"achievementGroupName": "ผู้ท้าทาย - ชุดที่ 3",
+	"sortOrder": 2072,
+	"stages": 1,
+	"stage1": {
+		"title": "สังหารราชา",
+		"description": "ปราบราชาตัวจริงแห่ง Dragonspine...?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

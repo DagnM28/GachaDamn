@@ -1,0 +1,20 @@
+{
+	"id": [
+		80113
+	],
+	"name": "Континентальный исследователь: Цуруми",
+	"achievementGroupId": 27,
+	"achievementGroupName": "Сквозь туман",
+	"sortOrder": 113,
+	"stages": 1,
+	"stage1": {
+		"title": "Континентальный исследователь: Цуруми",
+		"description": "Откройте полностью карту Цуруми.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

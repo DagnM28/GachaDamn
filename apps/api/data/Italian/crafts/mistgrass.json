@@ -1,0 +1,16 @@
+{
+	"id": 11017,
+	"name": "Erbafosca",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140040,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112026,
+			"name": "Polline d'Erbafosca",
+			"count": 3
+		}
+	]
+}

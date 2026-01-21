@@ -1,0 +1,21 @@
+{
+	"id": [
+		81170
+	],
+	"name": "ห้วงมายาสีขาว",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1156,
+	"stages": 1,
+	"stage1": {
+		"title": "ห้วงมายาสีขาว",
+		"description": "เผชิญหน้ากับห้วงมายาแห่งอดีต",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

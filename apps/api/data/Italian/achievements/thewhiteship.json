@@ -1,0 +1,21 @@
+{
+	"id": [
+		81342
+	],
+	"name": "La nave bianca",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1328,
+	"stages": 1,
+	"stage1": {
+		"title": "La nave bianca",
+		"description": "\"Naviga sul mare dei sogni...\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

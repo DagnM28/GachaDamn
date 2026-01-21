@@ -1,0 +1,21 @@
+{
+	"id": [
+		82108
+	],
+	"name": "Trovão no Leste",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2109,
+	"stages": 1,
+	"stage1": {
+		"title": "Trovão no Leste",
+		"description": "Seja atingido pelo raio invocado por um Mitachurl do Machado Electro...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84123
+	],
+	"name": "Şarap Tüm Dertleri Unutturur",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"isHidden": true,
+	"sortOrder": 6910,
+	"stages": 1,
+	"stage1": {
+		"title": "Şarap Tüm Dertleri Unutturur",
+		"description": "Beidou ile birlikte Qingce ziyafetine katıl.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

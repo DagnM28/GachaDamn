@@ -1,0 +1,21 @@
+{
+	"id": [
+		84055
+	],
+	"name": "Yolculuğun Başlangıcı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5034,
+	"stages": 1,
+	"stage1": {
+		"title": "Yolculuğun Başlangıcı",
+		"description": "Genç bir adam, uzun bir yolculuğa çıkmak üzere.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

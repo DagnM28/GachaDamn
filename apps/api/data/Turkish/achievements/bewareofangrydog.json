@@ -1,0 +1,21 @@
+{
+	"id": [
+		82124
+	],
+	"name": "Dikkat Köpek Var",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2124,
+	"stages": 1,
+	"stage1": {
+		"title": "Dikkat Köpek Var",
+		"description": "Kükreyen bir Hiçlik Kurdunu yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

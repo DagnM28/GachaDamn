@@ -1,0 +1,21 @@
+{
+	"id": [
+		81319
+	],
+	"name": "Vyakarana Burung-Burung",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1306,
+	"stages": 1,
+	"stage1": {
+		"title": "Vyakarana Burung-Burung",
+		"description": "Sorush berhasil mendapatkan Twin-Horned Chaplet, dengan disaksikan oleh Zurvan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

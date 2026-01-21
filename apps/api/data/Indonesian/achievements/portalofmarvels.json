@@ -1,0 +1,21 @@
+{
+	"id": [
+		81225
+	],
+	"name": "Pintu Keajaiban",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1211,
+	"stages": 1,
+	"stage1": {
+		"title": "Pintu Keajaiban",
+		"description": "Masuk ke \"Dunia Aranara\" ....",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

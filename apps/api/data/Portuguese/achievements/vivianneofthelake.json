@@ -1,0 +1,21 @@
+{
+	"id": [
+		81365
+	],
+	"name": "Vivianne do Lago",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1350,
+	"stages": 1,
+	"stage1": {
+		"title": "Vivianne do Lago",
+		"description": "Derrote a lendária Vivianne do Lago",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

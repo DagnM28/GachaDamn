@@ -1,0 +1,13 @@
+{
+	"id": 104131,
+	"name": "Scheggia di smeraldo Nagadus",
+	"rarity": 2,
+	"sortRank": 12104,
+	"description": "Materiale d'ascensione personaggi.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale d'ascensione personaggi",
+	"sources": [
+		"Controlla la scheda Nemici nel Manuale dell'avventuriere",
+		"Si ottiene dalla Scheda di conversione del Banco della creazione"
+	]
+}

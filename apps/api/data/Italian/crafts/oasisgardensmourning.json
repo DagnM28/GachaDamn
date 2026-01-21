@@ -1,0 +1,16 @@
+{
+	"id": 12032,
+	"name": "Compianto del giardino dell'oasi",
+	"filterText": "Materiale d'ascensione armi",
+	"sortOrder": 130099,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114042,
+			"name": "Benevolenza del giardino dell'oasi",
+			"count": 3
+		}
+	]
+}

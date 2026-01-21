@@ -1,0 +1,22 @@
+{
+	"id": [
+		84000
+	],
+	"name": "The End of the Beginning",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 4001,
+	"stages": 1,
+	"stage1": {
+		"title": "The End of the Beginning",
+		"ps5title": "Journey: The End of the Beginning",
+		"description": "Complete the Mondstadt Archon Quests.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

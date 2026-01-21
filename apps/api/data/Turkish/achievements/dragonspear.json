@@ -1,0 +1,20 @@
+{
+	"id": [
+		80068
+	],
+	"name": "Ejderha Mızrağı",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Buzlu Dağın Ziyaretçileri",
+	"sortOrder": 68,
+	"stages": 1,
+	"stage1": {
+		"title": "Ejderha Mızrağı",
+		"description": "Ejderha kalıntılarından bir silah yap.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

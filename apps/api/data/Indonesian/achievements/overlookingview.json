@@ -1,0 +1,21 @@
+{
+	"id": [
+		81000
+	],
+	"name": "Menghadap Pemandangan",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1000,
+	"stages": 1,
+	"stage1": {
+		"title": "Menghadap Pemandangan",
+		"description": "Capai puncak Qingyun Peak.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": [
+		82104
+	],
+	"name": "Himmelsdurchbrecher",
+	"dupealias": "Himmelsdurchbrecher 1",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2105,
+	"stages": 1,
+	"stage1": {
+		"title": "Himmelsdurchbrecher",
+		"description": "Lähme während eines Kampfs alle vier Ruinensoldaten der Anordnung immerwährender Vorrichtungen und besiege sie.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

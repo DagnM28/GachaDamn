@@ -1,0 +1,21 @@
+{
+	"id": [
+		81099
+	],
+	"name": "Dia da Sorte de Paimon!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1100,
+	"stages": 1,
+	"stage1": {
+		"title": "Dia da Sorte de Paimon!",
+		"description": "Tire um rolinho de \"Grande Fortuna\" no Grande Santuário Narukami",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

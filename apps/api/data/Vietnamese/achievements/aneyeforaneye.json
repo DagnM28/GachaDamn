@@ -1,0 +1,21 @@
+{
+	"id": [
+		81356
+	],
+	"name": "Gậy Ông Đập Lưng Ông",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1342,
+	"stages": 1,
+	"stage1": {
+		"title": "Gậy Ông Đập Lưng Ông",
+		"description": "Giải quyết Bình Đạn phiền phức!",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

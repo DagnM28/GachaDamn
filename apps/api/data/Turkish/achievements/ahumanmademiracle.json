@@ -1,0 +1,21 @@
+{
+	"id": [
+		84340
+	],
+	"name": "İnsan Yapımı Mucize",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5119,
+	"stages": 1,
+	"stage1": {
+		"title": "İnsan Yapımı Mucize",
+		"description": "Natlan için nihai zaferi kazan.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

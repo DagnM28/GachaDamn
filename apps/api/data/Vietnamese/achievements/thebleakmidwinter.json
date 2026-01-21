@@ -1,0 +1,21 @@
+{
+	"id": [
+		81033
+	],
+	"name": "Mùa Đông Lạnh Giá",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1034,
+	"stages": 1,
+	"stage1": {
+		"title": "Mùa Đông Lạnh Giá",
+		"description": "Vì cái rét căm căm mà ngã xuống...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

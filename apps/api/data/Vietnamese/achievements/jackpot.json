@@ -1,0 +1,22 @@
+{
+	"id": [
+		81124
+	],
+	"name": "Trúng Độc Đắc",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1120,
+	"stages": 1,
+	"stage1": {
+		"title": "Trúng Độc Đắc",
+		"ps5title": "Inazuma - Trúng Độc Đắc",
+		"description": "Dùng Pháo Kamuijima kích nổ một địa điểm kho báu.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

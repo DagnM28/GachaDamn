@@ -1,0 +1,19 @@
+{
+	"id": 104306,
+	"name": "Philosophies of Resistance",
+	"rarity": 4,
+	"sortRank": 13102,
+	"description": "Material Penguatan Talenta.\nPerlawanan adalah tulang punggung Kerajaan Angin.\nSejarah Mondstadt adalah sejarah perlawanan. Rakyat bangkit untuk membiarkan puisi Mondstadt di masa depan bebas seperti angin yang menyebar ke seluruh negeri.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4223,
+	"dropDomainName": "Domain of Mastery: Belenggu Jurang Es",
+	"daysOfWeek": [
+		"Selasa",
+		"Jumat",
+		"Minggu"
+	],
+	"sources": [
+		"Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+	]
+}

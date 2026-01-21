@@ -1,0 +1,42 @@
+{
+	"id": [
+		80020,
+		80021,
+		80022
+	],
+	"name": "Quasi amici",
+	"achievementGroupId": 3,
+	"achievementGroupName": "Il viaggio dell'eroe",
+	"sortOrder": 20,
+	"stages": 3,
+	"stage1": {
+		"title": "Quasi amici",
+		"description": "Raggiungi il livello amicizia 10 con 4 personaggi.",
+		"progress": 4,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Quasi amici",
+		"description": "Raggiungi il livello amicizia 10 con 8 personaggi.",
+		"progress": 8,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Quasi amici",
+		"description": "Raggiungi il livello amicizia 10 con 16 personaggi.",
+		"progress": 16,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 20
+		}
+	}
+}

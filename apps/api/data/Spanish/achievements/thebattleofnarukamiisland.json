@@ -1,0 +1,20 @@
+{
+	"id": [
+		82098
+	],
+	"name": "La batalla de Narukami",
+	"achievementGroupId": 20,
+	"achievementGroupName": "Retador: Parte 4",
+	"sortOrder": 2098,
+	"stages": 1,
+	"stage1": {
+		"title": "La batalla de Narukami",
+		"description": "Derrota una Maquinaria Eterna que esté en modo debilitado.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

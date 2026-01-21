@@ -1,0 +1,16 @@
+{
+	"id": 13003,
+	"name": "Guia de Resistência",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120010,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104304,
+			"name": "Ensinamentos de Resistência",
+			"count": 3
+		}
+	]
+}

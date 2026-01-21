@@ -1,0 +1,22 @@
+{
+	"id": [
+		84024
+	],
+	"name": "Ein aufsteigender Stern",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4025,
+	"stages": 1,
+	"stage1": {
+		"title": "Ein aufsteigender Stern",
+		"ps5title": "Reise – Ein aufsteigender Stern",
+		"description": "Schließ „Ein aufsteigender Stern“ ab.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84067
+	],
+	"name": "Голос Акаши",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5046,
+	"stages": 1,
+	"stage1": {
+		"title": "Голос Акаши",
+		"description": "Услышьте голос небесной мудрости.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

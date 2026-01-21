@@ -1,0 +1,20 @@
+{
+	"id": [
+		80046
+	],
+	"name": "Peregrinaje al santuario: Liyue",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: el puerto de la piedra y los contratos",
+	"sortOrder": 46,
+	"stages": 1,
+	"stage1": {
+		"title": "Peregrinaje al santuario: Liyue",
+		"description": "Desbloquea todos los Santuarios de las Profundidades de Liyue.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

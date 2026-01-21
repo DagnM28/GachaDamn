@@ -1,0 +1,21 @@
+{
+	"id": [
+		84549
+	],
+	"name": "Liệu Pháp Thư Giãn",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4073,
+	"stages": 1,
+	"stage1": {
+		"title": "Liệu Pháp Thư Giãn",
+		"description": "Đáp ứng nguyện vọng của 3 bệnh nhân.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

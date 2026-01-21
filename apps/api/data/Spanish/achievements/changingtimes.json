@@ -1,0 +1,21 @@
+{
+	"id": [
+		84126
+	],
+	"name": "Alea jacta est",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"isHidden": true,
+	"sortOrder": 6810,
+	"stages": 1,
+	"stage1": {
+		"title": "Alea jacta est",
+		"description": "Obtén todos los palillos de la fortuna en el santuario.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

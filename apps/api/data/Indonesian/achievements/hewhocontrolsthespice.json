@@ -1,0 +1,21 @@
+{
+	"id": [
+		82160
+	],
+	"name": "Dia yang Menguasai Rempah-Rempah ....",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 2160,
+	"stages": 1,
+	"stage1": {
+		"title": "Dia yang Menguasai Rempah-Rempah ....",
+		"description": "Gunakan Peluru Angin dan picu reaksi Swirl untuk menjatuhkan Setekh Wenut yang melayang.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

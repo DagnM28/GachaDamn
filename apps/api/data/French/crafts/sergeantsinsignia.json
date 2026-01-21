@@ -1,0 +1,16 @@
+{
+	"id": 11021,
+	"name": "Insigne de sergent",
+	"filterText": "Matériau d'amélioration de personnage et d'arme",
+	"sortOrder": 150040,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112032,
+			"name": "Insigne de nouvelle recrue",
+			"count": 3
+		}
+	]
+}

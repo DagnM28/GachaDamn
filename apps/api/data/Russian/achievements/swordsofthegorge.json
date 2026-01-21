@@ -1,0 +1,21 @@
+{
+	"id": [
+		81373
+	],
+	"name": "Меч ущелья",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1357,
+	"stages": 1,
+	"stage1": {
+		"title": "Меч ущелья",
+		"description": "Победите местную легенду, Меч ущелья.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

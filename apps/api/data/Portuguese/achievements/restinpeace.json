@@ -1,0 +1,21 @@
+{
+	"id": [
+		81130
+	],
+	"name": "O Ciclo da Vida e Morte",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1122,
+	"stages": 1,
+	"stage1": {
+		"title": "O Ciclo da Vida e Morte",
+		"description": "Traga paz para 10 Samurais mortos.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81243
+	],
+	"name": "Biar Waktu Bergulir Kembali",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1229,
+	"stages": 1,
+	"stage1": {
+		"title": "Biar Waktu Bergulir Kembali",
+		"description": "Selesaikan urusan Aradasha yang belum tuntas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

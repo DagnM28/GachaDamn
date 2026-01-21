@@ -1,0 +1,22 @@
+{
+	"id": [
+		81267
+	],
+	"name": "Fata Morgana",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1253,
+	"stages": 1,
+	"stage1": {
+		"title": "Fata Morgana",
+		"ps5title": "Journey: Fata Morgana",
+		"description": "The way to the throne has finally been revealed.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

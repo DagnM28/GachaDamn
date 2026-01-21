@@ -1,0 +1,16 @@
+{
+	"id": 11014,
+	"name": "Germoglio geomantico",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140019,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112021,
+			"name": "Foglie geomantiche secche",
+			"count": 3
+		}
+	]
+}

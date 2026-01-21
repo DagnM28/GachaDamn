@@ -1,0 +1,16 @@
+{
+	"id": 15005,
+	"name": "Varunada-Lasurit-Brocken",
+	"filterText": "Material für den Figurenaufstieg",
+	"sortOrder": 110009,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104122,
+			"name": "Varunada-Lasurit-Bruchstück",
+			"count": 3
+		}
+	]
+}

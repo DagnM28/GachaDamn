@@ -1,0 +1,16 @@
+{
+	"id": 13006,
+	"name": "Philosophie de la Poésie",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120019,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104308,
+			"name": "Guide de la Poésie",
+			"count": 3
+		}
+	]
+}

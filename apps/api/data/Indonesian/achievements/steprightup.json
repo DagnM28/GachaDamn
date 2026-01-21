@@ -1,0 +1,21 @@
+{
+	"id": [
+		81196
+	],
+	"name": "Silakan Maju Kalau Berani!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 1182,
+	"stages": 1,
+	"stage1": {
+		"title": "Silakan Maju Kalau Berani!",
+		"description": "Selesaikan tantangan memanahnya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

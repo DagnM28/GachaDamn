@@ -1,0 +1,21 @@
+{
+	"id": [
+		81353
+	],
+	"name": "Như Nước Mắt Trong Mưa",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1339,
+	"stages": 1,
+	"stage1": {
+		"title": "Như Nước Mắt Trong Mưa",
+		"description": "Tìm ra kẻ ngụy trang lẫn trong Cá Đuối Sát Thủ.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

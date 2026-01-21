@@ -1,0 +1,21 @@
+{
+	"id": [
+		81111
+	],
+	"name": "Pourquoi vieillir",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1107,
+	"stages": 1,
+	"stage1": {
+		"title": "Pourquoi vieillir",
+		"description": "Payez vos respects aux défunts.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

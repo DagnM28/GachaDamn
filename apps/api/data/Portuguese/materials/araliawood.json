@@ -1,0 +1,15 @@
+{
+	"id": 101311,
+	"name": "Madeira de Arália",
+	"rarity": 1,
+	"sortRank": 330,
+	"description": "Madeira de Cedro de Inazuma. É suave, tem veios retos e exala uma fragrância leve.\nPode ser usada para fabricar Decorações.",
+	"category": "WOOD",
+	"typeText": "Material",
+	"sources": [
+		"Encontrado na natureza",
+		"Recomendação: Cortado na Ilha Narukami",
+		"Comprado do Tesouro do Paraíso Mágico: Madeira",
+		"Converter Madeira"
+	]
+}

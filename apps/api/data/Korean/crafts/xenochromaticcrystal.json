@@ -1,0 +1,16 @@
+{
+	"id": 11202,
+	"name": "이색 결정석",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 150109,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112081,
+			"name": "기이한 바다의 결정",
+			"count": 3
+		}
+	]
+}

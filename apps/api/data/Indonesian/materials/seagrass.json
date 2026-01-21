@@ -1,0 +1,11 @@
+{
+	"id": 101210,
+	"name": "Seagrass",
+	"sortRank": 321,
+	"description": "Tumbuhan yang tumbuh di laut dangkal. Tumbuhan ini menambahkan rasa unik pada hidangan.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Ditemukan di perairan Inazuma"
+	]
+}

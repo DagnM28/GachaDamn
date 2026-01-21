@@ -1,0 +1,21 @@
+{
+	"id": [
+		80175
+	],
+	"name": "L'essenza della foresta",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Fatiche mortali: Serie III",
+	"sortOrder": 175,
+	"stages": 1,
+	"stage1": {
+		"title": "L'essenza della foresta",
+		"ps5title": "Dendro: L'essenza della foresta",
+		"description": "Ottieni il potere di Dendro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

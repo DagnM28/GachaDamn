@@ -1,0 +1,16 @@
+{
+	"id": 12007,
+	"name": "Цепи львиного клыка",
+	"filterText": "Возвышение оружия",
+	"sortOrder": 130020,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114009,
+			"name": "Кандалы львиного клыка",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 15021,
+	"name": "Prithiva Topazı Külçesi",
+	"filterText": "Karakter Yükseltme Malzemesi",
+	"sortOrder": 110058,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 2700,
+	"recipe": [
+		{
+			"id": 104173,
+			"name": "Prithiva Topazı Parçası",
+			"count": 3
+		}
+	]
+}

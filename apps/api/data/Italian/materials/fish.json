@@ -1,0 +1,11 @@
+{
+	"id": 100084,
+	"name": "Pesce",
+	"sortRank": 321,
+	"description": "Un filetto di pesce fresco. Se trattato in modo appropriato, può diventare un piatto prelibato.",
+	"category": "EXCHANGE",
+	"typeText": "Ingrediente culinario",
+	"sources": [
+		"Si raccoglie pescando"
+	]
+}

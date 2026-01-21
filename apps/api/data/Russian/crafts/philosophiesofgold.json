@@ -1,0 +1,16 @@
+{
+	"id": 13012,
+	"name": "Философия о «Золоте»",
+	"filterText": "Таланты персонажей",
+	"sortOrder": 120049,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104317,
+			"name": "Указания о «Золоте»",
+			"count": 3
+		}
+	]
+}

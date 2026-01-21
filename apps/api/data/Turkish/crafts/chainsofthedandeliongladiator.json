@@ -1,0 +1,16 @@
+{
+	"id": 12007,
+	"name": "Karahindiba Gladyatörü Zinciri",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130020,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114009,
+			"name": "Karahindiba Gladyatörü Kelepçesi",
+			"count": 3
+		}
+	]
+}

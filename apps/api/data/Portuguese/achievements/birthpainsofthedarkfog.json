@@ -1,0 +1,21 @@
+{
+	"id": [
+		81209
+	],
+	"name": "Estranha Aparição da Neblina Escura",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1195,
+	"stages": 1,
+	"stage1": {
+		"title": "Estranha Aparição da Neblina Escura",
+		"description": "Derrote a coisa que apareceu da neblina escura.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

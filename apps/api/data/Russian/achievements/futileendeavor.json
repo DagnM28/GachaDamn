@@ -1,0 +1,21 @@
+{
+	"id": [
+		81038
+	],
+	"name": "Бесполезные усилия",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1039,
+	"stages": 1,
+	"stage1": {
+		"title": "Бесполезные усилия",
+		"description": "Найдите все останки руинных стражей...",
+		"progress": 9,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

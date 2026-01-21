@@ -1,0 +1,21 @@
+{
+	"id": [
+		84526
+	],
+	"name": "„Alles in meiner Macht stehende“",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "„Alles in meiner Macht stehende“",
+		"description": "Zerstöre vier Zeichen des Liebesglücks.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

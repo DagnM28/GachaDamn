@@ -1,0 +1,21 @@
+{
+	"id": 14007,
+	"name": "Dendrocide Potion",
+	"filterText": "น้ำยาโพชั่น",
+	"sortOrder": 200060,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 100,
+	"recipe": [
+		{
+			"id": 100085,
+			"name": "Crystal Core",
+			"count": 1
+		},
+		{
+			"id": 101219,
+			"name": "Sumeru Rose",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"id": 104302,
+	"name": "Guide to Freedom",
+	"rarity": 3,
+	"sortRank": 13101,
+	"description": "Material Penguatan Talenta.\nKebebasan adalah gairah Kerajaan Angin.\nKebebasan berkelana adalah salah satunya, kebebasan untuk bepergian tanpa dilarang.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material Talenta Karakter",
+	"dropDomainId": 4211,
+	"dropDomainName": "Domain of Mastery: Altar Salju",
+	"daysOfWeek": [
+		"Senin",
+		"Kamis",
+		"Minggu"
+	],
+	"sources": [
+		"Placeholder - Jumlah yang Bisa Di-Craft: {0}"
+	]
+}

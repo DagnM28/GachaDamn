@@ -1,0 +1,21 @@
+{
+	"id": [
+		84334
+	],
+	"name": "Yanmaya Mahkum Gökkuşağı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5113,
+	"stages": 1,
+	"stage1": {
+		"title": "Yanmaya Mahkum Gökkuşağı",
+		"description": "\"Yanmaya Mahkum Gökkuşağı\" görevini tamamla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

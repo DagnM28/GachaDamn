@@ -1,0 +1,21 @@
+{
+	"id": [
+		81430
+	],
+	"name": "L'espoir, un joli mot",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1414,
+	"stages": 1,
+	"stage1": {
+		"title": "L'espoir, un joli mot",
+		"description": "Découvrez une nouvelle vie dans une certaine ruine.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

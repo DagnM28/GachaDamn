@@ -1,0 +1,21 @@
+{
+	"id": [
+		84540
+	],
+	"name": "Adivinha Quem?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 4064,
+	"stages": 1,
+	"stage1": {
+		"title": "Adivinha Quem?",
+		"description": "Descubra quem Zhenyu realmente é.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

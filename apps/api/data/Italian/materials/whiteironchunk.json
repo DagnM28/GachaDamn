@@ -1,0 +1,13 @@
+{
+	"id": 101002,
+	"name": "Pezzo di ferro bianco",
+	"sortRank": 301,
+	"description": "Mani esperte possono trasformare questo minerale in qualcosa di unico.",
+	"category": "EXCHANGE",
+	"typeText": "Minerale da forgiatura",
+	"sources": [
+		"Presente in natura",
+		"Consiglio: si trova sulle Montagne Vedetta",
+		"Consiglio: si trova nel Regno dei Lupi"
+	]
+}

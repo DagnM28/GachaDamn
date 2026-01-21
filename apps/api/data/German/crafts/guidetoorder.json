@@ -1,0 +1,16 @@
+{
+	"id": 13029,
+	"name": "Anleitung zur „Ordnung“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120140,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104344,
+			"name": "Lehren der „Ordnung“",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81122
+	],
+	"name": "Thank You, Come Again",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1118,
+	"stages": 1,
+	"stage1": {
+		"title": "Thank You, Come Again",
+		"description": "Obtain the grand prize from Takashi's chests.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

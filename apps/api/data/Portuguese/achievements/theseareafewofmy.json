@@ -1,0 +1,22 @@
+{
+	"id": [
+		81355
+	],
+	"name": "Estas são Algumas das...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1341,
+	"stages": 1,
+	"stage1": {
+		"title": "Estas são Algumas das...",
+		"ps5title": "\"Estas são Algumas das...\"",
+		"description": "...Minhas Coisas Favoritas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

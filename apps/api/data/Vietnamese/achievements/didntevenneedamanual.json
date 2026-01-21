@@ -1,0 +1,21 @@
+{
+	"id": [
+		81301
+	],
+	"name": "Thậm Chí Không Cần Sổ Tay Hướng Dẫn...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1288,
+	"stages": 1,
+	"stage1": {
+		"title": "Thậm Chí Không Cần Sổ Tay Hướng Dẫn...",
+		"description": "Giúp Benben phục hồi sức sống.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 13023,
+	"name": "Guia da Práxis",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120110,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104335,
+			"name": "Ensinamentos de Práxis",
+			"count": 3
+		}
+	]
+}

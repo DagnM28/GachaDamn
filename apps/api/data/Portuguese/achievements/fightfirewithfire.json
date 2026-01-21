@@ -1,0 +1,21 @@
+{
+	"id": [
+		82106
+	],
+	"name": "Combata Fogo Com Fogo",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2107,
+	"stages": 1,
+	"stage1": {
+		"title": "Combata Fogo Com Fogo",
+		"description": "Derrote um Kairagi: Poder Flamejante enquanto a arma dele está infundida com Pyro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

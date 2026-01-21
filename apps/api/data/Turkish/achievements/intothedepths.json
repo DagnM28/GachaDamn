@@ -1,0 +1,20 @@
+{
+	"id": [
+		80147
+	],
+	"name": "Derinlere Doğru",
+	"achievementGroupId": 30,
+	"achievementGroupName": "Kanyon Işığı",
+	"sortOrder": 147,
+	"stages": 1,
+	"stage1": {
+		"title": "Derinlere Doğru",
+		"description": "Kanyon'daki ve Kanyon'un Yer Altı Madenlerindeki tüm Işınlanma Portallarının kilidini aç.",
+		"progress": 21,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

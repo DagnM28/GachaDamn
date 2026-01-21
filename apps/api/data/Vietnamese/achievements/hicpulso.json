@@ -1,0 +1,21 @@
+{
+	"id": [
+		81318
+	],
+	"name": "Gõ Ở Đây Đi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1305,
+	"stages": 1,
+	"stage1": {
+		"title": "Gõ Ở Đây Đi",
+		"description": "Thu hồi toàn bộ 5 Korybantes.",
+		"progress": 5,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

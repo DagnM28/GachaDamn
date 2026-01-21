@@ -1,0 +1,21 @@
+{
+	"id": [
+		82099
+	],
+	"name": "Wenn ich nur schnell genug laufe ...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2100,
+	"stages": 1,
+	"stage1": {
+		"title": "Wenn ich nur schnell genug laufe ...",
+		"description": "Besiege einen Maguu Kenki, ohne von seinen Phantomen getroffen zu werden.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

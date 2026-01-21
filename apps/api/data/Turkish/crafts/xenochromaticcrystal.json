@@ -1,0 +1,16 @@
+{
+	"id": 11202,
+	"name": "Alaca Kristal",
+	"filterText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sortOrder": 150109,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112081,
+			"name": "Okyanus Ötesi Parça",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81229
+	],
+	"name": "Parıldayan Melodi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1215,
+	"stages": 1,
+	"stage1": {
+		"title": "Parıldayan Melodi",
+		"description": "... Bu melodiyi nesilden nesile aktaracaklar.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

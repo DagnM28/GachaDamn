@@ -1,0 +1,21 @@
+{
+	"id": [
+		81237
+	],
+	"name": "Due chiacchiere col proprietario del baule",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1223,
+	"stages": 1,
+	"stage1": {
+		"title": "Due chiacchiere col proprietario del baule",
+		"description": "Trova il baule degli Aranara.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

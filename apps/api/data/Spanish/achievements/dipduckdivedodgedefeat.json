@@ -1,0 +1,20 @@
+{
+	"id": [
+		82054
+	],
+	"name": "¡Al agua, patos!",
+	"achievementGroupId": 14,
+	"achievementGroupName": "Retador: Parte 2",
+	"sortOrder": 2054,
+	"stages": 1,
+	"stage1": {
+		"title": "¡Al agua, patos!",
+		"description": "Derrota a una Oceánida sin recibir daño de las bombas de agua de ciertos Animales Hidromiméticos.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

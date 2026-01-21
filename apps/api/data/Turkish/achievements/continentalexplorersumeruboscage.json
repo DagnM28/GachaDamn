@@ -1,0 +1,21 @@
+{
+	"id": [
+		80160
+	],
+	"name": "Kıta Kaşifi: Sumeru Korusu",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru: Hikayelerin Yağmur Ormanı",
+	"sortOrder": 160,
+	"stages": 1,
+	"stage1": {
+		"title": "Kıta Kaşifi: Sumeru Korusu",
+		"ps5title": "Sumeru: Kıta Kaşifi (I)",
+		"description": "Sumeru'daki şu bölgelerin haritalarını aydınlat: Avidya Ormanı, Lokapala Ormanı, Ardravi Vadisi, Ashavan Diyarı, Vissudha Tarlası, Kayıp Fidelik ve Vanarana.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

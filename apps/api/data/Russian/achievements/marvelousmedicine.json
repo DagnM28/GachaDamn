@@ -1,0 +1,21 @@
+{
+	"id": [
+		84519
+	],
+	"name": "Чудеса медицины",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4043,
+	"stages": 1,
+	"stage1": {
+		"title": "Чудеса медицины",
+		"description": "Вылечите болезнь Анны.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

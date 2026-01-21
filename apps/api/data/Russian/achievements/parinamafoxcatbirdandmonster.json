@@ -1,0 +1,21 @@
+{
+	"id": [
+		84089
+	],
+	"name": "Паринама: Лисы, котёнок, птица и чудовище",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 5068,
+	"stages": 1,
+	"stage1": {
+		"title": "Паринама: Лисы, котёнок, птица и чудовище",
+		"description": "Разгадайте загадку Нахиды и узнайте о прошлом Сказителя.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

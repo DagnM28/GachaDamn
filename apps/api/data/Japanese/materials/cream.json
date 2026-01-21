@@ -1,0 +1,11 @@
+{
+	"id": 110002,
+	"name": "クリーム",
+	"sortRank": 322,
+	"description": "牛乳を高速で混ぜて作った乳製品。美味しいお菓子を作る時の必須材料。",
+	"category": "EXCHANGE",
+	"typeText": "食材",
+	"sources": [
+		"食材加工で獲得"
+	]
+}

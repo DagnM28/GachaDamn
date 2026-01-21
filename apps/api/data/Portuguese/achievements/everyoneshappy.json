@@ -1,0 +1,20 @@
+{
+	"id": [
+		84116
+	],
+	"name": "Todos Estão Felizes",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Memória do Coração",
+	"sortOrder": 6600,
+	"stages": 1,
+	"stage1": {
+		"title": "Todos Estão Felizes",
+		"description": "Complete \"Rotina de Serviços Domésticos\" e desbloqueie todos os finais.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

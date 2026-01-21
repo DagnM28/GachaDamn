@@ -1,0 +1,21 @@
+{
+	"id": [
+		81184
+	],
+	"name": "Vinte e Tantas Mil Léguas Submarinas?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1170,
+	"stages": 1,
+	"stage1": {
+		"title": "Vinte e Tantas Mil Léguas Submarinas?",
+		"description": "Entre em Enkanomiya",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

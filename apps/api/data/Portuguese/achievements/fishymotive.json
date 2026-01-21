@@ -1,0 +1,20 @@
+{
+	"id": [
+		81138
+	],
+	"name": "#{F#Pescadora}{M#Pescador} Perigos{F#a}{M#o}",
+	"achievementGroupId": 25,
+	"achievementGroupName": "Guia de Pesca de Teyvat - Série I",
+	"sortOrder": 1130,
+	"stages": 1,
+	"stage1": {
+		"title": "#{F#Pescadora}{M#Pescador} Perigos{F#a}{M#o}",
+		"description": "Compre uma vara de Pesca na Associação de Pesca.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

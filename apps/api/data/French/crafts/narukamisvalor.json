@@ -1,0 +1,16 @@
+{
+	"id": 12024,
+	"name": "Vaillance de Narukami",
+	"filterText": "Matériau d'élévation d'arme",
+	"sortOrder": 130068,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114031,
+			"name": "Affection de Narukami",
+			"count": 3
+		}
+	]
+}

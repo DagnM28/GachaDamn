@@ -1,0 +1,21 @@
+{
+	"id": [
+		84111
+	],
+	"name": "Неуязвимая горничная-рыцарь",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Воспоминания сердца",
+	"isHidden": true,
+	"sortOrder": 6410,
+	"stages": 1,
+	"stage1": {
+		"title": "Неуязвимая горничная-рыцарь",
+		"description": "Прослушайте «Путешествие рыцаря по Ли Юэ» с Ноэлль.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

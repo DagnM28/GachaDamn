@@ -1,0 +1,16 @@
+{
+	"id": 12016,
+	"name": "Meteor Demiri Kırıntısı",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114021,
+			"name": "Meteor Demiri Tozu",
+			"count": 3
+		}
+	]
+}

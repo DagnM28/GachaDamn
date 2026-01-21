@@ -1,0 +1,21 @@
+{
+	"id": [
+		82090
+	],
+	"name": "«Снега по колено...»",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2090,
+	"stages": 1,
+	"stage1": {
+		"title": "«Снега по колено...»",
+		"description": "Одолейте Крио гипостазис, воскресший три раза.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

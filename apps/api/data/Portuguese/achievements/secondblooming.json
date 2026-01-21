@@ -1,0 +1,22 @@
+{
+	"id": [
+		81121
+	],
+	"name": "Segundo Florescer",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1117,
+	"stages": 1,
+	"stage1": {
+		"title": "Segundo Florescer",
+		"ps5title": "Inazuma - Segundo Florescer",
+		"description": "Obtenha o presente de Hanayama Kaoru.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 101229,
+	"name": "Pluie Lotus",
+	"sortRank": 320,
+	"description": "Tanaman yang tumbuh di lingkungan yang kaya dengan elemen Hydro. Tanaman ini dapat ditemui di hampir semua tempat di Fontaine setelah musim hujan panjang. Tanaman ini dinamakan \"Pluie\" — yang dalam bahasa lokal artinya adalah \"hujan\".",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"Ditemukan di dekat danau dan tepi sungai"
+	]
+}

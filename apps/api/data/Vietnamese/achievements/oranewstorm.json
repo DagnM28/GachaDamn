@@ -1,0 +1,21 @@
+{
+	"id": [
+		84005
+	],
+	"name": "...Là trận bão mới sao?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4006,
+	"stages": 1,
+	"stage1": {
+		"title": "...Là trận bão mới sao?",
+		"description": "Đánh đuổi con rồng đã tấn công thành phố Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

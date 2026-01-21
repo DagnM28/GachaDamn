@@ -1,0 +1,21 @@
+{
+	"id": [
+		84526
+	],
+	"name": "Открыто для интерпретации",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "Открыто для интерпретации",
+		"description": "Испортите 4 знамения неизбежной любви.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

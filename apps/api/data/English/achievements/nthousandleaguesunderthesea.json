@@ -1,0 +1,21 @@
+{
+	"id": [
+		81184
+	],
+	"name": "N-Thousand Leagues Under the Sea",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1170,
+	"stages": 1,
+	"stage1": {
+		"title": "N-Thousand Leagues Under the Sea",
+		"description": "Enter Enkanomiya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

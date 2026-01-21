@@ -1,0 +1,21 @@
+{
+	"id": [
+		82052
+	],
+	"name": "Die Fantastischen Vier",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 2052,
+	"stages": 1,
+	"stage1": {
+		"title": "Die Fantastischen Vier",
+		"description": "Bestehe eine Sphäre mit vier Figuren desselben Elementartyps.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

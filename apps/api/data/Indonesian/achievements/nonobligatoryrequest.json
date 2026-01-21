@@ -1,0 +1,21 @@
+{
+	"id": [
+		84557
+	],
+	"name": "Permintaan Tidak Wajib",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 4081,
+	"stages": 1,
+	"stage1": {
+		"title": "Permintaan Tidak Wajib",
+		"description": "Temukan semua peralatan yang Gulabgir buat untuk ularnya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

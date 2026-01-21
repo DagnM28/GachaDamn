@@ -1,0 +1,12 @@
+{
+	"id": 100054,
+	"name": "Elektrisierter Kristall",
+	"sortRank": 320,
+	"description": "Ein kraftvoller Kristall, der elektrische Energie aus der Umgebung anzieht. Es kribbelt, wenn man ihn anfasst.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"Am unteren Ende von Klippen zu finden",
+		"Empfohlen: Am Gelöbniskap zu finden"
+	]
+}

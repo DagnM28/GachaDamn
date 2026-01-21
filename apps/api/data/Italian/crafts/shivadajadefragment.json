@@ -1,0 +1,16 @@
+{
+	"id": 15016,
+	"name": "Frammento di giada Shivada",
+	"filterText": "Materiale d'ascensione personaggi",
+	"sortOrder": 110050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 300,
+	"recipe": [
+		{
+			"id": 104161,
+			"name": "Scheggia di giada Shivada",
+			"count": 3
+		}
+	]
+}

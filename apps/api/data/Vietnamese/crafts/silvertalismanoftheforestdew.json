@@ -1,0 +1,16 @@
+{
+	"id": 12029,
+	"name": "Bùa Rừng Xanh Sương Đọng - Bạc",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130089,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114038,
+			"name": "Bùa Rừng Xanh Sương Đọng - Sắt",
+			"count": 3
+		}
+	]
+}

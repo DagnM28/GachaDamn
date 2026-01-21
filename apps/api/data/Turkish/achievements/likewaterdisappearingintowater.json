@@ -1,0 +1,21 @@
+{
+	"id": [
+		84096
+	],
+	"name": "Suyun Suya Karışması Gibi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 5075,
+	"stages": 1,
+	"stage1": {
+		"title": "Suyun Suya Karışması Gibi",
+		"description": "Fontaine'de kol gezen \"kehanet\" hakkında bilgi edin...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

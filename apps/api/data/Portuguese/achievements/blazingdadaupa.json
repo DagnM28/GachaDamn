@@ -1,0 +1,20 @@
+{
+	"id": [
+		82007
+	],
+	"name": "Dadaupa Ardente",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Desafiante - Série I",
+	"sortOrder": 2007,
+	"stages": 1,
+	"stage1": {
+		"title": "Dadaupa Ardente",
+		"description": "Ponha fogo em um Escudo de Madeira dos Mitachurls.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

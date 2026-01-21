@@ -1,0 +1,16 @@
+{
+	"id": 12019,
+	"name": "Juwelenzweig eines fernen Meeres",
+	"filterText": "Material zum Aufstieg von Waffen",
+	"sortOrder": 130060,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114025,
+			"name": "Korallenzweig eines fernen Meeres",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81529
+	],
+	"name": "Gekkostate",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1513,
+	"stages": 1,
+	"stage1": {
+		"title": "Gekkostate",
+		"description": "สำเร็จการท้าทายนักรบของเผ่า \"เหล่าวารี\" ทั้งหมด และได้รับคะแนนระดับสูงสุด",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

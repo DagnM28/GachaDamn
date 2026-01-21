@@ -1,0 +1,21 @@
+{
+	"id": [
+		84553
+	],
+	"name": "天は高く、地は…",
+	"achievementGroupId": 0,
+	"achievementGroupName": "天地万象",
+	"isHidden": true,
+	"sortOrder": 4077,
+	"stages": 1,
+	"stage1": {
+		"title": "天は高く、地は…",
+		"description": "ファルガーニーのために測量作業を手伝う。",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

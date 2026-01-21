@@ -1,0 +1,21 @@
+{
+	"id": [
+		81225
+	],
+	"name": "Portal das Maravilhas",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1211,
+	"stages": 1,
+	"stage1": {
+		"title": "Portal das Maravilhas",
+		"description": "Entre, verdadeiramente, no Mundo dos Aranaras...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

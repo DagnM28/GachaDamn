@@ -1,0 +1,16 @@
+{
+	"id": 11005,
+	"name": "봉마의 두루마리",
+	"filterText": "캐릭터와 무기 육성 소재",
+	"sortOrder": 150020,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112008,
+			"name": "이능 두루마리",
+			"count": 3
+		}
+	]
+}

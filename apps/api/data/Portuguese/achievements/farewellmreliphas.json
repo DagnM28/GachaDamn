@@ -1,0 +1,21 @@
+{
+	"id": [
+		81411
+	],
+	"name": "Adeus, Sr. Eliphas",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1395,
+	"stages": 1,
+	"stage1": {
+		"title": "Adeus, Sr. Eliphas",
+		"description": "Derrote Eliphas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

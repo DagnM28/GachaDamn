@@ -1,0 +1,12 @@
+{
+	"id": 101009,
+	"name": "Cristallo di Condessenza",
+	"sortRank": 301,
+	"description": "Un cristallo chiaro e luccicante dotato di un nucleo resistente e malleabile.",
+	"category": "EXCHANGE",
+	"typeText": "Minerale da forgiatura",
+	"sources": [
+		"Presente in natura",
+		"Consiglio: presente a Elynas (superficie)"
+	]
+}

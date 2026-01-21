@@ -1,0 +1,42 @@
+{
+	"id": [
+		80218,
+		80219,
+		80220
+	],
+	"name": "#Duelista milenari{F#a}{M#o}",
+	"achievementGroupId": 37,
+	"achievementGroupName": "Invocación de los Sabios",
+	"sortOrder": 196,
+	"stages": 3,
+	"stage1": {
+		"title": "#Duelista milenari{F#a}{M#o}",
+		"description": "Obtén un total de {param0} Monedas de la suerte.",
+		"progress": 10000,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "#Duelista milenari{F#a}{M#o}",
+		"description": "Obtén un total de {param0} Monedas de la suerte.",
+		"progress": 70000,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "#Duelista milenari{F#a}{M#o}",
+		"description": "Obtén un total de {param0} Monedas de la suerte.",
+		"progress": 150000,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

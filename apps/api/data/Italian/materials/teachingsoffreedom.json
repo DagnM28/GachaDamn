@@ -1,0 +1,19 @@
+{
+	"id": 104301,
+	"name": "Insegnamenti della libertà",
+	"rarity": 2,
+	"sortRank": 13101,
+	"description": "Materiale per l'aumento di livello dei talenti.\nLa libertà è lo spirito della Terra del Vento.\nLa libertà di vivere ne è un esempio. È la libertà di vivere apertamente e in modo sano senza preoccuparsi della propria sicurezza.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Materiale per talenti dei personaggi",
+	"dropDomainId": 4210,
+	"dropDomainName": "Dominio della maestria: Altare ghiacciato",
+	"daysOfWeek": [
+		"Lunedì",
+		"Giovedì",
+		"Domenica"
+	],
+	"sources": [
+		"Si acquista nel Negozio di regali"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81174
+	],
+	"name": "Ilume a Neblina",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1160,
+	"stages": 1,
+	"stage1": {
+		"title": "Ilume a Neblina",
+		"description": "Ative todas as Pedras do Trovão da Planície Autake.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

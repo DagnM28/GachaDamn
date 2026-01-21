@@ -1,0 +1,21 @@
+{
+	"id": [
+		82157
+	],
+	"name": "In frantumi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 2157,
+	"stages": 1,
+	"stage1": {
+		"title": "In frantumi",
+		"description": "Usa le matrici elementali per sovraccaricare e paralizzare Shouki no Kami.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 10
+		}
+	}
+}

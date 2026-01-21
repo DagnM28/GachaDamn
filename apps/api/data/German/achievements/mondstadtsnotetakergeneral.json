@@ -1,0 +1,21 @@
+{
+	"id": [
+		84112
+	],
+	"name": "Die Beste im Fragenstellen",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Erinnerungen des Herzens",
+	"isHidden": true,
+	"sortOrder": 6411,
+	"stages": 1,
+	"stage1": {
+		"title": "Die Beste im Fragenstellen",
+		"description": "Lies Noelles Übungsnotizen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

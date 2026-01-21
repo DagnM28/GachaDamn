@@ -1,0 +1,21 @@
+{
+	"id": [
+		81202
+	],
+	"name": "CREDE TENEBRIS",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1188,
+	"stages": 1,
+	"stage1": {
+		"title": "CREDE TENEBRIS",
+		"description": "Откройте тайную комнату в руинах.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84141
+	],
+	"name": "Yüz Yıl Sonraki Sana",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Kalbin Anıları",
+	"isHidden": true,
+	"sortOrder": 7410,
+	"stages": 1,
+	"stage1": {
+		"title": "Yüz Yıl Sonraki Sana",
+		"description": "Faruzan'a gönderilen tüm mektupları oku.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

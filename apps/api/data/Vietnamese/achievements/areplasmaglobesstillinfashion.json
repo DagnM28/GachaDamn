@@ -1,0 +1,20 @@
+{
+	"id": [
+		82005
+	],
+	"name": "Quả cầu Plasma có còn thịnh hành không?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Kẻ Khiêu Chiến - Phần I",
+	"sortOrder": 2005,
+	"stages": 1,
+	"stage1": {
+		"title": "Quả cầu Plasma có còn thịnh hành không?",
+		"description": "Đập vỡ lá chắn của một thuật sĩ Cicin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

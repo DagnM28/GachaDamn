@@ -1,0 +1,21 @@
+{
+	"id": [
+		80253
+	],
+	"name": "Tüm Suların Kaynağı (I)",
+	"achievementGroupId": 42,
+	"achievementGroupName": "Fontaine: Çiy Beyazı Pınarların Dansı (I)",
+	"sortOrder": 233,
+	"stages": 1,
+	"stage1": {
+		"title": "Tüm Suların Kaynağı (I)",
+		"ps5title": "Fontaine: Tüm Suların Kaynağı (I)",
+		"description": "Fontaine'deki tüm Işınlanma Portallarının kilidini aç: Fontaine Şehri Bölgesi, Belleau Bölgesi ve Beril Bölgesi.",
+		"progress": 40,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

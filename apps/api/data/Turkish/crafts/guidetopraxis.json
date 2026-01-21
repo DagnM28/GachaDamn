@@ -1,0 +1,16 @@
+{
+	"id": 13023,
+	"name": "Uygulama Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120110,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104335,
+			"name": "Uygulama Öğretisi",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 112061,
+	"name": "Poussière cristalline de sporange",
+	"rarity": 3,
+	"sortRank": 10621,
+	"description": "Un gros amas de poudre de spores qui a été prélevé d'un kyste complet. Si vous le placez dans un environnement adapté, celui-ci pourrait se remplir de Fongus avec le temps...",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Matériau d'amélioration de personnage et d'arme",
+	"sources": [
+		"Butin de Fongus (Niv.60+)",
+		"Butin de certains Fongus activés (Niv.60+)",
+		"Butin de certains Fongus calcinés (Niv.60+)",
+		"Échange Astrions : synthèse après échange",
+		"Emplacement réservé - Quantité synthétisable : {0}"
+	]
+}

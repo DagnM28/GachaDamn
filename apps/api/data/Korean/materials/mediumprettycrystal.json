@@ -1,0 +1,11 @@
+{
+	"id": 111021,
+	"name": "아름다운 결정",
+	"sortRank": 430051,
+	"description": "합성 추가 생성물",
+	"category": "CONSUME",
+	"typeText": "합성 산물",
+	"sources": [
+		"합성 획득"
+	]
+}

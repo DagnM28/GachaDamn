@@ -1,0 +1,21 @@
+{
+	"id": [
+		81104
+	],
+	"name": "Huyền thoại địa cung...mới là điều lạ đó!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1102,
+	"stages": 1,
+	"stage1": {
+		"title": "Huyền thoại địa cung...mới là điều lạ đó!",
+		"description": "Sự mạo hiểm khi khai thác ký ức bị lãng quên chẳng phải cũng là một kho báu à?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

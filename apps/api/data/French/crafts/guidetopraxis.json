@@ -1,0 +1,16 @@
+{
+	"id": 13023,
+	"name": "Guide de l'Usage",
+	"filterText": "Matériau d'aptitude de personnage",
+	"sortOrder": 120110,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104335,
+			"name": "Enseignement de l'Usage",
+			"count": 3
+		}
+	]
+}

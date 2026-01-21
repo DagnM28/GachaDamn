@@ -1,0 +1,21 @@
+{
+	"id": [
+		81120
+	],
+	"name": "งานใหญ่",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1116,
+	"stages": 1,
+	"stage1": {
+		"title": "งานใหญ่",
+		"description": "ท้าทายและเอาชนะ \"Masanori\" ได้อย่างง่ายดาย",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

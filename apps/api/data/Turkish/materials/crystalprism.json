@@ -1,0 +1,14 @@
+{
+	"id": 112051,
+	"name": "Kristal Prizma",
+	"rarity": 3,
+	"sortRank": 10117,
+	"description": "Işığı renklerine ayırabilen prizma.\nBu tarz prizmalar kullanarak hayali imgeler oluşturabilir, hatta tabiri caizse insanların kalbini kazanabilirsin.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Karakter ve Silah Geliştirme Malzemesi",
+	"sources": [
+		"Sv. 40 ve üzeri Aynalı Rahibelerden düşer.",
+		"Yıldız Tozu Takası",
+		"Yer Tutucu - Üretilebilir Miktar: {0}"
+	]
+}

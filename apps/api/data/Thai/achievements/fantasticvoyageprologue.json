@@ -1,0 +1,20 @@
+{
+	"id": [
+		84026
+	],
+	"name": "การเดินทางแสนมหัศจรรย์: เริ่มต้น",
+	"achievementGroupId": 17,
+	"achievementGroupName": "ความทรงจำ ของหัวใจ",
+	"sortOrder": 6001,
+	"stages": 1,
+	"stage1": {
+		"title": "การเดินทางแสนมหัศจรรย์: เริ่มต้น",
+		"description": "ทำ \"การเดินทางแสนมหัศจรรย์\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81046
+	],
+	"name": "Göğün Tepesine",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1047,
+	"stages": 1,
+	"stage1": {
+		"title": "Göğün Tepesine",
+		"description": "Onarımının ardından Soğuk Göklerin Çivisi'ne tırman.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81191
+	],
+	"name": "\"Daha Çok Sosyalleşebileceğin Bir Hobi Edin Bence...\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1177,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Daha Çok Sosyalleşebileceğin Bir Hobi Edin Bence...\"",
+		"description": "Date'nin labirent mücadelesini tamamla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

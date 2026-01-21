@@ -1,0 +1,20 @@
+{
+	"id": [
+		80119
+	],
+	"name": "Guia Nebulosa",
+	"achievementGroupId": 27,
+	"achievementGroupName": "As Crônicas do Mar de Neblina",
+	"sortOrder": 119,
+	"stages": 1,
+	"stage1": {
+		"title": "Guia Nebulosa",
+		"description": "Siga 6 Seelies na Ilha Tsurumi, e ilumine o Jardim de Seelie.",
+		"progress": 6,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

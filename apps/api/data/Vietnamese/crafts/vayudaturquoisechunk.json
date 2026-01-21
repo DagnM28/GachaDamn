@@ -1,0 +1,16 @@
+{
+	"id": 15014,
+	"name": "Miếng Tùng Thạch Tự Tại",
+	"filterText": "Nguyên Liệu Đột Phá Nhân Vật",
+	"sortOrder": 110039,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104152,
+			"name": "Mảnh Tùng Thạch Tự Tại",
+			"count": 3
+		}
+	]
+}

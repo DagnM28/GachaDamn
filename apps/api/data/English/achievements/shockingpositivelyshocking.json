@@ -1,0 +1,21 @@
+{
+	"id": [
+		81123
+	],
+	"name": "Shocking... Positively Shocking",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1119,
+	"stages": 1,
+	"stage1": {
+		"title": "Shocking... Positively Shocking",
+		"description": "Get struck down by Balethunder...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

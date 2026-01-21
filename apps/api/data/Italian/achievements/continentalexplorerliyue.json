@@ -1,0 +1,21 @@
+{
+	"id": [
+		80043
+	],
+	"name": "Esplorazione continentale: Liyue",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: il porto della pietra e dei contratti",
+	"sortOrder": 43,
+	"stages": 1,
+	"stage1": {
+		"title": "Esplorazione continentale: Liyue",
+		"ps5title": "Liyue: Esplorazione continentale",
+		"description": "Illumina la mappa delle seguenti zone: Pianura di Bishui, Estuario di Qiongji, Minlin, Lisha e Mare di Nubi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

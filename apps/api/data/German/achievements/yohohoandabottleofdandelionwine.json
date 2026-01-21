@@ -1,0 +1,21 @@
+{
+	"id": [
+		81074
+	],
+	"name": "Oh oh oh, noch eine Flasche Löwenzahnschnaps",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1075,
+	"stages": 1,
+	"stage1": {
+		"title": "Oh oh oh, noch eine Flasche Löwenzahnschnaps",
+		"description": "Klettere an Bord deines Wellenreiters.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

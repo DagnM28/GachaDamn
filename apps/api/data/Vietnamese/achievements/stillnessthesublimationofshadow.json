@@ -1,0 +1,21 @@
+{
+	"id": [
+		84046
+	],
+	"name": "Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 5025,
+	"stages": 1,
+	"stage1": {
+		"title": "Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt",
+		"description": "Hoàn thành \"Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt\"",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

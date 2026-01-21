@@ -1,0 +1,12 @@
+{
+	"id": 101208,
+	"name": "Fruit d'Amakumo",
+	"sortRank": 313,
+	"description": "Le fruit de l'herbe d'Amakumo, qui pousse sur l'Île de Seirai. En le mettant contre votre oreille, vous pouvez entendre comme un petit crépitement de courant électrique.",
+	"category": "EXCHANGE",
+	"typeText": "Produit d'Inazuma",
+	"sources": [
+		"Zone conseillée : Île de Seirai",
+		"Aller collecter"
+	]
+}

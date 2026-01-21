@@ -1,0 +1,21 @@
+{
+	"id": [
+		81554
+	],
+	"name": "Halkalar Da Tuzaktır",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1538,
+	"stages": 1,
+	"stage1": {
+		"title": "Halkalar Da Tuzaktır",
+		"description": "Her Akarsu Kuşunun kendi halkasının olmasını sağla.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

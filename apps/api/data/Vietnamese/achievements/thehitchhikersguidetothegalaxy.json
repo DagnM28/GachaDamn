@@ -1,0 +1,21 @@
+{
+	"id": [
+		82188
+	],
+	"name": "Hướng Dẫn Đến Ngân Hà",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 2187,
+	"stages": 1,
+	"stage1": {
+		"title": "Hướng Dẫn Đến Ngân Hà",
+		"description": "Trong một lần khiêu chiến, bước vào bụng cá voi hai lần.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		84508
+	],
+	"name": "¡Oh, no! ¡Piratas!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravillas del mundo",
+	"sortOrder": 4033,
+	"stages": 1,
+	"stage1": {
+		"title": "¡Oh, no! ¡Piratas!",
+		"description": "Juega a los piratas con Lulu, Fei y Meng.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

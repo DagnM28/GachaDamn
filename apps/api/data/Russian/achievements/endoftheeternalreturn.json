@@ -1,0 +1,20 @@
+{
+	"id": [
+		86030
+	],
+	"name": "Конец вечного возвращения",
+	"achievementGroupId": 44,
+	"achievementGroupName": "Встреча в другом мире IV",
+	"sortOrder": 9029,
+	"stages": 1,
+	"stage1": {
+		"title": "Конец вечного возвращения",
+		"description": "Одолейте Дракона вечных бедствий в совместном режиме.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

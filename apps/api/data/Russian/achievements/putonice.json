@@ -1,0 +1,20 @@
+{
+	"id": [
+		86017
+	],
+	"name": "План по заморозке",
+	"achievementGroupId": 21,
+	"achievementGroupName": "Встреча в другом мире II",
+	"sortOrder": 9017,
+	"stages": 1,
+	"stage1": {
+		"title": "План по заморозке",
+		"description": "Одолейте Крио гипостазис в совместном режиме.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

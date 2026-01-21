@@ -1,0 +1,21 @@
+{
+	"id": [
+		81266
+	],
+	"name": "Мыслить, как учёные из Вахуманы",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1252,
+	"stages": 1,
+	"stage1": {
+		"title": "Мыслить, как учёные из Вахуманы",
+		"description": "Пузырёк с чернилами наделён страшной властью.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82122
+	],
+	"name": "Sert İniş",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2122,
+	"stages": 1,
+	"stage1": {
+		"title": "Sert İniş",
+		"description": "Tırmanan bir Su Ejderini indir.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

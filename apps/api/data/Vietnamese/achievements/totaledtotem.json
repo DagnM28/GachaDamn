@@ -1,0 +1,20 @@
+{
+	"id": [
+		82094
+	],
+	"name": "Vật Tổ Bị Hủy Hoại",
+	"achievementGroupId": 20,
+	"achievementGroupName": "Kẻ Khiêu Chiến - Phần IV",
+	"sortOrder": 2094,
+	"stages": 1,
+	"stage1": {
+		"title": "Vật Tổ Bị Hủy Hoại",
+		"description": "Trong lúc không có vật tổ Lôi Hilichurl, đánh bại Phù Thủy Hilichurl.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

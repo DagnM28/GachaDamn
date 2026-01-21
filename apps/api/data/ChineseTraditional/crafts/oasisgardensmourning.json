@@ -1,0 +1,16 @@
+{
+	"id": 12032,
+	"name": "綠洲花園的哀思",
+	"filterText": "武器突破素材",
+	"sortOrder": 130099,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114042,
+			"name": "綠洲花園的恩惠",
+			"count": 3
+		}
+	]
+}

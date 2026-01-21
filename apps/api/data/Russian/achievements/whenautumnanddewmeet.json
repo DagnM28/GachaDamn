@@ -1,0 +1,21 @@
+{
+	"id": [
+		82132
+	],
+	"name": "Осенняя роса",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 2132,
+	"stages": 1,
+	"stage1": {
+		"title": "Осенняя роса",
+		"description": "Позвольте Электро папоротнику выполнить электрическое столкновение.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

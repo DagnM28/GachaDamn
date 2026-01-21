@@ -1,0 +1,21 @@
+{
+	"id": [
+		81333
+	],
+	"name": "Điệu Nhảy Thất Bàn",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1320,
+	"stages": 1,
+	"stage1": {
+		"title": "Điệu Nhảy Thất Bàn",
+		"description": "Hoàn thành tất cả khiêu chiến của \"Nhịp Trống Nhảy Vượt Nấm\".",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

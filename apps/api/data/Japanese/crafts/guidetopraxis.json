@@ -1,0 +1,16 @@
+{
+	"id": 13023,
+	"name": "「篤行」の導き",
+	"filterText": "キャラクター天賦素材",
+	"sortOrder": 120110,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104335,
+			"name": "「篤行」の教え",
+			"count": 3
+		}
+	]
+}

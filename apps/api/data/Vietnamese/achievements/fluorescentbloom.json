@@ -1,0 +1,21 @@
+{
+	"id": [
+		80163
+	],
+	"name": "Trăm Hoa Đua Nở",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru - Rừng Mưa Huyền Bí",
+	"sortOrder": 163,
+	"stages": 1,
+	"stage1": {
+		"title": "Trăm Hoa Đua Nở",
+		"ps5title": "Sumeru - Trăm Hoa Đua Nở",
+		"description": "Hiến tế Thất Thiên Thần Tượng Sumeru đạt cấp tối đa.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

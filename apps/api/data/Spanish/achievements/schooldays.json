@@ -1,0 +1,21 @@
+{
+	"id": [
+		84147
+	],
+	"name": "Época de estudiante",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Recuerdos del corazón",
+	"isHidden": true,
+	"sortOrder": 7610,
+	"stages": 1,
+	"stage1": {
+		"title": "Época de estudiante",
+		"description": "Consulta los libros con anotaciones de la Casa de la Daena.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11049,
+	"name": "Prisma torbido",
+	"filterText": "Materiale di potenziamento armi e personaggi",
+	"sortOrder": 140130,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112071,
+			"name": "Prisma danneggiato",
+			"count": 3
+		}
+	]
+}

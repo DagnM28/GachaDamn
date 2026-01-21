@@ -1,0 +1,21 @@
+{
+	"id": [
+		82089
+	],
+	"name": "\"...A Single Night's Work\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 2089,
+	"stages": 1,
+	"stage1": {
+		"title": "\"...A Single Night's Work\"",
+		"description": "Defeat a Cryo Hypostasis that is in a weakened state.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

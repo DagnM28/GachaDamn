@@ -1,0 +1,20 @@
+{
+	"id": [
+		80238
+	],
+	"name": "Issızlığın Derinliklerinde",
+	"achievementGroupId": 41,
+	"achievementGroupName": "Kutsanmış Hamada",
+	"sortOrder": 219,
+	"stages": 1,
+	"stage1": {
+		"title": "Issızlığın Derinliklerinde",
+		"description": "Sumeru'nun şu bölgelerindeki tüm Işınlanma Portallarının kilidini aç: Gavireh Lajavard ve Farakhkert Krallığı.",
+		"progress": 18,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

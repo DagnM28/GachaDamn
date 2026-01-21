@@ -1,0 +1,21 @@
+{
+	"id": [
+		81278
+	],
+	"name": "Конец коридора",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1264,
+	"stages": 1,
+	"stage1": {
+		"title": "Конец коридора",
+		"description": "Войдите в самую секретную комнату в нижней части гробницы царя Дешрета.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

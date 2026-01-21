@@ -1,0 +1,21 @@
+{
+	"id": [
+		80045
+	],
+	"name": "Tak Tergoyahkan",
+	"achievementGroupId": 5,
+	"achievementGroupName": "Liyue: Pelabuhan Batu dan Kontrak",
+	"sortOrder": 45,
+	"stages": 1,
+	"stage1": {
+		"title": "Tak Tergoyahkan",
+		"ps5title": "Liyue: Tak Tergoyahkan",
+		"description": "Upgrade Patung The Seven di Liyue ke level tertinggi.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

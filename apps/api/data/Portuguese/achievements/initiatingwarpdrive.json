@@ -1,0 +1,21 @@
+{
+	"id": [
+		81004
+	],
+	"name": "Ativar o Túnel do Espaço-Tempo!",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 1004,
+	"stages": 1,
+	"stage1": {
+		"title": "Ativar o Túnel do Espaço-Tempo!",
+		"description": "Passe pelo túnel do tempo nos céus do Cabo do Juramento.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82009
+	],
+	"name": "Projeto PRISMA",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2009,
+	"stages": 1,
+	"stage1": {
+		"title": "Projeto PRISMA",
+		"description": "Destrua todos os Prismas de Ressurreição de Hypostasis Electro antes de se recuperar.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"id": [
+		80008,
+		80009,
+		80010
+	],
+	"name": "Chuyên Gia Sinh Tồn",
+	"achievementGroupId": 2,
+	"achievementGroupName": "Nghệ Thuật Phiêu Lưu",
+	"sortOrder": 8,
+	"stages": 3,
+	"stage1": {
+		"title": "Chuyên Gia Sinh Tồn",
+		"description": "Nắm vững cách làm 10 món ăn.",
+		"progress": 10,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Chuyên Gia Sinh Tồn",
+		"description": "Nắm vững cách làm 20 món ăn.",
+		"progress": 20,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Chuyên Gia Sinh Tồn",
+		"description": "Nắm vững cách làm 40 món ăn.",
+		"progress": 40,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

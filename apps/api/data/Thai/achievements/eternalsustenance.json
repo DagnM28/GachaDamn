@@ -1,0 +1,21 @@
+{
+	"id": [
+		81245
+	],
+	"name": "เสบียงถาวร",
+	"achievementGroupId": 0,
+	"achievementGroupName": "สิ่งมหัศจรรย์บนโลก",
+	"isHidden": true,
+	"sortOrder": 1231,
+	"stages": 1,
+	"stage1": {
+		"title": "เสบียงถาวร",
+		"description": "เยี่ยมชมสวนเพาะชำ Aranara ในชีวิตจริง พร้อมกับ Varsha",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

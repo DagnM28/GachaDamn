@@ -1,0 +1,21 @@
+{
+	"id": [
+		81458
+	],
+	"name": "Panoramas du Vallon Chenyu",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1442,
+	"stages": 1,
+	"stage1": {
+		"title": "Panoramas du Vallon Chenyu",
+		"description": "Obtenez une édition limitée d'un album commémoratif « Randonnée à Chenyu ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

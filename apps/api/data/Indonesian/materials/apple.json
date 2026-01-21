@@ -1,0 +1,11 @@
+{
+	"id": 100001,
+	"name": "Apple",
+	"sortRank": 90000,
+	"description": "Renyah saat digigit, rasanya manis dan sedikit asam, cocok untuk dimakan langsung atau dibuat menjadi cider.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Makanan",
+	"sources": [
+		"Ditemukan di alam liar"
+	]
+}

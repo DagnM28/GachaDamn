@@ -1,0 +1,21 @@
+{
+	"id": [
+		81411
+	],
+	"name": "Tạm Biệt, Ngài Eliphas",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1395,
+	"stages": 1,
+	"stage1": {
+		"title": "Tạm Biệt, Ngài Eliphas",
+		"description": "Đánh bại Eliphas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

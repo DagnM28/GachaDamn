@@ -1,0 +1,21 @@
+{
+	"id": [
+		81487
+	],
+	"name": "Lento ritorno",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1471,
+	"stages": 1,
+	"stage1": {
+		"title": "Lento ritorno",
+		"description": "Aiuta Giustino a tornare alla sua città natale.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

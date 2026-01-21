@@ -1,0 +1,21 @@
+{
+	"id": [
+		82013
+	],
+	"name": "L'énorme statue et moi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 2013,
+	"stages": 1,
+	"stage1": {
+		"title": "L'énorme statue et moi",
+		"description": "Paralysez un Gardien des ruines en ciblant son point faible.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

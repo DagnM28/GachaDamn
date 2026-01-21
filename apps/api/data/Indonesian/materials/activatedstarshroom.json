@@ -1,0 +1,11 @@
+{
+	"id": 101226,
+	"name": "Activated Starshroom",
+	"sortRank": 90000,
+	"description": "Jamur dengan topi yang menyerupai bintang segi lima. Terlihat penuh dengan vitalitas.",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "Makanan",
+	"sources": [
+		"Ditemukan di alam liar"
+	]
+}

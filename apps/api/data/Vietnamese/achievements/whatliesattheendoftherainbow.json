@@ -1,0 +1,21 @@
+{
+	"id": [
+		81380
+	],
+	"name": "Dưới Chân Cầu Vồng Là...?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1364,
+	"stages": 1,
+	"stage1": {
+		"title": "Dưới Chân Cầu Vồng Là...?",
+		"description": "Đi theo hướng dẫn của tia sáng đến được điểm đích.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

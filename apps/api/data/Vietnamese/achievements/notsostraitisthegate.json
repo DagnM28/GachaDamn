@@ -1,0 +1,20 @@
+{
+	"id": [
+		81382
+	],
+	"name": "Cánh Cổng Không Hẹp Tí Nào",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"sortOrder": 1366,
+	"stages": 1,
+	"stage1": {
+		"title": "Cánh Cổng Không Hẹp Tí Nào",
+		"description": "Mở cánh cổng dẫn đến căn phòng sách nào đó.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

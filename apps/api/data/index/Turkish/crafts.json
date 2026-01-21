@@ -1,0 +1,2002 @@
+{
+	"namemap": {
+		"aberrantcoreofthedeepshadow": "Derin Gölgenin Sapkın Çekirdeği",
+		"afterglowoflongnightflint": "Uzun Gece Ateşinin Kalıntısı",
+		"agentssacrificialknife": "Tefecinin Kurban Bıçağı",
+		"agnidusagatechunk": "Agnidus Akiği Parçası",
+		"agnidusagatefragment": "Agnidus Akiği Kırıntısı",
+		"agnidusagategemstone": "Agnidus Akiği Külçesi",
+		"alienlifecore": "Dünya Dışı Yaşam Çekirdeği",
+		"anemoculusresonancestone": "Rüzgar Özü Rezonans Taşı",
+		"artfuldeviceinheritance": "Usta İşi Cihaz Mirası",
+		"artfuldevicereplica": "Usta İşi Cihaz Replikası",
+		"artfuldevicewish": "Usta İşi Cihaz Dileği",
+		"artificeddynamicgear": "Usta İşi Dinamik Dişli",
+		"aureateradianceofthefarnorthscions": "Uzak Kuzeyin Çocuklarının Yaldızlı İhtişamı",
+		"berrybait": "Böğürtlen Yemi",
+		"bewilderingbroadleaf": "Büyüleyici Geniş Yaprak",
+		"bitofaerosiderite": "Meteor Demiri Parçası",
+		"blackbronzehorn": "Siyah Bronz Boynuz",
+		"blackcrystalhorn": "Siyah Kristal Boynuz",
+		"blazeoflongnightflint": "Uzun Gece Ateşinin Işıltısı",
+		"blazingprismshell": "Alevli Prizma Kabuğu",
+		"blazingsacrificialheartshesitance": "Alevli Fedakar Kalbin Çekincesi",
+		"blazingsacrificialheartsresolve": "Alevli Fedakar Kalbin Kararlılığı",
+		"blazingsacrificialheartssplendor": "Alevli Fedakar Kalbin İhtişamı",
+		"bluedye": "Mavi Boya",
+		"borealwolfsbrokenfang": "Kutup Kurdunun Kırık Dişi",
+		"borealwolfscrackedtooth": "Kutup Kurdunun Çatlak Dişi",
+		"borealwolfsnostalgia": "Kutup Kurdunun Özlemi",
+		"chainsofthedandeliongladiator": "Karahindiba Gladyatörü Zinciri",
+		"chaosaxis": "Kaos Aksı",
+		"chaosbolt": "Kaos Cıvatası",
+		"chaoscircuit": "Kaos Devresi",
+		"chaoscore": "Kaos Çekirdeği",
+		"chaosmodule": "Kaos Modülü",
+		"chaosoculus": "Kaos Gözü",
+		"chapterofanancientchord": "Kadim Akor Kuplesi",
+		"chasmlightfin": "Kanyon Işığı Sırt Tüyü",
+		"chunkofaerosiderite": "Meteor Demiri Külçesi",
+		"concealedtalon": "Gizli Vahşi Pençe",
+		"concealedunguis": "Gizli Keskin Pençe",
+		"condensedresin": "Yoğun Reçine",
+		"crystallinecystdust": "Kristal Toz Kutusu",
+		"crystalprism": "Kristal Prizma",
+		"darkstatuette": "Kara Heykelcik",
+		"deadleylineleaves": "Kuru Ley Hattı Yaprakları",
+		"deathlystatuette": "Ölümcül Heykelcik",
+		"debrisofdecarabianscity": "Decarabian'ın Yıkık Duvarı",
+		"deliriousdemeanorofthesacredlord": "Kutsal Lordun Hezeyanlı Sureti",
+		"deliriousdesolationofthesacredlord": "Kutsal Lordun Hezeyanlı Perişanlığı",
+		"deliriousdivinityofthesacredlord": "Kutsal Lordun Hezeyanlı Kutsallığı",
+		"dendrocidepotion": "Doğa Direnci İksiri",
+		"dendroculusresonancestone": "Doğa Özü Rezonans Taşı",
+		"desiccantpotion": "Su Direnci İksiri",
+		"divinebodyfromguyun": "Guyun'un Kutsal Hazinesi",
+		"dormantfungalnucleus": "Pasif Mantar Özü",
+		"dreamofscorchingmight": "Kavurucu Kuvvetin Rüyası",
+		"dreamofthedandeliongladiator": "Karahindiba Gladyatörü Rüyası",
+		"dustproofpotion": "Toprak Direnci İksiri",
+		"echoofanancientchord": "Kadim Akor Yankısı",
+		"electroculusresonancestone": "Elektrik Özü Rezonans Taşı",
+		"emberglowbait": "Akkor Yem",
+		"energynectar": "Enerji Nektarı",
+		"essenceofpuresacreddewdrop": "Saf Kutsal Çiy Damlasının Özü",
+		"fabric": "Kumaş",
+		"fakeflybait": "Sahte Sinek Yemi",
+		"falsewormbait": "Sahte Solucan Yemi",
+		"famedhandguard": "Gösterişli Balçak",
+		"fatesyearningessentialoil": "Kaderin Cilvesi Özütü",
+		"flamingessentialoil": "Alev Özütü",
+		"flareoflongnightflint": "Uzun Gece Ateşinin Titrek Işığı",
+		"flashingmaintenancemekbait": "Parlayan Teknisyen Meka Yemi",
+		"floatysplody": "Pofuduk Bomba",
+		"forbiddencursescroll": "Lanetli Parşömen",
+		"foreignsynapse": "Yabancı Sinaps",
+		"forestessentialoil": "Orman Özütü",
+		"fossilizedboneshard": "Fosil Kemik Parçası",
+		"fragmentofdecarabiansepic": "Decarabian'ın Destansı Parçası",
+		"frostetchedwarrant": "Donuk Yetki Belgesi",
+		"frostingessentialoil": "Ayaz Özütü",
+		"frostnightsglory": "Donuk Gecenin İhtişamı",
+		"frostnightsglow": "Donuk Gecenin Parıltısı",
+		"frostshieldpotion": "Buz Direnci İksiri",
+		"fruitpastebait": "Meyve Ezmesi Yemi",
+		"geoculusresonancestone": "Toprak Özü Rezonans Taşı",
+		"glowingremains": "Parlayan Kalıntılar",
+		"goldenbranchofadistantsea": "Uzak Denizlerin Altın Dalı",
+		"goldengobletofthepristinesea": "Saf Denizin Altın Kadehi",
+		"goldenhousemaidenessentialoil": "Altın Ev Hanımı Özütü",
+		"goldenraveninsignia": "Altın Kuzgun Nişanı",
+		"goldentalismanoftheforestdew": "Orman Çiyinin Altın Tılsımı",
+		"guidetoadmonition": "Nasihat Rehberi",
+		"guidetoballad": "Şiir Rehberi",
+		"guidetoconflict": "Çatışma Rehberi",
+		"guidetocontention": "Rekabet Rehberi",
+		"guidetodiligence": "Çalışkanlık Rehberi",
+		"guidetoelegance": "Zarafet Rehberi",
+		"guidetoelysium": "Cennet Rehberi",
+		"guidetoequity": "Eşitlik Rehberi",
+		"guidetofreedom": "Özgürlük Rehberi",
+		"guidetogold": "Altın Rehberi",
+		"guidetoingenuity": "Marifet Rehberi",
+		"guidetojustice": "Adalet Rehberi",
+		"guidetokindling": "Çıra Rehberi",
+		"guidetolight": "Işık Rehberi",
+		"guidetomoonlight": "Ay Işığı Rehberi",
+		"guidetoorder": "Düzen Rehberi",
+		"guidetopraxis": "Uygulama Rehberi",
+		"guidetoprosperity": "Refah Rehberi",
+		"guidetoresistance": "Direniş Rehberi",
+		"guidetotransience": "Fani Dünya Rehberi",
+		"guidetovagrancy": "Avarelik Rehberi",
+		"gushingessentialoil": "Kasırga Özütü",
+		"heartofthesecretsource": "Gizli Kaynağın Kalbi",
+		"heatshieldpotion": "Ateş Direnci İksiri",
+		"hookedbeakofthedeepshadow": "Derin Gölgenin Kancalı Gagası",
+		"hotpod": "Yakıcı Bomba",
+		"hydroculusresonancestone": "Su Özü Rezonans Taşı",
+		"ignitedseedoflife": "Alevli Yaşam Tohumu",
+		"ignitedseeingeye": "Alevli Göz",
+		"illusoryleafcoil": "Hayali Yaprak Buklesi",
+		"immaculatewarrant": "Kusursuz Yetki Belgesi",
+		"inspectorssacrificialknife": "Müfettişin Kurban Bıçağı",
+		"insulationpotion": "Elektrik Direnci İksiri",
+		"irontalismanoftheforestdew": "Orman Çiyinin Demir Tılsımı",
+		"jadebranchofadistantsea": "Uzak Denizlerin Yeşim Dalı",
+		"jeweledbranchofadistantsea": "Uzak Denizlerin Kıymetli Dalı",
+		"kageuchihandguard": "Kageuchi Balçağı",
+		"leylinesprout": "Ley Hattı Filizi",
+		"lieutenantsinsignia": "Subay Nişanı",
+		"locusofaclearwill": "Net İrade Odağı",
+		"luminescentpollen": "Parlak Polen",
+		"lunarfin": "Ay Işığı Sırt Tüyü",
+		"lustrousstonefromguyun": "Guyun'un Işıltılı Taşı",
+		"markedshell": "İşaretli Kabuk",
+		"maskofthekijin": "Kijin'in Maskesi",
+		"maskoftheonehorned": "Tekboynuzun Maskesi",
+		"maskofthetigersbite": "Kaplan Dişinin Maskesi",
+		"mechanicalspurgear": "Mekanik Düz Dişli",
+		"mintessentialoil": "Nane Özütü",
+		"mistgrass": "Sis Otu",
+		"mistgrasswick": "Sis Otu Fitili",
+		"mistshroudhelmet": "Sis Miğferi",
+		"mistshroudplate": "Sis Plakası",
+		"mistveiledgoldelixir": "Sis Kaplı Altın Cevher",
+		"mistveiledmercuryelixir": "Sis Kaplı Cıva Cevher",
+		"mistveiledprimoelixir": "Sis Kaplı Üstün Cevher",
+		"movementofanancientchord": "Kadim Akor Bölümü",
+		"nagadusemeraldchunk": "Nagadus Zümrüdü Parçası",
+		"nagadusemeraldfragment": "Nagadus Zümrüdü Kırıntısı",
+		"nagadusemeraldgemstone": "Nagadus Zümrüdü Külçesi",
+		"namelesstaboomedicineoftheroyalcourt": "Kraliyetin İsimsiz Yasaklı İlacı",
+		"narukamisaffection": "Narukami'nin Sevgisi",
+		"narukamisjoy": "Narukami'nin Neşesi",
+		"narukamisvalor": "Narukami'nin Cesareti",
+		"newborntaintedhydrophantasm": "Yenidoğan Lekeli Su Tayfı",
+		"nightwindsmysticaugury": "Gece Rüzgarının Mistik Kehaneti",
+		"nightwindsmysticpremonition": "Gece Rüzgarının Mistik Sezgisi",
+		"nightwindsmysticrevelation": "Gece Rüzgarının Mistik İlhamı",
+		"oasisgardenskindness": "Vaha Bahçesi Zarafeti",
+		"oasisgardensmourning": "Vaha Bahçesi Matemi",
+		"oasisgardenstruth": "Vaha Bahçesi Gerçeği",
+		"oblationofthefarnorthscions": "Uzak Kuzeyin Çocuklarının Adağı",
+		"oldendaysofscorchingmight": "Kavurucu Kuvvetin Eski Günleri",
+		"ominousmask": "Uğursuz Maske",
+		"operativesconstancy": "Ajanın Vefası",
+		"operativesstandardpocketwatch": "Ajanın Klasik Cep Saati",
+		"philosophiesofadmonition": "Nasihat Felsefesi",
+		"philosophiesofballad": "Şiir Felsefesi",
+		"philosophiesofconflict": "Çatışma Felsefesi",
+		"philosophiesofcontention": "Rekabet Felsefesi",
+		"philosophiesofdiligence": "Çalışkanlık Felsefesi",
+		"philosophiesofelegance": "Zarafet Felsefesi",
+		"philosophiesofelysium": "Cennet Felsefesi",
+		"philosophiesofequity": "Eşitlik Felsefesi",
+		"philosophiesoffreedom": "Özgürlük Felsefesi",
+		"philosophiesofgold": "Altın Felsefesi",
+		"philosophiesofingenuity": "Marifet Felsefesi",
+		"philosophiesofjustice": "Adalet Felsefesi",
+		"philosophiesofkindling": "Çıra Felsefesi",
+		"philosophiesoflight": "Işık Felsefesi",
+		"philosophiesofmoonlight": "Ay Işığı Felsefesi",
+		"philosophiesoforder": "Düzen Felsefesi",
+		"philosophiesofpraxis": "Uygulama Felsefesi",
+		"philosophiesofprosperity": "Refah Felsefesi",
+		"philosophiesofresistance": "Direniş Felsefesi",
+		"philosophiesoftransience": "Fani Dünya Felsefesi",
+		"philosophiesofvagrancy": "Avarelik Felsefesi",
+		"pieceofaerosiderite": "Meteor Demiri Kırıntısı",
+		"polarizingprism": "Polarize Prizma",
+		"portablewaypoint": "Taşınabilir Portal",
+		"precisiondriveshaft": "Hassas Aks",
+		"prithivatopazchunk": "Prithiva Topazı Parçası",
+		"prithivatopazfragment": "Prithiva Topazı Kırıntısı",
+		"prithivatopazgemstone": "Prithiva Topazı Külçesi",
+		"purewater": "\"Saf Su\"",
+		"pyroculusresonancestone": "Ateş Özü Rezonans Taşı",
+		"radiantexoskeleton": "Parlak Dış İskelet",
+		"radiantprism": "Parlak Prizma",
+		"reddye": "Kırmızı Boya",
+		"redrotbait": "Kan Çiçeği Yemi",
+		"refreshinglakkabait": "Ferahlatıcı Lakka Yemi",
+		"reinforceddriveshaft": "Güçlendirilmiş Aks",
+		"relicfromguyun": "Guyun'un Yadigarı",
+		"remnantglowofscorchingmight": "Kavurucu Kuvvetin Kalan Parıltısı",
+		"richredbrocade": "Koyu Kırmızı Sırmalı Kumaş",
+		"robustfungalnucleus": "Dinç Mantar Özü",
+		"sauriancrownedwarriorsgoldenwhistle": "Sürüngen Taçlı Savaşçının Altın Düdüğü",
+		"scatteredpieceofdecarabiansdream": "Decarabian'ın Rüya Parçası",
+		"scoopoftaintedwater": "Kirli Su Birikintisi",
+		"sealedscroll": "Mühürlü Parşömen",
+		"seasonedfang": "Tecrübeli Diş",
+		"sergeantsinsignia": "Çavuş Nişanı",
+		"shacklesofthedandeliongladiator": "Karahindiba Gladyatörü Prangası",
+		"sharparrowhead": "Sivri Ok Başı",
+		"sheathofthesecretsource": "Gizli Kaynak Yuvası",
+		"shimmeringnectar": "Parıltılı Nektar",
+		"shivadajadechunk": "Shivada Yeşimi Parçası",
+		"shivadajadefragment": "Shivada Yeşimi Kırıntısı",
+		"shivadajadegemstone": "Shivada Yeşimi Külçesi",
+		"shockingessentialoil": "Yıldırım Özütü",
+		"sigilofastridingwill": "Gezgin İrade Mührü",
+		"silvergobletofthepristinesea": "Saf Denizin Gümüş Kadehi",
+		"silverraveninsignia": "Gümüş Kuzgun Nişanı",
+		"silvertalismanoftheforestdew": "Orman Çiyinin Gümüş Tılsımı",
+		"slimeconcentrate": "Yoğun Bodurlop Özü",
+		"slimesecretions": "Bodurlop Salgıları",
+		"sourbait": "Ekşi Yem",
+		"specialunmovingessentialoil": "Özel Kaya Özütü",
+		"spectralheart": "Uçarlop Kalbi",
+		"spectralnucleus": "Uçarlop Cevheri",
+		"spinelgrainbait": "Spinel ve Tahıl Meyvesi Yemi",
+		"splinteredhilt": "Ayrık Kabza",
+		"springofpuresacreddewdrop": "Saf Kutsal Çiy Damlası Kaynağı",
+		"stainedmask": "Lekeli Maske",
+		"stillsmolderinghilt": "Yanmaya Devam Eden Kabza",
+		"straightshooter": "Dobra Bomba",
+		"streamingessentialoil": "Akıntı Özütü",
+		"strengthtonic": "Güçlendirici Tonik",
+		"sturdyboneshard": "Sağlam Kemik Parçası",
+		"sturdyshell": "Sağlam Kabuk",
+		"sublimationofpuresacreddewdrop": "Saf Kutsal Çiy Damlası Buharı",
+		"sugardewbait": "Şeker Özü Yemi",
+		"transoceanicchunk": "Okyanus Ötesi Parça",
+		"treasuredflower": "Değerli Çiçek",
+		"trimmedredsilk": "İşlemeli Kırmızı İpek",
+		"turbidprism": "Bulanık Prizma",
+		"tyrantsfang": "Tiranın Dişi",
+		"unmovingessentialoil": "Kaya Özütü",
+		"unyieldingdelusionofthefarnorthscions": "Uzak Kuzeyin Çocuklarının Yenilmez Sanrısı",
+		"vajradaamethystchunk": "Vajrada Ametisti Parçası",
+		"vajradaamethystfragment": "Vajrada Ametisti Kırıntısı",
+		"vajradaamethystgemstone": "Vajrada Ametisti Külçesi",
+		"valleyweaveressentialoil": "Vadi Çulhası Özütü",
+		"varunadalazuritechunk": "Varunada Lazuriti Parçası",
+		"varunadalazuritefragment": "Varunada Lazuriti Kırıntısı",
+		"varunadalazuritegemstone": "Varunada Lazuriti Külçesi",
+		"vayudaturquoisechunk": "Vayuda Turkuazı Parçası",
+		"vayudaturquoisefragment": "Vayuda Turkuazı Kırıntısı",
+		"vayudaturquoisegemstone": "Vayuda Turkuazı Külçesi",
+		"wanderersbloomingflower": "Göçebenin Çiçeği",
+		"warmbackshell": "Sıcak Sırt Kabuğu",
+		"warriorsmetalwhistle": "Savaşçının Metal Düdüğü",
+		"weatheredarrowhead": "Eski Ok Başı",
+		"windbarrierpotion": "Rüzgar Direnci İksiri",
+		"winegobletofthepristinesea": "Saf Denizin Şarap Kadehi",
+		"xenochromaticcrystal": "Alaca Kristal",
+		"xiaolantern": "Xiao Feneri",
+		"yellowdye": "Sarı Boya"
+	},
+	"names": {
+		"Derin Gölgenin Sapkın Çekirdeği": "aberrantcoreofthedeepshadow",
+		"Uzun Gece Ateşinin Kalıntısı": "afterglowoflongnightflint",
+		"Tefecinin Kurban Bıçağı": "agentssacrificialknife",
+		"Agnidus Akiği Parçası": "agnidusagatechunk",
+		"Agnidus Akiği Kırıntısı": "agnidusagatefragment",
+		"Agnidus Akiği Külçesi": "agnidusagategemstone",
+		"Dünya Dışı Yaşam Çekirdeği": "alienlifecore",
+		"Rüzgar Özü Rezonans Taşı": "anemoculusresonancestone",
+		"Usta İşi Cihaz Mirası": "artfuldeviceinheritance",
+		"Usta İşi Cihaz Replikası": "artfuldevicereplica",
+		"Usta İşi Cihaz Dileği": "artfuldevicewish",
+		"Usta İşi Dinamik Dişli": "artificeddynamicgear",
+		"Uzak Kuzeyin Çocuklarının Yaldızlı İhtişamı": "aureateradianceofthefarnorthscions",
+		"Böğürtlen Yemi": "berrybait",
+		"Büyüleyici Geniş Yaprak": "bewilderingbroadleaf",
+		"Meteor Demiri Parçası": "bitofaerosiderite",
+		"Siyah Bronz Boynuz": "blackbronzehorn",
+		"Siyah Kristal Boynuz": "blackcrystalhorn",
+		"Uzun Gece Ateşinin Işıltısı": "blazeoflongnightflint",
+		"Alevli Prizma Kabuğu": "blazingprismshell",
+		"Alevli Fedakar Kalbin Çekincesi": "blazingsacrificialheartshesitance",
+		"Alevli Fedakar Kalbin Kararlılığı": "blazingsacrificialheartsresolve",
+		"Alevli Fedakar Kalbin İhtişamı": "blazingsacrificialheartssplendor",
+		"Mavi Boya": "bluedye",
+		"Kutup Kurdunun Kırık Dişi": "borealwolfsbrokenfang",
+		"Kutup Kurdunun Çatlak Dişi": "borealwolfscrackedtooth",
+		"Kutup Kurdunun Özlemi": "borealwolfsnostalgia",
+		"Karahindiba Gladyatörü Zinciri": "chainsofthedandeliongladiator",
+		"Kaos Aksı": "chaosaxis",
+		"Kaos Cıvatası": "chaosbolt",
+		"Kaos Devresi": "chaoscircuit",
+		"Kaos Çekirdeği": "chaoscore",
+		"Kaos Modülü": "chaosmodule",
+		"Kaos Gözü": "chaosoculus",
+		"Kadim Akor Kuplesi": "chapterofanancientchord",
+		"Kanyon Işığı Sırt Tüyü": "chasmlightfin",
+		"Meteor Demiri Külçesi": "chunkofaerosiderite",
+		"Gizli Vahşi Pençe": "concealedtalon",
+		"Gizli Keskin Pençe": "concealedunguis",
+		"Yoğun Reçine": "condensedresin",
+		"Kristal Toz Kutusu": "crystallinecystdust",
+		"Kristal Prizma": "crystalprism",
+		"Kara Heykelcik": "darkstatuette",
+		"Kuru Ley Hattı Yaprakları": "deadleylineleaves",
+		"Ölümcül Heykelcik": "deathlystatuette",
+		"Decarabian'ın Yıkık Duvarı": "debrisofdecarabianscity",
+		"Kutsal Lordun Hezeyanlı Sureti": "deliriousdemeanorofthesacredlord",
+		"Kutsal Lordun Hezeyanlı Perişanlığı": "deliriousdesolationofthesacredlord",
+		"Kutsal Lordun Hezeyanlı Kutsallığı": "deliriousdivinityofthesacredlord",
+		"Doğa Direnci İksiri": "dendrocidepotion",
+		"Doğa Özü Rezonans Taşı": "dendroculusresonancestone",
+		"Su Direnci İksiri": "desiccantpotion",
+		"Guyun'un Kutsal Hazinesi": "divinebodyfromguyun",
+		"Pasif Mantar Özü": "dormantfungalnucleus",
+		"Kavurucu Kuvvetin Rüyası": "dreamofscorchingmight",
+		"Karahindiba Gladyatörü Rüyası": "dreamofthedandeliongladiator",
+		"Toprak Direnci İksiri": "dustproofpotion",
+		"Kadim Akor Yankısı": "echoofanancientchord",
+		"Elektrik Özü Rezonans Taşı": "electroculusresonancestone",
+		"Akkor Yem": "emberglowbait",
+		"Enerji Nektarı": "energynectar",
+		"Saf Kutsal Çiy Damlasının Özü": "essenceofpuresacreddewdrop",
+		"Kumaş": "fabric",
+		"Sahte Sinek Yemi": "fakeflybait",
+		"Sahte Solucan Yemi": "falsewormbait",
+		"Gösterişli Balçak": "famedhandguard",
+		"Kaderin Cilvesi Özütü": "fatesyearningessentialoil",
+		"Alev Özütü": "flamingessentialoil",
+		"Uzun Gece Ateşinin Titrek Işığı": "flareoflongnightflint",
+		"Parlayan Teknisyen Meka Yemi": "flashingmaintenancemekbait",
+		"Pofuduk Bomba": "floatysplody",
+		"Lanetli Parşömen": "forbiddencursescroll",
+		"Yabancı Sinaps": "foreignsynapse",
+		"Orman Özütü": "forestessentialoil",
+		"Fosil Kemik Parçası": "fossilizedboneshard",
+		"Decarabian'ın Destansı Parçası": "fragmentofdecarabiansepic",
+		"Donuk Yetki Belgesi": "frostetchedwarrant",
+		"Ayaz Özütü": "frostingessentialoil",
+		"Donuk Gecenin İhtişamı": "frostnightsglory",
+		"Donuk Gecenin Parıltısı": "frostnightsglow",
+		"Buz Direnci İksiri": "frostshieldpotion",
+		"Meyve Ezmesi Yemi": "fruitpastebait",
+		"Toprak Özü Rezonans Taşı": "geoculusresonancestone",
+		"Parlayan Kalıntılar": "glowingremains",
+		"Uzak Denizlerin Altın Dalı": "goldenbranchofadistantsea",
+		"Saf Denizin Altın Kadehi": "goldengobletofthepristinesea",
+		"Altın Ev Hanımı Özütü": "goldenhousemaidenessentialoil",
+		"Altın Kuzgun Nişanı": "goldenraveninsignia",
+		"Orman Çiyinin Altın Tılsımı": "goldentalismanoftheforestdew",
+		"Nasihat Rehberi": "guidetoadmonition",
+		"Şiir Rehberi": "guidetoballad",
+		"Çatışma Rehberi": "guidetoconflict",
+		"Rekabet Rehberi": "guidetocontention",
+		"Çalışkanlık Rehberi": "guidetodiligence",
+		"Zarafet Rehberi": "guidetoelegance",
+		"Cennet Rehberi": "guidetoelysium",
+		"Eşitlik Rehberi": "guidetoequity",
+		"Özgürlük Rehberi": "guidetofreedom",
+		"Altın Rehberi": "guidetogold",
+		"Marifet Rehberi": "guidetoingenuity",
+		"Adalet Rehberi": "guidetojustice",
+		"Çıra Rehberi": "guidetokindling",
+		"Işık Rehberi": "guidetolight",
+		"Ay Işığı Rehberi": "guidetomoonlight",
+		"Düzen Rehberi": "guidetoorder",
+		"Uygulama Rehberi": "guidetopraxis",
+		"Refah Rehberi": "guidetoprosperity",
+		"Direniş Rehberi": "guidetoresistance",
+		"Fani Dünya Rehberi": "guidetotransience",
+		"Avarelik Rehberi": "guidetovagrancy",
+		"Kasırga Özütü": "gushingessentialoil",
+		"Gizli Kaynağın Kalbi": "heartofthesecretsource",
+		"Ateş Direnci İksiri": "heatshieldpotion",
+		"Derin Gölgenin Kancalı Gagası": "hookedbeakofthedeepshadow",
+		"Yakıcı Bomba": "hotpod",
+		"Su Özü Rezonans Taşı": "hydroculusresonancestone",
+		"Alevli Yaşam Tohumu": "ignitedseedoflife",
+		"Alevli Göz": "ignitedseeingeye",
+		"Hayali Yaprak Buklesi": "illusoryleafcoil",
+		"Kusursuz Yetki Belgesi": "immaculatewarrant",
+		"Müfettişin Kurban Bıçağı": "inspectorssacrificialknife",
+		"Elektrik Direnci İksiri": "insulationpotion",
+		"Orman Çiyinin Demir Tılsımı": "irontalismanoftheforestdew",
+		"Uzak Denizlerin Yeşim Dalı": "jadebranchofadistantsea",
+		"Uzak Denizlerin Kıymetli Dalı": "jeweledbranchofadistantsea",
+		"Kageuchi Balçağı": "kageuchihandguard",
+		"Ley Hattı Filizi": "leylinesprout",
+		"Subay Nişanı": "lieutenantsinsignia",
+		"Net İrade Odağı": "locusofaclearwill",
+		"Parlak Polen": "luminescentpollen",
+		"Ay Işığı Sırt Tüyü": "lunarfin",
+		"Guyun'un Işıltılı Taşı": "lustrousstonefromguyun",
+		"İşaretli Kabuk": "markedshell",
+		"Kijin'in Maskesi": "maskofthekijin",
+		"Tekboynuzun Maskesi": "maskoftheonehorned",
+		"Kaplan Dişinin Maskesi": "maskofthetigersbite",
+		"Mekanik Düz Dişli": "mechanicalspurgear",
+		"Nane Özütü": "mintessentialoil",
+		"Sis Otu": "mistgrass",
+		"Sis Otu Fitili": "mistgrasswick",
+		"Sis Miğferi": "mistshroudhelmet",
+		"Sis Plakası": "mistshroudplate",
+		"Sis Kaplı Altın Cevher": "mistveiledgoldelixir",
+		"Sis Kaplı Cıva Cevher": "mistveiledmercuryelixir",
+		"Sis Kaplı Üstün Cevher": "mistveiledprimoelixir",
+		"Kadim Akor Bölümü": "movementofanancientchord",
+		"Nagadus Zümrüdü Parçası": "nagadusemeraldchunk",
+		"Nagadus Zümrüdü Kırıntısı": "nagadusemeraldfragment",
+		"Nagadus Zümrüdü Külçesi": "nagadusemeraldgemstone",
+		"Kraliyetin İsimsiz Yasaklı İlacı": "namelesstaboomedicineoftheroyalcourt",
+		"Narukami'nin Sevgisi": "narukamisaffection",
+		"Narukami'nin Neşesi": "narukamisjoy",
+		"Narukami'nin Cesareti": "narukamisvalor",
+		"Yenidoğan Lekeli Su Tayfı": "newborntaintedhydrophantasm",
+		"Gece Rüzgarının Mistik Kehaneti": "nightwindsmysticaugury",
+		"Gece Rüzgarının Mistik Sezgisi": "nightwindsmysticpremonition",
+		"Gece Rüzgarının Mistik İlhamı": "nightwindsmysticrevelation",
+		"Vaha Bahçesi Zarafeti": "oasisgardenskindness",
+		"Vaha Bahçesi Matemi": "oasisgardensmourning",
+		"Vaha Bahçesi Gerçeği": "oasisgardenstruth",
+		"Uzak Kuzeyin Çocuklarının Adağı": "oblationofthefarnorthscions",
+		"Kavurucu Kuvvetin Eski Günleri": "oldendaysofscorchingmight",
+		"Uğursuz Maske": "ominousmask",
+		"Ajanın Vefası": "operativesconstancy",
+		"Ajanın Klasik Cep Saati": "operativesstandardpocketwatch",
+		"Nasihat Felsefesi": "philosophiesofadmonition",
+		"Şiir Felsefesi": "philosophiesofballad",
+		"Çatışma Felsefesi": "philosophiesofconflict",
+		"Rekabet Felsefesi": "philosophiesofcontention",
+		"Çalışkanlık Felsefesi": "philosophiesofdiligence",
+		"Zarafet Felsefesi": "philosophiesofelegance",
+		"Cennet Felsefesi": "philosophiesofelysium",
+		"Eşitlik Felsefesi": "philosophiesofequity",
+		"Özgürlük Felsefesi": "philosophiesoffreedom",
+		"Altın Felsefesi": "philosophiesofgold",
+		"Marifet Felsefesi": "philosophiesofingenuity",
+		"Adalet Felsefesi": "philosophiesofjustice",
+		"Çıra Felsefesi": "philosophiesofkindling",
+		"Işık Felsefesi": "philosophiesoflight",
+		"Ay Işığı Felsefesi": "philosophiesofmoonlight",
+		"Düzen Felsefesi": "philosophiesoforder",
+		"Uygulama Felsefesi": "philosophiesofpraxis",
+		"Refah Felsefesi": "philosophiesofprosperity",
+		"Direniş Felsefesi": "philosophiesofresistance",
+		"Fani Dünya Felsefesi": "philosophiesoftransience",
+		"Avarelik Felsefesi": "philosophiesofvagrancy",
+		"Meteor Demiri Kırıntısı": "pieceofaerosiderite",
+		"Polarize Prizma": "polarizingprism",
+		"Taşınabilir Portal": "portablewaypoint",
+		"Hassas Aks": "precisiondriveshaft",
+		"Prithiva Topazı Parçası": "prithivatopazchunk",
+		"Prithiva Topazı Kırıntısı": "prithivatopazfragment",
+		"Prithiva Topazı Külçesi": "prithivatopazgemstone",
+		"\"Saf Su\"": "purewater",
+		"Ateş Özü Rezonans Taşı": "pyroculusresonancestone",
+		"Parlak Dış İskelet": "radiantexoskeleton",
+		"Parlak Prizma": "radiantprism",
+		"Kırmızı Boya": "reddye",
+		"Kan Çiçeği Yemi": "redrotbait",
+		"Ferahlatıcı Lakka Yemi": "refreshinglakkabait",
+		"Güçlendirilmiş Aks": "reinforceddriveshaft",
+		"Guyun'un Yadigarı": "relicfromguyun",
+		"Kavurucu Kuvvetin Kalan Parıltısı": "remnantglowofscorchingmight",
+		"Koyu Kırmızı Sırmalı Kumaş": "richredbrocade",
+		"Dinç Mantar Özü": "robustfungalnucleus",
+		"Sürüngen Taçlı Savaşçının Altın Düdüğü": "sauriancrownedwarriorsgoldenwhistle",
+		"Decarabian'ın Rüya Parçası": "scatteredpieceofdecarabiansdream",
+		"Kirli Su Birikintisi": "scoopoftaintedwater",
+		"Mühürlü Parşömen": "sealedscroll",
+		"Tecrübeli Diş": "seasonedfang",
+		"Çavuş Nişanı": "sergeantsinsignia",
+		"Karahindiba Gladyatörü Prangası": "shacklesofthedandeliongladiator",
+		"Sivri Ok Başı": "sharparrowhead",
+		"Gizli Kaynak Yuvası": "sheathofthesecretsource",
+		"Parıltılı Nektar": "shimmeringnectar",
+		"Shivada Yeşimi Parçası": "shivadajadechunk",
+		"Shivada Yeşimi Kırıntısı": "shivadajadefragment",
+		"Shivada Yeşimi Külçesi": "shivadajadegemstone",
+		"Yıldırım Özütü": "shockingessentialoil",
+		"Gezgin İrade Mührü": "sigilofastridingwill",
+		"Saf Denizin Gümüş Kadehi": "silvergobletofthepristinesea",
+		"Gümüş Kuzgun Nişanı": "silverraveninsignia",
+		"Orman Çiyinin Gümüş Tılsımı": "silvertalismanoftheforestdew",
+		"Yoğun Bodurlop Özü": "slimeconcentrate",
+		"Bodurlop Salgıları": "slimesecretions",
+		"Ekşi Yem": "sourbait",
+		"Özel Kaya Özütü": "specialunmovingessentialoil",
+		"Uçarlop Kalbi": "spectralheart",
+		"Uçarlop Cevheri": "spectralnucleus",
+		"Spinel ve Tahıl Meyvesi Yemi": "spinelgrainbait",
+		"Ayrık Kabza": "splinteredhilt",
+		"Saf Kutsal Çiy Damlası Kaynağı": "springofpuresacreddewdrop",
+		"Lekeli Maske": "stainedmask",
+		"Yanmaya Devam Eden Kabza": "stillsmolderinghilt",
+		"Dobra Bomba": "straightshooter",
+		"Akıntı Özütü": "streamingessentialoil",
+		"Güçlendirici Tonik": "strengthtonic",
+		"Sağlam Kemik Parçası": "sturdyboneshard",
+		"Sağlam Kabuk": "sturdyshell",
+		"Saf Kutsal Çiy Damlası Buharı": "sublimationofpuresacreddewdrop",
+		"Şeker Özü Yemi": "sugardewbait",
+		"Okyanus Ötesi Parça": "transoceanicchunk",
+		"Değerli Çiçek": "treasuredflower",
+		"İşlemeli Kırmızı İpek": "trimmedredsilk",
+		"Bulanık Prizma": "turbidprism",
+		"Tiranın Dişi": "tyrantsfang",
+		"Kaya Özütü": "unmovingessentialoil",
+		"Uzak Kuzeyin Çocuklarının Yenilmez Sanrısı": "unyieldingdelusionofthefarnorthscions",
+		"Vajrada Ametisti Parçası": "vajradaamethystchunk",
+		"Vajrada Ametisti Kırıntısı": "vajradaamethystfragment",
+		"Vajrada Ametisti Külçesi": "vajradaamethystgemstone",
+		"Vadi Çulhası Özütü": "valleyweaveressentialoil",
+		"Varunada Lazuriti Parçası": "varunadalazuritechunk",
+		"Varunada Lazuriti Kırıntısı": "varunadalazuritefragment",
+		"Varunada Lazuriti Külçesi": "varunadalazuritegemstone",
+		"Vayuda Turkuazı Parçası": "vayudaturquoisechunk",
+		"Vayuda Turkuazı Kırıntısı": "vayudaturquoisefragment",
+		"Vayuda Turkuazı Külçesi": "vayudaturquoisegemstone",
+		"Göçebenin Çiçeği": "wanderersbloomingflower",
+		"Sıcak Sırt Kabuğu": "warmbackshell",
+		"Savaşçının Metal Düdüğü": "warriorsmetalwhistle",
+		"Eski Ok Başı": "weatheredarrowhead",
+		"Rüzgar Direnci İksiri": "windbarrierpotion",
+		"Saf Denizin Şarap Kadehi": "winegobletofthepristinesea",
+		"Alaca Kristal": "xenochromaticcrystal",
+		"Xiao Feneri": "xiaolantern",
+		"Sarı Boya": "yellowdye"
+	},
+	"aliases": {},
+	"categories": {
+		"Karakter ve Silah Geliştirme Malzemesi": [
+			"aberrantcoreofthedeepshadow",
+			"agentssacrificialknife",
+			"alienlifecore",
+			"artificeddynamicgear",
+			"bewilderingbroadleaf",
+			"blackbronzehorn",
+			"blackcrystalhorn",
+			"blazingprismshell",
+			"chaosaxis",
+			"chaosbolt",
+			"chaoscircuit",
+			"chaoscore",
+			"chaosmodule",
+			"chaosoculus",
+			"chasmlightfin",
+			"concealedtalon",
+			"concealedunguis",
+			"crystallinecystdust",
+			"crystalprism",
+			"darkstatuette",
+			"deadleylineleaves",
+			"deathlystatuette",
+			"dormantfungalnucleus",
+			"energynectar",
+			"famedhandguard",
+			"forbiddencursescroll",
+			"foreignsynapse",
+			"fossilizedboneshard",
+			"frostetchedwarrant",
+			"frostnightsglory",
+			"frostnightsglow",
+			"glowingremains",
+			"goldenraveninsignia",
+			"heartofthesecretsource",
+			"hookedbeakofthedeepshadow",
+			"ignitedseedoflife",
+			"ignitedseeingeye",
+			"illusoryleafcoil",
+			"immaculatewarrant",
+			"inspectorssacrificialknife",
+			"kageuchihandguard",
+			"leylinesprout",
+			"lieutenantsinsignia",
+			"locusofaclearwill",
+			"luminescentpollen",
+			"lunarfin",
+			"markedshell",
+			"mechanicalspurgear",
+			"mistgrass",
+			"mistgrasswick",
+			"mistshroudhelmet",
+			"mistshroudplate",
+			"newborntaintedhydrophantasm",
+			"ominousmask",
+			"operativesconstancy",
+			"operativesstandardpocketwatch",
+			"polarizingprism",
+			"precisiondriveshaft",
+			"radiantexoskeleton",
+			"radiantprism",
+			"reinforceddriveshaft",
+			"richredbrocade",
+			"robustfungalnucleus",
+			"sauriancrownedwarriorsgoldenwhistle",
+			"scoopoftaintedwater",
+			"sealedscroll",
+			"seasonedfang",
+			"sergeantsinsignia",
+			"sharparrowhead",
+			"sheathofthesecretsource",
+			"shimmeringnectar",
+			"sigilofastridingwill",
+			"silverraveninsignia",
+			"slimeconcentrate",
+			"slimesecretions",
+			"spectralheart",
+			"spectralnucleus",
+			"splinteredhilt",
+			"stainedmask",
+			"stillsmolderinghilt",
+			"sturdyboneshard",
+			"sturdyshell",
+			"transoceanicchunk",
+			"treasuredflower",
+			"trimmedredsilk",
+			"turbidprism",
+			"tyrantsfang",
+			"wanderersbloomingflower",
+			"warmbackshell",
+			"warriorsmetalwhistle",
+			"weatheredarrowhead",
+			"xenochromaticcrystal"
+		],
+		"Derin Gölgenin Kırık Gözü": [
+			"aberrantcoreofthedeepshadow"
+		],
+		"Silah Yükseltme Malzemesi": [
+			"afterglowoflongnightflint",
+			"artfuldeviceinheritance",
+			"artfuldevicereplica",
+			"artfuldevicewish",
+			"aureateradianceofthefarnorthscions",
+			"bitofaerosiderite",
+			"blazeoflongnightflint",
+			"blazingsacrificialheartshesitance",
+			"blazingsacrificialheartsresolve",
+			"blazingsacrificialheartssplendor",
+			"borealwolfsbrokenfang",
+			"borealwolfscrackedtooth",
+			"borealwolfsnostalgia",
+			"chainsofthedandeliongladiator",
+			"chapterofanancientchord",
+			"chunkofaerosiderite",
+			"debrisofdecarabianscity",
+			"deliriousdemeanorofthesacredlord",
+			"deliriousdesolationofthesacredlord",
+			"deliriousdivinityofthesacredlord",
+			"divinebodyfromguyun",
+			"dreamofscorchingmight",
+			"dreamofthedandeliongladiator",
+			"echoofanancientchord",
+			"essenceofpuresacreddewdrop",
+			"flareoflongnightflint",
+			"fragmentofdecarabiansepic",
+			"goldenbranchofadistantsea",
+			"goldengobletofthepristinesea",
+			"goldentalismanoftheforestdew",
+			"irontalismanoftheforestdew",
+			"jadebranchofadistantsea",
+			"jeweledbranchofadistantsea",
+			"lustrousstonefromguyun",
+			"maskofthekijin",
+			"maskoftheonehorned",
+			"maskofthetigersbite",
+			"mistveiledgoldelixir",
+			"mistveiledmercuryelixir",
+			"mistveiledprimoelixir",
+			"movementofanancientchord",
+			"narukamisaffection",
+			"narukamisjoy",
+			"narukamisvalor",
+			"nightwindsmysticaugury",
+			"nightwindsmysticpremonition",
+			"nightwindsmysticrevelation",
+			"oasisgardenskindness",
+			"oasisgardensmourning",
+			"oasisgardenstruth",
+			"oblationofthefarnorthscions",
+			"oldendaysofscorchingmight",
+			"pieceofaerosiderite",
+			"relicfromguyun",
+			"remnantglowofscorchingmight",
+			"scatteredpieceofdecarabiansdream",
+			"shacklesofthedandeliongladiator",
+			"silvergobletofthepristinesea",
+			"silvertalismanoftheforestdew",
+			"springofpuresacreddewdrop",
+			"sublimationofpuresacreddewdrop",
+			"unyieldingdelusionofthefarnorthscions",
+			"winegobletofthepristinesea"
+		],
+		"Uzun Gece Ateşinin Koru": [
+			"afterglowoflongnightflint"
+		],
+		"Avcının Kurban Bıçağı": [
+			"agentssacrificialknife"
+		],
+		"Karakter Yükseltme Malzemesi": [
+			"agnidusagatechunk",
+			"agnidusagatefragment",
+			"agnidusagategemstone",
+			"nagadusemeraldchunk",
+			"nagadusemeraldfragment",
+			"nagadusemeraldgemstone",
+			"prithivatopazchunk",
+			"prithivatopazfragment",
+			"prithivatopazgemstone",
+			"shivadajadechunk",
+			"shivadajadefragment",
+			"shivadajadegemstone",
+			"vajradaamethystchunk",
+			"vajradaamethystfragment",
+			"vajradaamethystgemstone",
+			"varunadalazuritechunk",
+			"varunadalazuritefragment",
+			"varunadalazuritegemstone",
+			"vayudaturquoisechunk",
+			"vayudaturquoisefragment",
+			"vayudaturquoisegemstone"
+		],
+		"Agnidus Akiği Kırıntısı": [
+			"agnidusagatechunk"
+		],
+		"Agnidus Akiği Tozu": [
+			"agnidusagatefragment"
+		],
+		"Agnidus Akiği Parçası": [
+			"agnidusagategemstone"
+		],
+		"Yabancı Sinaps": [
+			"alienlifecore"
+		],
+		"Sarf Malzemesi": [
+			"anemoculusresonancestone",
+			"condensedresin",
+			"dendroculusresonancestone",
+			"electroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Karahindiba Tohumu": [
+			"anemoculusresonancestone",
+			"gushingessentialoil",
+			"windbarrierpotion"
+		],
+		"Sesilya": [
+			"anemoculusresonancestone"
+		],
+		"Kristal Parçası": [
+			"anemoculusresonancestone",
+			"dendroculusresonancestone",
+			"geoculusresonancestone",
+			"hydroculusresonancestone",
+			"portablewaypoint",
+			"pyroculusresonancestone"
+		],
+		"Usta İşi Cihaz Replikası": [
+			"artfuldeviceinheritance"
+		],
+		"Usta İşi Cihaz Parçası": [
+			"artfuldevicereplica"
+		],
+		"Usta İşi Cihaz Mirası": [
+			"artfuldevicewish"
+		],
+		"Mekanik Düz Dişli": [
+			"artificeddynamicgear"
+		],
+		"Uzak Kuzeyin Çocuklarının Adağı": [
+			"aureateradianceofthefarnorthscions"
+		],
+		"Yem": [
+			"berrybait",
+			"emberglowbait",
+			"fakeflybait",
+			"falsewormbait",
+			"flashingmaintenancemekbait",
+			"fruitpastebait",
+			"redrotbait",
+			"refreshinglakkabait",
+			"sourbait",
+			"spinelgrainbait",
+			"sugardewbait"
+		],
+		"Yazdönümü Böğürtleni": [
+			"berrybait"
+		],
+		"Un": [
+			"berrybait"
+		],
+		"Kırılmış Tomurcuk": [
+			"bewilderingbroadleaf"
+		],
+		"Meteor Demiri Kırıntısı": [
+			"bitofaerosiderite"
+		],
+		"Ağır Boynuz": [
+			"blackbronzehorn"
+		],
+		"Siyah Bronz Boynuz": [
+			"blackcrystalhorn"
+		],
+		"Uzun Gece Ateşinin Titrek Işığı": [
+			"blazeoflongnightflint"
+		],
+		"Sıcak Sırt Kabuğu": [
+			"blazingprismshell"
+		],
+		"Alevli Fedakar Kalbin Korkusu": [
+			"blazingsacrificialheartshesitance"
+		],
+		"Alevli Fedakar Kalbin Çekincesi": [
+			"blazingsacrificialheartsresolve"
+		],
+		"Alevli Fedakar Kalbin Kararlılığı": [
+			"blazingsacrificialheartssplendor"
+		],
+		"Dekorasyon Üretim Malzemesi": [
+			"bluedye",
+			"fabric",
+			"reddye",
+			"yellowdye"
+		],
+		"Nane": [
+			"bluedye",
+			"mintessentialoil",
+			"refreshinglakkabait"
+		],
+		"Kurt Çengeli": [
+			"bluedye"
+		],
+		"Fosforlu Mantar": [
+			"bluedye"
+		],
+		"Tidalga": [
+			"bluedye",
+			"purewater"
+		],
+		"Quenepa Böğürtleni": [
+			"bluedye",
+			"pyroculusresonancestone"
+		],
+		"Kutup Kurdunun Çatlak Dişi": [
+			"borealwolfsbrokenfang"
+		],
+		"Kutup Kurdunun Süt Dişi": [
+			"borealwolfscrackedtooth"
+		],
+		"Kutup Kurdunun Kırık Dişi": [
+			"borealwolfsnostalgia"
+		],
+		"Karahindiba Gladyatörü Kelepçesi": [
+			"chainsofthedandeliongladiator"
+		],
+		"Kaos Dişlisi": [
+			"chaosaxis"
+		],
+		"Kaos Modülü": [
+			"chaosbolt"
+		],
+		"Kaos Cihazı": [
+			"chaoscircuit"
+		],
+		"Kaos Devresi": [
+			"chaoscore"
+		],
+		"Kaos Deposu": [
+			"chaosmodule"
+		],
+		"Kaos Aksı": [
+			"chaosoculus"
+		],
+		"Kadim Akor Parçası": [
+			"chapterofanancientchord"
+		],
+		"Ay Işığı Sırt Tüyü": [
+			"chasmlightfin"
+		],
+		"Meteor Demiri Parçası": [
+			"chunkofaerosiderite"
+		],
+		"Gizli Keskin Pençe": [
+			"concealedtalon"
+		],
+		"Gizli Pençe": [
+			"concealedunguis"
+		],
+		"Kristal Çekirdek": [
+			"condensedresin",
+			"dendrocidepotion",
+			"frostshieldpotion",
+			"windbarrierpotion"
+		],
+		"Orijinal Reçine": [
+			"condensedresin"
+		],
+		"Parlak Polen": [
+			"crystallinecystdust"
+		],
+		"Karanlık Prizma": [
+			"crystalprism"
+		],
+		"Kasvetli Heykelcik": [
+			"darkstatuette"
+		],
+		"Kuru Ley Hattı Dalı": [
+			"deadleylineleaves"
+		],
+		"Kara Heykelcik": [
+			"deathlystatuette"
+		],
+		"Decarabian'ın Kırık Çinisi": [
+			"debrisofdecarabianscity"
+		],
+		"Kutsal Lordun Hezeyanlı Perişanlığı": [
+			"deliriousdemeanorofthesacredlord"
+		],
+		"Kutsal Lordun Hezeyanlı Çöküşü": [
+			"deliriousdesolationofthesacredlord"
+		],
+		"Kutsal Lordun Hezeyanlı Sureti": [
+			"deliriousdivinityofthesacredlord"
+		],
+		"İksir": [
+			"dendrocidepotion",
+			"desiccantpotion",
+			"dustproofpotion",
+			"flamingessentialoil",
+			"forestessentialoil",
+			"frostingessentialoil",
+			"frostshieldpotion",
+			"gushingessentialoil",
+			"heatshieldpotion",
+			"insulationpotion",
+			"shockingessentialoil",
+			"streamingessentialoil",
+			"unmovingessentialoil",
+			"windbarrierpotion"
+		],
+		"Sumeru Gülü": [
+			"dendrocidepotion",
+			"forestessentialoil",
+			"namelesstaboomedicineoftheroyalcourt",
+			"sugardewbait"
+		],
+		"Nilotpala Nilüferi": [
+			"dendroculusresonancestone"
+		],
+		"Rukkhashava Mantarları": [
+			"dendroculusresonancestone"
+		],
+		"Kelebek Kanatları": [
+			"desiccantpotion",
+			"dustproofpotion",
+			"heatshieldpotion",
+			"insulationpotion"
+		],
+		"Nilüfer Başı": [
+			"desiccantpotion",
+			"streamingessentialoil"
+		],
+		"Guyun'un Yadigarı": [
+			"divinebodyfromguyun"
+		],
+		"Etkisizleştirilmiş Mantar Özü": [
+			"dormantfungalnucleus"
+		],
+		"Kavurucu Kuvvetin Kalan Parıltısı": [
+			"dreamofscorchingmight"
+		],
+		"Karahindiba Gladyatörü Prangası": [
+			"dreamofthedandeliongladiator"
+		],
+		"Cor Lapis": [
+			"dustproofpotion",
+			"geoculusresonancestone",
+			"specialunmovingessentialoil",
+			"unmovingessentialoil",
+			"yellowdye"
+		],
+		"Kadim Akor Bölümü": [
+			"echoofanancientchord"
+		],
+		"Gözyaşı Otu": [
+			"electroculusresonancestone"
+		],
+		"Kiraz Çiçeği": [
+			"electroculusresonancestone",
+			"fakeflybait"
+		],
+		"Ametist Parçası": [
+			"electroculusresonancestone"
+		],
+		"Kor Çiçeği": [
+			"emberglowbait",
+			"reddye"
+		],
+		"Buğday": [
+			"emberglowbait",
+			"fruitpastebait",
+			"purewater",
+			"sourbait"
+		],
+		"Parıltılı Nektar": [
+			"energynectar"
+		],
+		"Saf Kutsal Çiy Damlası Kaynağı": [
+			"essenceofpuresacreddewdrop"
+		],
+		"İpek Çiçeği": [
+			"fabric"
+		],
+		"Atkuyruğu": [
+			"fakeflybait"
+		],
+		"Bodurlop Özü": [
+			"falsewormbait",
+			"slimesecretions"
+		],
+		"Böğürtlen": [
+			"falsewormbait",
+			"yellowdye"
+		],
+		"Kageuchi Balçağı": [
+			"famedhandguard"
+		],
+		"Kaderin Cilvesi": [
+			"fatesyearningessentialoil"
+		],
+		"Kurbağa": [
+			"flamingessentialoil",
+			"shockingessentialoil",
+			"specialunmovingessentialoil",
+			"straightshooter",
+			"streamingessentialoil",
+			"unmovingessentialoil"
+		],
+		"Alev Çiçeği Tomurcuğu": [
+			"flamingessentialoil",
+			"floatysplody",
+			"heatshieldpotion",
+			"hotpod",
+			"straightshooter"
+		],
+		"Uzun Gece Ateşinin Kalıntısı": [
+			"flareoflongnightflint"
+		],
+		"Marcotte": [
+			"flashingmaintenancemekbait",
+			"yellowdye"
+		],
+		"Demir Parçası": [
+			"flashingmaintenancemekbait"
+		],
+		"Ateşböceği Sırtı": [
+			"floatysplody",
+			"portablewaypoint"
+		],
+		"Mühürlü Parşömen": [
+			"forbiddencursescroll"
+		],
+		"Yarık Çekirdeği": [
+			"foreignsynapse"
+		],
+		"Kertenkele Kuyruğu": [
+			"forestessentialoil",
+			"frostingessentialoil",
+			"gushingessentialoil",
+			"hotpod"
+		],
+		"Sağlam Kemik Parçası": [
+			"fossilizedboneshard"
+		],
+		"Decarabian'ın Yıkık Duvarı": [
+			"fragmentofdecarabiansepic"
+		],
+		"Kusursuz Yetki Belgesi": [
+			"frostetchedwarrant"
+		],
+		"Sis Çiçeği Tepeciği": [
+			"frostingessentialoil",
+			"frostshieldpotion"
+		],
+		"Donuk Gecenin Parıltısı": [
+			"frostnightsglory"
+		],
+		"Donuk Gecenin Işıltısı": [
+			"frostnightsglow"
+		],
+		"Güneriği": [
+			"fruitpastebait",
+			"reddye"
+		],
+		"Parlak Zambak": [
+			"geoculusresonancestone"
+		],
+		"Işıksız Kemik": [
+			"glowingremains"
+		],
+		"Uzak Denizlerin Yeşim Dalı": [
+			"goldenbranchofadistantsea"
+		],
+		"Saf Denizin Gümüş Kadehi": [
+			"goldengobletofthepristinesea"
+		],
+		"Altın Ev Hanımı": [
+			"goldenhousemaidenessentialoil"
+		],
+		"Gümüş Kuzgun Nişanı": [
+			"goldenraveninsignia"
+		],
+		"Orman Çiyinin Gümüş Tılsımı": [
+			"goldentalismanoftheforestdew"
+		],
+		"Karakter Yeteneği Malzemesi": [
+			"guidetoadmonition",
+			"guidetoballad",
+			"guidetoconflict",
+			"guidetocontention",
+			"guidetodiligence",
+			"guidetoelegance",
+			"guidetoelysium",
+			"guidetoequity",
+			"guidetofreedom",
+			"guidetogold",
+			"guidetoingenuity",
+			"guidetojustice",
+			"guidetokindling",
+			"guidetolight",
+			"guidetomoonlight",
+			"guidetoorder",
+			"guidetopraxis",
+			"guidetoprosperity",
+			"guidetoresistance",
+			"guidetotransience",
+			"guidetovagrancy",
+			"philosophiesofadmonition",
+			"philosophiesofballad",
+			"philosophiesofconflict",
+			"philosophiesofcontention",
+			"philosophiesofdiligence",
+			"philosophiesofelegance",
+			"philosophiesofelysium",
+			"philosophiesofequity",
+			"philosophiesoffreedom",
+			"philosophiesofgold",
+			"philosophiesofingenuity",
+			"philosophiesofjustice",
+			"philosophiesofkindling",
+			"philosophiesoflight",
+			"philosophiesofmoonlight",
+			"philosophiesoforder",
+			"philosophiesofpraxis",
+			"philosophiesofprosperity",
+			"philosophiesofresistance",
+			"philosophiesoftransience",
+			"philosophiesofvagrancy"
+		],
+		"Nasihat Öğretisi": [
+			"guidetoadmonition"
+		],
+		"Şiir Öğretisi": [
+			"guidetoballad"
+		],
+		"Çatışma Öğretisi": [
+			"guidetoconflict"
+		],
+		"Rekabet Öğretisi": [
+			"guidetocontention"
+		],
+		"Çalışkanlık Öğretisi": [
+			"guidetodiligence"
+		],
+		"Zarafet Öğretisi": [
+			"guidetoelegance"
+		],
+		"Cennet Öğretisi": [
+			"guidetoelysium"
+		],
+		"Eşitlik Öğretisi": [
+			"guidetoequity"
+		],
+		"Özgürlük Öğretisi": [
+			"guidetofreedom"
+		],
+		"Altın Öğretisi": [
+			"guidetogold"
+		],
+		"Marifet Öğretisi": [
+			"guidetoingenuity"
+		],
+		"Adalet Öğretisi": [
+			"guidetojustice"
+		],
+		"Çıra Öğretisi": [
+			"guidetokindling"
+		],
+		"Işık Öğretisi": [
+			"guidetolight"
+		],
+		"Ay Işığı Öğretisi": [
+			"guidetomoonlight"
+		],
+		"Düzen Öğretisi": [
+			"guidetoorder"
+		],
+		"Uygulama Öğretisi": [
+			"guidetopraxis"
+		],
+		"Refah Öğretisi": [
+			"guidetoprosperity"
+		],
+		"Direniş Öğretisi": [
+			"guidetoresistance"
+		],
+		"Fani Dünya Öğretisi": [
+			"guidetotransience"
+		],
+		"Avarelik Öğretisi": [
+			"guidetovagrancy"
+		],
+		"Gizli Kaynak Yuvası": [
+			"heartofthesecretsource"
+		],
+		"Derin Gölgenin Sapkın Çekirdeği": [
+			"hookedbeakofthedeepshadow"
+		],
+		"Romaritime Çiçeği": [
+			"hydroculusresonancestone"
+		],
+		"Gökkuşağı Gülü": [
+			"hydroculusresonancestone"
+		],
+		"Alevli Taş": [
+			"ignitedseedoflife"
+		],
+		"Alevli Yaşam Tohumu": [
+			"ignitedseeingeye"
+		],
+		"Büyüleyici Geniş Yaprak": [
+			"illusoryleafcoil"
+		],
+		"Yıpranmış Yetki Belgesi": [
+			"immaculatewarrant"
+		],
+		"Tefecinin Kurban Bıçağı": [
+			"inspectorssacrificialknife"
+		],
+		"Elektrik Kristali": [
+			"insulationpotion",
+			"shockingessentialoil"
+		],
+		"Orman Çiyinin Bakır Tılsımı": [
+			"irontalismanoftheforestdew"
+		],
+		"Uzak Denizlerin Kıymetli Dalı": [
+			"jadebranchofadistantsea"
+		],
+		"Uzak Denizlerin Mercan Dalı": [
+			"jeweledbranchofadistantsea"
+		],
+		"Eski Balçak": [
+			"kageuchihandguard"
+		],
+		"Kuru Ley Hattı Yaprakları": [
+			"leylinesprout",
+			"portablewaypoint"
+		],
+		"Çavuş Nişanı": [
+			"lieutenantsinsignia"
+		],
+		"Parçalanmış İradenin Parçası": [
+			"locusofaclearwill"
+		],
+		"Mantar Sporları": [
+			"luminescentpollen"
+		],
+		"Sırt Tüyü": [
+			"lunarfin"
+		],
+		"Guyun'un Parlak Kumları": [
+			"lustrousstonefromguyun"
+		],
+		"Sağlam Kabuk": [
+			"markedshell"
+		],
+		"Tekboynuzun Maskesi": [
+			"maskofthekijin"
+		],
+		"Kaplan Dişinin Maskesi": [
+			"maskoftheonehorned"
+		],
+		"Habis Teğmenin Maskesi": [
+			"maskofthetigersbite"
+		],
+		"Kavrama Dişlisi": [
+			"mechanicalspurgear"
+		],
+		"Sis Otu Poleni": [
+			"mistgrass"
+		],
+		"Sis Otu": [
+			"mistgrasswick"
+		],
+		"Sis Plakası": [
+			"mistshroudhelmet"
+		],
+		"Sis Tezahürü": [
+			"mistshroudplate"
+		],
+		"Sis Kaplı Cıva Cevher": [
+			"mistveiledgoldelixir"
+		],
+		"Sis Kaplı Kurşun Cevher": [
+			"mistveiledmercuryelixir"
+		],
+		"Sis Kaplı Altın Cevher": [
+			"mistveiledprimoelixir"
+		],
+		"Kadim Akor Kuplesi": [
+			"movementofanancientchord"
+		],
+		"Nagadus Zümrüdü Kırıntısı": [
+			"nagadusemeraldchunk"
+		],
+		"Nagadus Zümrüdü Tozu": [
+			"nagadusemeraldfragment"
+		],
+		"Nagadus Zümrüdü Parçası": [
+			"nagadusemeraldgemstone"
+		],
+		"Tuhaf Mantar": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Kalpalata Nilüferi": [
+			"namelesstaboomedicineoftheroyalcourt"
+		],
+		"Narukami'nin Neşesi": [
+			"narukamisaffection"
+		],
+		"Narukami'nin Bilgeliği": [
+			"narukamisjoy"
+		],
+		"Narukami'nin Sevgisi": [
+			"narukamisvalor"
+		],
+		"Kirli Su Birikintisi": [
+			"newborntaintedhydrophantasm"
+		],
+		"Gece Rüzgarının Mistik Sezgisi": [
+			"nightwindsmysticaugury"
+		],
+		"Gece Rüzgarının Mistik Düşüncesi": [
+			"nightwindsmysticpremonition"
+		],
+		"Gece Rüzgarının Mistik Kehaneti": [
+			"nightwindsmysticrevelation"
+		],
+		"Vaha Bahçesi Hatırası": [
+			"oasisgardenskindness"
+		],
+		"Vaha Bahçesi Zarafeti": [
+			"oasisgardensmourning"
+		],
+		"Vaha Bahçesi Matemi": [
+			"oasisgardenstruth"
+		],
+		"Uzak Kuzeyin Çocuklarının Yenilmez Sanrısı": [
+			"oblationofthefarnorthscions"
+		],
+		"Kavurucu Kuvvetin Rüyası": [
+			"oldendaysofscorchingmight"
+		],
+		"Lekeli Maske": [
+			"ominousmask"
+		],
+		"Ajanın Klasik Cep Saati": [
+			"operativesconstancy"
+		],
+		"Kıdemli Ajanın Cep Saati": [
+			"operativesstandardpocketwatch"
+		],
+		"Nasihat Rehberi": [
+			"philosophiesofadmonition"
+		],
+		"Şiir Rehberi": [
+			"philosophiesofballad"
+		],
+		"Çatışma Rehberi": [
+			"philosophiesofconflict"
+		],
+		"Rekabet Rehberi": [
+			"philosophiesofcontention"
+		],
+		"Çalışkanlık Rehberi": [
+			"philosophiesofdiligence"
+		],
+		"Zarafet Rehberi": [
+			"philosophiesofelegance"
+		],
+		"Cennet Rehberi": [
+			"philosophiesofelysium"
+		],
+		"Eşitlik Rehberi": [
+			"philosophiesofequity"
+		],
+		"Özgürlük Rehberi": [
+			"philosophiesoffreedom"
+		],
+		"Altın Rehberi": [
+			"philosophiesofgold"
+		],
+		"Marifet Rehberi": [
+			"philosophiesofingenuity"
+		],
+		"Adalet Rehberi": [
+			"philosophiesofjustice"
+		],
+		"Çıra Rehberi": [
+			"philosophiesofkindling"
+		],
+		"Işık Rehberi": [
+			"philosophiesoflight"
+		],
+		"Ay Işığı Rehberi": [
+			"philosophiesofmoonlight"
+		],
+		"Düzen Rehberi": [
+			"philosophiesoforder"
+		],
+		"Uygulama Rehberi": [
+			"philosophiesofpraxis"
+		],
+		"Refah Rehberi": [
+			"philosophiesofprosperity"
+		],
+		"Direniş Rehberi": [
+			"philosophiesofresistance"
+		],
+		"Fani Dünya Rehberi": [
+			"philosophiesoftransience"
+		],
+		"Avarelik Rehberi": [
+			"philosophiesofvagrancy"
+		],
+		"Meteor Demiri Tozu": [
+			"pieceofaerosiderite"
+		],
+		"Kristal Prizma": [
+			"polarizingprism"
+		],
+		"Güçlendirilmiş Aks": [
+			"precisiondriveshaft"
+		],
+		"Prithiva Topazı Kırıntısı": [
+			"prithivatopazchunk"
+		],
+		"Prithiva Topazı Tozu": [
+			"prithivatopazfragment"
+		],
+		"Prithiva Topazı Parçası": [
+			"prithivatopazgemstone"
+		],
+		"Yiyecek": [
+			"purewater",
+			"strengthtonic"
+		],
+		"Çam Kozalağı": [
+			"purewater"
+		],
+		"Tüylü Solungaç": [
+			"pyroculusresonancestone"
+		],
+		"Parlayan Kalıntılar": [
+			"radiantexoskeleton"
+		],
+		"Bulanık Prizma": [
+			"radiantprism"
+		],
+		"Havuç": [
+			"reddye"
+		],
+		"Valyemiş": [
+			"reddye"
+		],
+		"Zaytun Şeftalisi": [
+			"reddye"
+		],
+		"Kan Çiçeği": [
+			"redrotbait"
+		],
+		"Kuş Eti": [
+			"redrotbait"
+		],
+		"Lakka Böğürtleni": [
+			"refreshinglakkabait"
+		],
+		"Kırık Aks": [
+			"reinforceddriveshaft"
+		],
+		"Guyun'un Işıltılı Taşı": [
+			"relicfromguyun"
+		],
+		"Kavurucu Kuvvetin Yankısı": [
+			"remnantglowofscorchingmight"
+		],
+		"İşlemeli Kırmızı İpek": [
+			"richredbrocade"
+		],
+		"Pasif Mantar Özü": [
+			"robustfungalnucleus"
+		],
+		"Savaşçının Metal Düdüğü": [
+			"sauriancrownedwarriorsgoldenwhistle"
+		],
+		"Decarabian'ın Destansı Parçası": [
+			"scatteredpieceofdecarabiansdream"
+		],
+		"Kirli Su Damlası": [
+			"scoopoftaintedwater"
+		],
+		"Kehanet Parşömeni": [
+			"sealedscroll"
+		],
+		"Genç Diş": [
+			"seasonedfang"
+		],
+		"Acemi Asker Nişanı": [
+			"sergeantsinsignia"
+		],
+		"Karahindiba Gladyatörü Zinciri": [
+			"shacklesofthedandeliongladiator"
+		],
+		"Sağlam Ok Başı": [
+			"sharparrowhead"
+		],
+		"Gizli Kaynak Ekseni": [
+			"sheathofthesecretsource"
+		],
+		"Yalancı Çiçek Nektarı": [
+			"shimmeringnectar"
+		],
+		"Shivada Yeşimi Kırıntısı": [
+			"shivadajadechunk"
+		],
+		"Shivada Yeşimi Tozu": [
+			"shivadajadefragment"
+		],
+		"Shivada Yeşimi Parçası": [
+			"shivadajadegemstone"
+		],
+		"Net İrade Odağı": [
+			"sigilofastridingwill"
+		],
+		"Saf Denizin Şarap Kadehi": [
+			"silvergobletofthepristinesea"
+		],
+		"Hazine Avcısı Nişanı": [
+			"silverraveninsignia"
+		],
+		"Orman Çiyinin Demir Tılsımı": [
+			"silvertalismanoftheforestdew"
+		],
+		"Bodurlop Salgıları": [
+			"slimeconcentrate"
+		],
+		"Bulle Meyvesi": [
+			"sourbait"
+		],
+		"Uçarlop Kabuğu": [
+			"spectralheart"
+		],
+		"Uçarlop Kalbi": [
+			"spectralnucleus"
+		],
+		"Spinel Meyvesi": [
+			"spinelgrainbait"
+		],
+		"Tahıl Meyvesi": [
+			"spinelgrainbait"
+		],
+		"Yıpranmış Kabza": [
+			"splinteredhilt"
+		],
+		"Saf Kutsal Çiy Damlası Buharı": [
+			"springofpuresacreddewdrop"
+		],
+		"Kırık Maske": [
+			"stainedmask"
+		],
+		"Ayrık Kabza": [
+			"stillsmolderinghilt"
+		],
+		"Şamdan Mantarı": [
+			"strengthtonic"
+		],
+		"Sürüngen Pençesi Kaktüsü": [
+			"strengthtonic"
+		],
+		"Kırılgan Kemik Parçası": [
+			"sturdyboneshard"
+		],
+		"Kuru Kabuk": [
+			"sturdyshell"
+		],
+		"Saf Kutsal Çiy Damlası Kalıntısı": [
+			"sublimationofpuresacreddewdrop"
+		],
+		"Harra Meyvesi": [
+			"sugardewbait"
+		],
+		"Okyanus Ötesi İncisi": [
+			"transoceanicchunk"
+		],
+		"Henüz Açmamış Çiçek": [
+			"treasuredflower"
+		],
+		"Soluk Kırmızı Saten": [
+			"trimmedredsilk"
+		],
+		"Hasarlı Prizma": [
+			"turbidprism"
+		],
+		"Tecrübeli Diş": [
+			"tyrantsfang"
+		],
+		"Uzak Kuzeyin Çocuklarının Yitik İhtişamı": [
+			"unyieldingdelusionofthefarnorthscions"
+		],
+		"Vajrada Ametisti Kırıntısı": [
+			"vajradaamethystchunk"
+		],
+		"Vajrada Ametisti Tozu": [
+			"vajradaamethystfragment"
+		],
+		"Vajrada Ametisti Parçası": [
+			"vajradaamethystgemstone"
+		],
+		"Vadi Çulhası": [
+			"valleyweaveressentialoil"
+		],
+		"Varunada Lazuriti Kırıntısı": [
+			"varunadalazuritechunk"
+		],
+		"Varunada Lazuriti Tozu": [
+			"varunadalazuritefragment"
+		],
+		"Varunada Lazuriti Parçası": [
+			"varunadalazuritegemstone"
+		],
+		"Vayuda Turkuazı Kırıntısı": [
+			"vayudaturquoisechunk"
+		],
+		"Vayuda Turkuazı Tozu": [
+			"vayudaturquoisefragment"
+		],
+		"Vayuda Turkuazı Parçası": [
+			"vayudaturquoisegemstone"
+		],
+		"Değerli Çiçek": [
+			"wanderersbloomingflower"
+		],
+		"Soğuktan Çatlamış Kabuk Parçası": [
+			"warmbackshell"
+		],
+		"Nöbetçinin Ahşap Düdüğü": [
+			"warriorsmetalwhistle"
+		],
+		"Sivri Ok Başı": [
+			"weatheredarrowhead"
+		],
+		"Saf Denizin Kırık Kadehi": [
+			"winegobletofthepristinesea"
+		],
+		"Okyanus Ötesi Parça": [
+			"xenochromaticcrystal"
+		],
+		"Fener Lifi": [
+			"xiaolantern"
+		],
+		"Fitil Malzemesi": [
+			"xiaolantern"
+		],
+		"Plaustrit Parçası": [
+			"xiaolantern"
+		]
+	},
+	"properties": {
+		"filterText": [
+			"Karakter ve Silah Geliştirme Malzemesi",
+			"Silah Yükseltme Malzemesi",
+			"Karakter Yükseltme Malzemesi",
+			"Sarf Malzemesi",
+			"Yem",
+			"Dekorasyon Üretim Malzemesi",
+			"İksir",
+			"Karakter Yeteneği Malzemesi",
+			"Yiyecek"
+		],
+		"recipe": [
+			"Derin Gölgenin Kırık Gözü",
+			"Uzun Gece Ateşinin Koru",
+			"Avcının Kurban Bıçağı",
+			"Agnidus Akiği Kırıntısı",
+			"Agnidus Akiği Tozu",
+			"Agnidus Akiği Parçası",
+			"Yabancı Sinaps",
+			"Karahindiba Tohumu",
+			"Sesilya",
+			"Kristal Parçası",
+			"Usta İşi Cihaz Replikası",
+			"Usta İşi Cihaz Parçası",
+			"Usta İşi Cihaz Mirası",
+			"Mekanik Düz Dişli",
+			"Uzak Kuzeyin Çocuklarının Adağı",
+			"Yazdönümü Böğürtleni",
+			"Un",
+			"Kırılmış Tomurcuk",
+			"Meteor Demiri Kırıntısı",
+			"Ağır Boynuz",
+			"Siyah Bronz Boynuz",
+			"Uzun Gece Ateşinin Titrek Işığı",
+			"Sıcak Sırt Kabuğu",
+			"Alevli Fedakar Kalbin Korkusu",
+			"Alevli Fedakar Kalbin Çekincesi",
+			"Alevli Fedakar Kalbin Kararlılığı",
+			"Nane",
+			"Kutup Kurdunun Çatlak Dişi",
+			"Kutup Kurdunun Süt Dişi",
+			"Kutup Kurdunun Kırık Dişi",
+			"Karahindiba Gladyatörü Kelepçesi",
+			"Kaos Dişlisi",
+			"Kaos Modülü",
+			"Kaos Cihazı",
+			"Kaos Devresi",
+			"Kaos Deposu",
+			"Kaos Aksı",
+			"Kadim Akor Parçası",
+			"Ay Işığı Sırt Tüyü",
+			"Meteor Demiri Parçası",
+			"Gizli Keskin Pençe",
+			"Gizli Pençe",
+			"Kristal Çekirdek",
+			"Orijinal Reçine",
+			"Parlak Polen",
+			"Karanlık Prizma",
+			"Kasvetli Heykelcik",
+			"Kuru Ley Hattı Dalı",
+			"Kara Heykelcik",
+			"Decarabian'ın Kırık Çinisi",
+			"Kutsal Lordun Hezeyanlı Perişanlığı",
+			"Kutsal Lordun Hezeyanlı Çöküşü",
+			"Kutsal Lordun Hezeyanlı Sureti",
+			"Sumeru Gülü",
+			"Nilotpala Nilüferi",
+			"Rukkhashava Mantarları",
+			"Kelebek Kanatları",
+			"Nilüfer Başı",
+			"Guyun'un Yadigarı",
+			"Etkisizleştirilmiş Mantar Özü",
+			"Kavurucu Kuvvetin Kalan Parıltısı",
+			"Karahindiba Gladyatörü Prangası",
+			"Cor Lapis",
+			"Kadim Akor Bölümü",
+			"Gözyaşı Otu",
+			"Kiraz Çiçeği",
+			"Ametist Parçası",
+			"Kor Çiçeği",
+			"Buğday",
+			"Parıltılı Nektar",
+			"Saf Kutsal Çiy Damlası Kaynağı",
+			"İpek Çiçeği",
+			"Atkuyruğu",
+			"Bodurlop Özü",
+			"Böğürtlen",
+			"Kageuchi Balçağı",
+			"Kaderin Cilvesi",
+			"Kurbağa",
+			"Alev Çiçeği Tomurcuğu",
+			"Uzun Gece Ateşinin Kalıntısı",
+			"Marcotte",
+			"Demir Parçası",
+			"Ateşböceği Sırtı",
+			"Mühürlü Parşömen",
+			"Yarık Çekirdeği",
+			"Kertenkele Kuyruğu",
+			"Sağlam Kemik Parçası",
+			"Decarabian'ın Yıkık Duvarı",
+			"Kusursuz Yetki Belgesi",
+			"Sis Çiçeği Tepeciği",
+			"Donuk Gecenin Parıltısı",
+			"Donuk Gecenin Işıltısı",
+			"Güneriği",
+			"Parlak Zambak",
+			"Işıksız Kemik",
+			"Uzak Denizlerin Yeşim Dalı",
+			"Saf Denizin Gümüş Kadehi",
+			"Altın Ev Hanımı",
+			"Gümüş Kuzgun Nişanı",
+			"Orman Çiyinin Gümüş Tılsımı",
+			"Nasihat Öğretisi",
+			"Şiir Öğretisi",
+			"Çatışma Öğretisi",
+			"Rekabet Öğretisi",
+			"Çalışkanlık Öğretisi",
+			"Zarafet Öğretisi",
+			"Cennet Öğretisi",
+			"Eşitlik Öğretisi",
+			"Özgürlük Öğretisi",
+			"Altın Öğretisi",
+			"Marifet Öğretisi",
+			"Adalet Öğretisi",
+			"Çıra Öğretisi",
+			"Işık Öğretisi",
+			"Ay Işığı Öğretisi",
+			"Düzen Öğretisi",
+			"Uygulama Öğretisi",
+			"Refah Öğretisi",
+			"Direniş Öğretisi",
+			"Fani Dünya Öğretisi",
+			"Avarelik Öğretisi",
+			"Gizli Kaynak Yuvası",
+			"Derin Gölgenin Sapkın Çekirdeği",
+			"Romaritime Çiçeği",
+			"Gökkuşağı Gülü",
+			"Alevli Taş",
+			"Alevli Yaşam Tohumu",
+			"Büyüleyici Geniş Yaprak",
+			"Yıpranmış Yetki Belgesi",
+			"Tefecinin Kurban Bıçağı",
+			"Elektrik Kristali",
+			"Orman Çiyinin Bakır Tılsımı",
+			"Uzak Denizlerin Kıymetli Dalı",
+			"Uzak Denizlerin Mercan Dalı",
+			"Eski Balçak",
+			"Kuru Ley Hattı Yaprakları",
+			"Çavuş Nişanı",
+			"Parçalanmış İradenin Parçası",
+			"Mantar Sporları",
+			"Sırt Tüyü",
+			"Guyun'un Parlak Kumları",
+			"Sağlam Kabuk",
+			"Tekboynuzun Maskesi",
+			"Kaplan Dişinin Maskesi",
+			"Habis Teğmenin Maskesi",
+			"Kavrama Dişlisi",
+			"Sis Otu Poleni",
+			"Sis Otu",
+			"Sis Plakası",
+			"Sis Tezahürü",
+			"Sis Kaplı Cıva Cevher",
+			"Sis Kaplı Kurşun Cevher",
+			"Sis Kaplı Altın Cevher",
+			"Kadim Akor Kuplesi",
+			"Nagadus Zümrüdü Kırıntısı",
+			"Nagadus Zümrüdü Tozu",
+			"Nagadus Zümrüdü Parçası",
+			"Tuhaf Mantar",
+			"Kalpalata Nilüferi",
+			"Narukami'nin Neşesi",
+			"Narukami'nin Bilgeliği",
+			"Narukami'nin Sevgisi",
+			"Kirli Su Birikintisi",
+			"Gece Rüzgarının Mistik Sezgisi",
+			"Gece Rüzgarının Mistik Düşüncesi",
+			"Gece Rüzgarının Mistik Kehaneti",
+			"Vaha Bahçesi Hatırası",
+			"Vaha Bahçesi Zarafeti",
+			"Vaha Bahçesi Matemi",
+			"Uzak Kuzeyin Çocuklarının Yenilmez Sanrısı",
+			"Kavurucu Kuvvetin Rüyası",
+			"Lekeli Maske",
+			"Ajanın Klasik Cep Saati",
+			"Kıdemli Ajanın Cep Saati",
+			"Nasihat Rehberi",
+			"Şiir Rehberi",
+			"Çatışma Rehberi",
+			"Rekabet Rehberi",
+			"Çalışkanlık Rehberi",
+			"Zarafet Rehberi",
+			"Cennet Rehberi",
+			"Eşitlik Rehberi",
+			"Özgürlük Rehberi",
+			"Altın Rehberi",
+			"Marifet Rehberi",
+			"Adalet Rehberi",
+			"Çıra Rehberi",
+			"Işık Rehberi",
+			"Ay Işığı Rehberi",
+			"Düzen Rehberi",
+			"Uygulama Rehberi",
+			"Refah Rehberi",
+			"Direniş Rehberi",
+			"Fani Dünya Rehberi",
+			"Avarelik Rehberi",
+			"Meteor Demiri Tozu",
+			"Kristal Prizma",
+			"Güçlendirilmiş Aks",
+			"Prithiva Topazı Kırıntısı",
+			"Prithiva Topazı Tozu",
+			"Prithiva Topazı Parçası",
+			"Çam Kozalağı",
+			"Tidalga",
+			"Quenepa Böğürtleni",
+			"Tüylü Solungaç",
+			"Parlayan Kalıntılar",
+			"Bulanık Prizma",
+			"Kan Çiçeği",
+			"Kuş Eti",
+			"Lakka Böğürtleni",
+			"Kırık Aks",
+			"Guyun'un Işıltılı Taşı",
+			"Kavurucu Kuvvetin Yankısı",
+			"İşlemeli Kırmızı İpek",
+			"Pasif Mantar Özü",
+			"Savaşçının Metal Düdüğü",
+			"Decarabian'ın Destansı Parçası",
+			"Kirli Su Damlası",
+			"Kehanet Parşömeni",
+			"Genç Diş",
+			"Acemi Asker Nişanı",
+			"Karahindiba Gladyatörü Zinciri",
+			"Sağlam Ok Başı",
+			"Gizli Kaynak Ekseni",
+			"Yalancı Çiçek Nektarı",
+			"Shivada Yeşimi Kırıntısı",
+			"Shivada Yeşimi Tozu",
+			"Shivada Yeşimi Parçası",
+			"Net İrade Odağı",
+			"Saf Denizin Şarap Kadehi",
+			"Hazine Avcısı Nişanı",
+			"Orman Çiyinin Demir Tılsımı",
+			"Bodurlop Salgıları",
+			"Bulle Meyvesi",
+			"Uçarlop Kabuğu",
+			"Uçarlop Kalbi",
+			"Spinel Meyvesi",
+			"Tahıl Meyvesi",
+			"Yıpranmış Kabza",
+			"Saf Kutsal Çiy Damlası Buharı",
+			"Kırık Maske",
+			"Ayrık Kabza",
+			"Şamdan Mantarı",
+			"Sürüngen Pençesi Kaktüsü",
+			"Kırılgan Kemik Parçası",
+			"Kuru Kabuk",
+			"Saf Kutsal Çiy Damlası Kalıntısı",
+			"Harra Meyvesi",
+			"Okyanus Ötesi İncisi",
+			"Henüz Açmamış Çiçek",
+			"Soluk Kırmızı Saten",
+			"Hasarlı Prizma",
+			"Tecrübeli Diş",
+			"Uzak Kuzeyin Çocuklarının Yitik İhtişamı",
+			"Vajrada Ametisti Kırıntısı",
+			"Vajrada Ametisti Tozu",
+			"Vajrada Ametisti Parçası",
+			"Vadi Çulhası",
+			"Varunada Lazuriti Kırıntısı",
+			"Varunada Lazuriti Tozu",
+			"Varunada Lazuriti Parçası",
+			"Vayuda Turkuazı Kırıntısı",
+			"Vayuda Turkuazı Tozu",
+			"Vayuda Turkuazı Parçası",
+			"Değerli Çiçek",
+			"Soğuktan Çatlamış Kabuk Parçası",
+			"Nöbetçinin Ahşap Düdüğü",
+			"Sivri Ok Başı",
+			"Saf Denizin Kırık Kadehi",
+			"Okyanus Ötesi Parça",
+			"Fener Lifi",
+			"Fitil Malzemesi",
+			"Plaustrit Parçası"
+		],
+		"altrecipes": [
+			"Kurt Çengeli",
+			"Fosforlu Mantar",
+			"Tidalga",
+			"Quenepa Böğürtleni",
+			"Havuç",
+			"Valyemiş",
+			"Zaytun Şeftalisi",
+			"Kor Çiçeği",
+			"Cor Lapis",
+			"Marcotte"
+		]
+	}
+}

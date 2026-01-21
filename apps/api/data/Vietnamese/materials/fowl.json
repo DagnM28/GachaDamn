@@ -1,0 +1,11 @@
+{
+	"id": 100064,
+	"name": "Thịt Gia Cầm",
+	"sortRank": 321,
+	"description": "Thịt gia cầm tươi ngon, khi qua xử lý sẽ tạo nên món ngon khó cưỡng.",
+	"category": "EXCHANGE",
+	"typeText": "Nguyên Liệu Thực Phẩm",
+	"sources": [
+		"Động Vật Rơi Ra"
+	]
+}

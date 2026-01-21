@@ -1,0 +1,16 @@
+{
+	"id": 12016,
+	"name": "Piece of Aerosiderite",
+	"filterText": "Material Ascension Senjata",
+	"sortOrder": 130050,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114021,
+			"name": "Grain of Aerosiderite",
+			"count": 3
+		}
+	]
+}

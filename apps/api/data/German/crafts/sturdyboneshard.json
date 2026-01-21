@@ -1,0 +1,16 @@
+{
+	"id": 11027,
+	"name": "Stabiles Knochenstück",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 140060,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112041,
+			"name": "Zerbrechliches Knochenstück",
+			"count": 3
+		}
+	]
+}

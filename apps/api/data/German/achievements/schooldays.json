@@ -1,0 +1,21 @@
+{
+	"id": [
+		84147
+	],
+	"name": "Schulzeit",
+	"achievementGroupId": 17,
+	"achievementGroupName": "Erinnerungen des Herzens",
+	"isHidden": true,
+	"sortOrder": 7610,
+	"stages": 1,
+	"stage1": {
+		"title": "Schulzeit",
+		"description": "Blättere im Daena-Palast in den kommentierten Büchern.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

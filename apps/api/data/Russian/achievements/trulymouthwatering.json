@@ -1,0 +1,22 @@
+{
+	"id": [
+		81362
+	],
+	"name": "Сводящий с ума аромат",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1329,
+	"stages": 1,
+	"stage1": {
+		"title": "Сводящий с ума аромат",
+		"ps5title": "«Умопомрачительный аромат»",
+		"description": "Помогите Генри изменить судьбу.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

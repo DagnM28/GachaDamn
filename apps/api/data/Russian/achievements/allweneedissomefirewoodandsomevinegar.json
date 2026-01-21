@@ -1,0 +1,21 @@
+{
+	"id": [
+		81220
+	],
+	"name": "«Нам нужно лишь немного дров и уксуса...»",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1206,
+	"stages": 1,
+	"stage1": {
+		"title": "«Нам нужно лишь немного дров и уксуса...»",
+		"description": "На поверхность ведёт... не один тайный путь.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

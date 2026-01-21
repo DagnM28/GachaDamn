@@ -1,0 +1,21 @@
+{
+	"id": [
+		80164
+	],
+	"name": "จุดสูงสุดของความฝันอันยิ่งใหญ่",
+	"achievementGroupId": 31,
+	"achievementGroupName": "Sumeru - ป่าฝนซ่อนเร้นภูมิปัญญา",
+	"sortOrder": 164,
+	"stages": 1,
+	"stage1": {
+		"title": "จุดสูงสุดของความฝันอันยิ่งใหญ่",
+		"ps5title": "Sumeru - จุดสูงสุดของความฝันอันยิ่งใหญ่",
+		"description": "เพิ่มระดับต้นความฝันของ Vanarana ถึงเลเวลสูงสุด",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

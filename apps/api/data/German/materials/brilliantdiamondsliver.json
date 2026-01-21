@@ -1,0 +1,12 @@
+{
+	"id": 104101,
+	"name": "Brillantsplitter",
+	"rarity": 2,
+	"sortRank": 12101,
+	"description": "Material für den Figurenaufstieg.\n„Willkommen in dieser Welt!“",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material für den Figurenaufstieg",
+	"sources": [
+		"Belohnung für Abenteuerstufe"
+	]
+}

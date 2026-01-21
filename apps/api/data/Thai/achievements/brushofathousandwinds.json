@@ -1,0 +1,21 @@
+{
+	"id": [
+		80031
+	],
+	"name": "สายลมที่พัดผ่าน",
+	"achievementGroupId": 4,
+	"achievementGroupName": "Mondstadt - เมืองแห่งสายลม และบทเพลง",
+	"sortOrder": 31,
+	"stages": 1,
+	"stage1": {
+		"title": "สายลมที่พัดผ่าน",
+		"ps5title": "Mondstadt - สายลมที่พัดผ่าน",
+		"description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดใน Mondstadt (ยกเว้นพื้นที่ Dragonspine)",
+		"progress": 22,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

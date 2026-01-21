@@ -1,0 +1,11 @@
+{
+	"id": 110013,
+	"name": "Dried Fish",
+	"sortRank": 322,
+	"description": "",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Didapatkan saat proses cooking"
+	]
+}

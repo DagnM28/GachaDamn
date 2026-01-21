@@ -1,0 +1,16 @@
+{
+	"id": 13005,
+	"name": "Şiir Rehberi",
+	"filterText": "Karakter Yeteneği Malzemesi",
+	"sortOrder": 120020,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104307,
+			"name": "Şiir Öğretisi",
+			"count": 3
+		}
+	]
+}

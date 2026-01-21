@@ -1,0 +1,21 @@
+{
+	"id": [
+		80363
+	],
+	"name": "Der letzte Schliff?",
+	"dupealias": "Der letzte Schliff? 0",
+	"achievementGroupId": 55,
+	"achievementGroupName": "Natlan – Land der Allianz aus Feuer und Wettkampf II",
+	"sortOrder": 337,
+	"stages": 1,
+	"stage1": {
+		"title": "Der letzte Schliff?",
+		"description": "Stelle die Kraft des riesigen Graffitis von Tezcatepetonco wieder her.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

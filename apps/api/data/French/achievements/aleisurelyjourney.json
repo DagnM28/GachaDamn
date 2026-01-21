@@ -1,0 +1,21 @@
+{
+	"id": [
+		81228
+	],
+	"name": "Un voyage tranquille",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1214,
+	"stages": 1,
+	"stage1": {
+		"title": "Un voyage tranquille",
+		"description": "Il ne faut pas manquer le paysage le long du chemin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

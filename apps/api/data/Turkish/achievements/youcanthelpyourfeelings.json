@@ -1,0 +1,21 @@
+{
+	"id": [
+		81109
+	],
+	"name": "Duygularına Ket Vuramazsın",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1106,
+	"stages": 1,
+	"stage1": {
+		"title": "Duygularına Ket Vuramazsın",
+		"description": "Kaygısını dindirmek için Hiromi'ye yardım et.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

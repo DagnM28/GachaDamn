@@ -1,0 +1,11 @@
+{
+	"id": 100012,
+	"name": "スイートフラワー",
+	"sortRank": 321,
+	"description": "香りの強い植物。暗闇でも、その香りを頼りに花を見つけられる。",
+	"category": "EXCHANGE",
+	"typeText": "食材",
+	"sources": [
+		"野外で採集"
+	]
+}

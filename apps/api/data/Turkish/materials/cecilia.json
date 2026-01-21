@@ -1,0 +1,13 @@
+{
+	"id": 100023,
+	"name": "Sesilya",
+	"sortRank": 311,
+	"description": "Adı da görünüşü kadar güzel olan bir çiçek. Sadece serin ve rüzgarlı tepelerde yetişir. Asi bir rüzgar kadar dokunulmazdır.",
+	"category": "EXCHANGE",
+	"typeText": "Mondstadt Yöresel Ürünü",
+	"sources": [
+		"Öneri: Yıldızkapan Uçurumu'nda bulunur.",
+		"Dinginçay Çaydanlığında yetiştirilir.",
+		"Toplamaya git."
+	]
+}

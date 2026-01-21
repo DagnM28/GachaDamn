@@ -1,0 +1,16 @@
+{
+	"id": 15009,
+	"name": "Nagadus Emerald Gemstone",
+	"filterText": "วัสดุเลื่อนขั้นตัวละคร",
+	"sortOrder": 110018,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 2700,
+	"recipe": [
+		{
+			"id": 104133,
+			"name": "Nagadus Emerald Chunk",
+			"count": 3
+		}
+	]
+}

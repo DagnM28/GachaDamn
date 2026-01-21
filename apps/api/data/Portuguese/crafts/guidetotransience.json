@@ -1,0 +1,16 @@
+{
+	"id": 13013,
+	"name": "Guia do Mundo Mortal",
+	"filterText": "Material de Talento do Personagem",
+	"sortOrder": 120060,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104320,
+			"name": "Ensinamentos do Mundo Mortal",
+			"count": 3
+		}
+	]
+}

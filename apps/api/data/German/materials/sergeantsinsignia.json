@@ -1,0 +1,16 @@
+{
+	"id": 112033,
+	"name": "Abzeichen für Unteroffiziere",
+	"rarity": 2,
+	"sortRank": 10611,
+	"description": "Ein Abzeichen, das den Unterschied zu normalen Soldaten anzeigt. In das ungewöhnliche Muster könnte man vielerlei Gefühle interpretieren.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material zur Verbesserung von Figuren und Waffen",
+	"sources": [
+		"Beute von Fatui-Plänklern ab Stufe 40",
+		"Seltene Beute von Schuldeneintreibern der Fatui ab Stufe 40",
+		"Seltene Beute von Cicin-Zauberinnen der Fatui ab Stufe 40",
+		"Mit Sternenstaub kaufen",
+		"Platzhalter – Herstellbare Menge: {0}"
+	]
+}

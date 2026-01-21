@@ -1,0 +1,20 @@
+{
+	"id": [
+		80113
+	],
+	"name": "Explorador Continental - Ilha Tsurumi",
+	"achievementGroupId": 27,
+	"achievementGroupName": "As Crônicas do Mar de Neblina",
+	"sortOrder": 113,
+	"stages": 1,
+	"stage1": {
+		"title": "Explorador Continental - Ilha Tsurumi",
+		"description": "Desbloqueie o mapa da Ilha Tsurumi",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

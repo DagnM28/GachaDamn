@@ -1,0 +1,21 @@
+{
+	"id": [
+		84551
+	],
+	"name": "Ngày Xuất Bến",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4075,
+	"stages": 1,
+	"stage1": {
+		"title": "Ngày Xuất Bến",
+		"description": "Nhận được lời nhắn của Alexandra...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

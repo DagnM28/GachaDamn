@@ -1,0 +1,20 @@
+{
+	"id": [
+		80056
+	],
+	"name": "Penjelajah Benua: Dragonspine",
+	"achievementGroupId": 16,
+	"achievementGroupName": "Pengunjung Dragonspine",
+	"sortOrder": 56,
+	"stages": 1,
+	"stage1": {
+		"title": "Penjelajah Benua: Dragonspine",
+		"description": "Membuka semua peta wilayah Dragonspine.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

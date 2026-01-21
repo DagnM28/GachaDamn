@@ -1,0 +1,21 @@
+{
+	"id": [
+		84041
+	],
+	"name": "Omamori, justice et unicité",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 5020,
+	"stages": 1,
+	"stage1": {
+		"title": "Omamori, justice et unicité",
+		"description": "Exaucez « trois petits souhaits ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

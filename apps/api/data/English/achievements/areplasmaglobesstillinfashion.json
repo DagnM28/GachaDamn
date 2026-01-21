@@ -1,0 +1,20 @@
+{
+	"id": [
+		82005
+	],
+	"name": "Are Plasma Globes Still in Fashion?",
+	"achievementGroupId": 8,
+	"achievementGroupName": "Challenger: Series I",
+	"sortOrder": 2005,
+	"stages": 1,
+	"stage1": {
+		"title": "Are Plasma Globes Still in Fashion?",
+		"description": "Break an Electro Cicin Mage's Ward.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

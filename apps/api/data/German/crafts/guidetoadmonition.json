@@ -1,0 +1,16 @@
+{
+	"id": 13019,
+	"name": "Anleitung zur „Ermahnung“",
+	"filterText": "Material für Figurentalente",
+	"sortOrder": 120090,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104329,
+			"name": "Lehren der „Ermahnung“",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"id": 100012,
+	"name": "Sweet Flower",
+	"sortRank": 321,
+	"description": "Bunga yang sangat harum. Dapat ditemukan di tempat yang gelap sekalipun karena aromanya yang khas.",
+	"category": "EXCHANGE",
+	"typeText": "Bahan Masak",
+	"sources": [
+		"Ditemukan di alam liar"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		82112
+	],
+	"name": "Karşılıksız Aşk",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 2112,
+	"stages": 1,
+	"stage1": {
+		"title": "Karşılıksız Aşk",
+		"description": "Bir Yıldırım Alametini herhangi bir becerisiyle hapsolmadan yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

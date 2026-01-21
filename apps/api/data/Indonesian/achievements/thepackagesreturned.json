@@ -1,0 +1,21 @@
+{
+	"id": [
+		84581
+	],
+	"name": "Paketnya Sudah Kembali",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Keajaiban Dunia",
+	"isHidden": true,
+	"sortOrder": 4105,
+	"stages": 1,
+	"stage1": {
+		"title": "Paketnya Sudah Kembali",
+		"description": "Kembalikan keempat paket kepada pemiliknya.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

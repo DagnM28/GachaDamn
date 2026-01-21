@@ -1,0 +1,21 @@
+{
+	"id": [
+		81204
+	],
+	"name": "Логово воров",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1190,
+	"stages": 1,
+	"stage1": {
+		"title": "Логово воров",
+		"description": "Найдите тайник Похитителей сокровищ.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

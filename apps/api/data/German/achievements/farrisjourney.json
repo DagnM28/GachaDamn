@@ -1,0 +1,20 @@
+{
+	"id": [
+		80178
+	],
+	"name": "Reise von Farris",
+	"achievementGroupId": 32,
+	"achievementGroupName": "Weltreise – Reihe 3",
+	"sortOrder": 178,
+	"stages": 1,
+	"stage1": {
+		"title": "Reise von Farris",
+		"description": "Sammle die komplette Reihe von „Liederbuch zum Blumengarten“.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

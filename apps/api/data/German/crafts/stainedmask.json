@@ -1,0 +1,16 @@
+{
+	"id": 11003,
+	"name": "Verdreckte Maske",
+	"filterText": "Material zur Verbesserung von Figuren und Waffen",
+	"sortOrder": 150010,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112005,
+			"name": "Zerbrochene Maske",
+			"count": 3
+		}
+	]
+}

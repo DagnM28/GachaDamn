@@ -1,0 +1,22 @@
+{
+	"id": [
+		81124
+	],
+	"name": "Jackpot",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wonders of the World",
+	"isHidden": true,
+	"sortOrder": 1120,
+	"stages": 1,
+	"stage1": {
+		"title": "Jackpot",
+		"ps5title": "Inazuma: Jackpot",
+		"description": "Use the Kamuijima Cannon to reveal a treasure trove.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		81105
+	],
+	"name": "SHUUMATSU GAIDEN",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Чудеса света",
+	"isHidden": true,
+	"sortOrder": 1103,
+	"stages": 1,
+	"stage1": {
+		"title": "SHUUMATSU GAIDEN",
+		"description": "Ввяжитесь в драку между Сюмацубан и Фатуи...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

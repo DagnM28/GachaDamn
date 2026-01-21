@@ -1,0 +1,12 @@
+{
+	"id": 101228,
+	"name": "Viparyas",
+	"sortRank": 320,
+	"description": "Des fleurs sans graines.\nQuand la terre se souviendra, les viparyas s'épanouiront.",
+	"category": "EXCHANGE",
+	"typeText": "Matériau",
+	"sources": [
+		"Dans la nature",
+		"Zone conseillée : Vanarana"
+	]
+}

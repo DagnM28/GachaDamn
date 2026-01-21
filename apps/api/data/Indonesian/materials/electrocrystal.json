@@ -1,0 +1,12 @@
+{
+	"id": 100054,
+	"name": "Electro Crystal",
+	"sortRank": 320,
+	"description": "Kristal yang kaya akan listrik, dan menghisap listrik dari udara di sekitarnya. Menggenggamnya membuat tanganmu mati rasa.",
+	"category": "EXCHANGE",
+	"typeText": "Material",
+	"sources": [
+		"Ditemukan di bawah tebing gunung",
+		"Rekomendasi: Ditemukan di Cape Oath"
+	]
+}

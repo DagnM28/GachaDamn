@@ -1,0 +1,21 @@
+{
+	"id": [
+		81528
+	],
+	"name": "Corda persecutrice d'anime",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1512,
+	"stages": 1,
+	"stage1": {
+		"title": "Corda persecutrice d'anime",
+		"description": "Completa tutte le sfide del guerriero dei Discendenti delle Vette con la valutazione più alta possibile.",
+		"progress": 3,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

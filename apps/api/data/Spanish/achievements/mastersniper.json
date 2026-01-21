@@ -1,0 +1,20 @@
+{
+	"id": [
+		82002
+	],
+	"name": "Genio de la puntería",
+	"achievementGroupId": 7,
+	"achievementGroupName": "Arquero divino",
+	"sortOrder": 2002,
+	"stages": 1,
+	"stage1": {
+		"title": "Genio de la puntería",
+		"description": "Golpea el punto débil de un enemigo desde lejos con Disparo Preciso.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

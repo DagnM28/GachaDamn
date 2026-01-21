@@ -1,0 +1,16 @@
+{
+	"id": 11031,
+	"name": "Đầu Nối Hỗn Độn",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 140070,
+	"unlockRank": 15,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112047,
+			"name": "Cơ Quan Hỗn Độn",
+			"count": 3
+		}
+	]
+}

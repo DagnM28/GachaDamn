@@ -1,0 +1,14 @@
+{
+	"id": 100055,
+	"name": "Small Lamp Grass",
+	"sortRank": 311,
+	"description": "Rumput liar yang memancarkan cahaya di malam hari. Digunakan saat memasak untuk memperkaya rasa dari bahan masakan lain.",
+	"category": "EXCHANGE",
+	"typeText": "Produk khas Mondstadt",
+	"sources": [
+		"Rekomendasi: Ditemukan di Wolvendom",
+		"Rekomendasi: Ditemukan di Whispering Woods",
+		"Ditanam di Serenitea Pot",
+		"Pergi dan kumpulkan"
+	]
+}

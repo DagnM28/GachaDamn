@@ -1,0 +1,27 @@
+{
+	"id": 21011501,
+	"monsterId": 21011501,
+	"name": "Hilichurl inusuale",
+	"specialNames": [
+		"Minaccia della magione"
+	],
+	"monsterType": "MONSTER_ORDINARY",
+	"enemyType": "NORMAL",
+	"categoryType": "CODEX_SUBTYPE_HILICHURL",
+	"categoryText": "Hilichurl",
+	"description": "Homu, homu, mimi domu!",
+	"rewardPreview": [
+		{
+			"id": 102,
+			"name": "ESP avventura"
+		},
+		{
+			"id": 202,
+			"name": "Mora"
+		},
+		{
+			"id": 100018,
+			"name": "Cavolo"
+		}
+	]
+}

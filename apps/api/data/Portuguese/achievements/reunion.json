@@ -1,0 +1,21 @@
+{
+	"id": [
+		84325
+	],
+	"name": "Reunião",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5103,
+	"stages": 1,
+	"stage1": {
+		"title": "Reunião",
+		"description": "Te encontrarei, não importa a distância.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

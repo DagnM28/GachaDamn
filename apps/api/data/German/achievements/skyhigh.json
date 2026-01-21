@@ -1,0 +1,21 @@
+{
+	"id": [
+		81046
+	],
+	"name": "Dem Himmel so nah ...",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Wunder der Welt",
+	"isHidden": true,
+	"sortOrder": 1047,
+	"stages": 1,
+	"stage1": {
+		"title": "Dem Himmel so nah ...",
+		"description": "Steig auf den Frosthimmelsnagel, sobald er wiederhergestellt ist.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

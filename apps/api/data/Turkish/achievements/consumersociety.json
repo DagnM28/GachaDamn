@@ -1,0 +1,21 @@
+{
+	"id": [
+		81375
+	],
+	"name": "Tüketim Cemiyeti",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 1359,
+	"stages": 1,
+	"stage1": {
+		"title": "Tüketim Cemiyeti",
+		"description": "Eskiciden istediğin kadar eşya al.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

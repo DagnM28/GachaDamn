@@ -1,0 +1,21 @@
+{
+	"id": [
+		81228
+	],
+	"name": "Tận Hưởng Chuyến Đi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1214,
+	"stages": 1,
+	"stage1": {
+		"title": "Tận Hưởng Chuyến Đi",
+		"description": "Không thể bỏ lỡ cảnh đẹp trên đường.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84530
+	],
+	"name": "Liyue Şifacısı",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4054,
+	"stages": 1,
+	"stage1": {
+		"title": "Liyue Şifacısı",
+		"description": "Tang Wen'i lezzetli yemeklerle iyileştir.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

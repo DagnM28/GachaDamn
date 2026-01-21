@@ -1,0 +1,21 @@
+{
+	"id": [
+		84522
+	],
+	"name": "Aventures studieuses",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 4046,
+	"stages": 1,
+	"stage1": {
+		"title": "Aventures studieuses",
+		"description": "Terminez « Objet perdu et » « Pilleurs & reliques ».",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

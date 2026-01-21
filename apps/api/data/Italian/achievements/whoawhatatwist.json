@@ -1,0 +1,21 @@
+{
+	"id": [
+		81493
+	],
+	"name": "\"Woah! Che colpo di scena!\"",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1477,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Woah! Che colpo di scena!\"",
+		"description": "Perché non provare a cambiare completamente idea...?",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

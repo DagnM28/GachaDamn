@@ -1,0 +1,21 @@
+{
+	"id": [
+		82127
+	],
+	"name": "Luz Transbordante",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2127,
+	"stages": 1,
+	"stage1": {
+		"title": "Luz Transbordante",
+		"description": "Durante um mesmo combate, destrua 2 Ravinas Lamacentas com 1 Luz Florescente contra a Serpente das Ruínas.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

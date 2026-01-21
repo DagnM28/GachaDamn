@@ -1,0 +1,11 @@
+{
+	"id": 100001,
+	"name": "リンゴ",
+	"sortRank": 90000,
+	"description": "サッパリした酸味と甘みの果物。そのままでも酒漬けにしても美味しい。",
+	"category": "NOTICE_ADD_HP",
+	"typeText": "食べ物",
+	"sources": [
+		"野外で採集"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 11204,
+	"name": "Bánh Răng Lõi Trung Tâm",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 150119,
+	"unlockRank": 10,
+	"resultCount": 1,
+	"moraCost": 50,
+	"recipe": [
+		{
+			"id": 112084,
+			"name": "Bánh Răng Chính",
+			"count": 3
+		}
+	]
+}

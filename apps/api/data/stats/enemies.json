@@ -1,0 +1,7042 @@
+{
+	"pyroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largepyroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largehydroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 35.168,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"anemoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 15.072,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largeanemoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 35.168,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largeelectroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"mutantelectroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"dendroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largedendroslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 35.168,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largecryoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 7.536,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largegeoslime": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eyeofthestorm": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyrohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 113.04,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"anemohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"dendrohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geohypostasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oceanid": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 135.84,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thundermanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 190.176,
+			"attack": 90.432,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyrospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 21.98,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 21.98,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"anemospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 21.98,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 35.168,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"dendrospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 17.584,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 21.98,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geospecter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 21.98,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"taintedwatersplittingphantasm": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"taintedwaterspoutingphantasm": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrotulpa": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 298.848,
+			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"blazingbrilliancefrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 176.592,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"surgingcurrentsfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 173.8752,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"veiledcloudchaserfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 138.5568,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"gleamingchargefrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 138.5568,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tangledvinesfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.5,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 138.5568,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"icycrystalfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 176.592,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"gildedsunshardfrostnightscion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 138.5568,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"frostnightherra": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 298.848,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hilichurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hilichurlfighter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hilichurlberserker": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"woodenshieldhilichurlguard": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iceshieldhilichurlguard": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rockshieldhilichurlguard": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hilichurlshooter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 11.304,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyrohilichurlshooter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 16.956,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrohilichurlshooter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 16.956,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryohilichurlshooter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 11.304,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hilichurlgrenadier": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrohilichurlgrenadier": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryohilichurlgrenadier": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 10.8672,
+			"attack": 11.304,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"unusualhilichurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"woodenshieldwallmitachurl": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rockshieldwallmitachurl": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iceshieldwallmitachurl": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"blazingaxemitachurl": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 60.288,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cracklingaxemitachurl": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 60.288,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thunderhelmlawachurl": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.7
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 150.72,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"frostarmlawachurl": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.7,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 150.72,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stonehidelawachurl": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.7,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 113.04,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"anemosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"dendrosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.5,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geosamachurl": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrohilichurlrogue": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"anemohilichurlrogue": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyroabyssmage": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydroabyssmage": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electroabyssmage": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 47.1,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryoabyssmage": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"abyssheraldwickedtorrents": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"abyssheraldfrostfall": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"abysslectorfathomlessflames": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"abysslectorvioletlightning": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iniquitousbaptist": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 135.84,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rockfondrifthoundwhelp": {
+		"resistance": {
+			"physical": 0.2,
+			"pyro": 0.2,
+			"dendro": 0.2,
+			"hydro": 0.2,
+			"geo": 0.2,
+			"anemo": 0.2,
+			"cryo": 0.2,
+			"electro": 0.2
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 15.072,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thundercravenrifthoundwhelp": {
+		"resistance": {
+			"physical": 0.2,
+			"pyro": 0.2,
+			"dendro": 0.2,
+			"hydro": 0.2,
+			"geo": 0.2,
+			"anemo": 0.2,
+			"cryo": 0.2,
+			"electro": 0.2
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 15.072,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rockfondrifthound": {
+		"resistance": {
+			"physical": 0.25,
+			"pyro": 0.25,
+			"dendro": 0.25,
+			"hydro": 0.25,
+			"geo": 0.25,
+			"anemo": 0.25,
+			"cryo": 0.25,
+			"electro": 0.25
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 40.192,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thundercravenrifthound": {
+		"resistance": {
+			"physical": 0.25,
+			"pyro": 0.25,
+			"dendro": 0.25,
+			"hydro": 0.25,
+			"geo": 0.25,
+			"anemo": 0.25,
+			"cryo": 0.25,
+			"electro": 0.25
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 40.192,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"goldenwolflord": {
+		"resistance": {
+			"physical": 0.25,
+			"pyro": 0.25,
+			"dendro": 0.25,
+			"hydro": 0.25,
+			"geo": 0.25,
+			"anemo": 0.25,
+			"cryo": 0.25,
+			"electro": 0.25
+		},
+		"base": {
+			"hp": 163.008,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"shadowyhuskstandardbearer": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.3,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"shadowyhusklinebreaker": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.3,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 81.504,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"shadowyhuskdefender": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.3,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"blackserpentknightwindcutter": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"blackserpentknightrockbreakerax": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largeshatterstonebreacherprimus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 97.8048,
+			"attack": 87.92,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"shatterstonebreacherprimus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.3,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"largeovergrownbreacherprimus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.5,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 114.1056,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"overgrownbreacherprimus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.3,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 32.656,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tenebrousmimiflora": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 46.1856,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tenebrouspapillatypei": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wildernessexile": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wildernesshunter": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 141.2736,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fisherofhiddendepths": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lordofthehiddendepthswhispererofnightmares": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmisherpyroslingerbracer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmisherhydrogunnerlegionnaire": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmisheranemoboxervanguard": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmisherelectrohammervanguard": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmishercryogunnerlegionnaire": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuiskirmishergeochanterbracer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuipyroagent": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuielectrocicinmage": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fatuicryocicinmage": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"mirrormaiden": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 81.504,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"windoperative": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"frostoperative": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 60.288,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikilinetrooper": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikisupporttrooper": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.0176,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikigrenadier": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikivanguard": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikimedic": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikibombardier": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikifirebladeshocktrooper": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikihailstormcannoneer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 65.2032,
+			"attack": 55.264,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"oprichnikithunderblitzgvardiya": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"closecombatstormlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"closecombatscoutlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forcereconstormlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 27.632,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forcereconscoutlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 27.632,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forcerecongroundeffectlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 27.632,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cuttingedgeallpurposestormlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cuttingedgeallpurposescoutlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cuttingedgefiresupportgroundeffectlandcruiser": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 81.504,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"superheavylandrovermechanizedfortress": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 298.848,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruinguard": {
+		"resistance": {
+			"physical": 0.7,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 60.288,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruinhunter": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 81.504,
+			"attack": 175.84,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruingrader": {
+		"resistance": {
+			"physical": 0.7,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 87.92,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruinserpent": {
+		"resistance": {
+			"physical": 0.7,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruincruiser": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruindestroyer": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 52.752,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruindefender": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 57.0528,
+			"attack": 56.52,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruinscout": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 57.0528,
+			"attack": 48.984,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"perpetualmechanicalarray": {
+		"resistance": {
+			"physical": 0.7,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 90.432,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruindrakeearthguard": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ruindrakeskywatch": {
+		"resistance": {
+			"physical": 0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"aeonblightdrake": {
+		"resistance": {
+			"physical": 0.7,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 230.928,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"primalconstructrepulsor": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 46.1856,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"primalconstructreshaper": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 46.1856,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"primalconstructprospector": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 46.1856,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"algorithmofsemiintransientmatrixofoverseernetwork": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 82.896,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"reconlogmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"arithmeticenhancermek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 24.4512,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"underwatersurveymek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geologicalsurveymek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"underwaterpatrolmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.4689,
+			"attack": 50,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"deepwaterassaultmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 64.9378,
+			"attack": 60,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"nimbleharvestermek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.6016,
+			"attack": 17.584,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"areaalertmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.0176,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"assaultspecialistmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 65.2032,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"suppressionspecialistmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"annihilationspecialistmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 70.6368,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"constructionspecialistmek": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"icewindsuite": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.7,
+			"cryo": 0.7,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 203.76,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"experimentalfieldgenerator": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.7,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 213.2688,
+			"attack": 113.04,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"maguukenki": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 271.68,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"secretsourceautomatonhunterseeker": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"secretsourceautomatonconfigurationdevice": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 353.184,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"secretsourceautomatonoverseerdevice": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 293.4144,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"knuckleduckle": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardersscout": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 15.072,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoarderspyropotioneer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardershydropotioneer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoarderselectropotioneer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoarderscryopotioneer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardershandyman": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardersmarksman": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 15.072,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardersgravedigger": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoardersseaman": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoarderspugilist": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"treasurehoarderscrusher": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"nobushijintouban": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"nobushihitsukeban": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"nobushikikouban": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"kairagifierymight": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 137.248,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"kairagidancingthunder": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 65.2032,
+			"attack": 94.2,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremiteaxevanguard": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitecrossbow": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremiteravenbeakhalberdier": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitelinebreaker": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitesworddancer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitedesertclearwater": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 48.9024,
+			"attack": 40.192,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitesunfrost": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 48.9024,
+			"attack": 40.192,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitedaythunder": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitegalehunter": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitestoneenchanter": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitescorchingloremaster": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"eremitefloralringdancer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 67.92,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forgedsandinterrogator": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forgedsandshieldbreaker": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"forgedsandjavelineer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"swiftstepseeker": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"swiftstepstormscout": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"swiftsteparmedcourier": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"flowingbladeskirmisher": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"flowingbladegreasesaw": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"flowingbladeharpoonthrower": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wingedwarriorskysoarer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wingedwarriorfeathershedder": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wingedwarriorskymaster": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"spiritspeakerwarriordeterminator": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"spiritspeakerwarriorpsychokinetic": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"spiritspeakerwarriorcontemplator": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ferociouswarriorhumanram": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ferociouswarriorwrestler": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"ferociouswarriorgrappler": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 21.7344,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tepetlisauruswarriorshardstriker": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tepetlisauruswarriorrockbreakerblade": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"yumkasauruswarriorwhirlingleaves": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"yumkasauruswarriorflowingskyfire": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"koholasauruswarriorwaveshuttler": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"koholasauruswarriorreefsplitter": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"qucusauruswarriorheartstarhammer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"qucusauruswarriorblazingsky": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iktomisauruswarrioricytidebearer": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iktomisauruswarriorcryocrystalcannon": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tatankasauruswarriorskybreaker": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tatankasauruswarriorspiritlightchaser": {
+		"resistance": {
+			"physical": -0.2,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 59.7696,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"waywardhermeticspiritspeaker": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.7,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 230.928,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyrowhopperflower": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrowhopperflower": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryowhopperflower": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"pyroregisvine": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.7,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electroregisvine": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.7
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryoregisvine": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.7,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geovishaphatchling": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 54.2592,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"geovishap": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"primogeovishap": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 407.52,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"primordialbathysmalvishap": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.3,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 50.24,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rimebiterbathysmalvishap": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.3,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 163.008,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"bolteaterbathysmalvishap": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.3
+		},
+		"base": {
+			"hp": 163.008,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hydrocicin": {
+		"resistance": {
+			"physical": -0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 6.792,
+			"attack": 10.048,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"electrocicin": {
+		"resistance": {
+			"physical": -0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 6.792,
+			"attack": 10.048,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cryocicin": {
+		"resistance": {
+			"physical": -0.5,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 6.792,
+			"attack": 10.048,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"floatinghydrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.2,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"floatinganemofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.2,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"floatingdendrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.25,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"whirlingpyrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.2,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"whirlingelectrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.2
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"whirlingcryofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.2,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stretchypyrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.2,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stretchyanemofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.2,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stretchyelectrofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.2
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stretchygeofungus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.2,
+			"hydro": 0.1,
+			"geo": 0.2,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"groundedhydroshroom": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.3,
+			"hydro": 0.3,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wingeddendroshroom": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.4,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 27.168,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"wingedcryoshroom": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.3,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.3,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 38.0352,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"groundedgeoshroom": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.3,
+			"hydro": 0.1,
+			"geo": 0.3,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 38.0352,
+			"attack": 30.144,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"jadeplumeterrorshroom": {
+		"resistance": {
+			"physical": 0.25,
+			"pyro": 0.25,
+			"dendro": 0.8,
+			"hydro": 0.25,
+			"geo": 0.25,
+			"anemo": 0.25,
+			"cryo": 0.25,
+			"electro": 0.25
+		},
+		"base": {
+			"hp": 190.176,
+			"attack": 87.92,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"consecratedhornedcrocodile": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"consecratedfangedbeast": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"consecratedredvulture": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"consecratedscorpion": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"consecratedflyingserpent": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"setekhwenut": {
+		"resistance": {
+			"physical": 0.25,
+			"pyro": 0.25,
+			"dendro": 0.25,
+			"hydro": 0.25,
+			"geo": 0.25,
+			"anemo": 0.6,
+			"cryo": 0.25,
+			"electro": 0.25
+		},
+		"base": {
+			"hp": 190.176,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"blubberbeast": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 32.4689,
+			"attack": 50,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"huntersray": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"armoredcrab": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"sternshieldcrab": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 64.9378,
+			"attack": 60,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"emperoroffireandiron": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.6,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 163.008,
+			"attack": 113.04,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"hatjellyfish": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"bubblyseahorse": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"bubblerseahorse": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 64.9378,
+			"attack": 60,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"millennialpearlseahorse": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.6
+		},
+		"base": {
+			"hp": 149.424,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"balloctopus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"angelicseahare": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 19.48134,
+			"attack": 45,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"cherubicseahare": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 64.9378,
+			"attack": 60,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_ENVIRONMENT",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"xuanwenbeast": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 57.0528,
+			"attack": 55.264,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"solitarysuanni": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.7,
+			"geo": 0.1,
+			"anemo": 0.7,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 225.4944,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"praetoriangolem": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 54.336,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"legatusgolem": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tepetlisaurwhelp": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.3,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 14.9424,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tepetlisaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"koholasaurwhelp": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.3,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"koholasaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 36.6768,
+			"attack": 33.912,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"yumkasaurwhelp": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.3,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"yumkasaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.5,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 36.6768,
+			"attack": 33.912,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"gluttonousyumkasaurmountainking": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.7,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
+			"attack": 105.504,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"qucusauruschick": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.3,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 14.9424,
+			"attack": 22.608,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"qucusaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 40.752,
+			"attack": 37.68,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"goldflamequcusaurtyrant": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.7,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 168.4416,
+			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iktomisauruschick": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.3,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 13.584,
+			"attack": 20.096,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"iktomisaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 36.6768,
+			"attack": 33.912,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tatankasaurwhelp": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.3
+		},
+		"base": {
+			"hp": 16.3008,
+			"attack": 25.12,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"tatankasaurus": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 43.4688,
+			"attack": 45.216,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"erodingavataroflava": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 116.8224,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"fluidavataroflava": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.7,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 103.2384,
+			"attack": 87.92,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lavadragonstatue": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"rockcavernouswayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.5,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"flowinvertedwayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"foliarswiftwayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.5,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"bitingcoldwayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"burningaflamewayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thunderingwayobmanifestation": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 95.088,
+			"attack": 57.776,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"furnaceshellmountainweasel": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.5,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 149.424,
+			"attack": 82.896,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"radiantantelope": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.5
+		},
+		"base": {
+			"hp": 149.424,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"radiantbladehorn": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.5,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 163.008,
+			"attack": 67.824,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"radiantlunapod": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.5,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 135.84,
+			"attack": 82.896,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"radiantglacialwolf": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 149.424,
+			"attack": 82.896,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"radiantmoonfly": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.7,
+			"dendro": 0.7,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 217.344,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"stormterror": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 122.256,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lupusboreasdominatorofwolves": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.3,
+			"cryo": 0.5,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 244.512,
+			"attack": 90.432,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"childe": {
+		"resistance": {
+			"physical": 0,
+			"pyro": 0,
+			"dendro": 0,
+			"hydro": 0.7,
+			"geo": 0,
+			"anemo": 0,
+			"cryo": 0,
+			"electro": 0.7
+		},
+		"base": {
+			"hp": 135.84,
+			"attack": 100.48,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"azhdaha": {
+		"resistance": {
+			"physical": 0.4,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.7,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 489.024,
+			"attack": 113.04,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lasignora": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.7,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 190.176,
+			"attack": 60.288,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"magatsumitakenarukaminomikoto": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 244.512,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"shoukinokamitheprodigal": {
+		"resistance": {
+			"physical": 0.3,
+			"pyro": 0.3,
+			"dendro": 0.3,
+			"hydro": 0.3,
+			"geo": 0.3,
+			"anemo": 0.3,
+			"cryo": 0.3,
+			"electro": 0.9
+		},
+		"base": {
+			"hp": 244.512,
+			"attack": 75.36,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"guardianofapepsoasis": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.7,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 108.672,
+			"attack": 62.8,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"alldevouringnarwhal": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.7,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 543.36,
+			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"theknave": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.7,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 366.768,
+			"attack": 123.088,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"lordoferodedprimalfire": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 1290.48,
+			"attack": 150.72,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thegamebeforethegate": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.7,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.7
+		},
+		"base": {
+			"hp": 679.2,
+			"attack": 125.6,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	},
+	"thedoctor": {
+		"resistance": {
+			"physical": 0.1,
+			"pyro": 0.1,
+			"dendro": 0.1,
+			"hydro": 0.1,
+			"geo": 0.1,
+			"anemo": 0.1,
+			"cryo": 0.1,
+			"electro": 0.1
+		},
+		"base": {
+			"hp": 1204.256,
+			"attack": 75.988,
+			"defense": 500
+		},
+		"curve": {
+			"hp": "GROW_CURVE_HP_2",
+			"attack": "GROW_CURVE_ATTACK_2",
+			"defense": "GROW_CURVE_DEFENSE"
+		}
+	}
+}

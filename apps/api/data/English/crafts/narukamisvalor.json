@@ -1,0 +1,16 @@
+{
+	"id": 12024,
+	"name": "Narukami's Valor",
+	"filterText": "Weapon Ascension Material",
+	"sortOrder": 130068,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114031,
+			"name": "Narukami's Affection",
+			"count": 3
+		}
+	]
+}

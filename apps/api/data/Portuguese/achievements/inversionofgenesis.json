@@ -1,0 +1,21 @@
+{
+	"id": [
+		84091
+	],
+	"name": "Santuário Decrépito",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 5070,
+	"stages": 1,
+	"stage1": {
+		"title": "Santuário Decrépito",
+		"description": "Complete o Santuário Decrépito.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

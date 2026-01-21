@@ -1,0 +1,16 @@
+{
+	"id": 12024,
+	"name": "鳴神御霊の勇武",
+	"filterText": "武器突破素材",
+	"sortOrder": 130068,
+	"unlockRank": 45,
+	"resultCount": 1,
+	"moraCost": 1075,
+	"recipe": [
+		{
+			"id": 114031,
+			"name": "鳴神御霊の親愛",
+			"count": 3
+		}
+	]
+}

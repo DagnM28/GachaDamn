@@ -1,0 +1,16 @@
+{
+	"id": 13024,
+	"name": "Triết Học Của \"Thực Hành\"",
+	"filterText": "Nguyên Liệu Thiên Phú Nhân Vật",
+	"sortOrder": 120109,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104336,
+			"name": "Hướng Dẫn Của \"Thực Hành\"",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		82161
+	],
+	"name": "„Das Weigern der Dornen“",
+	"achievementGroupId": 39,
+	"achievementGroupName": "Herausforderer – Reihe 7",
+	"sortOrder": 2161,
+	"stages": 1,
+	"stage1": {
+		"title": "„Das Weigern der Dornen“",
+		"description": "Nutze die Pyro-Kraft, um alle Dornen zu verbrennen, die die Dendro-Hypostase während ihres Dornenring-Angriffs erzeugt hat.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

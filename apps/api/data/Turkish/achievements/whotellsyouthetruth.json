@@ -1,0 +1,21 @@
+{
+	"id": [
+		84572
+	],
+	"name": "Sana Kim Doğruyu Söyler?",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Dünyanın Harikaları",
+	"isHidden": true,
+	"sortOrder": 4096,
+	"stages": 1,
+	"stage1": {
+		"title": "Sana Kim Doğruyu Söyler?",
+		"description": "Guijarro'nun yeni bir ilham bulmasına yardım et...",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 5
+		}
+	}
+}

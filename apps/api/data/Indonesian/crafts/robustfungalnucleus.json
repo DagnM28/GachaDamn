@@ -1,0 +1,16 @@
+{
+	"id": 11044,
+	"name": "Robust Fungal Nucleus",
+	"filterText": "Material Penguatan Karakter dan Senjata",
+	"sortOrder": 140109,
+	"unlockRank": 20,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 112063,
+			"name": "Dormant Fungal Nucleus",
+			"count": 3
+		}
+	]
+}

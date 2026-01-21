@@ -1,0 +1,21 @@
+{
+	"id": [
+		81163
+	],
+	"name": "Au fond de l'océan, avec Davy Jones",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"isHidden": true,
+	"sortOrder": 1149,
+	"stages": 1,
+	"stage1": {
+		"title": "Au fond de l'océan, avec Davy Jones",
+		"description": "Débloquez tous les mécanismes à bord du Seiraimaru.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12020,
+	"name": "Uzak Denizlerin Yeşim Dalı",
+	"filterText": "Silah Yükseltme Malzemesi",
+	"sortOrder": 130059,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 350,
+	"recipe": [
+		{
+			"id": 114026,
+			"name": "Uzak Denizlerin Kıymetli Dalı",
+			"count": 3
+		}
+	]
+}

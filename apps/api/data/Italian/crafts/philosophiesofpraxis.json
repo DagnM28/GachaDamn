@@ -1,0 +1,16 @@
+{
+	"id": 13024,
+	"name": "Filosofie della pragmatica",
+	"filterText": "Materiale per talenti dei personaggi",
+	"sortOrder": 120109,
+	"unlockRank": 40,
+	"resultCount": 1,
+	"moraCost": 550,
+	"recipe": [
+		{
+			"id": 104336,
+			"name": "Guida alla pragmatica",
+			"count": 3
+		}
+	]
+}

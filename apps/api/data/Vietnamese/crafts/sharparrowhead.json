@@ -1,0 +1,16 @@
+{
+	"id": 11007,
+	"name": "Mũi Tên Sắc Bén",
+	"filterText": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+	"sortOrder": 150030,
+	"unlockRank": 5,
+	"resultCount": 1,
+	"moraCost": 25,
+	"recipe": [
+		{
+			"id": 112011,
+			"name": "Mũi Tên Chắc Chắn",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		82117
+	],
+	"name": "Augenblick der Zerstörung",
+	"achievementGroupId": 29,
+	"achievementGroupName": "Herausforderer – Reihe 5",
+	"sortOrder": 2117,
+	"stages": 1,
+	"stage1": {
+		"title": "Augenblick der Zerstörung",
+		"description": "Besiege „La Signora“, ohne die „Motte des roten Lotos“ zu benutzen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": [
+		84333
+	],
+	"name": "I vincitori arderanno luminosi",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 5112,
+	"stages": 1,
+	"stage1": {
+		"title": "I vincitori arderanno luminosi",
+		"description": "Infine, la vittoria illumina nuovamente il cammino di Natlan",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

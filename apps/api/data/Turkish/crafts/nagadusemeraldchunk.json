@@ -1,0 +1,16 @@
+{
+	"id": 15008,
+	"name": "Nagadus Zümrüdü Parçası",
+	"filterText": "Karakter Yükseltme Malzemesi",
+	"sortOrder": 110019,
+	"unlockRank": 35,
+	"resultCount": 1,
+	"moraCost": 900,
+	"recipe": [
+		{
+			"id": 104132,
+			"name": "Nagadus Zümrüdü Kırıntısı",
+			"count": 3
+		}
+	]
+}

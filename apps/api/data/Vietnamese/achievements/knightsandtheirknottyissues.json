@@ -1,0 +1,21 @@
+{
+	"id": [
+		84007
+	],
+	"name": "Những rắc rối cũng Đội Kỵ Sĩ",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 4008,
+	"stages": 1,
+	"stage1": {
+		"title": "Những rắc rối cũng Đội Kỵ Sĩ",
+		"description": "Không \"mượn\" thánh vật thành công... Nhưng biết được \"nỗi phiền phức của đội Kỵ Sĩ\".",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

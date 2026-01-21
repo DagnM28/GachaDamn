@@ -1,0 +1,12 @@
+{
+	"id": 100021,
+	"name": "Wolfhook",
+	"sortRank": 311,
+	"description": "Beri dengan duri yang sering tertancap di kulit serigala. Kalau kamu perhatikan, kamu seperti bisa mendengar lolongan serigala di hutan.",
+	"category": "EXCHANGE",
+	"typeText": "Produk khas Mondstadt",
+	"sources": [
+		"Rekomendasi: Ditemukan di Wolvendom",
+		"Pergi dan kumpulkan"
+	]
+}

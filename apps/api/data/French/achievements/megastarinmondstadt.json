@@ -1,0 +1,21 @@
+{
+	"id": [
+		81024
+	],
+	"name": "Superstar à Mondstadt",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Merveilles du monde",
+	"sortOrder": 1024,
+	"stages": 1,
+	"stage1": {
+		"title": "Superstar à Mondstadt",
+		"ps5title": "Mondstadt - Superstar à Mondstadt",
+		"description": "Atteignez un Niv. de réputation 8 à Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primo-gemme",
+			"count": 20
+		}
+	}
+}

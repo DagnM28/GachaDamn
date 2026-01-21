@@ -1,0 +1,21 @@
+{
+	"id": [
+		82123
+	],
+	"name": "Julgamento Impecável",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Maravilhas do Mundo",
+	"isHidden": true,
+	"sortOrder": 2123,
+	"stages": 1,
+	"stage1": {
+		"title": "Julgamento Impecável",
+		"description": "Derrube apenas seu inimigo verdadeiro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

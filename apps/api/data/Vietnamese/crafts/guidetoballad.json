@@ -1,0 +1,16 @@
+{
+	"id": 13005,
+	"name": "Hướng Dẫn Của \"Thơ Văn\"",
+	"filterText": "Nguyên Liệu Thiên Phú Nhân Vật",
+	"sortOrder": 120020,
+	"unlockRank": 30,
+	"resultCount": 1,
+	"moraCost": 175,
+	"recipe": [
+		{
+			"id": 104307,
+			"name": "Bài Giảng Của \"Thơ Văn\"",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": 12031,
+	"name": "Ân Huệ Vườn Hoa Ốc Đảo",
+	"filterText": "Nguyên Liệu Đột Phá Vũ Khí",
+	"sortOrder": 130100,
+	"unlockRank": 25,
+	"resultCount": 1,
+	"moraCost": 125,
+	"recipe": [
+		{
+			"id": 114041,
+			"name": "Hồi Ức Vườn Hoa Ốc Đảo",
+			"count": 3
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"id": 101206,
+	"name": "Deniz Mantarı",
+	"sortRank": 313,
+	"description": "Okyanusun bazı özel bölgelerinde ve adalarda yetişen özel bir bitki türüdür. Görünüşte mantara benzese de aslında çoğalan yumuşakçalar tarafından salgılanır.",
+	"category": "EXCHANGE",
+	"typeText": "Inazuma Yöresel Ürünü",
+	"sources": [
+		"Inazuma'daki deniz sularında bulunur.",
+		"Dinginçay Çaydanlığında yetiştirilir.",
+		"Toplamaya git."
+	]
+}

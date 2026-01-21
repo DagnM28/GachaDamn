@@ -1,0 +1,20 @@
+{
+	"id": [
+		80146
+	],
+	"name": "Mergulho Perigoso",
+	"achievementGroupId": 30,
+	"achievementGroupName": "Chamas Luminosas",
+	"sortOrder": 146,
+	"stages": 1,
+	"stage1": {
+		"title": "Mergulho Perigoso",
+		"description": "Desbloqueie o mapa das Minas Subterrâneas do Despenhadeiro.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": [
+		86010
+	],
+	"name": "Sen ve Ben, Buzlu Dalların Gölgesinde Otururken Neredeyse Ölüyorduk",
+	"achievementGroupId": 13,
+	"achievementGroupName": "Dış Diyarlardaki Karşılaşmalar: I. Seri",
+	"sortOrder": 9010,
+	"stages": 1,
+	"stage1": {
+		"title": "Sen ve Ben, Buzlu Dalların Gölgesinde Otururken Neredeyse Ölüyorduk",
+		"description": "Eşli Modda bir Yalancı Buz Ağacını yen.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Köken Taşı",
+			"count": 10
+		}
+	}
+}

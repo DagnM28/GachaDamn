@@ -1,0 +1,21 @@
+{
+	"id": [
+		81230
+	],
+	"name": "Câu Chuyện Về Rừng Rậm",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Thế Giới Muôn Màu",
+	"isHidden": true,
+	"sortOrder": 1216,
+	"stages": 1,
+	"stage1": {
+		"title": "Câu Chuyện Về Rừng Rậm",
+		"description": "Ở chỗ Aravinay nghe được 5 câu chuyện về rừng rậm.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

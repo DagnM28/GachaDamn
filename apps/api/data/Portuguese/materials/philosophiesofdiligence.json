@@ -1,0 +1,19 @@
+{
+	"id": 104315,
+	"name": "Filosofia de Esforço",
+	"rarity": 4,
+	"sortRank": 13105,
+	"description": "Material de elevação de Talento.\nA indústria é o fundamento da Terra\nA indústria está acreditando na própria capacidade de ganhar um lugar na terra dos deuses através do suor, sabedoria e poder.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Material de Talento do Personagem",
+	"dropDomainId": 5261,
+	"dropDomainName": "Domínio da Proficiência: Coração das Chamas",
+	"daysOfWeek": [
+		"Terça-feira",
+		"Sexta-feira",
+		"Domingo"
+	],
+	"sources": [
+		"Quantidade a ser fabricada: {0}"
+	]
+}

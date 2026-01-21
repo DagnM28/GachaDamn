@@ -1,0 +1,21 @@
+{
+	"id": [
+		81221
+	],
+	"name": "Il tomo di Taliesin",
+	"achievementGroupId": 0,
+	"achievementGroupName": "Meraviglie del mondo",
+	"isHidden": true,
+	"sortOrder": 1207,
+	"stages": 1,
+	"stage1": {
+		"title": "Il tomo di Taliesin",
+		"description": "Ottieni il regalo di Taliesin.",
+		"progress": 1,
+		"reward": {
+			"id": 201,
+			"name": "Primogemma",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"id": 101232,
+	"name": "Conchiglia di Béryl",
+	"sortRank": 315,
+	"description": "Una struttura a forma di conchiglia che emana un tenue bagliore. Nonostante il nome, non si tratta di un guscio, bensì di una concrezione di energia primordiale.",
+	"category": "EXCHANGE",
+	"typeText": "Specialità di Fontaine",
+	"sources": [
+		"Consiglio: si trova sulla Pianura di Salacia",
+		"Vai a raccogliere"
+	]
+}
