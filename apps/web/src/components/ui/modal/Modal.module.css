@@ -1,0 +1,244 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+}
+
+.modal {
+  position: relative;
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--background) 100%);
+  color: var(--foreground);
+  border: none;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  clip-path: polygon(
+    0 0,
+    calc(100% - 16px) 0,
+    100% 16px,
+    100% 100%,
+    16px 100%,
+    0 calc(100% - 16px)
+  );
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.modal.small {
+  width: 100%;
+  max-width: 400px;
+}
+
+.modal.medium {
+  width: 100%;
+  max-width: 600px;
+}
+
+.modal.large {
+  width: 100%;
+  max-width: 900px;
+}
+
+/* Animated border */
+.borderGlow {
+  position: absolute;
+  inset: -3px;
+  background: linear-gradient(
+    110deg,
+    transparent 0%,
+    transparent 40%,
+    #4a9eff 48%,
+    #6ec1ff 50%,
+    #ffffff 52%,
+    transparent 60%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: borderSlide 3s linear infinite;
+  z-index: -1;
+}
+
+.borderGlow::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  background: inherit;
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--background) 100%);
+}
+
+@keyframes borderSlide {
+  0% {
+    background-position: -100% 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
+
+/* Stars decoration */
+.stars {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.star {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: linear-gradient(135deg, #4a9eff 0%, #6ec1ff 50%, #ffffff 100%);
+  opacity: 0.6;
+  clip-path: polygon(
+    50% 0%,
+    61% 35%,
+    98% 35%,
+    68% 57%,
+    79% 91%,
+    50% 70%,
+    21% 91%,
+    32% 57%,
+    2% 35%,
+    39% 35%
+  );
+  filter: drop-shadow(0 0 4px rgba(74, 158, 255, 0.8));
+}
+
+.star:nth-child(1) {
+  top: 10%;
+  left: 10%;
+}
+
+.star:nth-child(2) {
+  top: 20%;
+  right: 15%;
+}
+
+.star:nth-child(3) {
+  top: 50%;
+  left: 5%;
+}
+
+.star:nth-child(4) {
+  top: 50%;
+  right: 8%;
+}
+
+.star:nth-child(5) {
+  bottom: 20%;
+  left: 12%;
+}
+
+.star:nth-child(6) {
+  bottom: 15%;
+  right: 10%;
+}
+
+.star:nth-child(7) {
+  top: 35%;
+  left: 50%;
+}
+
+.star:nth-child(8) {
+  bottom: 35%;
+  right: 45%;
+}
+
+/* Header */
+.header {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  border-bottom: 2px solid var(--primary);
+  background: linear-gradient(135deg, var(--background) 0%, var(--secondary) 100%);
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.closeButton {
+  background: transparent;
+  border: 2px solid var(--primary);
+  color: var(--foreground);
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  clip-path: polygon(
+    0 0,
+    calc(100% - 6px) 0,
+    100% 6px,
+    100% 100%,
+    6px 100%,
+    0 calc(100% - 6px)
+  );
+}
+
+.closeButton:hover {
+  background: var(--primary);
+  color: white;
+}
+
+/* Content */
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 2rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  flex: 1;
+}
+
+.content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.content::-webkit-scrollbar-track {
+  background: var(--secondary);
+}
+
+.content::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 4px;
+}
+
+.content::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .modal {
+    max-height: 95vh;
+  }
+
+  .header {
+    padding: 1rem 1.5rem;
+  }
+
+  .title {
+    font-size: 1.25rem;
+  }
+
+  .content {
+    padding: 1.5rem;
+  }
+}

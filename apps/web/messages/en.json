@@ -1,0 +1,15 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "demo": {
+    "title": "UI Components Demo",
+    "languageDemo": "Language Switching Demo",
+    "currentLanguage": "Current Language",
+    "greeting": "Hello! This text changes based on the selected language.",
+    "description": "The language system uses next-intl for internationalization. You can switch languages using the dropdown in the footer."
+  }
+}

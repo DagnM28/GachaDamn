@@ -1,0 +1,206 @@
+.container {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* Light Theme Background */
+.lightBackground {
+  position: absolute;
+  inset: 0;
+  background: var(--background);
+}
+
+/* Sun */
+.sun {
+  position: absolute;
+  top: 10%;
+  right: 15%;
+  width: 150px;
+  height: 150px;
+  animation: rotateSun 60s linear infinite;
+}
+
+.sunCore {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle, var(--accent) 0%, var(--primary) 100%);
+  border-radius: 50%;
+  opacity: 0.6;
+}
+
+.sunGlow {
+  position: absolute;
+  inset: -20px;
+  background: radial-gradient(circle, var(--accent) 0%, transparent 70%);
+  border-radius: 50%;
+  opacity: 0.3;
+  animation: pulse 4s ease-in-out infinite;
+}
+
+@keyframes rotateSun {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.3;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.4;
+  }
+}
+
+/* Clouds */
+.clouds {
+  position: absolute;
+  inset: 0;
+}
+
+.cloud {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  will-change: transform;
+}
+
+.cloud1 {
+  top: 15%;
+  opacity: 0.4;
+}
+
+.cloud2 {
+  top: 35%;
+  opacity: 0.3;
+}
+
+.cloud3 {
+  top: 55%;
+  opacity: 0.35;
+}
+
+.cloud4 {
+  top: 75%;
+  opacity: 0.25;
+}
+
+.cloudPart1,
+.cloudPart2,
+.cloudPart3 {
+  background: var(--secondary);
+  border-radius: 50%;
+  opacity: 0.8;
+}
+
+.cloudPart1 {
+  width: 60px;
+  height: 40px;
+}
+
+.cloudPart2 {
+  width: 80px;
+  height: 50px;
+  margin-top: -10px;
+}
+
+.cloudPart3 {
+  width: 50px;
+  height: 35px;
+}
+
+/* Dark Theme Background */
+.darkBackground {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, var(--background) 0%, #0a0e14 100%);
+}
+
+/* Stars */
+.stars {
+  position: absolute;
+  inset: 0;
+}
+
+.star {
+  position: absolute;
+  background: var(--secondary);
+  border-radius: 50%;
+  opacity: 0.6;
+  box-shadow: 0 0 4px var(--secondary);
+}
+
+/* Shooting Stars */
+.shootingStars {
+  position: absolute;
+  inset: 0;
+}
+
+.shootingStar {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: linear-gradient(
+    135deg,
+    var(--primary) 0%,
+    var(--accent) 50%,
+    transparent 100%
+  );
+  border-radius: 50%;
+  box-shadow: 
+    0 0 6px var(--primary),
+    0 0 12px var(--accent);
+  will-change: transform;
+}
+
+.shootingStar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    var(--primary) 0%,
+    var(--accent) 30%,
+    transparent 100%
+  );
+  transform-origin: left center;
+  transform: rotate(-45deg);
+  opacity: 0.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .sun {
+    width: 100px;
+    height: 100px;
+    top: 8%;
+    right: 10%;
+  }
+
+  .cloudPart1 {
+    width: 40px;
+    height: 30px;
+  }
+
+  .cloudPart2 {
+    width: 60px;
+    height: 40px;
+  }
+
+  .cloudPart3 {
+    width: 35px;
+    height: 25px;
+  }
+}

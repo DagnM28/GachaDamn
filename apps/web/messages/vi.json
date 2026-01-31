@@ -1,0 +1,15 @@
+{
+  "common": {
+    "welcome": "Chào mừng",
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công"
+  },
+  "demo": {
+    "title": "Demo Các Component UI",
+    "languageDemo": "Demo Chuyển Đổi Ngôn Ngữ",
+    "currentLanguage": "Ngôn Ngữ Hiện Tại",
+    "greeting": "Xin chào! Văn bản này thay đổi dựa trên ngôn ngữ được chọn.",
+    "description": "Hệ thống ngôn ngữ sử dụng next-intl để quốc tế hóa. Bạn có thể chuyển đổi ngôn ngữ bằng menu dropdown ở footer."
+  }
+}

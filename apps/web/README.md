@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/create-next-app).
+# GachaDamn Wiki
+
+A comprehensive Wikipedia-style platform for [Genshin Impact](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) and [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail), providing detailed information about characters, gameplay mechanics, lore, and game content.
+
+## About the Games
+
+### Genshin Impact
+An open-world action RPG developed by HoYoverse (miHoYo), featuring an anime-inspired fantasy world called Teyvat. Players explore seven nations, each tied to different elements and ruled by Archons. The game combines real-time elemental combat, character collection through a gacha system, and an expansive storyline following the Traveler's journey to find their lost sibling.
+
+**Key Features:**
+- Open-world exploration with climbing, swimming, and gliding mechanics
+- Real-time combat with elemental reactions system
+- 100+ playable characters with unique abilities
+- Co-op multiplayer mode
+- Regular content updates with new regions and story chapters
+
+### Honkai: Star Rail
+A turn-based RPG set in a sci-fi universe, where players travel across worlds aboard the Astral Express. The game features strategic turn-based combat, deep character progression, and a story-driven narrative involving Stellarons and cosmic entities called Aeons.
+
+**Key Features:**
+- Strategic turn-based combat system
+- Space exploration across multiple worlds
+- Path system with unique philosophies and powers
+- Cinematic storytelling with high production value
+- Character collection through gacha mechanics
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router)
+- **Language:** TypeScript
+- **Styling:** CSS Modules + Tailwind CSS
+- **Internationalization:** next-intl (English & Vietnamese)
+- **Font:** Exo 2 (Google Fonts)
+- **Theme:** Light/Dark mode support
+
+## Features
+
+- Multi-language support (EN/VI)
+- Theme switching (Light/Dark mode)
+- Responsive design
+- Type-safe development
+- Server-side rendering
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3030](http://localhost:3030) to view the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load Inter, a custom Google Font.
+```
+apps/web/
+├── app/
+│   ├── [locale]/          # Localized routes
+│   ├── globals.css        # Global styles
+│   └── page.tsx           # Root redirect
+├── messages/              # Translation files
+│   ├── en.json
+│   └── vi.json
+├── src/
+│   ├── components/        # React components
+│   ├── contexts/          # Context providers (Theme, Locale)
+│   ├── i18n/             # i18n configuration
+│   └── lib/              # Utility functions
+└── public/               # Static assets
+```
 
-## Learn More
+## Development
 
-To learn more about Next.js, take a look at the following resources:
+The project uses a monorepo structure with Turborepo. Key commands:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run lint     # Run ESLint
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+This is a community-driven wiki project. Contributions are welcome!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is for educational and informational purposes. Game content and trademarks belong to HoYoverse.
+
+---
+
+*Content sourced from official game materials and community contributions. Not affiliated with HoYoverse.*

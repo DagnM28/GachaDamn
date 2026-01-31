@@ -1,0 +1,263 @@
+.card {
+  position: relative;
+  background: var(--secondary);
+  color: var(--foreground);
+  overflow: visible;
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 12px,
+    100% 100%,
+    12px 100%,
+    0 calc(100% - 12px)
+  );
+  transition: margin 0.3s ease;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  background: var(--primary);
+  z-index: -1;
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 12px,
+    100% 100%,
+    12px 100%,
+    0 calc(100% - 12px)
+  );
+}
+
+.card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--secondary);
+  z-index: -1;
+  transition: background 0.5s ease;
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 12px,
+    100% 100%,
+    12px 100%,
+    0 calc(100% - 12px)
+  );
+}
+
+/* 3D shadow layer */
+.shadowLayer {
+  position: absolute;
+  inset: 0;
+  background: var(--background);
+  z-index: -3;
+  transform: translate(8px, 8px);
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 12px,
+    100% 100%,
+    12px 100%,
+    0 calc(100% - 12px)
+  );
+  transition: transform 0.3s ease;
+}
+
+/* Animated border glow */
+.borderGlow {
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(
+    110deg,
+    transparent 0%,
+    transparent 45%,
+    var(--primary) 50%,
+    transparent 55%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  background-position: -100% 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.borderGlow::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: var(--secondary);
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 12px,
+    100% 100%,
+    12px 100%,
+    0 calc(100% - 12px)
+  );
+}
+
+/* Stars decoration */
+.stars {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.star {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  opacity: 0.4;
+  clip-path: polygon(
+    50% 0%,
+    61% 35%,
+    98% 35%,
+    68% 57%,
+    79% 91%,
+    50% 70%,
+    21% 91%,
+    32% 57%,
+    2% 35%,
+    39% 35%
+  );
+}
+
+.star:nth-child(1) {
+  top: 15%;
+  left: 10%;
+}
+
+.star:nth-child(2) {
+  top: 20%;
+  right: 12%;
+}
+
+.star:nth-child(3) {
+  bottom: 15%;
+  right: 10%;
+}
+
+/* Content */
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 1.5rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-bottom: 2px solid var(--primary);
+}
+
+/* Hoverable variant */
+.hoverable {
+  cursor: pointer;
+  transition: background 0.5s ease;
+}
+
+.hoverable:hover {
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
+}
+
+.hoverable:hover::after {
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
+}
+
+.hoverable:hover .borderGlow {
+  opacity: 1;
+  animation: borderSlide 2s linear infinite;
+}
+
+/* Variant: Default */
+.default .star {
+  background: linear-gradient(135deg, #4a9eff 0%, #6ec1ff 50%, #ffffff 100%);
+  filter: drop-shadow(0 0 3px rgba(74, 158, 255, 0.6));
+}
+
+/* Variant: Primary */
+.primary {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+
+.primary .borderGlow {
+  background: linear-gradient(
+    110deg,
+    transparent 0%,
+    transparent 45%,
+    #ffffff 48%,
+    #fbbf24 50%,
+    #ffffff 52%,
+    transparent 55%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+}
+
+.primary .borderGlow::after {
+  background: var(--primary);
+}
+
+.primary .star {
+  background: linear-gradient(135deg, #4a9eff 0%, #6ec1ff 50%, #ffffff 100%);
+  filter: drop-shadow(0 0 4px rgba(74, 158, 255, 0.9));
+}
+
+.primary .title {
+  border-bottom-color: #ffffff;
+}
+
+/* Variant: Secondary */
+.secondary {
+  background: #8b5cf6;
+  border-color: #ec4899;
+}
+
+.secondary .borderGlow {
+  background: linear-gradient(
+    110deg,
+    transparent 0%,
+    transparent 45%,
+    #ffffff 48%,
+    #fbbf24 50%,
+    #ffffff 52%,
+    transparent 55%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+}
+
+.secondary .borderGlow::after {
+  background: #8b5cf6;
+}
+
+.secondary .star {
+  background: linear-gradient(135deg, #ec4899 0%, #f472b6 50%, #fbbf24 100%);
+  filter: drop-shadow(0 0 4px rgba(236, 72, 153, 0.9));
+}
+
+.secondary .title {
+  border-bottom-color: #fbbf24;
+}
+
+/* Border slide animation */
+@keyframes borderSlide {
+  0% {
+    background-position: -100% 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
