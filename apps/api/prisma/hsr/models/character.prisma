@@ -1,0 +1,23 @@
+// HSR Characters Domain
+
+model Character {
+  id              Int      @id @default(autoincrement())
+  lang            String   // 'en' or 'vn'
+  name            String
+  rarity          Int
+  path            String   // Destruction, Hunt, Erudition, etc.
+  element         String   // Physical, Fire, Ice, Lightning, Wind, Quantum, Imaginary
+  combatType      String
+  description     String   @db.Text
+  faction         String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, path])
+  @@index([lang, element])
+  @@index([lang, rarity])
+  @@map("characters")
+  @@schema("hsr")
+}

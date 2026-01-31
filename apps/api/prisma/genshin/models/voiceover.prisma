@@ -1,0 +1,39 @@
+// Genshin Voiceovers Domain
+// Single schema with language field
+
+model Voiceover {
+  id            Int      @id @default(autoincrement())
+  lang          String   // 'en' or 'vn'
+  name          String
+  characterId   Int
+  characterName String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  friendLines VoiceoverLine[]
+
+  @@unique([lang, characterId])
+  @@index([lang])
+  @@index([lang, characterName])
+  @@map("voiceovers")
+  @@schema("genshin")
+}
+
+model VoiceoverLine {
+  id                   String    @id @default(cuid())
+  voiceoverId          Int
+  voiceover            Voiceover @relation(fields: [voiceoverId], references: [id], onDelete: Cascade)
+  voicelineId          Int
+  title                String
+  voicelineType        String
+  description          String    @db.Text
+  voicefile            String
+  hasUnlockConditions  Boolean
+  unlockConditions     Json
+  createdAt            DateTime  @default(now())
+
+  @@index([voiceoverId])
+  @@index([voicelineId])
+  @@map("voiceover_lines")
+  @@schema("genshin")
+}

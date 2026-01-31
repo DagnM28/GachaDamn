@@ -1,0 +1,63 @@
+// Genshin Weapons Domain
+// Single schema with language field
+
+model Weapon {
+  id                  Int      @id @default(autoincrement())
+  lang                String   // 'en' or 'vn'
+  name                String
+  description         String   @db.Text
+  descriptionRaw      String   @db.Text
+  weaponType          String
+  weaponText          String
+  rarity              Int
+  story               String?  @db.Text
+  baseAtkValue        Float
+  mainStatType        String
+  mainStatText        String
+  baseStatText        String
+  effectName          String?
+  effectTemplateRaw   String?  @db.Text
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  refinements        WeaponRefinement[]
+  ascensionCosts     WeaponAscensionCost[]
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, weaponType])
+  @@index([lang, rarity])
+  @@map("weapons")
+  @@schema("genshin")
+}
+
+model WeaponRefinement {
+  id          String @id @default(cuid())
+  weaponId    Int
+  weapon      Weapon @relation(fields: [weaponId], references: [id], onDelete: Cascade)
+  rank        Int
+  description String @db.Text
+  values      Json
+  createdAt   DateTime @default(now())
+
+  @@index([weaponId])
+  @@index([rank])
+  @@map("weapon_refinements")
+  @@schema("genshin")
+}
+
+model WeaponAscensionCost {
+  id          String @id @default(cuid())
+  weaponId    Int
+  weapon      Weapon @relation(fields: [weaponId], references: [id], onDelete: Cascade)
+  phase       String
+  itemId      Int
+  itemName    String
+  count       Int
+  createdAt   DateTime @default(now())
+
+  @@index([weaponId])
+  @@index([phase])
+  @@map("weapon_ascension_costs")
+  @@schema("genshin")
+}

@@ -1,0 +1,26 @@
+// Genshin Enemies Domain
+// Single schema with language field
+
+model Enemy {
+  id            Int      @id @default(autoincrement())
+  lang          String   // 'en' or 'vn'
+  monsterId     Int
+  name          String
+  specialNames  Json
+  monsterType   String
+  enemyType     String
+  categoryType  String
+  categoryText  String
+  description   String   @db.Text
+  rewardPreview Json
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, enemyType])
+  @@index([lang, categoryType])
+  @@index([lang, monsterType])
+  @@map("enemies")
+  @@schema("genshin")
+}

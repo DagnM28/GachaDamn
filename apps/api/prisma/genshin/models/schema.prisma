@@ -1,0 +1,12 @@
+// Genshin Database Schema Configuration
+// Models will be deployed to PostgreSQL 'genshin' schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../../../src/generated/genshin"
+}
+
+datasource db {
+  provider = "postgresql"
+  schemas  = ["genshin"]
+}

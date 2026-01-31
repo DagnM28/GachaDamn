@@ -5,6 +5,9 @@ import { AppModule } from './app.module';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
+  // Global prefix for all routes
+  app.setGlobalPrefix('api');
+
   // Enable validation
   app.useGlobalPipes(
     new ValidationPipe({
@@ -16,10 +19,9 @@ async function bootstrap() {
 
   // Enable CORS
   app.enableCors();
-
   await app.listen(process.env.PORT ?? 8000);
   console.log(
-    `🚀 Application is running on: http://localhost:${process.env.PORT ?? 8000}`,
+    `🚀 Application is running on: http://localhost:${process.env.PORT ?? 8000}/api`,
   );
 }
 // eslint-disable-next-line @typescript-eslint/no-floating-promises

@@ -1,0 +1,59 @@
+// Genshin Characters Domain
+// Single schema with language field
+
+model Character {
+  id              Int      @id @default(autoincrement())
+  lang            String   // 'en' or 'vn'
+  name            String
+  title           String
+  description     String   @db.Text
+  weaponType      String
+  weaponText      String
+  bodyType        String
+  gender          String
+  qualityType     String
+  rarity          Int
+  birthdayMmdd    String?
+  birthday        String?
+  elementType     String
+  elementText     String
+  affiliation     String
+  associationType String
+  region          String
+  substatType     String
+  substatText     String
+  constellation   String
+  cvEnglish       String?
+  cvChinese       String?
+  cvJapanese      String?
+  cvKorean        String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  ascensionCosts CharacterAscensionCost[]
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, elementType])
+  @@index([lang, rarity])
+  @@index([lang, region])
+  @@index([lang, weaponType])
+  @@map("characters")
+  @@schema("genshin")
+}
+
+model CharacterAscensionCost {
+  id          String    @id @default(cuid())
+  characterId Int
+  character   Character @relation(fields: [characterId], references: [id], onDelete: Cascade)
+  phase       String
+  itemId      Int
+  itemName    String
+  count       Int
+  createdAt   DateTime  @default(now())
+
+  @@index([characterId])
+  @@index([phase])
+  @@map("character_ascension_costs")
+  @@schema("genshin")
+}

@@ -1,0 +1,72 @@
+// Genshin Talents Domain
+// Single schema with language field
+
+model Talent {
+  id             Int      @id @default(autoincrement())
+  lang           String   // 'en' or 'vn'
+  name           String
+  characterId    Int
+  characterName  String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  combats  TalentCombat[]
+  passives TalentPassive[]
+  costs    TalentCost[]
+
+  @@unique([lang, characterId])
+  @@index([lang])
+  @@index([lang, characterName])
+  @@map("talents")
+  @@schema("genshin")
+}
+
+model TalentCombat {
+  id             String @id @default(cuid())
+  talentId       Int
+  talent         Talent @relation(fields: [talentId], references: [id], onDelete: Cascade)
+  combatType     String
+  name           String
+  description    String @db.Text
+  descriptionRaw String @db.Text
+  flavorText     String? @db.Text
+  attributes     Json
+  createdAt      DateTime @default(now())
+
+  @@unique([talentId, combatType])
+  @@index([talentId])
+  @@map("talent_combats")
+  @@schema("genshin")
+}
+
+model TalentPassive {
+  id             String @id @default(cuid())
+  talentId       Int
+  talent         Talent @relation(fields: [talentId], references: [id], onDelete: Cascade)
+  passiveType    String
+  name           String
+  description    String @db.Text
+  descriptionRaw String @db.Text
+  createdAt      DateTime @default(now())
+
+  @@unique([talentId, passiveType])
+  @@index([talentId])
+  @@map("talent_passives")
+  @@schema("genshin")
+}
+
+model TalentCost {
+  id        String @id @default(cuid())
+  talentId  Int
+  talent    Talent @relation(fields: [talentId], references: [id], onDelete: Cascade)
+  level     String
+  itemId    Int
+  itemName  String
+  count     Int
+  createdAt DateTime @default(now())
+
+  @@index([talentId])
+  @@index([level])
+  @@map("talent_costs")
+  @@schema("genshin")
+}

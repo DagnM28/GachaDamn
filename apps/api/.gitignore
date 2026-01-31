@@ -3,6 +3,11 @@
 /node_modules
 /build
 
+# Compiled TypeScript files outside src
+/scripts/**/*.js
+/scripts/**/*.js.map
+/scripts/**/*.d.ts
+
 # Logs
 logs
 *.log
@@ -35,8 +40,7 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# dotenv environment variable files
-.env
+# dotenv environment variable files (keep .env for sharing)
 .env.development.local
 .env.test.local
 .env.production.local
@@ -55,4 +59,13 @@ pids
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-/generated/prisma
+# Prisma
+/prisma/*/generated/
+/src/generated/
+*.tsbuildinfo
+prisma.*.config.js
+prisma.*.config.js.map
+prisma.*.config.d.ts
+
+# Turbo
+.turbo

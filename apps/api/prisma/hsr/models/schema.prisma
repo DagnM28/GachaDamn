@@ -1,0 +1,12 @@
+// Honkai: Star Rail Database Schema Configuration
+// Models will be deployed to PostgreSQL 'hsr' schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../../../src/generated/hsr"
+}
+
+datasource db {
+  provider = "postgresql"
+  schemas  = ["hsr"]
+}

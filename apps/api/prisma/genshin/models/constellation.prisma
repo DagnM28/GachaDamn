@@ -1,0 +1,37 @@
+// Genshin Constellations Domain
+// Single schema with language field
+
+model Constellation {
+  id             Int      @id @default(autoincrement())
+  lang           String   // 'en' or 'vn'
+  name           String
+  characterId    Int
+  characterName  String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  details ConstellationDetail[]
+
+  @@unique([lang, characterId])
+  @@index([lang])
+  @@index([lang, characterName])
+  @@map("constellations")
+  @@schema("genshin")
+}
+
+model ConstellationDetail {
+  id              String        @id @default(cuid())
+  constellationId Int
+  constellation   Constellation @relation(fields: [constellationId], references: [id], onDelete: Cascade)
+  level           Int
+  name            String
+  description     String        @db.Text
+  descriptionRaw  String        @db.Text
+  createdAt       DateTime      @default(now())
+
+  @@unique([constellationId, level])
+  @@index([constellationId])
+  @@index([level])
+  @@map("constellation_details")
+  @@schema("genshin")
+}

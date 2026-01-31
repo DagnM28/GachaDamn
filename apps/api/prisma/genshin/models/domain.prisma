@@ -1,0 +1,60 @@
+// Genshin Domains Domain
+// Single schema with language field
+
+model Domain {
+  id                  Int      @id @default(autoincrement())
+  lang                String   // 'en' or 'vn'
+  name                String
+  regionId            Int
+  regionName          String
+  entranceId          Int
+  entranceName        String
+  domainType          String
+  domainText          String
+  description         String   @db.Text
+  recommendedLevel    Int
+  recommendedElements Json
+  unlockRank          Int
+  disorder            Json
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  rewardPreview DomainReward[]
+  monsterList   DomainMonster[]
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, domainType])
+  @@index([lang, regionName])
+  @@index([lang, recommendedLevel])
+  @@map("domains")
+  @@schema("genshin")
+}
+
+model DomainReward {
+  id        String @id @default(cuid())
+  domainId  Int
+  domain    Domain @relation(fields: [domainId], references: [id], onDelete: Cascade)
+  itemId    Int
+  itemName  String
+  rarity    Int?
+  count     Int?
+  createdAt DateTime @default(now())
+
+  @@index([domainId])
+  @@map("domain_rewards")
+  @@schema("genshin")
+}
+
+model DomainMonster {
+  id          String @id @default(cuid())
+  domainId    Int
+  domain      Domain @relation(fields: [domainId], references: [id], onDelete: Cascade)
+  monsterId   Int
+  monsterName String
+  createdAt   DateTime @default(now())
+
+  @@index([domainId])
+  @@map("domain_monsters")
+  @@schema("genshin")
+}

@@ -1,0 +1,22 @@
+// Genshin Outfits Domain
+// Single schema with language field
+
+model Outfit {
+  id            Int      @id @default(autoincrement())
+  lang          String   // 'en' or 'vn'
+  name          String
+  description   String   @db.Text
+  isDefault     Boolean
+  characterId   Int
+  characterName String
+  source        Json
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, characterId])
+  @@index([lang, characterName])
+  @@map("outfits")
+  @@schema("genshin")
+}

@@ -1,16 +1,16 @@
 import { Injectable, OnModuleInit, OnModuleDestroy } from '@nestjs/common';
-import { PrismaClient } from '../generated/genshin';
+import { PrismaClient } from '../generated/hsr';
 import { PrismaNeon } from '@prisma/adapter-neon';
 
 @Injectable()
-export class GenshinPrismaService
+export class HsrPrismaService
   extends PrismaClient
   implements OnModuleInit, OnModuleDestroy
 {
   constructor() {
-    const connectionString = process.env.GENSHIN_DATABASE_URL;
+    const connectionString = process.env.HSR_DATABASE_URL;
     if (!connectionString) {
-      throw new Error('GENSHIN_DATABASE_URL is not set');
+      throw new Error('HSR_DATABASE_URL is not set');
     }
 
     const adapter = new PrismaNeon({ connectionString });

@@ -1,0 +1,38 @@
+// Genshin Artifacts Domain
+// Single schema with language field
+
+model Artifact {
+  id          Int      @id @default(autoincrement())
+  lang        String   // 'en' or 'vn'
+  name        String
+  rarityList  Json
+  effect2Pc   String?  @db.Text
+  effect4Pc   String?  @db.Text
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  pieces ArtifactPiece[]
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@map("artifacts")
+  @@schema("genshin")
+}
+
+model ArtifactPiece {
+  id          String   @id @default(cuid())
+  artifactId  Int
+  artifact    Artifact @relation(fields: [artifactId], references: [id], onDelete: Cascade)
+  pieceType   String
+  name        String
+  relicType   String
+  relicText   String
+  description String   @db.Text
+  story       String?  @db.Text
+  createdAt   DateTime @default(now())
+
+  @@index([artifactId])
+  @@index([pieceType])
+  @@map("artifact_pieces")
+  @@schema("genshin")
+}

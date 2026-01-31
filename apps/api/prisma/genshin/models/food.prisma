@@ -1,0 +1,55 @@
+// Genshin Foods Domain
+// Single schema with language field
+
+model Food {
+  id          Int      @id @default(autoincrement())
+  lang        String   // 'en' or 'vn'
+  name        String
+  rarity      Int
+  foodtype    String
+  filterType  String
+  filterText  String
+  effect      String   @db.Text
+  description String   @db.Text
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  qualities   FoodQuality[]
+  ingredients FoodIngredient[]
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, foodtype])
+  @@index([lang, rarity])
+  @@map("foods")
+  @@schema("genshin")
+}
+
+model FoodQuality {
+  id          String @id @default(cuid())
+  foodId      Int
+  food        Food   @relation(fields: [foodId], references: [id], onDelete: Cascade)
+  quality     String
+  effect      String @db.Text
+  description String @db.Text
+  createdAt   DateTime @default(now())
+
+  @@index([foodId])
+  @@index([quality])
+  @@map("food_qualities")
+  @@schema("genshin")
+}
+
+model FoodIngredient {
+  id           String @id @default(cuid())
+  foodId       Int
+  food         Food   @relation(fields: [foodId], references: [id], onDelete: Cascade)
+  ingredientId Int
+  name         String
+  count        Int
+  createdAt    DateTime @default(now())
+
+  @@index([foodId])
+  @@map("food_ingredients")
+  @@schema("genshin")
+}

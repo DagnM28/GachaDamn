@@ -1,0 +1,18 @@
+// Genshin Adventure Ranks Domain
+// Single schema with language field
+
+model AdventureRank {
+  id                Int      @id @default(autoincrement())
+  lang              String   // 'en' or 'vn'
+  name              String
+  exp               Int
+  unlockDescription String   @db.Text
+  reward            Json
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@map("adventure_ranks")
+  @@schema("genshin")
+}

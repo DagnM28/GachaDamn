@@ -1,0 +1,22 @@
+// HSR Light Cones Domain (equivalent to weapons in Genshin)
+
+model LightCone {
+  id              Int      @id @default(autoincrement())
+  lang            String   // 'en' or 'vn'
+  name            String
+  rarity          Int
+  path            String   // Destruction, Hunt, Erudition, etc.
+  description     String   @db.Text
+  baseHp          Int
+  baseAtk         Int
+  baseDef         Int
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@unique([lang, name])
+  @@index([lang])
+  @@index([lang, path])
+  @@index([lang, rarity])
+  @@map("light_cones")
+  @@schema("hsr")
+}
