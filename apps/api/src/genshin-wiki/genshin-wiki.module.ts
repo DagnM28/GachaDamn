@@ -14,6 +14,7 @@ import {
   MaterialsService,
   DomainsService,
 } from './services';
+import { MetadataScanner } from '@nestjs/core';
 
 @Module({
   controllers: [
@@ -25,6 +26,7 @@ import {
     DomainsController,
   ],
   providers: [
+    MetadataScanner,
     CharactersService,
     WeaponsService,
     ArtifactsService,

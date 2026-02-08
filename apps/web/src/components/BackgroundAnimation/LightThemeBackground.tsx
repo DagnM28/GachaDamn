@@ -24,7 +24,7 @@ export default function LightThemeBackground() {
           delay,
           repeat: -1,
           ease: "none",
-        }
+        },
       );
     });
   }, []);

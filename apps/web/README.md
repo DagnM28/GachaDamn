@@ -5,9 +5,11 @@ A comprehensive Wikipedia-style platform for [Genshin Impact](https://genshin-im
 ## About the Games
 
 ### Genshin Impact
+
 An open-world action RPG developed by HoYoverse (miHoYo), featuring an anime-inspired fantasy world called Teyvat. Players explore seven nations, each tied to different elements and ruled by Archons. The game combines real-time elemental combat, character collection through a gacha system, and an expansive storyline following the Traveler's journey to find their lost sibling.
 
 **Key Features:**
+
 - Open-world exploration with climbing, swimming, and gliding mechanics
 - Real-time combat with elemental reactions system
 - 100+ playable characters with unique abilities
@@ -15,9 +17,11 @@ An open-world action RPG developed by HoYoverse (miHoYo), featuring an anime-ins
 - Regular content updates with new regions and story chapters
 
 ### Honkai: Star Rail
+
 A turn-based RPG set in a sci-fi universe, where players travel across worlds aboard the Astral Express. The game features strategic turn-based combat, deep character progression, and a story-driven narrative involving Stellarons and cosmic entities called Aeons.
 
 **Key Features:**
+
 - Strategic turn-based combat system
 - Space exploration across multiple worlds
 - Path system with unique philosophies and powers
@@ -96,4 +100,4 @@ This project is for educational and informational purposes. Game content and tra
 
 ---
 
-*Content sourced from official game materials and community contributions. Not affiliated with HoYoverse.*
+_Content sourced from official game materials and community contributions. Not affiliated with HoYoverse._

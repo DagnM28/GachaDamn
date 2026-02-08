@@ -18,15 +18,17 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
 
   // Parse locale from pathname as fallback
   const pathnameLocale = pathname.split("/")[1] as Locale;
-  const locale = locales.includes(pathnameLocale) ? pathnameLocale : nextIntlLocale;
+  const locale = locales.includes(pathnameLocale)
+    ? pathnameLocale
+    : nextIntlLocale;
 
   const setLocale = (newLocale: Locale) => {
     if (!locales.includes(newLocale)) return;
-    
+
     const segments = pathname.split("/");
     segments[1] = newLocale;
     const newPath = segments.join("/");
-    
+
     // Use window.location to force full page reload
     if (typeof window !== "undefined") {
       window.location.href = newPath;

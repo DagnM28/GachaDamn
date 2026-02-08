@@ -7,7 +7,9 @@ export function readJsonFiles<T>(dirPath: string): T[] {
     return [];
   }
 
-  const files = fs.readdirSync(dirPath).filter((file) => file.endsWith('.json'));
+  const files = fs
+    .readdirSync(dirPath)
+    .filter((file) => file.endsWith('.json'));
   return files.map((file) => {
     const filePath = path.join(dirPath, file);
     const content = fs.readFileSync(filePath, 'utf-8');
@@ -15,7 +17,10 @@ export function readJsonFiles<T>(dirPath: string): T[] {
   });
 }
 
-export function getDataPath(lang: 'English' | 'Vietnamese', entity: string): string {
+export function getDataPath(
+  lang: 'English' | 'Vietnamese',
+  entity: string,
+): string {
   return path.join(process.cwd(), 'data', lang, entity);
 }
 

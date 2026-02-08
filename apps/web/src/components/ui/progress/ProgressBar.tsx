@@ -100,9 +100,7 @@ export default function ProgressBar({
 
       {/* Label */}
       {showLabel && (
-        <div className={styles.label}>
-          {Math.round(percentage)}%
-        </div>
+        <div className={styles.label}>{Math.round(percentage)}%</div>
       )}
     </div>
   );

@@ -50,9 +50,13 @@ export async function seedCharacters(prisma: GenshinPrismaService) {
       continue;
     }
 
-    const existing = await prisma.character.count({ where: { lang: langCode } });
+    const existing = await prisma.character.count({
+      where: { lang: langCode },
+    });
     if (existing > 0) {
-      console.log(`  ✓ ${lang} characters already seeded (${existing} records)`);
+      console.log(
+        `  ✓ ${lang} characters already seeded (${existing} records)`,
+      );
       continue;
     }
 
@@ -135,9 +139,13 @@ export async function seedCharacters(prisma: GenshinPrismaService) {
         },
       );
 
-      console.log(`    Progress: ${Math.min(i + BATCH_SIZE, characters.length)}/${characters.length}`);
+      console.log(
+        `    Progress: ${Math.min(i + BATCH_SIZE, characters.length)}/${characters.length}`,
+      );
     }
 
-    console.log(`  ✓ Seeded ${successCount} ${lang} characters (${skipCount} skipped)`);
+    console.log(
+      `  ✓ Seeded ${successCount} ${lang} characters (${skipCount} skipped)`,
+    );
   }
 }

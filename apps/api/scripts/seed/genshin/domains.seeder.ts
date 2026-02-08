@@ -114,9 +114,13 @@ export async function seedDomains(prisma: GenshinPrismaService) {
         },
       );
 
-      console.log(`    Progress: ${Math.min(i + BATCH_SIZE, domains.length)}/${domains.length}`);
+      console.log(
+        `    Progress: ${Math.min(i + BATCH_SIZE, domains.length)}/${domains.length}`,
+      );
     }
 
-    console.log(`  ✓ Seeded ${successCount} ${lang} domains (${skipCount} skipped)`);
+    console.log(
+      `  ✓ Seeded ${successCount} ${lang} domains (${skipCount} skipped)`,
+    );
   }
 }

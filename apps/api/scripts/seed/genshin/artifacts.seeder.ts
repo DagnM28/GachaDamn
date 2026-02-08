@@ -112,9 +112,13 @@ export async function seedArtifacts(prisma: GenshinPrismaService) {
         },
       );
 
-      console.log(`    Progress: ${Math.min(i + BATCH_SIZE, artifacts.length)}/${artifacts.length}`);
+      console.log(
+        `    Progress: ${Math.min(i + BATCH_SIZE, artifacts.length)}/${artifacts.length}`,
+      );
     }
 
-    console.log(`  ✓ Seeded ${successCount} ${lang} artifacts (${skipCount} skipped)`);
+    console.log(
+      `  ✓ Seeded ${successCount} ${lang} artifacts (${skipCount} skipped)`,
+    );
   }
 }

@@ -42,7 +42,7 @@ export default function Card({
 
   const handleMouseEnter = () => {
     if (!hoverable) return;
-    
+
     const stars = starsRef.current;
     stars.forEach((star) => {
       gsap.to(star, {
@@ -56,7 +56,7 @@ export default function Card({
 
   const handleMouseLeave = () => {
     if (!hoverable) return;
-    
+
     const stars = starsRef.current;
     stars.forEach((star) => {
       gsap.to(star, {

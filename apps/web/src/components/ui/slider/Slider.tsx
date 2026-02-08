@@ -133,11 +133,7 @@ export default function Slider({
       </div>
 
       {/* Label */}
-      {showLabel && (
-        <div className={styles.label}>
-          {Math.round(value)}
-        </div>
-      )}
+      {showLabel && <div className={styles.label}>{Math.round(value)}</div>}
     </div>
   );
 }

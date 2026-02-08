@@ -40,7 +40,7 @@ export async function seedMaterials(prisma: GenshinPrismaService) {
     // Process in batches to avoid transaction timeout
     for (let i = 0; i < materials.length; i += BATCH_SIZE) {
       const batch = materials.slice(i, i + BATCH_SIZE);
-      
+
       await prisma.$transaction(
         async (tx) => {
           for (const material of batch) {
@@ -76,9 +76,13 @@ export async function seedMaterials(prisma: GenshinPrismaService) {
         },
       );
 
-      console.log(`    Progress: ${Math.min(i + BATCH_SIZE, materials.length)}/${materials.length}`);
+      console.log(
+        `    Progress: ${Math.min(i + BATCH_SIZE, materials.length)}/${materials.length}`,
+      );
     }
 
-    console.log(`  ✓ Seeded ${successCount} ${lang} materials (${skipCount} skipped)`);
+    console.log(
+      `  ✓ Seeded ${successCount} ${lang} materials (${skipCount} skipped)`,
+    );
   }
 }

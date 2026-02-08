@@ -1,8 +1,8 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { PrismaModule } from './prisma/prisma.module';
-import { GenshinWikiModule } from './genshin-wiki/genshin-wiki.module';
 import { SeedModule } from './seed/seed.module';
+import { GenshinWikiModule } from './genshin-wiki';
 
 @Module({
   imports: [
@@ -11,10 +11,8 @@ import { SeedModule } from './seed/seed.module';
       envFilePath: '.env',
     }),
     PrismaModule,
-    GenshinWikiModule,
     SeedModule,
+    GenshinWikiModule,
   ],
-  controllers: [],
-  providers: [],
 })
 export class AppModule {}

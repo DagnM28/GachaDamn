@@ -29,7 +29,7 @@ export default function Button({
 
   useEffect(() => {
     const stars = starsRef.current;
-    
+
     // Initial animation for stars
     gsap.set(stars, {
       opacity: 0.3,
@@ -60,7 +60,7 @@ export default function Button({
     // Shooting star effect - infinite loop from left to right
     stars.forEach((star, index) => {
       gsap.killTweensOf(star); // Kill floating animation
-      
+
       // Reset position to left side
       gsap.set(star, {
         x: -100,
@@ -82,7 +82,7 @@ export default function Button({
         ease: "none",
         repeat: -1,
         repeatDelay: 0.3,
-        onRepeat: function() {
+        onRepeat: function () {
           // Randomize y position on each repeat
           gsap.set(star, {
             y: `random(-20, 20)`,
@@ -102,7 +102,8 @@ export default function Button({
     });
 
     gsap.to(button, {
-      boxShadow: "0 8px 24px rgba(69, 122, 240, 0.5), 0 0 40px rgba(103, 68, 206, 0.3)",
+      boxShadow:
+        "0 8px 24px rgba(69, 122, 240, 0.5), 0 0 40px rgba(103, 68, 206, 0.3)",
       duration: 0.4,
     });
   };
@@ -116,7 +117,7 @@ export default function Button({
     // Kill shooting star animations and restart floating
     stars.forEach((star, index) => {
       gsap.killTweensOf(star);
-      
+
       // Return to original position with floating animation
       gsap.to(star, {
         x: 0,
@@ -183,7 +184,8 @@ export default function Button({
     });
 
     gsap.to(button, {
-      boxShadow: "0 0 50px rgba(69, 122, 240, 0.8), 0 0 80px rgba(103, 68, 206, 0.5)",
+      boxShadow:
+        "0 0 50px rgba(69, 122, 240, 0.8), 0 0 80px rgba(103, 68, 206, 0.5)",
       duration: 0.15,
       yoyo: true,
       repeat: 1,
@@ -203,10 +205,10 @@ export default function Button({
     >
       {/* 3D shadow layer */}
       <div className={styles.shadowLayer} />
-      
+
       {/* Animated border */}
       <div className={styles.borderGlow} />
-      
+
       <div className={styles.stars}>
         {[...Array(6)].map((_, i) => (
           <div

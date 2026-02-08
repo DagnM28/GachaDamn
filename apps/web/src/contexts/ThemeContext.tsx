@@ -25,11 +25,11 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     const root = document.documentElement;
-    
+
     if (theme === "system") {
       // Remove manual overrides
       root.classList.remove("light", "dark");
-      
+
       const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
       const updateTheme = (e: MediaQueryListEvent | MediaQueryList) => {
         const isDark = e.matches;
@@ -42,7 +42,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     } else {
       const isDark = theme === "dark";
       setResolvedTheme(isDark ? "dark" : "light");
-      
+
       // Set explicit class for manual override
       if (isDark) {
         root.classList.remove("light");

@@ -37,7 +37,7 @@ export default function Modal({
       gsap.fromTo(
         overlay,
         { opacity: 0 },
-        { opacity: 1, duration: 0.3, ease: "power2.out" }
+        { opacity: 1, duration: 0.3, ease: "power2.out" },
       );
 
       // Scale animation from center (keeping original)
@@ -49,7 +49,7 @@ export default function Modal({
           opacity: 1,
           duration: 0.5,
           ease: "back.out(1.7)",
-        }
+        },
       );
 
       // Stars burst animation
@@ -63,7 +63,7 @@ export default function Modal({
             duration: 0.4,
             delay: 0.2 + index * 0.05,
             ease: "back.out(2)",
-          }
+          },
         );
 
         // Floating animation

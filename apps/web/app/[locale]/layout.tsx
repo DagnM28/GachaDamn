@@ -38,15 +38,17 @@ export default async function RootLayout({
   params: Promise<{ locale: string }>;
 }>) {
   const { locale } = await params;
-  
+
   // Enable static rendering
   setRequestLocale(locale);
-  
+
   const messages = await getMessages({ locale });
 
   return (
     <html lang={locale} suppressHydrationWarning>
-      <body className={`${geistSans.variable} ${geistMono.variable} ${exo2.variable}`}>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} ${exo2.variable}`}
+      >
         <NextIntlClientProvider messages={messages} locale={locale}>
           <LocaleProvider>
             <ThemeProvider>

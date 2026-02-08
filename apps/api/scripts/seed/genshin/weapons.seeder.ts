@@ -142,9 +142,13 @@ export async function seedWeapons(prisma: GenshinPrismaService) {
         },
       );
 
-      console.log(`    Progress: ${Math.min(i + BATCH_SIZE, weapons.length)}/${weapons.length}`);
+      console.log(
+        `    Progress: ${Math.min(i + BATCH_SIZE, weapons.length)}/${weapons.length}`,
+      );
     }
 
-    console.log(`  ✓ Seeded ${successCount} ${lang} weapons (${skipCount} skipped)`);
+    console.log(
+      `  ✓ Seeded ${successCount} ${lang} weapons (${skipCount} skipped)`,
+    );
   }
 }

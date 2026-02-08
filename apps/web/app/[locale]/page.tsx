@@ -21,7 +21,10 @@ export default function Home() {
         <div className={styles.gameCard}>
           <div className={styles.gameIcon}>🌟</div>
           <h2>Genshin Impact</h2>
-          <p>Explore Teyvat, master elemental combat, and discover the secrets of seven nations.</p>
+          <p>
+            Explore Teyvat, master elemental combat, and discover the secrets of
+            seven nations.
+          </p>
           <Button icon={<Sparkles size={18} />} variant="primary">
             Coming Soon
           </Button>
@@ -30,7 +33,10 @@ export default function Home() {
         <div className={styles.gameCard}>
           <div className={styles.gameIcon}>🚂</div>
           <h2>Honkai: Star Rail</h2>
-          <p>Journey through the cosmos aboard the Astral Express in this turn-based RPG adventure.</p>
+          <p>
+            Journey through the cosmos aboard the Astral Express in this
+            turn-based RPG adventure.
+          </p>
           <Button icon={<Rocket size={18} />} variant="secondary">
             Coming Soon
           </Button>
