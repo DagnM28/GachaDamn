@@ -7,6 +7,7 @@ import { setRequestLocale } from "next-intl/server";
 import { ThemeProvider } from "@/contexts/ThemeContext";
 import { LocaleProvider } from "@/contexts/LocaleContext";
 import { BackgroundAnimation } from "@/components/BackgroundAnimation";
+import { CustomScrollbar } from "@/components/CustomScrollbar";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
 import "../globals.css";
@@ -53,8 +54,9 @@ export default async function RootLayout({
           <LocaleProvider>
             <ThemeProvider>
               <BackgroundAnimation />
+              <CustomScrollbar />
               <Header />
-              <main>{children}</main>
+              <main style={{ padding: 0, margin: 0 }}>{children}</main>
               <Footer />
             </ThemeProvider>
           </LocaleProvider>
