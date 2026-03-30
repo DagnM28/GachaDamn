@@ -4,13 +4,12 @@ import { Exo_2 } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { setRequestLocale } from "next-intl/server";
-import { ThemeProvider } from "@/contexts/ThemeContext";
+import { ThemeProvider } from "@/contexts/ThemeProvider";
 import { LocaleProvider } from "@/contexts/LocaleContext";
-import { BackgroundAnimation } from "@/components/BackgroundAnimation";
-import { CustomScrollbar } from "@/components/CustomScrollbar";
-import Header from "@/components/Header/Header";
-import Footer from "@/components/Footer/Footer";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import "../globals.css";
+import { BackgroundAnimation } from "@/components/BackgroundAnimation";
 
 const geistSans = localFont({
   src: "../fonts/GeistVF.woff",
@@ -53,10 +52,9 @@ export default async function RootLayout({
         <NextIntlClientProvider messages={messages} locale={locale}>
           <LocaleProvider>
             <ThemeProvider>
-              <BackgroundAnimation />
-              <CustomScrollbar />
               <Header />
-              <main style={{ padding: 0, margin: 0 }}>{children}</main>
+              <BackgroundAnimation />
+              <main>{children}</main>
               <Footer />
             </ThemeProvider>
           </LocaleProvider>

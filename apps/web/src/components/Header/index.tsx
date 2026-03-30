@@ -1,0 +1,85 @@
+"use client";
+
+import React, { useState, useEffect, useRef } from 'react';
+import { Settings, Globe, Moon, Sun, ChevronDown, Monitor } from 'lucide-react';
+import { useTheme } from "next-themes"; // Import cái này
+
+const Header = () => {
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const { theme, setTheme } = useTheme(); // Lấy hàm setTheme ra
+    const menuRef = useRef<HTMLDivElement>(null);
+    const [mounted, setMounted] = useState(false);
+
+    // Tránh lỗi Hydration: Chỉ hiển thị UI theme sau khi component đã mount trên client
+    useEffect(() => {
+        setMounted(true);
+        const handleClickOutside = (event: MouseEvent) => {
+            if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+                setIsMenuOpen(false);
+            }
+        };
+        document.addEventListener("mousedown", handleClickOutside);
+        return () => document.removeEventListener("mousedown", handleClickOutside);
+    }, []);
+
+    if (!mounted) return null; // Hoặc trả về một bản Header tối giản
+
+    return (
+        // Lưu ý: Thay đổi bg-slate-950 thành bg-white dark:bg-slate-950 để thấy sự khác biệt
+        <header className="sticky top-0 z-50 w-full border-b border-black/5 dark:border-white/10 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md transition-colors duration-300">
+            <div className="container mx-auto flex h-16 items-center justify-between px-4">
+
+                {/* Logo Section */}
+                <div className="flex items-center gap-2">
+                    <div className="h-8 w-8 rounded-lg bg-indigo-600 flex items-center justify-center font-bold text-white">D</div>
+                    <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white uppercase">
+                        Gacha<span className="text-indigo-500">DaMN</span>-Wiki
+                    </span>
+                </div>
+
+                {/* Action Buttons Group */}
+                <div className="flex items-center gap-3">
+                    <button className="rounded-full bg-indigo-600 px-5 py-2 text-sm font-semibold text-white hover:bg-indigo-500 transition-all">
+                        Đăng nhập
+                    </button>
+
+                    {/* Settings Dropdown */}
+                    <div className="relative" ref={menuRef}>
+                        <button
+                            onClick={() => setIsMenuOpen(!isMenuOpen)}
+                            className="flex items-center gap-1 rounded-full bg-slate-100 dark:bg-slate-800 p-2 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors"
+                        >
+                            <Settings size={20} />
+                            <ChevronDown size={14} className={isMenuOpen ? 'rotate-180' : ''} />
+                        </button>
+
+                        {isMenuOpen && (
+                            <div className="absolute right-0 mt-2 w-48 rounded-xl border border-black/5 dark:border-white/10 bg-white dark:bg-slate-900 p-2 shadow-2xl">
+
+                                <div className="px-3 py-2 text-xs font-semibold text-slate-400 uppercase">Giao diện</div>
+
+                                {/* Nút Chế độ Sáng */}
+                                <button
+                                    onClick={() => { setTheme("light"); setIsMenuOpen(false); }}
+                                    className={`flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm transition-colors ${theme === 'light' ? 'bg-indigo-50 text-indigo-600' : 'text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800'}`}
+                                >
+                                    <Sun size={16} /> <span>Sáng</span>
+                                </button>
+
+                                {/* Nút Chế độ Tối */}
+                                <button
+                                    onClick={() => { setTheme("dark"); setIsMenuOpen(false); }}
+                                    className={`flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm transition-colors ${theme === 'dark' ? 'bg-indigo-900/30 text-indigo-400' : 'text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800'}`}
+                                >
+                                    <Moon size={16} /> <span>Tối</span>
+                                </button>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            </div>
+        </header>
+    );
+}
+
+export default Header;
