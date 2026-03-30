@@ -26,8 +26,8 @@ const exo2 = Exo_2({
 });
 
 export const metadata: Metadata = {
-  title: "GachaDamn Wiki - Genshin Impact & Honkai: Star Rail",
-  description: "Comprehensive wiki for Genshin Impact and Honkai: Star Rail",
+  title: "GachaDamn Wiki - Gacha Game",
+  description: "Comprehensive wiki for Gacha Game",
 };
 
 export default async function RootLayout({
