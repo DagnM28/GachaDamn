@@ -1,9 +1,9 @@
 import React from 'react'
 
-const FgoPage = () => {
+const Fgo = () => {
     return (
         <div>hello world</div>
     )
 }
 
-export default FgoPage
+export default Fgo

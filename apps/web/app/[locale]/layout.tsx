@@ -6,10 +6,10 @@ import { getMessages } from "next-intl/server";
 import { setRequestLocale } from "next-intl/server";
 import { ThemeProvider } from "@/contexts/ThemeProvider";
 import { LocaleProvider } from "@/contexts/LocaleContext";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Header from "@/components/header";
+import Footer from "@/components/footer";
 import "../globals.css";
-import { BackgroundAnimation } from "@/components/BackgroundAnimation";
+import { BackgroundAnimation } from "@/components/bgAnimation";
 
 const geistSans = localFont({
   src: "../fonts/GeistVF.woff",

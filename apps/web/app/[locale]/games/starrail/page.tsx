@@ -1,9 +1,9 @@
 import React from 'react'
 
-const StarrailPage = () => {
+const Starrail = () => {
     return (
         <div>hello world</div>
     )
 }
 
-export default StarrailPage
+export default Starrail

@@ -12,6 +12,16 @@ interface CharacterCardProps {
     level: number;
 }
 
+const ELEMENT_COLORS: Record<string, string> = {
+    Pyro: 'bg-red-500/80',
+    Hydro: 'bg-blue-500/80',
+    Anemo: 'bg-teal-400/80',
+    Electro: 'bg-purple-500/80',
+    Dendro: 'bg-green-500/80',
+    Cryo: 'bg-cyan-300/80',
+    Geo: 'bg-yellow-600/80',
+};
+
 const CharacterCard = ({ name, image, rarity, element, level }: CharacterCardProps) => {
     return (
         <motion.div
@@ -23,7 +33,7 @@ const CharacterCard = ({ name, image, rarity, element, level }: CharacterCardPro
                 <span className="rounded-full bg-slate-950/60 px-2 py-0.5 text-[10px] font-bold text-white backdrop-blur-md">
                     Lv.{level}
                 </span>
-                <div className={`h-6 w-6 rounded-full flex items-center justify-center backdrop-blur-md ${element === 'Fire' ? 'bg-red-500/80' : 'bg-blue-500/80'}`}>
+                <div className={`h-6 w-6 rounded-full flex items-center justify-center backdrop-blur-md ${ELEMENT_COLORS[element] || 'bg-slate-500/80'}`}>
                     <Zap size={12} className="text-white" />
                 </div>
             </div>

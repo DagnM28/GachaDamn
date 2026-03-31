@@ -1,9 +1,12 @@
 import React from 'react'
+import GenshinPage from '@/components/gamePage/genshinPageComponent'
 
-const GenshinPage = () => {
+const Genshin = () => {
     return (
-        <div>hello world</div>
+        <div>
+            <GenshinPage />
+        </div>
     )
 }
 
-export default GenshinPage
+export default Genshin

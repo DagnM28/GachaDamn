@@ -4,12 +4,17 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Settings, Moon, Sun, ChevronDown, Volume2, VolumeX } from 'lucide-react';
 import { useTheme } from "next-themes"; // Import cái này
 import BackgroundMusic from '../bgMusic';
+import Link from 'next/link';
+import { useParams } from 'next/navigation';
 
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const { theme, setTheme } = useTheme(); // Lấy hàm setTheme ra
     const menuRef = useRef<HTMLDivElement>(null);
     const [mounted, setMounted] = useState(false);
+
+    const params = useParams();
+    const locale = params.locale;
 
     useEffect(() => {
         setMounted(true);
@@ -28,12 +33,12 @@ const Header = () => {
         <header className="sticky top-0 z-50 w-full border-b border-black/5 dark:border-white/10 bg-white/80 dark:bg-slate-950/80 backdrop-blur-md transition-colors duration-300">
             <div className="container mx-auto flex h-16 items-center justify-between px-4">
 
-                <div className="flex items-center gap-2">
+                <Link className="flex items-center gap-2" href={`/${locale}`}>
                     <div className="h-8 w-8 rounded-lg bg-indigo-600 flex items-center justify-center font-bold text-white">D</div>
                     <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                         Gacha<span className="text-indigo-500">DaMN</span>-Wiki
                     </span>
-                </div>
+                </Link>
 
                 <div className="flex items-center gap-3">
                     <button className="rounded-full bg-indigo-600 px-5 py-2 text-sm font-semibold text-white hover:bg-indigo-500 transition-all">
@@ -74,7 +79,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-        </header>
+        </header >
     );
 }
 

@@ -1,9 +1,9 @@
 import React from 'react'
 
-const EndfieldPage = () => {
+const Endfield = () => {
     return (
         <div>hello world</div>
     )
 }
 
-export default EndfieldPage
+export default Endfield
